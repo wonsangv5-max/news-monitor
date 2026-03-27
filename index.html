@@ -784,46 +784,54 @@ async function searchAndSummarize() {
 
 const GAS_URL = 'https://script.google.com/macros/s/AKfycbzQ0nckqvvgf4cd8uavElbSFkMj6fFe-IemLCUNVldb58wvvNiH8TAE4Hc-NdIvYZ0hTQ/exec';
 
-async function fetchKeywordNews(keyword, color) {
-  const url = `${GAS_URL}?keyword=${encodeURIComponent(keyword)}&display=7`;
-  const response = await fetch(url);
+function fetchKeywordNews(keyword, color) {
+  return new Promise((resolve, reject) => {
+    const callbackName = 'cb_' + Date.now() + '_' + Math.random().toString(36).slice(2);
+    const script = document.createElement('script');
+    const timeout = setTimeout(() => {
+      cleanup();
+      reject(new Error('요청 시간이 초과되었습니다.'));
+    }, 15000);
 
-  if (!response.ok) {
-    throw new Error(`네이버 API 오류 ${response.status}: ${response.statusText}`);
-  }
+    function cleanup() {
+      clearTimeout(timeout);
+      delete window[callbackName];
+      if (script.parentNode) script.parentNode.removeChild(script);
+    }
 
-  const data = await response.json();
+    window[callbackName] = function(data) {
+      cleanup();
+      if (data.error) {
+        reject(new Error('네이버 API 오류: ' + data.error));
+        return;
+      }
 
-  if (data.error) {
-    throw new Error(`네이버 API 오류: ${data.error}`);
-  }
+      const items = data.items || [];
 
-  const items = data.items || [];
+      function stripHtml(str) {
+        return str ? str.replace(/<[^>]*>/g, '')
+          .replace(/&quot;/g, '"').replace(/&amp;/g, '&')
+          .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&#039;/g, "'") : '';
+      }
 
-  // HTML 태그 제거 함수
-  function stripHtml(str) {
-    return str ? str.replace(/<[^>]*>/g, '').replace(/&quot;/g, '"').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&#039;/g, "'") : '';
-  }
+      const articles = items.map(item => ({
+        title: stripHtml(item.title),
+        source: (() => { try { return new URL(item.originallink).hostname.replace('www.',''); } catch(e) { return '네이버뉴스'; } })(),
+        url: item.originallink || item.link,
+        description: stripHtml(item.description)
+      }));
 
-  const articles = items.map(item => ({
-    title: stripHtml(item.title),
-    source: item.originallink ? new URL(item.originallink).hostname.replace('www.', '') : '네이버뉴스',
-    url: item.originallink || item.link,
-    description: stripHtml(item.description)
-  }));
+      const summary = articles.length > 0
+        ? '"' + keyword + '" 관련 최신 뉴스 ' + articles.length + '건 검색됨. 주요 기사: ' + articles.slice(0,2).map(a => a.title).join(' / ')
+        : '"' + keyword + '" 관련 최신 뉴스를 찾을 수 없습니다.';
 
-  // 요약: 상위 3개 제목 기반으로 간단히 구성
-  const summary = articles.length > 0
-    ? `"${keyword}" 관련 최신 뉴스 ${articles.length}건이 검색되었습니다. 주요 기사: ${articles.slice(0,2).map(a => a.title).join(' / ')}`
-    : `"${keyword}" 관련 최신 뉴스를 찾을 수 없습니다.`;
+      resolve({ keyword, color, summary, articles, fetchedAt: new Date().toISOString() });
+    };
 
-  return {
-    keyword,
-    color,
-    summary,
-    articles,
-    fetchedAt: new Date().toISOString()
-  };
+    script.src = GAS_URL + '?keyword=' + encodeURIComponent(keyword) + '&display=7&callback=' + callbackName;
+    script.onerror = () => { cleanup(); reject(new Error('스크립트 로드 실패')); };
+    document.head.appendChild(script);
+  });
 }
 
 // ── Render content ────────────────────────────────────

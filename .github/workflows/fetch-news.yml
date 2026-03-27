@@ -1,0 +1,35 @@
+name: 뉴스 자동 수집
+
+on:
+  schedule:
+    - cron: '30 23 * * *'  # 한국시간 08:30 (UTC 23:30 전날)
+  workflow_dispatch:         # 수동 실행 버튼
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 설정
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 뉴스 수집 실행
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: node fetch-news.js
+
+      - name: 결과 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "뉴스 자동 업데이트 $(date +'%Y-%m-%d %H:%M')"
+          git push

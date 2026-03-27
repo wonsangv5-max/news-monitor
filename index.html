@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>뉴스 키워드 모니터</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f5f4f0;
+    --surface: #ffffff;
+    --surface2: #f0efe9;
+    --border: rgba(0,0,0,0.09);
+    --accent: #b5862a;
+    --accent2: #3b5fe2;
+    --accent3: #d94f4f;
+    --text: #1a1a22;
+    --text-dim: #5a5a70;
+    --text-muted: #a0a0b0;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,0,0,0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,0,0,0.04) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px;
+    position: relative;
+    z-index: 1;
+  }
+
+  header {
+    padding: 40px 0 32px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+
+  .logo-group h1 {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    line-height: 1;
+  }
+
+  .logo-group h1 span { color: var(--accent); }
+
+  .logo-group p {
+    font-size: 12px;
+    color: var(--text-dim);
+    margin-top: 8px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .header-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--text-muted);
+    text-align: right;
+    line-height: 1.8;
+  }
+
+  .header-meta .date { color: var(--accent); font-size: 13px; }
+
+  main {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    min-height: calc(100vh - 130px);
+  }
+
+  /* ── Sidebar ── */
+  .sidebar {
+    border-right: 1px solid var(--border);
+    padding: 28px 0;
+    position: sticky;
+    top: 0;
+    height: calc(100vh - 130px);
+    overflow-y: auto;
+  }
+
+  .sidebar-section { padding: 0 24px; }
+
+  .sidebar-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 14px;
+  }
+
+  .keyword-input-wrap {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+
+  .keyword-input {
+    flex: 1;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 14px;
+    color: var(--text);
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 13px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .keyword-input:focus { border-color: var(--accent2); }
+  .keyword-input::placeholder { color: var(--text-muted); }
+
+  .btn-add {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 300;
+    transition: opacity 0.2s;
+    flex-shrink: 0;
+  }
+
+  .btn-add:hover { opacity: 0.85; }
+
+  .keyword-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 20px;
+  }
+
+  .keyword-tag {
+    display: flex;
+    align-items: center;
+    padding: 9px 14px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: border-color 0.2s;
+    gap: 8px;
+  }
+
+  .keyword-tag.active {
+    border-color: var(--accent2);
+    background: rgba(59,95,226,0.05);
+  }
+
+  .keyword-tag:hover:not(.active) { border-color: rgba(0,0,0,0.2); }
+
+  .keyword-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+
+  .keyword-name { flex: 1; font-size: 13px; font-weight: 500; }
+
+  .keyword-count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--text-dim);
+    background: var(--surface2);
+    padding: 2px 7px;
+    border-radius: 20px;
+  }
+
+  .keyword-del {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 16px;
+    transition: color 0.2s;
+  }
+
+  .keyword-del:hover { color: var(--accent3); }
+
+  .sidebar-divider {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 20px 0;
+  }
+
+  .btn-save {
+    width: 100%;
+    padding: 11px;
+    background: linear-gradient(135deg, rgba(181,134,42,0.12), rgba(59,95,226,0.08));
+    border: 1px solid rgba(181,134,42,0.35);
+    border-radius: 10px;
+    color: var(--accent);
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-bottom: 10px;
+  }
+
+  .btn-save:hover {
+    background: linear-gradient(135deg, rgba(181,134,42,0.2), rgba(59,95,226,0.12));
+  }
+
+  .update-info {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--text-muted);
+    line-height: 1.7;
+    padding: 10px 12px;
+    background: var(--surface2);
+    border-radius: 8px;
+  }
+
+  .update-info .next-time { color: var(--accent2); font-weight: 500; }
+
+  /* ── Content ── */
+  .content { padding: 28px 32px; overflow-y: auto; }
+
+  .empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+    gap: 16px;
+  }
+
+  .empty-icon { font-size: 48px; opacity: 0.3; }
+
+  .empty-state h2 {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 20px;
+    color: var(--text-dim);
+  }
+
+  .empty-state p { font-size: 13px; color: var(--text-muted); line-height: 1.7; }
+
+  .results-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .results-header h2 {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 18px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .results-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--text-muted);
+  }
+
+  .tab-bar { display: flex; gap: 4px; margin-bottom: 24px; flex-wrap: wrap; }
+
+  .tab {
+    padding: 7px 16px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-dim);
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .tab.active {
+    background: var(--surface);
+    border-color: rgba(0,0,0,0.15);
+    color: var(--text);
+  }
+
+  .tab .dot { width: 6px; height: 6px; border-radius: 50%; }
+
+  .summary-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 22px 24px;
+    margin-bottom: 20px;
+    position: relative;
+    overflow: hidden;
+    animation: slideUp 0.4s ease;
+  }
+
+  .summary-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: var(--card-color, var(--accent2));
+    opacity: 0.7;
+  }
+
+  .summary-card h3 {
+    font-family: 'Noto Serif KR', serif;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .kw-tag {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 2px 9px;
+    border-radius: 20px;
+    color: #fff;
+  }
+
+  .article-list { display: flex; flex-direction: column; gap: 8px; }
+
+  .article-link {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 11px 14px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 9px;
+    text-decoration: none;
+    color: var(--text);
+    transition: border-color 0.2s;
+  }
+
+  .article-link:hover { border-color: rgba(0,0,0,0.18); }
+
+  .article-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-top: 1px;
+    flex-shrink: 0;
+    width: 18px;
+  }
+
+  .article-info { flex: 1; min-width: 0; }
+
+  .article-title {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .article-meta {
+    display: flex;
+    gap: 6px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--text-muted);
+  }
+
+  .article-source { color: var(--text-dim); font-weight: 500; }
+
+  .article-ext {
+    font-size: 11px;
+    color: var(--accent2);
+    opacity: 0.7;
+    flex-shrink: 0;
+    font-family: 'JetBrains Mono', monospace;
+    text-decoration: none;
+  }
+
+  .article-ext:hover { opacity: 1; }
+
+  .all-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 16px;
+  }
+
+  .all-grid .summary-card { margin-bottom: 0; }
+
+  .loading-state {
+    display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    height: 50vh; gap: 20px;
+  }
+
+  .loading-bars { display: flex; gap: 5px; align-items: flex-end; height: 36px; }
+
+  .bar {
+    width: 5px;
+    background: var(--accent2);
+    border-radius: 3px;
+    animation: barAnim 1s ease-in-out infinite;
+  }
+
+  .bar:nth-child(1) { animation-delay: 0s; height: 20px; }
+  .bar:nth-child(2) { animation-delay: 0.1s; height: 28px; }
+  .bar:nth-child(3) { animation-delay: 0.2s; height: 36px; }
+  .bar:nth-child(4) { animation-delay: 0.3s; height: 28px; }
+  .bar:nth-child(5) { animation-delay: 0.4s; height: 20px; }
+
+  @keyframes barAnim {
+    0%, 100% { transform: scaleY(0.5); opacity: 0.3; }
+    50% { transform: scaleY(1); opacity: 0.9; }
+  }
+
+  .loading-text {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--text-muted);
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+
+  @keyframes pulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+  @keyframes slideUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+
+  ::-webkit-scrollbar { width: 5px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--text-muted); border-radius: 3px; }
+
+  .notice-box {
+    padding: 12px 16px;
+    background: rgba(59,95,226,0.06);
+    border: 1px solid rgba(59,95,226,0.2);
+    border-radius: 10px;
+    font-size: 12px;
+    color: var(--accent2);
+    margin-bottom: 16px;
+    line-height: 1.6;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="logo-group">
+      <h1>뉴스 키워드 <span>모니터</span></h1>
+      <p>// 매일 08:30 자동 수집 · 네이버 뉴스</p>
+    </div>
+    <div class="header-meta">
+      <div class="date" id="dateDisplay"></div>
+      <div id="updatedAt">데이터 로딩 중...</div>
+    </div>
+  </header>
+
+  <main>
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <div class="sidebar-label">키워드 추가</div>
+        <div class="keyword-input-wrap">
+          <input class="keyword-input" id="keywordInput" type="text" placeholder="키워드 입력..." maxlength="20" />
+          <button class="btn-add" id="btnAdd">+</button>
+        </div>
+
+        <div class="sidebar-label">저장된 키워드</div>
+        <div class="keyword-list" id="keywordList"></div>
+
+        <hr class="sidebar-divider">
+
+        <button class="btn-save" id="btnSave">💾 키워드 저장 (GitHub 업데이트)</button>
+
+        <div class="update-info">
+          <div>🕗 매일 <span class="next-time">08:30</span> 자동 수집</div>
+          <div>수동 실행: GitHub Actions → Run workflow</div>
+        </div>
+      </div>
+    </aside>
+
+    <section class="content" id="content"></section>
+  </main>
+</div>
+
+<script>
+const COLORS = ['#3b5fe2','#3a9e60','#d97c2a','#8c4fd6','#1a9e8c','#c44f7c','#c49a00','#d94f4f'];
+const REPO = 'wonsangv5-max/news-monitor';
+
+// ── 날짜 표시 ──
+function formatToday() {
+  const now = new Date();
+  const y = now.getFullYear();
+  const m = String(now.getMonth()+1).padStart(2,'0');
+  const d = String(now.getDate()).padStart(2,'0');
+  document.getElementById('dateDisplay').textContent = `${y}.${m}.${d}`;
+}
+formatToday();
+
+// ── 상태 ──
+let keywords = JSON.parse(localStorage.getItem('nwm_kw') || '["인공지능","반도체"]');
+let newsData = null;
+let activeKeyword = 'all';
+
+// ── 키워드 저장 안내 ──
+document.getElementById('btnSave').addEventListener('click', () => {
+  const msg = `키워드를 GitHub의 keywords.json에 저장하려면:\n\n` +
+    `저장소 → keywords.json 파일 편집 → 아래 내용으로 교체 후 커밋:\n\n` +
+    JSON.stringify(keywords, null, 2) +
+    `\n\n저장 후 GitHub Actions에서 "Run workflow"를 누르면 즉시 수집됩니다.`;
+  alert(msg);
+});
+
+// ── 키워드 관리 ──
+function addKeyword() {
+  const input = document.getElementById('keywordInput');
+  const text = input.value.trim();
+  if (!text || keywords.includes(text)) return;
+  keywords.push(text);
+  localStorage.setItem('nwm_kw', JSON.stringify(keywords));
+  input.value = '';
+  renderSidebar();
+}
+
+function deleteKeyword(text) {
+  keywords = keywords.filter(k => k !== text);
+  localStorage.setItem('nwm_kw', JSON.stringify(keywords));
+  renderSidebar();
+  renderContent();
+}
+
+function selectKeyword(text) {
+  activeKeyword = activeKeyword === text ? 'all' : text;
+  renderSidebar();
+  renderContent();
+}
+
+document.getElementById('btnAdd').addEventListener('click', addKeyword);
+document.getElementById('keywordInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') addKeyword();
+});
+
+// ── 사이드바 렌더 ──
+function renderSidebar() {
+  const list = document.getElementById('keywordList');
+  if (keywords.length === 0) {
+    list.innerHTML = `<div style="font-size:12px;color:var(--text-muted)">키워드를 추가해주세요</div>`;
+    return;
+  }
+  list.innerHTML = keywords.map((kw, i) => {
+    const color = COLORS[i % COLORS.length];
+    const result = newsData ? newsData.results.find(r => r.keyword === kw) : null;
+    const count = result ? result.articles.length : 0;
+    const isActive = activeKeyword === kw;
+    return `
+      <div class="keyword-tag ${isActive ? 'active' : ''}" onclick="selectKeyword('${kw}')">
+        <span class="keyword-dot" style="background:${color}"></span>
+        <span class="keyword-name">${kw}</span>
+        ${count > 0 ? `<span class="keyword-count">${count}</span>` : ''}
+        <button class="keyword-del" onclick="event.stopPropagation();deleteKeyword('${kw}')">×</button>
+      </div>`;
+  }).join('');
+}
+
+// ── 컨텐츠 렌더 ──
+function renderContent() {
+  const el = document.getElementById('content');
+
+  if (!newsData) {
+    el.innerHTML = `
+      <div class="loading-state">
+        <div class="loading-bars">
+          <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+          <div class="bar"></div><div class="bar"></div>
+        </div>
+        <div class="loading-text">뉴스 데이터 불러오는 중...</div>
+      </div>`;
+    return;
+  }
+
+  if (!newsData.results || newsData.results.length === 0) {
+    el.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon">📰</div>
+        <h2>수집된 뉴스가 없습니다</h2>
+        <p>GitHub Actions에서 수동으로 실행하거나<br>내일 08:30을 기다려주세요.</p>
+      </div>`;
+    return;
+  }
+
+  // 현재 키워드 목록 기준으로 필터
+  const displayResults = newsData.results
+    .filter(r => keywords.includes(r.keyword))
+    .filter(r => activeKeyword === 'all' || r.keyword === activeKeyword);
+
+  const totalCount = newsData.results
+    .filter(r => keywords.includes(r.keyword))
+    .reduce((s, r) => s + r.articles.length, 0);
+
+  const updatedAt = newsData.updatedAt
+    ? new Date(newsData.updatedAt).toLocaleString('ko-KR', {month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'})
+    : '';
+
+  // 탭
+  const allResults = newsData.results.filter(r => keywords.includes(r.keyword));
+  const tabs = [
+    `<button class="tab ${activeKeyword==='all'?'active':''}" onclick="selectKeyword('all')">
+      전체 <span style="font-family:JetBrains Mono;font-size:10px;opacity:0.6">${totalCount}</span>
+    </button>`
+  ].concat(allResults.map((r, i) => {
+    const color = COLORS[keywords.indexOf(r.keyword) % COLORS.length];
+    return `<button class="tab ${activeKeyword===r.keyword?'active':''}" onclick="selectKeyword('${r.keyword}')">
+      <span class="dot" style="background:${color}"></span>
+      ${r.keyword}
+      <span style="font-family:JetBrains Mono;font-size:10px;opacity:0.6">${r.articles.length}</span>
+    </button>`;
+  }));
+
+  // 카드
+  const cards = displayResults.map((r, idx) => {
+    const color = COLORS[keywords.indexOf(r.keyword) % COLORS.length];
+    const articlesHtml = r.articles.map((a, i) => `
+      <a class="article-link" href="${a.url}" target="_blank" rel="noopener">
+        <span class="article-num">0${i+1}</span>
+        <div class="article-info">
+          <div class="article-title">${a.title}</div>
+          <div class="article-meta">
+            <span class="article-source">${a.source}</span>
+            <span>·</span>
+            <span>${a.description || ''}</span>
+          </div>
+        </div>
+        <span class="article-ext">↗</span>
+      </a>`).join('');
+
+    return `
+      <div class="summary-card" style="--card-color:${color};animation-delay:${idx*0.07}s">
+        <h3><span class="kw-tag" style="background:${color}">${r.keyword}</span> 뉴스 ${r.articles.length}건</h3>
+        <div class="article-list">${articlesHtml || '<div style="font-size:13px;color:var(--text-muted);padding:8px 0">검색 결과가 없습니다</div>'}</div>
+      </div>`;
+  }).join('');
+
+  el.innerHTML = `
+    <div class="results-header">
+      <h2>키워드 뉴스 브리핑</h2>
+      <div class="results-meta">수집: ${updatedAt}</div>
+    </div>
+    <div class="tab-bar">${tabs.join('')}</div>
+    <div class="${activeKeyword==='all' ? 'all-grid' : ''}">${cards}</div>`;
+}
+
+// ── 뉴스 데이터 로드 ──
+async function loadNews() {
+  try {
+    const res = await fetch(`https://raw.githubusercontent.com/${REPO}/main/data/news.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error('데이터 없음');
+    newsData = await res.json();
+
+    if (newsData.updatedAt) {
+      document.getElementById('updatedAt').textContent =
+        '최종 수집: ' + new Date(newsData.updatedAt).toLocaleString('ko-KR', {month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
+    }
+
+    // keywords.json의 키워드도 병합
+    try {
+      const kwRes = await fetch(`https://raw.githubusercontent.com/${REPO}/main/keywords.json?t=${Date.now()}`);
+      if (kwRes.ok) {
+        const ghKeywords = await kwRes.json();
+        // GitHub 키워드를 기준으로 병합
+        ghKeywords.forEach(kw => { if (!keywords.includes(kw)) keywords.push(kw); });
+        localStorage.setItem('nwm_kw', JSON.stringify(keywords));
+      }
+    } catch(e) {}
+
+  } catch(e) {
+    newsData = { results: [] };
+  }
+  renderSidebar();
+  renderContent();
+}
+
+// ── 초기 실행 ──
+renderSidebar();
+renderContent();
+loadNews();
+</script>
+</body>
+</html>

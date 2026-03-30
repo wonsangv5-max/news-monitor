@@ -343,6 +343,17 @@
     gap: 8px;
   }
 
+  .summary-text {
+    font-size: 13.5px;
+    line-height: 1.85;
+    color: var(--text-dim);
+    margin-bottom: 16px;
+    padding: 14px 16px;
+    background: var(--surface2);
+    border-radius: 9px;
+    border-left: 3px solid var(--card-color, var(--accent2));
+  }
+
   .kw-tag {
     font-family: 'Noto Sans KR', sans-serif;
     font-size: 11px;
@@ -664,6 +675,7 @@ function renderContent() {
     return `
       <div class="summary-card" style="--card-color:${color};animation-delay:${idx*0.07}s">
         <h3><span class="kw-tag" style="background:${color}">${r.keyword}</span> 뉴스 ${r.articles.length}건</h3>
+        ${r.summary ? `<div class="summary-text">${r.summary}</div>` : ''}
         <div class="article-list">${articlesHtml || '<div style="font-size:13px;color:var(--text-muted);padding:8px 0">검색 결과가 없습니다</div>'}</div>
       </div>`;
   }).join('');

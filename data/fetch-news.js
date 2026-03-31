@@ -4,13 +4,30 @@ const https = require('https');
 const NAVER_CLIENT_ID = process.env.NAVER_CLIENT_ID;
 const NAVER_CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
 
+// ── 전일자 날짜 범위 계산 (KST 기준) ───────────────────
+function getYesterdayRange() {
+  const now = new Date();
+  // KST = UTC+9
+  const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+  const yesterday = new Date(kst);
+  yesterday.setUTCDate(kst.getUTCDate() - 1);
+
+  const y = yesterday.getUTCFullYear();
+  const m = String(yesterday.getUTCMonth() + 1).padStart(2, '0');
+  const d = String(yesterday.getUTCDate()).padStart(2, '0');
+
+  const start = new Date(`${y}-${m}-${d}T00:00:00+09:00`);
+  const end   = new Date(`${y}-${m}-${d}T23:59:59+09:00`);
+  return { start, end, dateStr: `${y}-${m}-${d}` };
+}
+
 // ── 네이버 뉴스 검색 ──────────────────────────────────
 function fetchNews(keyword) {
   return new Promise((resolve, reject) => {
     const query = encodeURIComponent(keyword);
     const options = {
       hostname: 'openapi.naver.com',
-      path: `/v1/search/news.json?query=${query}&display=20&sort=date`,
+      path: `/v1/search/news.json?query=${query}&display=100&sort=date`,
       headers: {
         'X-Naver-Client-Id': NAVER_CLIENT_ID,
         'X-Naver-Client-Secret': NAVER_CLIENT_SECRET,
@@ -24,6 +41,15 @@ function fetchNews(keyword) {
         catch(e) { reject(e); }
       });
     }).on('error', reject);
+  });
+}
+
+// ── 전일자 기사만 필터 ────────────────────────────────
+function filterYesterday(items, start, end) {
+  return items.filter(item => {
+    if (!item.pubDate) return false;
+    const pub = new Date(item.pubDate);
+    return pub >= start && pub <= end;
   });
 }
 
@@ -49,9 +75,11 @@ function autoSummarize(keyword, articles) {
     .slice(0, 5)
     .map(([w]) => w);
 
-  // 날짜 포맷
-  const now = new Date();
-  const dateStr = `${now.getMonth()+1}월 ${now.getDate()}일`;
+  // 날짜 포맷 (전일자 KST 기준)
+  const kst = new Date(Date.now() + 9 * 60 * 60 * 1000);
+  const yesterday = new Date(kst);
+  yesterday.setUTCDate(kst.getUTCDate() - 1);
+  const dateStr = `${yesterday.getUTCMonth()+1}월 ${yesterday.getUTCDate()}일`;
 
   // 요약 문장 생성
   const count = articles.length;
@@ -102,11 +130,18 @@ async function main() {
     console.log(`\n[${keyword}] 검색 중...`);
 
     try {
+      const { start, end, dateStr } = getYesterdayRange();
+      console.log(`  전일자 범위: ${dateStr}`);
+
       const data = await fetchNews(keyword);
       const raw = data.items || [];
 
-      const unique = deduplicate(raw);
-      console.log(`  원본 ${raw.length}건 → 중복 제거 후 ${unique.length}건`);
+      // 전일자 필터 적용
+      const dated = filterYesterday(raw, start, end);
+      console.log(`  전체 ${raw.length}건 → 전일자(${dateStr}) ${dated.length}건`);
+
+      const unique = deduplicate(dated);
+      console.log(`  중복 제거 후 ${unique.length}건`);
 
       const articles = unique.slice(0, 10).map(item => ({
         title: stripHtml(item.title),

@@ -24,7 +24,10 @@ jobs:
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-        run: node fetch-news.js
+        run: |
+          echo "현재 경로: $(pwd)"
+          echo "파일 목록: $(ls)"
+          node $GITHUB_WORKSPACE/fetch-news.js
 
       - name: 결과 커밋 & 푸시
         run: |

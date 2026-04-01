@@ -4,10 +4,9 @@ const https = require('https');
 const NAVER_CLIENT_ID = process.env.NAVER_CLIENT_ID;
 const NAVER_CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET;
 
-// ── 전일자 날짜 범위 계산 (KST 기준) ───────────────────
+// ── 전일자 날짜 계산 (KST 기준) ─────────────────────────
 function getYesterdayRange() {
   const now = new Date();
-  // KST = UTC+9
   const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
   const yesterday = new Date(kst);
   yesterday.setUTCDate(kst.getUTCDate() - 1);
@@ -16,9 +15,7 @@ function getYesterdayRange() {
   const m = String(yesterday.getUTCMonth() + 1).padStart(2, '0');
   const d = String(yesterday.getUTCDate()).padStart(2, '0');
 
-  const start = new Date(`${y}-${m}-${d}T00:00:00+09:00`);
-  const end   = new Date(`${y}-${m}-${d}T23:59:59+09:00`);
-  return { start, end, dateStr: `${y}-${m}-${d}` };
+  return { dateStr: `${y}-${m}-${d}`, y, m, d };
 }
 
 // ── 네이버 뉴스 검색 ──────────────────────────────────
@@ -44,12 +41,24 @@ function fetchNews(keyword) {
   });
 }
 
-// ── 전일자 기사만 필터 ────────────────────────────────
-function filterYesterday(items, start, end) {
+// ── 전일자 기사만 필터 (날짜 문자열 비교) ───────────────
+function filterYesterday(items, y, m, d) {
+  // 네이버 pubDate 예시: "Mon, 31 Mar 2026 14:30:00 +0900"
+  const months = {Jan:1,Feb:2,Mar:3,Apr:4,May:5,Jun:6,Jul:7,Aug:8,Sep:9,Oct:10,Nov:11,Dec:12};
+  const targetY = parseInt(y), targetM = parseInt(m), targetD = parseInt(d);
+
   return items.filter(item => {
     if (!item.pubDate) return false;
-    const pub = new Date(item.pubDate);
-    return pub >= start && pub <= end;
+    try {
+      const parts = item.pubDate.split(' ');
+      // "Mon, 31 Mar 2026 14:30:00 +0900" → parts[1]=31, parts[2]=Mar, parts[3]=2026
+      const dy = parseInt(parts[3]);
+      const dm = months[parts[2]];
+      const dd = parseInt(parts[1]);
+      return dy === targetY && dm === targetM && dd === targetD;
+    } catch(e) {
+      return false;
+    }
   });
 }
 
@@ -130,20 +139,20 @@ async function main() {
     console.log(`\n[${keyword}] 검색 중...`);
 
     try {
-      const { start, end, dateStr } = getYesterdayRange();
+      const { dateStr, y, m, d } = getYesterdayRange();
       console.log(`  전일자 범위: ${dateStr}`);
 
       const data = await fetchNews(keyword);
       const raw = data.items || [];
 
       // 전일자 필터 적용
-      const dated = filterYesterday(raw, start, end);
+      const dated = filterYesterday(raw, y, m, d);
       console.log(`  전체 ${raw.length}건 → 전일자(${dateStr}) ${dated.length}건`);
 
       const unique = deduplicate(dated);
       console.log(`  중복 제거 후 ${unique.length}건`);
 
-      const articles = unique.slice(0, 10).map(item => ({
+      const articles = unique.slice(0, 5).map(item => ({
         title: stripHtml(item.title),
         source: (() => {
           try { return new URL(item.originallink).hostname.replace('www.', ''); }

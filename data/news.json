@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-04-01T00:28:32.848Z",
+  "updatedAt": "2026-04-01T01:05:43.262Z",
   "results": [
     {
-      "keyword": "환율",
-      "summary": "4월 1일 기준 \"환율\" 관련 뉴스 5건이 수집되었습니다. businesspost.co.kr, news.einfomax.co.kr, news2day.co.kr 등에서 보도되었으며, 달러, 종전, 기대에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "keyword": "외환시장 환율",
+      "summary": "4월 1일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. etoday.co.kr, sidae.com, news.kbs.co.kr 등에서 보도되었으며, 종전, 코스피, 환율 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "키움증권 \"원/달러 환율 2분기 1400원대 하락 전망, 원화 약세 과도\"",
-          "source": "businesspost.co.kr",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=434648",
-          "description": "원/달러 환율이 1530원을 넘기며 상승세를 보이고 있으나 올해 2분기에는 안정화할 것으로 전망됐다. 김유미 키움증권 연구원은 1일 \"지정학적 리스크가 점차 완화한다는 전제하에 원/달러 환율 상단이 2008년 고점인...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "구윤철 \"펀더멘털과 괴리된 과도한 원화 약세, 경제에 도움 안돼\"",
+          "source": "etoday.co.kr",
+          "url": "https://www.etoday.co.kr/news/view/2571558",
+          "description": "인한 환율 급등과 관련해 \"펀더멘털과 괴리된 과도한 원화 약세는 우리 경제에 도움이 되지 않는다\"고 말했다. 구 부총리는 이날 정부서울청사에서 열린 첫 거시재정금융간담회에서 \"외환시장과 관련해 원화가 큰 폭의...",
+          "pubDate": "Wed, 01 Apr 2026 10:04:00 +0900"
         },
         {
-          "title": "日 증시, 종전 기대에 3%대 상승",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407075",
-          "description": "17을 기록하며 지난해 4분기와 시장예상치를 모두 웃돌았다. 대형 비제조업 업황 판단지수도 직전치와 시장예상치를 웃도는 36으로 집계됐다. 같은 시각 달러-엔 환율은 전장보다 0.07% 하락한 158.596엔에 거래됐다.",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "종전 기대감 코스피, 5300선 회복…환율 1506.30원",
+          "source": "sidae.com",
+          "url": "https://www.sidae.com/article/2026040109313956102",
+          "description": "코스닥 시가총액 상위 10개 개종목은 삼천당제약을 제외하고 일제히 상승세다. 삼천당제약은 홀로 2.65% 하락세다. 서울외환시장에서 원/달러 환율은 4.20원 내린 1506.30원에 거래된다.",
+          "pubDate": "Wed, 01 Apr 2026 10:01:00 +0900"
         },
         {
-          "title": "\"원·달러 1530원 돌파…전쟁 리스크에 환율 급등, 절하 압력 확대\"<하나...",
-          "source": "news2day.co.kr",
-          "url": "https://www.news2day.co.kr/article/20260401500035",
-          "description": "중동 리스크에 환율 급등 외국인 자금 유출 영향 연평균 1460원 상향 [사진=하나증권] [뉴스투데이=이금용 기자] 원·달러 환율이 1530원을 넘어 금융위기 이후 최고 수준을 기록한 가운데, 이번 환율 급등을 구조적 위기로...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "코스피, 종전 기대감에 5%대 급등…사이드카 발동",
+          "source": "news.kbs.co.kr",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8523921&ref=A",
+          "description": "이후 상승폭을 줄였다가 다시 오르고 있습니다. 서울 외환시장에서 달러 대비 원화 환율은 전날보다 21.6원 내린 1,508.5원에 거래를 시작했습니다. [사진 출처 : 연합뉴스]",
+          "pubDate": "Wed, 01 Apr 2026 10:01:00 +0900"
         },
         {
-          "title": "\"코스피, 패닉 딛고 반등 채비…밸류에이션 바닥·60일선 이탈 기로\"<키...",
-          "source": "news2day.co.kr",
-          "url": "https://www.news2day.co.kr/article/20260401500048",
-          "description": "미-이란 전쟁 종식 기대감…美증시 급반등 속 훈풍 기대 외인 35조매도 배후는 환율,1,480원대 뉴뉴멀... 달러·원 환율 향방과 1년 만에 무너진 중기 추세선(60일선)의 회복 여부가 이날 장중 최대 관전 포인트가 될 것이란...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "중동 종전 기대감에 코스피 매수 사이드카 발동",
+          "source": "ntoday.co.kr",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=126270",
+          "description": "61%) 오른 1090.36에 거래를 시작했다. 개인은 919억원 순매도하고 있고, 외국인과 기관은 각각 583억원, 384억원 순매수 중이다. 한편 서울 외환시장에서 원·달러 환율은 전 거래일보다 21.6원 내린 1508.5원에 출발했다.",
+          "pubDate": "Wed, 01 Apr 2026 10:00:00 +0900"
         },
         {
-          "title": "환율, 종전 기대에 21원 급락…1,508원대 출발",
-          "source": "issuenbiz.com",
-          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=74985",
-          "description": "/사진=연합뉴스 원/달러 환율이 미국과 이란 간 종전 기대감 확산에 20원 넘게 급락하며 1,500원대 초반으로 내려왔다. 1일 서울 외환시장에서 환율은 개장과 동시에 21.6원 하락한 1,508.5원으로 출발한 뒤 비슷한 수준에서...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "코스피, 종전 기대 5% 급등…환율 급락 속 기관 순매수, 외국인 10일째 ...",
+          "source": "kdfnews.com",
+          "url": "http://www.kdfnews.com/news/articleView.html?idxno=181314",
+          "description": "서울 외환시장에서 원·달러 환율은 전날보다 21.6원 내린 1508.5원에 거래를 시작했다. 전날 장중 1530원을 돌파하며 금융위기 이후 최고 수준까지 치솟았던 환율은 이날 하락 전환하며 안정을 찾는 모습이다. 수급은...",
+          "pubDate": "Wed, 01 Apr 2026 10:00:00 +0900"
         }
       ]
     },
     {
-      "keyword": "금리",
-      "summary": "4월 1일 기준 \"금리\" 관련 뉴스 5건이 수집되었습니다. ddaily.co.kr, weekly.cnbnews.com, topstarnews.net 등에서 보도되었으며, 확대, 원픽, 통장 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "keyword": "채권 금리",
+      "summary": "4월 1일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. financialpost.co.kr, digitaltoday.co.kr, thebell.co.kr 등에서 보도되었으며, 양자, 40, 국채 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성생명, 출산·육아휴직 고객 지원 확대 …포용금융 강화",
-          "source": "ddaily.co.kr",
-          "url": "https://www.ddaily.co.kr/page/view/2026040109132477515",
-          "description": "금리확정형 보장성 보험상품에 대해서는 최대 12개월까지 보험료 납입을 유예할 수 있어 고객 상황에 맞는... 삼성생명은 이외에도 사회적 배려 대상 고객을 위한 보험료 할인과 납입유예, 보험계약대출 우대금리 제공 등...",
-          "pubDate": "Wed, 01 Apr 2026 09:27:00 +0900"
+          "title": "국채 발행 없는 추경이라지만...증시만 기대감, 채권·환율 우울",
+          "source": "financialpost.co.kr",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=253786",
+          "description": "이어서 \"이에 따라 채권시장의 금리 레벨을 추가적으로 끌어올릴 수 있는 것\"이라고 설명했다. 환율은 이미 원화 가치 하락에 시달리고 있다. 단순히 달러 안전자산론에 휘둘리는 게 아니라 달러 인덱스 등을 참조해 보면...",
+          "pubDate": "Wed, 01 Apr 2026 09:52:00 +0900"
         },
         {
-          "title": "강남구, 중소기업·소상공인 250억 원 융자지원…접수처 36곳으로 확대",
-          "source": "weekly.cnbnews.com",
-          "url": "https://weekly.cnbnews.com/news/article.html?no=210652",
-          "description": "사진=강남구청 서울 강남구(구청장 조성명)가 고물가·고금리에 최근 중동발 대외 불확실성까지 겹쳐... 연 1.5%의 고정금리를 적용해 이자 부담을 낮췄고, 법인은 최대 3억 원, 개인사업자는 최대 1억 원까지 지원받을 수...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
-        },
-        {
-          "title": "[오늘의 금시세] 4월 1일 환율 하락에도 금값 상승…금리 부담 속 반등",
-          "source": "topstarnews.net",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16022170",
-          "description": "국제 금 가격 역시 반등 흐름을 보이고 있지만, 금리와 달러 변수에 따른 방향성 탐색 국면이 이어지고... ○ 국제 금값 반등에도 금리 부담 지속…상승 탄력 제한 국제 금 가격은 온스당 4,570달러를 상회하며 반등을...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
-        },
-        {
-          "title": "하나금융, 미성년자 대상 '원픽 통장·카드' 출시",
+          "title": "구글이 던진 비트코인 양자 리스크…양자 저항 코인 'QRL' 40% 폭등",
           "source": "digitaltoday.co.kr",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=651873",
-          "description": "하나 체크카드 전월 결제 실적 합산 5만원 이상인 경우 매일 최종 잔액 중 50만원 이하 금액에 대해 최고 연 1.9퍼센트 우대금리를 제공하며 기본금리 0.1퍼센트를 포함해 최고 연 2퍼센트 금리를 제공한다. 하나카드는...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=651941",
+          "description": "코인데스크는 수요 측면의 둔화와 함께 물가를 반영한 채권 실질금리 상승이 비트코인과 같은 고위험·신기술 자산의 투자 매력을 떨어뜨리고 있다고 분석했다. 흥미로운 점은 양자 위협이 부각되는 가운데...",
+          "pubDate": "Wed, 01 Apr 2026 09:52:00 +0900"
         },
         {
-          "title": "하나금융그룹, '원픽(ONE PICK) 통장·카드' 출시",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202604010032",
-          "description": "특히, 하나 체크카드 전월 결제 실적 합산 5만원 이상인 경우, 매일 최종 잔액 중 50만원 이하의 금액에 대해 최고 연 1.90% 우대금리를 제공하며, 기본금리 0.1%를 포함해 최고 연 2.0% 금리를 제공받을 수 있다. 이를...",
-          "pubDate": "Wed, 01 Apr 2026 09:24:00 +0900"
+          "title": "[더벨][thebell League Table | 2026년 1분기] 고공행진 주식시장에도 에퀴...",
+          "source": "thebell.co.kr",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603311202364800102964",
+          "description": "최근 채권 금리 상승세로 자금조달이 주식으로 전환되는 모습이지만 타이밍을 잡기 쉽지 않다. 실제 2025년초 코스피 지수는 2300선이었으나 이후 정치적 불확실성 해소로 올해 사상 최초로 6000선까지 상승하면서...",
+          "pubDate": "Wed, 01 Apr 2026 09:32:00 +0900"
+        },
+        {
+          "title": "금시세(금값) 1일",
+          "source": "bntnews.co.kr",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202604010081",
+          "description": "금값의 극적인 반등에는 채권 금리와 환율의 하락이 결정적인 역할을 했다. 시장의 불안감을 잠재운 가장 큰 원동력은 벼랑 끝 대치를 이어가던 미국과 이란 양국에서 동시에 흘러나온 전쟁 종료 시그널이다. 마수드...",
+          "pubDate": "Wed, 01 Apr 2026 09:12:00 +0900"
+        },
+        {
+          "title": "BNK투자증권 \"기업은행, 비이자이익 감소 영향으로 단기 실적 둔화\"",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=20260401083926815144093b5d4e_1",
+          "description": "시장금리 상승에 따른 채권 평가손익 축소와 원·달러 환율 상승에 따른 외환 손실이 반영된 영향인 것으로 짚었다. 김 연구원은 \"이자이익은 1조9741억원으로 전년 동기 대비 2.8% 늘어 비교적 안정적인 흐름이...",
+          "pubDate": "Wed, 01 Apr 2026 08:52:00 +0900"
         }
       ]
     },
     {
-      "keyword": "부동산",
-      "summary": "4월 1일 기준 \"부동산\" 관련 뉴스 5건이 수집되었습니다. mk.co.kr, newsquest.co.kr, theviewers.co.kr 등에서 보도되었으며, 삼성물산, 마스턴투자운용과, 스마트빌딩 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "keyword": "한화생명|킥스",
+      "summary": "4월 1일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, newspim.com, kpinews.kr 등에서 보도되었으며, 보험사, 삼성생명, 배당 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성물산, 마스턴투자운용과 ‘스마트빌딩 플랫폼 협력모델 구축’ 업무...",
-          "source": "mk.co.kr",
-          "url": "https://www.mk.co.kr/article/12004572",
-          "description": "삼성물산은 지난달 31일 서울 강동구 상일동 사옥에서 마스턴투자운용과 ‘상업용 부동산의 스마트빌딩... 마스턴투자운용은 부동산 펀드·리츠·부동산 개발 사업 등을 영위하는 대체투자 전문 자산운용사다. 최근...",
-          "pubDate": "Wed, 01 Apr 2026 09:27:00 +0900"
+          "title": "지난해 보험사 킥스 212%…금리 상승에 자본력 회복세",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407048",
+          "description": "1일 보험업권에 따르면 국내 39개 보험사의 지난해 말 지급여력(킥스·K-ICS) 비율은 경과조치 후 기준 212.4... 한화생명은 157.5%로 작년 말 163.7%보다 하락했고, 직전 분기 158.2%보다도 낮아졌다. 한화생명은...",
+          "pubDate": "Wed, 01 Apr 2026 08:36:00 +0900"
         },
         {
-          "title": "서울 양평동 롯데칠성 물류센터, 한강변 아파트 된다",
-          "source": "newsquest.co.kr",
-          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=264041",
-          "description": "롯데물산은 부동산 개발사업 추진을 위해 해당 부동산을 사들였다고 설명했다. 해당 부지는 롯데칠성음료가 1965년부터 물류센터, 차량정비기지로 사용해왔다. 약 2만1217㎡ 규모의 2종 일반주거지역 용도지역으로...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "보험사, 자본 관리에 '공동재보험' 활용하는 까닭",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4406565",
+          "description": "30일 보험업권에 따르면 한화생명은 지난해 4분기부터 공동재보험을 출재해 요구자본을 줄이고 있다.... 그러나 지난해 초 금리 하락에 따라 보험사들이 지급여력(킥스·K-ICS) 비율을 관리하는 데 어려움을 겪어왔고...",
+          "pubDate": "Mon, 30 Mar 2026 08:46:00 +0900"
         },
         {
-          "title": "토스 이승건 대표, 직원 월세 평생 쏜다...만우절 거짓말? 진짜?",
-          "source": "theviewers.co.kr",
-          "url": "https://theviewers.co.kr/View.aspx?No=4025094",
-          "description": "뷰어스 황보람 기­자 bridger@viewers.co.kr 토스 이승건 대표가 사비로 직원들의 부동산 월세 및 이자를... 이 ���표는 “창업하기 전부터 누구는 부동산으로 수익을 올리고, 누구는 주거비 때문에 생존의 어려움에 서는 이...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "[주간금융이슈] 2금융권 주총 마무리…보험은 '주주환원 중심'·카드는 ...",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260327000936",
+          "description": "삼성생명과 한화생명 등 일부 대형사는 자사주 소각에 신중한 입장을 유지하고 있다. 자사주 소각이 자본 감소로 직결되고 지급여력(K-ICS·킥스) 비율에 부담을 줄 수 있는 만큼 자본 건전성과 규제 영향을 종합적으로...",
+          "pubDate": "Sun, 29 Mar 2026 09:40:00 +0900"
         },
         {
-          "title": "마곡지구 성장축 부상... 강서 주거시장 영향력 확대, '마곡 더그리드'...",
-          "source": "finomy.com",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=252422",
-          "description": "과거 논밭 위주의 미개발지였던 마곡동 일대가 대기업 연구개발(R&D) 센터와 대규모 주거단지, 문화시설이 어우러진 자족형 첨단 산업단지로 변모하며 강서구 전체 부동산 시장의 흐름을 주도하는 모습이다. KB부동산의...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "보험사들 일제히 채권손실…삼성생명·삼성화재만 '예외'",
+          "source": "kpinews.kr",
+          "url": "https://www.kpinews.kr/newsView/1065598654618753",
+          "description": "OCI는 당기순이익에 영향을 주지 않지만, 악화 시 자본이 줄면서 보험사 재무건전성 지표인 K-ICS(킥스... 평가손실 규모가 가장 컸던 곳은 한화생명이다. OCI가 2024년 말 -2조3617억 원에서 2025년 말 -4조8587억 원으로...",
+          "pubDate": "Fri, 27 Mar 2026 17:24:00 +0900"
         },
         {
-          "title": "삼삼엠투, 한국소아암재단과 '단기임대 쉼터 지원사업' 협약 체결",
-          "source": "public25.com",
-          "url": "https://www.public25.com/news/articleView.html?idxno=43039",
-          "description": "퍼블릭타임스=부동산 단기임대 서비스 삼삼엠투 운영사 스페이스브이가 재단법인 한국소아암재단과 '단기임대 쉼터 지원사업' 업무협약을 체결하고 소아암 환아 가정 지원에  나선다고 1일 밝혔다. 이번 사업은...",
-          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+          "title": "보험사 배당 양극화, 삼성생명 DB손보 등 대형사는 배당 증액",
+          "source": "ekoreanews.co.kr",
+          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85232",
+          "description": "삼성화재(-2.7%), 메리츠화재(-1.7%), 한화생명(3.5%) 등 대형사도 겨우 실적 방어에 성공했고, DB손해보험(-13.4... 금융당국이 2024년부터 지급여력비율(K-ICS·킥스)이 200% 이상인 우량 보험사의 해약환급금 적립률을 80%로...",
+          "pubDate": "Fri, 27 Mar 2026 16:12:00 +0900"
         }
       ]
     },
     {
-      "keyword": "외환시장",
-      "summary": "4월 1일 기준 \"외환시장\" 관련 뉴스 5건이 수집되었습니다. etoday.co.kr, hankookilbo.com, news.tf.co.kr 등에서 보도되었으며, 코스피, 매수, 사이드카 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "keyword": "반도체 -삼성",
+      "summary": "4월 1일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. lawissue.co.kr, sedaily.com, sateconomy.co.kr 등에서 보도되었으며, 코스피, 착공, 1년 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피, 장 초반 5% 급등하며 매수 사이드카…5300선 회복",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2571509",
-          "description": "외환시장에서는 원·달러 환율이 급락 출발했다. 이날 환율은 전 거래일보다 21.6원 내린 1508.5원에 개장했다. 전날 1530원선을 웃돌았던 환율이 하루 만에 큰 폭으로 되돌림을 보이면서 위험자산 선호 심리를...",
-          "pubDate": "Wed, 01 Apr 2026 09:24:00 +0900"
+          "title": "착공 1년 맞은 ‘용인 플랫폼시티’…개발 본격화",
+          "source": "lawissue.co.kr",
+          "url": "http://www.lawissue.co.kr/view.php?ud=20260401100009923467191f6c6e_12",
+          "description": "처인구 일대에 조성중인 삼성전자의 ‘용인 첨단시스템 반도체 국가산업단지’와 SK하이닉스의 ‘용인 반도체 클러스터 일반산업단지’를 연결하는 ‘L자형 반도체 벨트’를 구축할 전망이다. 용인 플랫폼시티는...",
+          "pubDate": "Wed, 01 Apr 2026 10:02:00 +0900"
         },
         {
-          "title": "[속보] 종전 기대감에 코스피 '매수 사이드카'… 5300선 회복",
-          "source": "hankookilbo.com",
-          "url": "https://www.hankookilbo.com/news/article/A2026040108540001718?did=NA",
-          "description": "간신히 지켜냈지만 하루 만에 5,300선을 회복했다. 코스닥은 46.22포인트(4.39%) 오른 1,098.61 안팎에서 움직이고 있다. 이날 서울 외환시장에서 원·달러 ��율은 전 거래일보다 21.6원 내린 1,508.5원에 개장했다.",
-          "pubDate": "Wed, 01 Apr 2026 09:24:00 +0900"
+          "title": "터보퀀트 때문에 삼전닉스 ‘와르르’ 급락했는데…증권가 “공포 과장...",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20026822?ref=naver",
+          "description": "미래에셋증권은 1일 보고서를 통해 터보퀀트가 메모리 반도체 수요를 위축시킬 것이라는 우려에 선을 그으며, 삼성전자와 SK하이닉스에 대한 기존 목표 주가를 그대로 유지했다. 신규 기술 아닌 ‘재탕’…시장 반응은...",
+          "pubDate": "Wed, 01 Apr 2026 10:01:00 +0900"
         },
         {
-          "title": "이란 전쟁 끝 보인다…코스피, 5% 급반등 '패닉장 반전'",
-          "source": "news.tf.co.kr",
-          "url": "https://news.tf.co.kr/read/economy/2308409.htm",
-          "description": "양측이 같은 날 종전 의사를 내비치자 희망이 확산하면서 투심이 몰렸다. 한편, 서울 외환시장에서 달러·원 환율은 전거래일보다 21.6원 하락한 1508.5원에 출발했다.",
-          "pubDate": "Wed, 01 Apr 2026 09:22:00 +0900"
+          "title": "코스피 5300선 회복…반도체 급등에 장 초반 5%대 반등",
+          "source": "sateconomy.co.kr",
+          "url": "https://sateconomy.co.kr/news/view/1065573209282686",
+          "description": "특히 시가총액 상위 종목인 반도체주가 지수 상승을 견인하고 있다. 삼성전자는 전일 16만원대로 밀렸지만 이날 장 초반 17만원선을 빠르게 회복했다. 오전 9시27분 기준 17만8700원으로 전일 대비 1만1500원(6.88...",
+          "pubDate": "Wed, 01 Apr 2026 10:00:00 +0900"
         },
         {
-          "title": "코스피, 5.49% 상승 개장...5,330대 등락",
-          "source": "youthdaily.co.kr",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=216581",
-          "description": "61%) 오른 1,090.36에 거래를 시작했다. 한편 서울 외환시장에서 원·달러 환율은 전 거래일보다 21.6원 내린 1,508.5원에 출발했다. 【 청년일보=신정아 기자 】 서울시 중구 하나은행 딜링룸. [사진=연합뉴스]",
-          "pubDate": "Wed, 01 Apr 2026 09:22:00 +0900"
+          "title": "'HBM 높이 족쇄' 푼다···삼성·SK 수율 전쟁 새 변수 등장",
+          "source": "enewstoday.co.kr",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2413417",
+          "description": "고대역폭메모리(HBM)의 국제 표준을 정하는 글로벌 기구가 규격 완화에 나서면서, 인공지능(AI) 반도체... 삼성전자와 SK하이닉스는 이미 기존 표준보다 높은 수준의 기술을 확보한 상태로, 규격 완화가 단기적으로는 수율...",
+          "pubDate": "Wed, 01 Apr 2026 09:59:00 +0900"
         },
         {
-          "title": "원·달러 환율 20원 넘게 급락, 미국 이란 종전 기대",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2571506",
-          "description": "1일 오전 9시10분 현재 서울 외환시장에서 원·달러 환율은 전일대비(오후 3시30분 종가 기준) 20.65원(1.35%) 하락한 1509.45원에 거래 중이다. 장초반 1508.2원까지 떨어지기도 했다. 역외환율도 급락한 바 있다....",
-          "pubDate": "Wed, 01 Apr 2026 09:22:00 +0900"
+          "title": "이란 대통령 “종전 의지 있다” 발언에…코스피·코스닥 4%대 급등[개장...",
+          "source": "ekn.kr",
+          "url": "https://www.ekn.kr/web/view.php?key=20260401020143077",
+          "description": "반도체 '슈퍼 사이클'이 아직 끝나지 않았다는 전망에 삼성전자와 SK하이닉스도 7%대 급등하고 있다. 한국거래소에 따르면, 이날 9시 20분 현재 코스피 지수는 전 거래일 대비 4.82%(243.98포인트) 오른 5296.44다....",
+          "pubDate": "Wed, 01 Apr 2026 09:58:00 +0900"
         }
       ]
     }

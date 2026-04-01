@@ -1,143 +1,94 @@
 {
-  "updatedAt": "2026-03-31T05:30:04.523057",
+  "updatedAt": "2026-04-01T00:03:16.667Z",
   "results": [
     {
       "keyword": "환율",
-      "articles": [
-        {
-          "title": "한은총재 후보자 \"현 환율 큰 우려 없어…달러 유동성 양호\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0015991682?sid=101",
-          "source": "Naver News",
-          "description": "신현송 &quot;환율과 금융불안 직결 필요 없어…추경으로 경제 어려움 완화 필요&quot; &quot;매파·비둘기파 이분법 구분 바람직하지 않아…상황따라 유연하게 대처&quot;..."
-        },
-        {
-          "title": "신현송 “환율 큰 우려 없어…달러 유동성 양호”",
-          "url": "https://n.news.naver.com/mnews/article/005/0001840268?sid=101",
-          "source": "Naver News",
-          "description": "예전처럼 환율과 금융 불안을 직결시킬 필요는 없는 것 같다”고 말했다. 신 후보자는 31일 서울 세종대로 한화금융플라자 인사청문회 준비 사무실로 첫 출근하며 환율 상황과 관련한 질..."
-        },
-        {
-          "title": "환율 1530원 돌파…17년 만에 '금융위기급' 급등",
-          "url": "https://n.news.naver.com/mnews/article/053/0000057078?sid=101",
-          "source": "Naver News",
-          "description": "미국과 이란 간 군사적 긴장이 이어지는 가운데 원·달러 환율이 17년 만에 장중 1530원을 돌파하며 급등했다. 31일 서울 외환시장에 따르면 원·달러 환율은 오후 1시30분 기준..."
-        },
-        {
-          "title": "신현송 한은 총재 후보 \"환율 높지만 달러 유동성 양호…크게 우려 없어...",
-          "url": "https://n.news.naver.com/mnews/article/421/0008859424?sid=101",
-          "source": "Naver News",
-          "description": "신현송 한국은행 총재 후보자는 31일 &quot;환율은 높지만 지금 보면 달러 유동성은 상당히 양호해, 리스크는 적지 않을까 생각한다&quot;며 &quot;환율 레벨(수준) 자체..."
-        },
-        {
-          "title": "신현송 후보자 \"현 환율 큰 우려 없어…달러 유동성 양호\"",
-          "url": "https://n.news.naver.com/mnews/article/079/0004130881?sid=101",
-          "source": "Naver News",
-          "description": "현 환율은 큰 우려가 없다&quot;고 밝혔다. 신현송 한국은행 총재 후보자는 이날 오전 서울 세종대로 한화금융플라자 인사청문회 준비 사무실에 처음 출근하면서 환율에 대한 질문을 ..."
-        }
-      ]
+      "summary": "\"환율\" 관련 뉴스를 찾을 수 없습니다.",
+      "articles": []
     },
     {
       "keyword": "금리",
-      "articles": [
-        {
-          "title": "고액 주담대 가산금리 오른다…4월부터 최대 0.25%p↑",
-          "url": "https://n.news.naver.com/mnews/article/001/0015990660?sid=101",
-          "source": "Naver News",
-          "description": "주신보 출연요율 개편…2억4천900만원 초과 여부가 기준 고액 대출자 아니면 가산금리 낮아질 수도 다음 달부터 2억4천900만원이 넘는 고액의 신규 주택담보대출(주담대)에 적용되는..."
-        },
-        {
-          "title": "주담대 금리 7% 넘었는데…은행 예금금리는 2%대서 '제자리'",
-          "url": "https://n.news.naver.com/mnews/article/003/0013855682?sid=101",
-          "source": "Naver News",
-          "description": "은행권 주택담보대출(주담대) 금리가 7%를 돌파한 가운데 예금금리는 아직 2%대에서 제자리 걸음하고 있다. 중동 사태에 따른 시장금리 상승으로 대출금리가 가파르게 뛰고 있지만, 예..."
-        },
-        {
-          "title": "기준금리 인상 선 그은 파월…\"이란전쟁 경제영향 더 지켜볼 것\"",
-          "url": "https://n.news.naver.com/mnews/article/008/0005337282?sid=101",
-          "source": "Naver News",
-          "description": "신속하게 금리를 조정하기보다는 상황을 면밀히 주시하면서 대응하겠다고 밝혔다. 이란전이 경제에 미치는... 유가 상승 같은 공급 충격은 기준금리 인상 등 통화정책으로 대응하는 경우가..."
-        },
-        {
-          "title": "시장서 CD금리 → KOFR 전환 가속화…2030년 70%까지 확대",
-          "url": "https://n.news.naver.com/mnews/article/277/0005742088?sid=101",
-          "source": "Naver News",
-          "description": "정부가 대부분의 금융거래 기준이 되는 양도성예금증서(CD) 금리 대신 국내 무위험지표금리인 코파(KOFR·Korea Overnight Financing Repo Rate)로의 지표..."
-        },
-        {
-          "title": "신현송 한은 총재 후보자 첫 발언에…환율·금리 소폭 하락",
-          "url": "https://n.news.naver.com/mnews/article/018/0006246116?sid=101",
-          "source": "Naver News",
-          "description": "국고채 금리도 일제히 하락하며 시장이 안도하는 분위기다. 신 후보자는 환율 레벨에 대해 금융제도의... 한편 시장금리 지표격인 국고채 3년물 금리는 전거래일 대비 2.1bp 내린 ..."
-        }
-      ]
+      "summary": "\"금리\" 관련 뉴스를 찾을 수 없습니다.",
+      "articles": []
     },
     {
       "keyword": "부동산",
-      "articles": [
-        {
-          "title": "진성준 \"부동산 보유세 인상, 7월 세제개편 포함 가능성 상당\"",
-          "url": "https://n.news.naver.com/mnews/article/214/0001489489?sid=100",
-          "source": "Naver News",
-          "description": "더불어민주당 진성준 의원은 7월 세제 개편안에 부동산 보유세 인상이 포함될 것이라는 관측과 관련해... 생각해서라도 부동산 문제는 확실하게 정리하는 것이 필요하다는 입장&quot;..."
-        },
-        {
-          "title": "與진성준 \"부동산 보유세, 7월 세제 개편 포함 가능성\"",
-          "url": "https://n.news.naver.com/mnews/article/015/0005268602?sid=100",
-          "source": "Naver News",
-          "description": "더불어민주당 소속 예산결산위원장 진성준 의원이 부동산 보유세 인상에 대해 &quot;오는 7월 세제 개편에 포함될 가능성이 상당하다&quot;고 말했다. 진 의원은 30일 YTN ..."
-        },
-        {
-          "title": "부동산 보유세 인상, 7월 세제개편안에 담기나",
-          "url": "https://n.news.naver.com/mnews/article/014/0005499592?sid=100",
-          "source": "Naver News",
-          "description": "이재명 정부가 시사한 부동산 보유세 인상이 7월에 마련될 세제개편안에 담길 수 있다는 주장이 나왔다.... 그는 &quot;당은 선거 변수를 만들고 싶지 않을 것&quot;이라며 ..."
-        },
-        {
-          "title": "선거 끝나면 부동산 보유세 인상?…與 진성준 \"7월 세제개편 포함 가능...",
-          "url": "https://n.news.naver.com/mnews/article/448/0000600110?sid=100",
-          "source": "Naver News",
-          "description": "진성준 더불어민주당 의원은 부동산 보유세 인상과 관련해 &quot;7월 세제 개편에 포함될 가능성이 상당히 크다&quot;고... 생각해서라도 부동산 문제는 확실하게 정리하는 것이..."
-        },
-        {
-          "title": "\"상업용 부동산 매입 의지 역대 최고\"…서울, 아태 선호 '3위'",
-          "url": "https://n.news.naver.com/mnews/article/003/0013854365?sid=101",
-          "source": "Naver News",
-          "description": "올해 국내 부동산 투자자들의 상업용 부동산 매입 의지가 역대 최고 수준으로 오른 것으로 나타났다. 특히 서울은 아시아 태평양 지역 내 투자 선호 도시 순위에서 역대 가장 높은 공동..."
-        }
-      ]
+      "summary": "\"부동산\" 관련 뉴스를 찾을 수 없습니다.",
+      "articles": []
     },
     {
       "keyword": "외환시장",
+      "summary": "3월 31일 기준 \"외환시장\" 관련 뉴스 10건이 수집되었습니다. g-enews.com, newscj.com, news.kbs.co.kr 등에서 보도되었으며, 환율, 돌파, 1530원 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "비상 걸린 '은행 건전성'",
-          "url": "https://n.news.naver.com/mnews/article/015/0005268737?sid=101",
-          "source": "Naver News",
-          "description": "30일 서울외환시장에서 원·달러 환율(오후 3시30분 기준)은 전 거래일보다 6.8원 오른 1515.7원으로 마감했다. 이달 들어서만 49.1원 뛰었다. 미국·이스라엘의 이란 공습..."
+          "title": "외환당국, 환율 방어에 지난해 4분기 225억달러 투입 '역대 최대'",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202603312342246480bbed569d68_1",
+          "description": "외환당국이 지난해 4분기 환율 급등을 막기 위해 외환시장에서 224억7700만달러 규모의 외화를 내다 판것으로 나타났다. 31일 한국은행이 공개한 ‘외환당국 순거래’에 따르면 외환당국은 작년 4분기 시장...",
+          "pubDate": "Tue, 31 Mar 2026 23:44:00 +0900"
         },
         {
-          "title": "민주 안도걸 “WGBI 편입되면 75조원 외자 유입...외환시장 24시간 체제...",
-          "url": "https://n.news.naver.com/mnews/article/009/0005658752?sid=100",
-          "source": "Naver News",
-          "description": "우선 외환시장 접근성을 개선해야 한다고 강조했다. 안 의원은 “역외에서 체결된 원화 채권 거래가 당일 결제까지 가능하도록 결제 인프라를 정비하고, 외환시장을 24 시간 거래 체제로..."
+          "title": "환율 1530원 돌파… 중동 긴장에 금융시장 흔들",
+          "source": "newscj.com",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3390318",
+          "description": "31일 서울 외환시장에서 원·달러 환율은 전 거래일보다 14원 이상 오른 1530.1원에 마감했다. 이는 글로벌 금융위기였던 2009년 이후 최고 수준이다. 환율은 1519원대에서 출발해 상승폭을 키우며 장중 한때 1536원대까지...",
+          "pubDate": "Tue, 31 Mar 2026 23:00:00 +0900"
         },
         {
-          "title": "엔/달러 160엔 넘자…日외환당국자 \"슬슬 단호한 조치도 필요\"",
-          "url": "https://n.news.naver.com/mnews/article/001/0015989519?sid=104",
-          "source": "Naver News",
-          "description": "엔/달러 환율은 이날 새벽 도쿄 외환시장에서 160.45엔까지 상승했다가 미무라 재무관의 구두 개입성 발언 여파로 오전 10시에는 159.9로 떨어졌다. 앞서 지난 28일 뉴욕 외..."
+          "title": "환율 1,530원 돌파…코스피 5,000선도 위태",
+          "source": "news.kbs.co.kr",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8523581&ref=A",
+          "description": "이처럼 요동치는 시장에도, 외환 당국은 드러나는 대응을 하고 있지 않습니다. 한국은행 신임 총재로 지명된 신현송 후보자는 오늘 첫 공개 발언에서, 현재 환율 상황이 크게 우려할 수준은 아니라는 입장을...",
+          "pubDate": "Tue, 31 Mar 2026 22:53:00 +0900"
         },
         {
-          "title": "엔-달러 환율 160엔 돌파…일본, 외환시장 개입 시사",
-          "url": "https://n.news.naver.com/mnews/article/057/0001941986?sid=104",
-          "source": "Naver News",
-          "description": "달러화 대비 엔화 환율이 160엔을 넘었던 것은 일본 정부가 외환시장에 개입했던 2024년 7월이 마지막으로 약 1년 8개월만에 엔-달러 환율이 160엔을 돌파한 것입니다. 교도통..."
+          "title": "중동 긴장 고조, 환율 1,530원 돌파… 코스피 급락",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/market/345012",
+          "description": "서울 외환시장에서 31일 원/달러 환율 종가가 전날보다 14.4원 오른 1,530.1원에 마감됐다. 이 수치는 금융위기였던 2009년 이후 가장 높은 수준이다. 환율은 하루 동안 큰 폭의 변동성을 보였지만, 장 막판 상승폭을 줄였다....",
+          "pubDate": "Tue, 31 Mar 2026 22:36:00 +0900"
         },
         {
-          "title": "“WGBI 편입 외국인 자금 잡아라” 국회, 외환시장 24시간 거래 제도개편...",
-          "url": "https://www.g-enews.com/view.php?ud=202603311406287348bb91c46fcd_1",
-          "source": "Naver News",
-          "description": "WGBI 편입을 계기로 외환시장 제도 개선 필요성의 목소리가 나오고 있다. 특히, 정치권에서 WGBI편입 효과를 최대화하기 위한 외환시장 24시간 거래 제도개편 필요성이 제기되면서..."
+          "title": "[올댓차이나] 인민은행 “적절히 완화적 통화정책 유지”…외부 충격·...",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260331_0003572336",
+          "description": "이밖에 통화정책 전달 경로를 원활히 해서 자금 활용 효율을 높이고 외환시장 안정성도 강화할 생각이다. 위안화 환율은 합리적 균형 수준에서 기본적으로 안정되도록 유지한다. 금융 시스템 측면에서는 대형 은행이...",
+          "pubDate": "Tue, 31 Mar 2026 22:06:00 +0900"
+        },
+        {
+          "title": "환율 1530원 돌파…한은 \"외국인 주식자금 유출 예의주시\"",
+          "source": "weekly.hankooki.com",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7157770",
+          "description": "윤 국장은 이날 기자간담회에서 \"외환시장 수급 측면에서 외국인 주식자금 유출이 많아 워치하고 있다\"며 \"시장 심리와 쏠림 현상이 뚜렷해지면 다른 통화와 괴리가 심해지면 대응을 할 것이다. 상황을 예의주시하고 있다...",
+          "pubDate": "Tue, 31 Mar 2026 22:02:00 +0900"
+        },
+        {
+          "title": "환율 1530원 돌파·코스피 5100선 붕괴…전쟁 리스크에 금융시장 '초긴장...",
+          "source": "econovill.com",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=735554",
+          "description": "◆ 원화 급락·증시 급락 동반…\"사실상 전쟁 지속 효과\" 31일 서울외환시장에 따르면 원·달러 환율은 주간거래 종가 기준 전일 대비 14.4원 오른 1530.1원을 기록했다. 종가 기준으로 2009년 3월 9일 이후 17년 만에 최고치다....",
+          "pubDate": "Tue, 31 Mar 2026 21:58:00 +0900"
+        },
+        {
+          "title": "환율 1530원 돌파…코스피 5100 붕괴",
+          "source": "idaegu.co.kr",
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=543588",
+          "description": "이��� 서울 외환시장에서 미국 달러화 대비 원화 환율의 주간 거래 종가는 전 거래일보다 14.4원 오른 1,530.1원으로 집계됐다. 글로벌 금융위기였던 2009년 3월 9일(1,549.0원) 이후 17년여 만에 가장 높은 수준이다....",
+          "pubDate": "Tue, 31 Mar 2026 21:54:00 +0900"
+        },
+        {
+          "title": "국회 본회의, 환율안정법·노동절 공휴일 등 70건 전격 통과",
+          "source": "breaknews.com",
+          "url": "http://www.breaknews.com/1196705",
+          "description": "이번 본회의에서는 외환시장 안정을 위한 세제 혜택부터 노동권 보장, 사회적 약자 보호를 위한 핵심 법안들이 대거 문턱을 넘었다. 먼저 국회는 6·3 지방선거...",
+          "pubDate": "Tue, 31 Mar 2026 21:36:00 +0900"
+        },
+        {
+          "title": "한은 총재 후보자 \"매파 등 이분법 부적절, 韓 단기 최대 위기는 '중동'...",
+          "source": "weekly.hankooki.com",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7157757",
+          "description": "아울러 거주자의 해외증권 투자 흐름 등 외환수급상황 여건을 보다 상세히 설명함으로써 외환시장 상황에 대한 경제 주체들의 이해를 제고할 필요가 있다고 강조했다. 대부분 위원은 중동지역 리스크 전개 상황 등 대내외...",
+          "pubDate": "Tue, 31 Mar 2026 21:08:00 +0900"
         }
       ]
     }

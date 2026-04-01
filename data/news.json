@@ -1,59 +1,167 @@
 {
-  "updatedAt": "2026-04-01T00:17:41.500Z",
+  "updatedAt": "2026-04-01T00:28:32.848Z",
   "results": [
     {
       "keyword": "환율",
-      "summary": "\"환율\" 관련 뉴스를 찾을 수 없습니다.",
-      "articles": []
+      "summary": "4월 1일 기준 \"환율\" 관련 뉴스 5건이 수집되었습니다. businesspost.co.kr, news.einfomax.co.kr, news2day.co.kr 등에서 보도되었으며, 달러, 종전, 기대에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "articles": [
+        {
+          "title": "키움증권 \"원/달러 환율 2분기 1400원대 하락 전망, 원화 약세 과도\"",
+          "source": "businesspost.co.kr",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=434648",
+          "description": "원/달러 환율이 1530원을 넘기며 상승세를 보이고 있으나 올해 2분기에는 안정화할 것으로 전망됐다. 김유미 키움증권 연구원은 1일 \"지정학적 리스크가 점차 완화한다는 전제하에 원/달러 환율 상단이 2008년 고점인...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "日 증시, 종전 기대에 3%대 상승",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407075",
+          "description": "17을 기록하며 지난해 4분기와 시장예상치를 모두 웃돌았다. 대형 비제조업 업황 판단지수도 직전치와 시장예상치를 웃도는 36으로 집계됐다. 같은 시각 달러-엔 환율은 전장보다 0.07% 하락한 158.596엔에 거래됐다.",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "\"원·달러 1530원 돌파…전쟁 리스크에 환율 급등, 절하 압력 확대\"<하나...",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20260401500035",
+          "description": "중동 리스크에 환율 급등 외국인 자금 유출 영향 연평균 1460원 상향 [사진=하나증권] [뉴스투데이=이금용 기자] 원·달러 환율이 1530원을 넘어 금융위기 이후 최고 수준을 기록한 가운데, 이번 환율 급등을 구조적 위기로...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "\"코스피, 패닉 딛고 반등 채비…밸류에이션 바닥·60일선 이탈 기로\"<키...",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20260401500048",
+          "description": "미-이란 전쟁 종식 기대감…美증시 급반등 속 훈풍 기대 외인 35조매도 배후는 환율,1,480원대 뉴뉴멀... 달러·원 환율 향방과 1년 만에 무너진 중기 추세선(60일선)의 회복 여부가 이날 장중 최대 관전 포인트가 될 것이란...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "환율, 종전 기대에 21원 급락…1,508원대 출발",
+          "source": "issuenbiz.com",
+          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=74985",
+          "description": "/사진=연합뉴스 원/달러 환율이 미국과 이란 간 종전 기대감 확산에 20원 넘게 급락하며 1,500원대 초반으로 내려왔다. 1일 서울 외환시장에서 환율은 개장과 동시에 21.6원 하락한 1,508.5원으로 출발한 뒤 비슷한 수준에서...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        }
+      ]
     },
     {
       "keyword": "금리",
-      "summary": "\"금리\" 관련 뉴스를 찾을 수 없습니다.",
-      "articles": []
+      "summary": "4월 1일 기준 \"금리\" 관련 뉴스 5건이 수집되었습니다. ddaily.co.kr, weekly.cnbnews.com, topstarnews.net 등에서 보도되었으며, 확대, 원픽, 통장 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "articles": [
+        {
+          "title": "삼성생명, 출산·육아휴직 고객 지원 확대 …포용금융 강화",
+          "source": "ddaily.co.kr",
+          "url": "https://www.ddaily.co.kr/page/view/2026040109132477515",
+          "description": "금리확정형 보장성 보험상품에 대해서는 최대 12개월까지 보험료 납입을 유예할 수 있어 고객 상황에 맞는... 삼성생명은 이외에도 사회적 배려 대상 고객을 위한 보험료 할인과 납입유예, 보험계약대출 우대금리 제공 등...",
+          "pubDate": "Wed, 01 Apr 2026 09:27:00 +0900"
+        },
+        {
+          "title": "강남구, 중소기업·소상공인 250억 원 융자지원…접수처 36곳으로 확대",
+          "source": "weekly.cnbnews.com",
+          "url": "https://weekly.cnbnews.com/news/article.html?no=210652",
+          "description": "사진=강남구청 서울 강남구(구청장 조성명)가 고물가·고금리에 최근 중동발 대외 불확실성까지 겹쳐... 연 1.5%의 고정금리를 적용해 이자 부담을 낮췄고, 법인은 최대 3억 원, 개인사업자는 최대 1억 원까지 지원받을 수...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "[오늘의 금시세] 4월 1일 환율 하락에도 금값 상승…금리 부담 속 반등",
+          "source": "topstarnews.net",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16022170",
+          "description": "국제 금 가격 역시 반등 흐름을 보이고 있지만, 금리와 달러 변수에 따른 방향성 탐색 국면이 이어지고... ○ 국제 금값 반등에도 금리 부담 지속…상승 탄력 제한 국제 금 가격은 온스당 4,570달러를 상회하며 반등을...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "하나금융, 미성년자 대상 '원픽 통장·카드' 출시",
+          "source": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=651873",
+          "description": "하나 체크카드 전월 결제 실적 합산 5만원 이상인 경우 매일 최종 잔액 중 50만원 이하 금액에 대해 최고 연 1.9퍼센트 우대금리를 제공하며 기본금리 0.1퍼센트를 포함해 최고 연 2퍼센트 금리를 제공한다. 하나카드는...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "하나금융그룹, '원픽(ONE PICK) 통장·카드' 출시",
+          "source": "sentv.co.kr",
+          "url": "https://www.sentv.co.kr/article/view/sentv202604010032",
+          "description": "특히, 하나 체크카드 전월 결제 실적 합산 5만원 이상인 경우, 매일 최종 잔액 중 50만원 이하의 금액에 대해 최고 연 1.90% 우대금리를 제공하며, 기본금리 0.1%를 포함해 최고 연 2.0% 금리를 제공받을 수 있다. 이를...",
+          "pubDate": "Wed, 01 Apr 2026 09:24:00 +0900"
+        }
+      ]
     },
     {
       "keyword": "부동산",
-      "summary": "\"부동산\" 관련 뉴스를 찾을 수 없습니다.",
-      "articles": []
+      "summary": "4월 1일 기준 \"부동산\" 관련 뉴스 5건이 수집되었습니다. mk.co.kr, newsquest.co.kr, theviewers.co.kr 등에서 보도되었으며, 삼성물산, 마스턴투자운용과, 스마트빌딩 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "articles": [
+        {
+          "title": "삼성물산, 마스턴투자운용과 ‘스마트빌딩 플랫폼 협력모델 구축’ 업무...",
+          "source": "mk.co.kr",
+          "url": "https://www.mk.co.kr/article/12004572",
+          "description": "삼성물산은 지난달 31일 서울 강동구 상일동 사옥에서 마스턴투자운용과 ‘상업용 부동산의 스마트빌딩... 마스턴투자운용은 부동산 펀드·리츠·부동산 개발 사업 등을 영위하는 대체투자 전문 자산운용사다. 최근...",
+          "pubDate": "Wed, 01 Apr 2026 09:27:00 +0900"
+        },
+        {
+          "title": "서울 양평동 롯데칠성 물류센터, 한강변 아파트 된다",
+          "source": "newsquest.co.kr",
+          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=264041",
+          "description": "롯데물산은 부동산 개발사업 추진을 위해 해당 부동산을 사들였다고 설명했다. 해당 부지는 롯데칠성음료가 1965년부터 물류센터, 차량정비기지로 사용해왔다. 약 2만1217㎡ 규모의 2종 일반주거지역 용도지역으로...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "토스 이승건 대표, 직원 월세 평생 쏜다...만우절 거짓말? 진짜?",
+          "source": "theviewers.co.kr",
+          "url": "https://theviewers.co.kr/View.aspx?No=4025094",
+          "description": "뷰어스 황보람 기­자 bridger@viewers.co.kr 토스 이승건 대표가 사비로 직원들의 부동산 월세 및 이자를... 이 ���표는 “창업하기 전부터 누구는 부동산으로 수익을 올리고, 누구는 주거비 때문에 생존의 어려움에 서는 이...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "마곡지구 성장축 부상... 강서 주거시장 영향력 확대, '마곡 더그리드'...",
+          "source": "finomy.com",
+          "url": "http://www.finomy.com/news/articleView.html?idxno=252422",
+          "description": "과거 논밭 위주의 미개발지였던 마곡동 일대가 대기업 연구개발(R&D) 센터와 대규모 주거단지, 문화시설이 어우러진 자족형 첨단 산업단지로 변모하며 강서구 전체 부동산 시장의 흐름을 주도하는 모습이다. KB부동산의...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        },
+        {
+          "title": "삼삼엠투, 한국소아암재단과 '단기임대 쉼터 지원사업' 협약 체결",
+          "source": "public25.com",
+          "url": "https://www.public25.com/news/articleView.html?idxno=43039",
+          "description": "퍼블릭타임스=부동산 단기임대 서비스 삼삼엠투 운영사 스페이스브이가 재단법인 한국소아암재단과 '단기임대 쉼터 지원사업' 업무협약을 체결하고 소아암 환아 가정 지원에  나선다고 1일 밝혔다. 이번 사업은...",
+          "pubDate": "Wed, 01 Apr 2026 09:26:00 +0900"
+        }
+      ]
     },
     {
       "keyword": "외환시장",
-      "summary": "3월 31일 기준 \"외환시장\" 관련 뉴스 5건이 수집되었습니다. g-enews.com, newscj.com, news.kbs.co.kr 등에서 보도되었으며, 환율, 돌파, 중동 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 1일 기준 \"외환시장\" 관련 뉴스 5건이 수집되었습니다. etoday.co.kr, hankookilbo.com, news.tf.co.kr 등에서 보도되었으며, 코스피, 매수, 사이드카 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "외환당국, 환율 방어에 지난해 4분기 225억달러 투입 '역대 최대'",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202603312342246480bbed569d68_1",
-          "description": "외환당국이 지난해 4분기 환율 급등을 막기 위해 외환시장에서 224억7700만달러 규모의 외화를 내다 판것으로 나타났다. 31일 한국은행이 공개한 ‘외환당국 순거래’에 따르면 외환당국은 작년 4분기 시장...",
-          "pubDate": "Tue, 31 Mar 2026 23:44:00 +0900"
+          "title": "코스피, 장 초반 5% 급등하며 매수 사이드카…5300선 회복",
+          "source": "etoday.co.kr",
+          "url": "https://www.etoday.co.kr/news/view/2571509",
+          "description": "외환시장에서는 원·달러 환율이 급락 출발했다. 이날 환율은 전 거래일보다 21.6원 내린 1508.5원에 개장했다. 전날 1530원선을 웃돌았던 환율이 하루 만에 큰 폭으로 되돌림을 보이면서 위험자산 선호 심리를...",
+          "pubDate": "Wed, 01 Apr 2026 09:24:00 +0900"
         },
         {
-          "title": "환율 1530원 돌파… 중동 긴장에 금융시장 흔들",
-          "source": "newscj.com",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3390318",
-          "description": "31일 서울 외환시장에서 원·달러 환율은 전 거래일보다 14원 이상 오른 1530.1원에 마감했다. 이는 글로벌 금융위기였던 2009년 이후 최고 수준이다. 환율은 1519원대에서 출발해 상승폭을 키우며 장중 한때 1536원대까지...",
-          "pubDate": "Tue, 31 Mar 2026 23:00:00 +0900"
+          "title": "[속보] 종전 기대감에 코스피 '매수 사이드카'… 5300선 회복",
+          "source": "hankookilbo.com",
+          "url": "https://www.hankookilbo.com/news/article/A2026040108540001718?did=NA",
+          "description": "간신히 지켜냈지만 하루 만에 5,300선을 회복했다. 코스닥은 46.22포인트(4.39%) 오른 1,098.61 안팎에서 움직이고 있다. 이날 서울 외환시장에서 원·달러 ��율은 전 거래일보다 21.6원 내린 1,508.5원에 개장했다.",
+          "pubDate": "Wed, 01 Apr 2026 09:24:00 +0900"
         },
         {
-          "title": "환율 1,530원 돌파…코스피 5,000선도 위태",
-          "source": "news.kbs.co.kr",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8523581&ref=A",
-          "description": "이처럼 요동치는 시장에도, 외환 당국은 드러나는 대응을 하고 있지 않습니다. 한국은행 신임 총재로 지명된 신현송 후보자는 오늘 첫 공개 발언에서, 현재 환율 상황이 크게 우려할 수준은 아니라는 입장을...",
-          "pubDate": "Tue, 31 Mar 2026 22:53:00 +0900"
+          "title": "이란 전쟁 끝 보인다…코스피, 5% 급반등 '패닉장 반전'",
+          "source": "news.tf.co.kr",
+          "url": "https://news.tf.co.kr/read/economy/2308409.htm",
+          "description": "양측이 같은 날 종전 의사를 내비치자 희망이 확산하면서 투심이 몰렸다. 한편, 서울 외환시장에서 달러·원 환율은 전거래일보다 21.6원 하락한 1508.5원에 출발했다.",
+          "pubDate": "Wed, 01 Apr 2026 09:22:00 +0900"
         },
         {
-          "title": "중동 긴장 고조, 환율 1,530원 돌파… 코스피 급락",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/market/345012",
-          "description": "서울 외환시장에서 31일 원/달러 환율 종가가 전날보다 14.4원 오른 1,530.1원에 마감됐다. 이 수치는 금융위기였던 2009년 이후 가장 높은 수준이다. 환율은 하루 동안 큰 폭의 변동성을 보였지만, 장 막판 상승폭을 줄였다....",
-          "pubDate": "Tue, 31 Mar 2026 22:36:00 +0900"
+          "title": "코스피, 5.49% 상승 개장...5,330대 등락",
+          "source": "youthdaily.co.kr",
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=216581",
+          "description": "61%) 오른 1,090.36에 거래를 시작했다. 한편 서울 외환시장에서 원·달러 환율은 전 거래일보다 21.6원 내린 1,508.5원에 출발했다. 【 청년일보=신정아 기자 】 서울시 중구 하나은행 딜링룸. [사진=연합뉴스]",
+          "pubDate": "Wed, 01 Apr 2026 09:22:00 +0900"
         },
         {
-          "title": "[올댓차이나] 인민은행 “적절히 완화적 통화정책 유지”…외부 충격·...",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260331_0003572336",
-          "description": "이밖에 통화정책 전달 경로를 원활히 해서 자금 활용 효율을 높이고 외환시장 안정성도 강화할 생각이다. 위안화 환율은 합리적 균형 수준에서 기본적으로 안정되도록 유지한다. 금융 시스템 측면에서는 대형 은행이...",
-          "pubDate": "Tue, 31 Mar 2026 22:06:00 +0900"
+          "title": "원·달러 환율 20원 넘게 급락, 미국 이란 종전 기대",
+          "source": "etoday.co.kr",
+          "url": "https://www.etoday.co.kr/news/view/2571506",
+          "description": "1일 오전 9시10분 현재 서울 외환시장에서 원·달러 환율은 전일대비(오후 3시30분 종가 기준) 20.65원(1.35%) 하락한 1509.45원에 거래 중이다. 장초반 1508.2원까지 떨어지기도 했다. 역외환율도 급락한 바 있다....",
+          "pubDate": "Wed, 01 Apr 2026 09:22:00 +0900"
         }
       ]
     }

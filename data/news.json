@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-04-01T01:05:43.262Z",
+  "updatedAt": "2026-04-02T00:01:16.493Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "4월 1일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. etoday.co.kr, sidae.com, news.kbs.co.kr 등에서 보도되었으며, 종전, 코스피, 환율 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 2일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. yonhapnewstv.co.kr, newsfreezone.co.kr, ichannela.com 등에서 보도되었으며, 환율, 김용범, 수급 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "구윤철 \"펀더멘털과 괴리된 과도한 원화 약세, 경제에 도움 안돼\"",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2571558",
-          "description": "인한 환율 급등과 관련해 \"펀더멘털과 괴리된 과도한 원화 약세는 우리 경제에 도움이 되지 않는다\"고 말했다. 구 부총리는 이날 정부서울청사에서 열린 첫 거시재정금융간담회에서 \"외환시장과 관련해 원화가 큰 폭의...",
-          "pubDate": "Wed, 01 Apr 2026 10:04:00 +0900"
+          "title": "김용범 \"韓증시 복원력 확인하고 환율도 안정 구간 복귀할 것\"",
+          "source": "yonhapnewstv.co.kr",
+          "url": "http://www.yonhapnewstv.co.kr/AKR20260402085553Qvp",
+          "description": "그는 \"주식 시장발 수급 왜곡이 외환시장에 일시 반영된 결과\"라며 \"외부 충격이 완화되고 수급이 정상화될 경우 환율 역시 기존의 밴드로 회귀할 여지는 충분하다\"고 내다봤습니다. 김 실장은 \"한국 경제의 기초 체력은...",
+          "pubDate": "Thu, 02 Apr 2026 08:56:00 +0900"
         },
         {
-          "title": "종전 기대감 코스피, 5300선 회복…환율 1506.30원",
-          "source": "sidae.com",
-          "url": "https://www.sidae.com/article/2026040109313956102",
-          "description": "코스닥 시가총액 상위 10개 개종목은 삼천당제약을 제외하고 일제히 상승세다. 삼천당제약은 홀로 2.65% 하락세다. 서울외환시장에서 원/달러 환율은 4.20원 내린 1506.30원에 거래된다.",
-          "pubDate": "Wed, 01 Apr 2026 10:01:00 +0900"
+          "title": "세계국채지수(WGBI) 편입 즉효···외인 자급 수급 기대에 환율 하락",
+          "source": "newsfreezone.co.kr",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=683033",
+          "description": "외환시장에서도 1일 원·달러 환율이 중동 종전 기대감 등과 함께 전일대비 28.8원 하락하며 1501.3원에 주간거래를 마쳤다. 다만 이러한 효과가 지속될 수 있을지는 변수가 있다. 우선 WGBI 편입이 확실히...",
+          "pubDate": "Thu, 02 Apr 2026 08:56:00 +0900"
         },
         {
-          "title": "코스피, 종전 기대감에 5%대 급등…사이드카 발동",
+          "title": "김용범 실장 “환율, 수급 정상화 속에 안정 구간 복귀할 것”",
+          "source": "ichannela.com",
+          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000521996",
+          "description": "김용범 대통령 정책실���은 환율 상승에 대해 \"주식 시장발 수급 왜곡이 외환시장에 일시 반영된 결과\"라며 \"외부 충격이 완화되고 수급이 정상화될 경우 환율 역시 기존의 밴드로 회귀할 여지는 충분하다\"고 전망했습니다....",
+          "pubDate": "Thu, 02 Apr 2026 08:53:00 +0900"
+        },
+        {
+          "title": "김용범 “‘환율 급등’ 구조적 위기 아냐…주식시장발 수급 왜곡 일시...",
           "source": "news.kbs.co.kr",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8523921&ref=A",
-          "description": "이후 상승폭을 줄였다가 다시 오르고 있습니다. 서울 외환시장에서 달러 대비 원화 환율은 전날보다 21.6원 내린 1,508.5원에 거래를 시작했습니다. [사진 출처 : 연합뉴스]",
-          "pubDate": "Wed, 01 Apr 2026 10:01:00 +0900"
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8525011&ref=A",
+          "description": "“단기적으로 환율을 끌어내리는 직접적인 변수라기보다는 향후 외환시장의 변동성을 낮추고 원화 자산에 대한 신뢰를 강화하는 방향으로 작용할 가능성이 크다”고 전망했습니다. 김 실장은 “결국 전쟁의 전개 양상과...",
+          "pubDate": "Thu, 02 Apr 2026 08:43:00 +0900"
         },
         {
-          "title": "중동 종전 기대감에 코스피 매수 사이드카 발동",
-          "source": "ntoday.co.kr",
-          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=126270",
-          "description": "61%) 오른 1090.36에 거래를 시작했다. 개인은 919억원 순매도하고 있고, 외국인과 기관은 각각 583억원, 384억원 순매수 중이다. 한편 서울 외환시장에서 원·달러 환율은 전 거래일보다 21.6원 내린 1508.5원에 출발했다.",
-          "pubDate": "Wed, 01 Apr 2026 10:00:00 +0900"
-        },
-        {
-          "title": "코스피, 종전 기대 5% 급등…환율 급락 속 기관 순매수, 외국인 10일째 ...",
-          "source": "kdfnews.com",
-          "url": "http://www.kdfnews.com/news/articleView.html?idxno=181314",
-          "description": "서울 외환시장에서 원·달러 환율은 전날보다 21.6원 내린 1508.5원에 거래를 시작했다. 전날 장중 1530원을 돌파하며 금융위기 이후 최고 수준까지 치솟았던 환율은 이날 하락 전환하며 안정을 찾는 모습이다. 수급은...",
-          "pubDate": "Wed, 01 Apr 2026 10:00:00 +0900"
+          "title": "원/달러 환율 \"종전 낙관론에 하락 압력 우위 전망\"",
+          "source": "seoulwire.com",
+          "url": "http://www.seoulwire.com/news/articleView.html?idxno=714696",
+          "description": "서울 외환시장에서 2일 원/달러 환율은 중동 전쟁 종식 기대에 따른 위험자산 선호 심리 회복 영향으로 하락 압력이 우위를 보일 전망이다. 민경원 우리은행 선임연구원은 이날 보고서에서 \"미국과 이란 간 신경전이...",
+          "pubDate": "Thu, 02 Apr 2026 08:42:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "4월 1일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. financialpost.co.kr, digitaltoday.co.kr, thebell.co.kr 등에서 보도되었으며, 양자, 40, 국채 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 2일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. newsdream.kr, tokenpost.kr, news2day.co.kr 등에서 보도되었으며, BNK, 리포트, JB금융지주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "국채 발행 없는 추경이라지만...증시만 기대감, 채권·환율 우울",
-          "source": "financialpost.co.kr",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=253786",
-          "description": "이어서 \"이에 따라 채권시장의 금리 레벨을 추가적으로 끌어올릴 수 있는 것\"이라고 설명했다. 환율은 이미 원화 가치 하락에 시달리고 있다. 단순히 달러 안전자산론에 휘둘리는 게 아니라 달러 인덱스 등을 참조해 보면...",
-          "pubDate": "Wed, 01 Apr 2026 09:52:00 +0900"
+          "title": "[키-리포트] BNK \"JB금융지주, 핵심이익 성장으로 최대 실적 전망\"",
+          "source": "newsdream.kr",
+          "url": "http://www.newsdream.kr/news/articleView.html?idxno=110930",
+          "description": "이어 \"다만 시장금리 상승으로 채권 관련 수익이 줄고 지난해 1분기에 대출채권 매각으로 170억원의 이익이 발생했던 것과 비교되면서 이자 외 수익은 지난해보다 16.1% 감소할 것\"이라며 \"희망퇴직 비용도 188억원에서...",
+          "pubDate": "Thu, 02 Apr 2026 08:52:00 +0900"
         },
         {
-          "title": "구글이 던진 비트코인 양자 리스크…양자 저항 코인 'QRL' 40% 폭등",
-          "source": "digitaltoday.co.kr",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=651941",
-          "description": "코인데스크는 수요 측면의 둔화와 함께 물가를 반영한 채권 실질금리 상승이 비트코인과 같은 고위험·신기술 자산의 투자 매력을 떨어뜨리고 있다고 분석했다. 흥미로운 점은 양자 위협이 부각되는 가운데...",
-          "pubDate": "Wed, 01 Apr 2026 09:52:00 +0900"
+          "title": "미국-이란 종전 기대와 WGBI 편입, 한국 채권시장 활력 회복",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/economy/345595",
+          "description": "이러한 흐름은 채권 금리 상승 압력을 억제하는 역할을 ���고, 장기적으로 한국 국채의 글로벌 경쟁력을 높이는 데 기여할 것으로 예상된다. 또한, 향후 미국과 이란 간의 협상이 진전됨에 따라 더욱 많은 자금이...",
+          "pubDate": "Thu, 02 Apr 2026 08:24:00 +0900"
         },
         {
-          "title": "[더벨][thebell League Table | 2026년 1분기] 고공행진 주식시장에도 에퀴...",
-          "source": "thebell.co.kr",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603311202364800102964",
-          "description": "최근 채권 금리 상승세로 자금조달이 주식으로 전환되는 모습이지만 타이밍을 잡기 쉽지 않다. 실제 2025년초 코스피 지수는 2300선이었으나 이후 정치적 불확실성 해소로 올해 사상 최초로 6000선까지 상승하면서...",
-          "pubDate": "Wed, 01 Apr 2026 09:32:00 +0900"
+          "title": "\"변동성 장세에도 증권株 선방…거래대금 버티며 수급체력 유지\"<하나證...",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20260402500019",
+          "description": "고 연구원은 \"금리 상승 환경에서 채권 평가손익 방어 여부와 주식 평가이익 기여도가 실적 차별화를 가를 것\"이라고 예상했다. 이에 따라 증권업종에 대해 \"비중 확대 의견을 유지하며, 키움증권과 삼성증권을...",
+          "pubDate": "Thu, 02 Apr 2026 08:22:00 +0900"
         },
         {
-          "title": "금시세(금값) 1일",
-          "source": "bntnews.co.kr",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202604010081",
-          "description": "금값의 극적인 반등에는 채권 금리와 환율의 하락이 결정적인 역할을 했다. 시장의 불안감을 잠재운 가장 큰 원동력은 벼랑 끝 대치를 이어가던 미국과 이란 양국에서 동시에 흘러나온 전쟁 종료 시그널이다. 마수드...",
-          "pubDate": "Wed, 01 Apr 2026 09:12:00 +0900"
+          "title": "[아침밥] BNK \"iM금융지주 경상 이익 회복에도 PBR 0.45배 저평가\"",
+          "source": "sidae.com",
+          "url": "https://www.sidae.com/article/2026040208050410769",
+          "description": "비이자이익과 관련해서는 \"시장금리 상승에 따른 채권관련이익 축소 대비 주식시장 상승에 따른 증권 자회사 이익 개선, 캐피탈의 K-뱅크 매각이익 등으로 기고효과에도 불구하고 비이자이익은 전년 수준을...",
+          "pubDate": "Thu, 02 Apr 2026 08:11:00 +0900"
         },
         {
-          "title": "BNK투자증권 \"기업은행, 비이자이익 감소 영향으로 단기 실적 둔화\"",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=20260401083926815144093b5d4e_1",
-          "description": "시장금리 상승에 따른 채권 평가손익 축소와 원·달러 환율 상승에 따른 외환 손실이 반영된 영향인 것으로 짚었다. 김 연구원은 \"이자이익은 1조9741억원으로 전년 동기 대비 2.8% 늘어 비교적 안정적인 흐름이...",
-          "pubDate": "Wed, 01 Apr 2026 08:52:00 +0900"
+          "title": "“3월 예탁금 줄었지만 대기자금 여전…증권주 고점 아냐”",
+          "source": "edaily.co.kr",
+          "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02548566645412184",
+          "description": "그러면서 “증권업의 1분기 실적의 관건은 운용손익이 될 것”이라며 “국채금리 상승에 따라 채권매매평가손익 부진이 우려되는 상황에서 얼마나 방어했느냐, 주식 시장 호조에 힘입어 주식 등 유가증권 관련...",
+          "pubDate": "Thu, 02 Apr 2026 07:54:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "4월 1일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, newspim.com, kpinews.kr 등에서 보도되었으며, 보험사, 삼성생명, 배당 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 2일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, newstomato.com, newspim.com 등에서 보도되었으며, 보험사, 킥스, 50 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "내년 규제 앞둔 기본자본 킥스…8개 보험사 50% 못 미쳐",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4407317",
+          "description": "기본자본 킥스 비율은 각각 -37%, -20.9% 수준이다. 이 외엔 iM라이프 1.94%, 푸본현대생명 12.4%, 하나생명 26.4%, 처브라이프 33.5%, 흥국화재 38.4%, 하나손해보험이 40.6% 등이다. 50%대를 걸친 곳은 한화생명(58%), ABL생명(52.7...",
+          "pubDate": "Thu, 02 Apr 2026 08:52:00 +0900"
+        },
+        {
+          "title": "보험사 후순위채 '뚝'…내실 다지기 본격화",
+          "source": "newstomato.com",
+          "url": "http://www.newstomato.com/ReadNews.aspx?no=1296329&inflow=N",
+          "description": "KB손해보험, 한화생명(088350), 동양생명(082640) 등은 건강보험과 간병인보험의 주요 담보 한도를 줄이거나 조정하고 있는 것으로 알려졌습니다. 보험업계 관계자는 \"기본자본 킥스 도입이 예고된 이후 후순위채 발행...",
+          "pubDate": "Wed, 01 Apr 2026 14:38:00 +0900"
+        },
         {
           "title": "지난해 보험사 킥스 212%…금리 상승에 자본력 회복세",
           "source": "news.einfomax.co.kr",
@@ -107,61 +121,47 @@
           "url": "https://www.newspim.com/news/view/20260327000936",
           "description": "삼성생명과 한화생명 등 일부 대형사는 자사주 소각에 신중한 입장을 유지하고 있다. 자사주 소각이 자본 감소로 직결되고 지급여력(K-ICS·킥스) 비율에 부담을 줄 수 있는 만큼 자본 건전성과 규제 영향을 종합적으로...",
           "pubDate": "Sun, 29 Mar 2026 09:40:00 +0900"
-        },
-        {
-          "title": "보험사들 일제히 채권손실…삼성생명·삼성화재만 '예외'",
-          "source": "kpinews.kr",
-          "url": "https://www.kpinews.kr/newsView/1065598654618753",
-          "description": "OCI는 당기순이익에 영향을 주지 않지만, 악화 시 자본이 줄면서 보험사 재무건전성 지표인 K-ICS(킥스... 평가손실 규모가 가장 컸던 곳은 한화생명이다. OCI가 2024년 말 -2조3617억 원에서 2025년 말 -4조8587억 원으로...",
-          "pubDate": "Fri, 27 Mar 2026 17:24:00 +0900"
-        },
-        {
-          "title": "보험사 배당 양극화, 삼성생명 DB손보 등 대형사는 배당 증액",
-          "source": "ekoreanews.co.kr",
-          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85232",
-          "description": "삼성화재(-2.7%), 메리츠화재(-1.7%), 한화생명(3.5%) 등 대형사도 겨우 실적 방어에 성공했고, DB손해보험(-13.4... 금융당국이 2024년부터 지급여력비율(K-ICS·킥스)이 200% 이상인 우량 보험사의 해약환급금 적립률을 80%로...",
-          "pubDate": "Fri, 27 Mar 2026 16:12:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "4월 1일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. lawissue.co.kr, sedaily.com, sateconomy.co.kr 등에서 보도되었으며, 코스피, 착공, 1년 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 2일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. sidae.com, biz.sbs.co.kr, sedaily.com 등에서 보도되었으며, 아침밥, KB, 삼성전자 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "착공 1년 맞은 ‘용인 플랫폼시티’…개발 본격화",
-          "source": "lawissue.co.kr",
-          "url": "http://www.lawissue.co.kr/view.php?ud=20260401100009923467191f6c6e_12",
-          "description": "처인구 일대에 조성중인 삼성전자의 ‘용인 첨단시스템 반도체 국가산업단지’와 SK하이닉스의 ‘용인 반도체 클러스터 일반산업단지’를 연결하는 ‘L자형 반도체 벨트’를 구축할 전망이다. 용인 플랫폼시티는...",
-          "pubDate": "Wed, 01 Apr 2026 10:02:00 +0900"
+          "title": "[아침밥] KB \"삼성전자 1분기 영업이익, 2025년 전체와 맞먹을 것\"",
+          "source": "sidae.com",
+          "url": "https://www.sidae.com/article/2026040208295055728",
+          "description": "KB증권이 삼성전자의 실적 상승 흐름이 지속되고 있다고 평가했다. 이에 투자 의견 '매수'와 목표 주가... 김 본부장은 \"1분기 메모리 반도체 영업이익은 전년 동기 대비 11배 증가한 38조원에 달할 것\"이라며 \"2025년...",
+          "pubDate": "Thu, 02 Apr 2026 08:58:00 +0900"
         },
         {
-          "title": "터보퀀트 때문에 삼전닉스 ‘와르르’ 급락했는데…증권가 “공포 과장...",
+          "title": "한투운용, '삼전닉스+유망 기업 투자' 펀드 3일 출시",
+          "source": "biz.sbs.co.kr",
+          "url": "https://biz.sbs.co.kr/article_hub/20000301537?division=NAVER",
+          "description": "이 펀드는 국내 반도체 시장을 이끄는 삼성전자와 SK하이닉스에 집중 투자하면서 AI 밸류체인 내 유망 기업을 조기 발굴해 추가 수익을 추구ㅎ바니다. 삼성전자와 SK하이닉스를 각 종목당 최대 25% 한도 내에서 두 기업의...",
+          "pubDate": "Thu, 02 Apr 2026 08:58:00 +0900"
+        },
+        {
+          "title": "종전 기대에 美 반도체 훈풍까지…삼전·하닉·건설주 프리마켓 강세[마...",
           "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20026822?ref=naver",
-          "description": "미래에셋증권은 1일 보고서를 통해 터보퀀트가 메모리 반도체 수요를 위축시킬 것이라는 우려에 선을 그으며, 삼성전자와 SK하이닉스에 대한 기존 목표 주가를 그대로 유지했다. 신규 기술 아닌 ‘재탕’…시장 반응은...",
-          "pubDate": "Wed, 01 Apr 2026 10:01:00 +0900"
+          "url": "https://www.sedaily.com/article/20027324?ref=naver",
+          "description": "중동발 긴장 완화 기대와 미국 반도체주 급등이 맞물리며 삼성전자(005930)와 SK하이닉스(000660)가 프리마켓에서 강세를 보이고 있다. 백악관은 1일 오후 9시(한국시간 2일 오전 10시) 도널드 트럼프 대통령의 전쟁...",
+          "pubDate": "Thu, 02 Apr 2026 08:57:00 +0900"
         },
         {
-          "title": "코스피 5300선 회복…반도체 급등에 장 초반 5%대 반등",
-          "source": "sateconomy.co.kr",
-          "url": "https://sateconomy.co.kr/news/view/1065573209282686",
-          "description": "특히 시가총액 상위 종목인 반도체주가 지수 상승을 견인하고 있다. 삼성전자는 전일 16만원대로 밀렸지만 이날 장 초반 17만원선을 빠르게 회복했다. 오전 9시27분 기준 17만8700원으로 전일 대비 1만1500원(6.88...",
-          "pubDate": "Wed, 01 Apr 2026 10:00:00 +0900"
+          "title": "인류, 54년 만에 달로 향해...美 아르테미스 2호 발사 성공",
+          "source": "fnnews.com",
+          "url": "http://www.fnnews.com/news/202604020817024641",
+          "description": "방사선 검증용 반도체는 삼성전자와 SK하이닉스가 만들었다. 한국 KT의 위성통신 자회사인 KT SAT은 지상국을 운영해 자료 수신을 맡는다. 앞서 미국의 도널드 트럼프 정부는 중국의 우주 진출을 견제하고 달 자원을...",
+          "pubDate": "Thu, 02 Apr 2026 08:56:00 +0900"
         },
         {
-          "title": "'HBM 높이 족쇄' 푼다···삼성·SK 수율 전쟁 새 변수 등장",
-          "source": "enewstoday.co.kr",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2413417",
-          "description": "고대역폭메모리(HBM)의 국제 표준을 정하는 글로벌 기구가 규격 완화에 나서면서, 인공지능(AI) 반도체... 삼성전자와 SK하이닉스는 이미 기존 표준보다 높은 수준의 기술을 확보한 상태로, 규격 완화가 단기적으로는 수율...",
-          "pubDate": "Wed, 01 Apr 2026 09:59:00 +0900"
-        },
-        {
-          "title": "이란 대통령 “종전 의지 있다” 발언에…코스피·코스닥 4%대 급등[개장...",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20260401020143077",
-          "description": "반도체 '슈퍼 사이클'이 아직 끝나지 않았다는 전망에 삼성전자와 SK하이닉스도 7%대 급등하고 있다. 한국거래소에 따르면, 이날 9시 20분 현재 코스피 지수는 전 거래일 대비 4.82%(243.98포인트) 오른 5296.44다....",
-          "pubDate": "Wed, 01 Apr 2026 09:58:00 +0900"
+          "title": "AI 반도체가 끈 삼성·SK 호실적…조선·방산 그룹이 뒷받침",
+          "source": "socialvalue.kr",
+          "url": "https://www.socialvalue.kr/news/view/1065606115958400",
+          "description": "실제로 영업이익이 전 분기에 비해 321.1% 증가한 삼성그룹은 반도체를 앞세운 삼성전자의 혜택을 톡톡히 봤다. 삼성전자의 1분기 영업이익은 지난해에 비해 446.3% 늘어난 36조5244억원을 기록했다. SK그룹 주력...",
+          "pubDate": "Thu, 02 Apr 2026 08:56:00 +0900"
         }
       ]
     }

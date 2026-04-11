@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-04-10T06:10:05.332Z",
+  "updatedAt": "2026-04-11T00:05:11.705Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "4월 10일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. thevaluenews.co.kr, newscj.com, gokorea.kr 등에서 보도되었으며, 물가, 기준금리, 동결 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 11일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. weekly.hankooki.com, news.einfomax.co.kr, econovill.com 등에서 보도되었으며, 이창용, 이란, 달러 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[더밸류 브리핑] 오늘의 농협금융그룹 소식...NH농협은행·NH농협카드",
-          "source": "thevaluenews.co.kr",
-          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=198025",
-          "description": "이번 행사는 최근 중동 지역 긴장 고조에 따른 글로벌 경제 불확실성과 환율 변동성 확대에 대응하기 위한 취지로 마련됐다. ‘NH외국환 아카데미’는 주요 기업 고객을 대상으로 수출입 실무와 외환 시장 정보를...",
-          "pubDate": "Fri, 10 Apr 2026 15:00:00 +0900"
+          "title": "[금주의인물] 이창용 한은 총재의 4년…마지막 금통위 '동결'",
+          "source": "weekly.hankooki.com",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7159300",
+          "description": "금융·외환 시장 변동성이 크게 확대된 상황\"이라고 밝혔다. 이어 현 기준금리 수준을 유지하면서 사태의... 이 총재 특유의 소통은 환율·서학개미·추경 문제 발언에도 이어졌다. 그는 지난해 말 환율 급등기의 개인...",
+          "pubDate": "Sat, 11 Apr 2026 09:00:00 +0900"
         },
         {
-          "title": "중동전쟁에 물가·성장 '빨간불'… 한은 7연속 기준금리 동결",
-          "source": "newscj.com",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3392875",
-          "description": "금융·외환시장 변동성이 크게 확대된 만큼 현 금리 수준을 유지하며 사태의 추이와 파급 영향을 점검할 예정이다. 한은은 특히 향후 물가 경로 불확실성이 국제유가와 환율 움직임, 정부 물가안정 대책의 효과...",
-          "pubDate": "Fri, 10 Apr 2026 15:00:00 +0900"
+          "title": "[뉴욕마켓워치] 신경전 속 마주 앉는 미국과 이란…채권·달러↓주식 혼...",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4408986",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.304엔으로, 전 거래일 뉴욕장 마감 가격 159.095엔보다 0.209엔(0.131%) 상승했다. 유로-달러 환율은...",
+          "pubDate": "Sat, 11 Apr 2026 08:18:00 +0900"
         },
         {
-          "title": "이란 전쟁 여파…기준금리 동결 속 물가 상승 우려 확대",
-          "source": "gokorea.kr",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=863220",
-          "description": "최근 이란전쟁의 영향으로 환율과 물가, 경제 성장 전망이 모두 불투명한 상황에서 신중한 결정을 내린... 및 외환 시장의 변동성이 커졌다는 데 공감했다. 이에 따라 현재의 금리 수준을 유지하면서 사태의 추이를 더...",
-          "pubDate": "Fri, 10 Apr 2026 15:00:00 +0900"
+          "title": "\"금리 결정 후회 없다\"…퇴임 앞둔 이창용 한은총재, 인플레 대응부터 ...",
+          "source": "econovill.com",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=736926",
+          "description": "이에 한은은 내국인의 ���외주식투자 수요 등 외환시장 수급 요인을 주요 배경으로 설명했다. 이 과정에서 이 총재는 \"환율이 1,500원을 넘는다면 제 생각엔 한미 금리차 때문도 아니고 외국인에 의한 것도 아니라 단지 해외...",
+          "pubDate": "Sat, 11 Apr 2026 07:44:00 +0900"
         },
         {
-          "title": "\"중동발 물가·성장 불안\"‥기준금리 7회 연속 동결",
-          "source": "imnews.imbc.com",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6814237_36974.html",
-          "description": "[이창용/한국은행 총재] \"물가의 상방 압력 및 성장의 하방 압력이 동시에 증대되고 금융외환시장 변동성이... 한국은행은 전쟁으로 변동성이 커진 원·달러 환율의 추이를 주시하는 한편, 수도권 주택가격과 가계부채...",
-          "pubDate": "Fri, 10 Apr 2026 14:56:00 +0900"
+          "title": "[뉴욕환시] 달러 닷새째↓…美·이란 협상 경계 속 인플레 안도",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4408974",
+          "description": "달러인덱스 장중 흐름출처: 연합인포맥스 연합인포맥스(화면번호 6411)에 따르면 10일 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.304엔으로, 전 거래일 뉴욕장 마감 가격 159.095엔보다 0....",
+          "pubDate": "Sat, 11 Apr 2026 07:16:00 +0900"
         },
         {
-          "title": "이창용 한국은행 총재의 마지막 금통위가 열렸다 : 중동전쟁 속 최후 결...",
-          "source": "huffingtonpost.kr",
-          "url": "https://www.huffingtonpost.kr/article/256532",
-          "description": "금통위는 \"중동전쟁으로 물가의 상방압력 및 성장의 하방압력이 함께 증대되고 금융·외환시장 변동성이... 금통위는 금융시장 역시 원/달러 환율이 1500원 대까지 치솟는 등 극심한 변동성을 겪고 있기 때문에 금리...",
-          "pubDate": "Fri, 10 Apr 2026 14:50:00 +0900"
+          "title": "[다음주 환율전망] 환율, 1500원 재진입 시험대…변동성 장세 지속",
+          "source": "goodkyung.com",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=285712",
+          "description": "10일 서울 외환시장에서 원·달러 환율은 전 거래일 주간거래 종가(오후 3시 30분)와 동일한 1482.5원에 마��했다. 금융투자업계에 따르면 최근 환율은 미국·이란 충돌 여파로 1520원대까지 급등한 이후 1480원대까지 일부...",
+          "pubDate": "Sat, 11 Apr 2026 07:00:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "4월 10일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. etoday.co.kr, hansbiz.co.kr, wowtv.co.kr 등에서 보도되었으며, 한국, 국채, 편입 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 11일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. hankyung.com, mt.co.kr, straightnews.co.kr 등에서 보도되었으며, 이란, 협상, 혼조 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "채권전문가들, 금리동결 속 인상 여지 열어둔 한은 금통위",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2574701",
-          "description": "민지혜 미래에셋증권 애널리스트도 “금리 인상 경계심이 유지되는 가운데 단기적으로는 변동성 확대 국면이 불가피하다”며 “중동 상황을 확인하는 과정에서 채권금리는 방향성보다 이벤트에 민감하게 반응할 것”...",
-          "pubDate": "Fri, 10 Apr 2026 15:04:00 +0900"
+          "title": "5년만에 등장한 국채 '순상환'? '바이백'과는 뭐가 다를까? [남정민의 정...",
+          "source": "hankyung.com",
+          "url": "https://www.hankyung.com/article/202604102856i",
+          "description": "미국-이란 전쟁으로 채권 금리가 치솟자 정부가 국채를 사들인 건데요. 바이백에도 ‘긴급’ 바이백이 있고, 그냥 바이백이 있습니다. 둘다 나라가 국채를 사는 행위라는 점에서는 똑같지만, 의미도 목적도 조금씩...",
+          "pubDate": "Sat, 11 Apr 2026 08:01:00 +0900"
         },
         {
-          "title": "한국 국채, WGBI 편입…채권시장 반등?",
-          "source": "hansbiz.co.kr",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=832051",
-          "description": "채권 금리에도 가시적인 변화가 감지됐다. 국고채 3년물 금리는 중동 분쟁 여파로 지난달 23일 연 3.617%까지 치솟았다가 편입 당일 3.370%로 하락했다. 3년물 금리가 3.3%대로 내려온 것은 지난달 19일 이후 처음이다....",
-          "pubDate": "Fri, 10 Apr 2026 14:42:00 +0900"
+          "title": "'소 농장'에 70억 뭉칫돈이…송아지에 '금융' 입히는 전략 통했다",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/future/2026/04/11/2026041018463373680",
+          "description": "누적 수익률 17%, '안정 자산' 美 채권 금리보다 수익률 높아 2020년 10월 설립된 스탁키퍼는 현재까지 15회차에 걸쳐 한우 조각투자상품(투자계약증권)을 발행했다. 이 가운데 5개 상품의 청산을 완료했다. 청산 완료 상품...",
+          "pubDate": "Sat, 11 Apr 2026 08:00:00 +0900"
         },
         {
-          "title": "기준금리 7연속 동결…중동사태 장기화시 ‘인상’할듯",
-          "source": "wowtv.co.kr",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604100319&t=NNv",
-          "description": "오늘 금통위 이후 채권시장에서도 국고채 금리가 다소 상승하는 움직임이 나왔지만, 전반적으로 차분했습니다. <앵커> 오늘 이창용 총재의 마지막 금통위이기도 합니다. <기자> 이창용 총재 2022년 4월 21일 취임 후 4년 동안...",
-          "pubDate": "Fri, 10 Apr 2026 14:34:00 +0900"
+          "title": "[지난밤 뉴욕에선] 3대지수, 미·이란 협상 대기 속 혼조",
+          "source": "straightnews.co.kr",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=299941",
+          "description": "채권시장에서는 장단기 금리가 엇갈렸다. 미국 10년 만기 국채금리�� 4bp 오른 4.32%, 2년 만기 국채금리는 5bp 내린 3.80%를 기록했다. 달러화 가치는 큰 변화 없이 움직였다. 아전트 캐피털의 제드 엘러브룩은...",
+          "pubDate": "Sat, 11 Apr 2026 07:02:00 +0900"
         },
         {
-          "title": "[굿모닝! 금융지식]요즘 채권이 뜬다…금리 하락기 돈 버는 구조를 이해...",
-          "source": "goodkyung.com",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=285688",
-          "description": "이처럼 채권은 금리 변화와 밀접하게 연결된 자산인 만큼, 투자에 앞서 금리와 채권 가격 간 관계를 정확히 이해하는 것이 중요하다. 이를 기반으로 투자 전략을 세워야 안정적인 수익을 기대할 수 있다. 금리와 채권...",
-          "pubDate": "Fri, 10 Apr 2026 11:44:00 +0900"
+          "title": "'평화 기대 vs 전쟁 불안'…뉴욕증시 혼조세 마감",
+          "source": "thefairnews.co.kr",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=74087",
+          "description": "채권 시장에서는 금리가 상승했다. 10년 만기 미 국채 수익률은 4.311%로 상승하며 물가 상승 압력을 반영했다. CPI 상승률이 여전히 높은 수준을 유지하고, 기대 인플레이션이 반등한 점이 금리 상승 요인으로 작용했다....",
+          "pubDate": "Sat, 11 Apr 2026 06:36:00 +0900"
         },
         {
-          "title": "[한국 국채, 4월부터 세계국채지수 편입] WGBI 편입 첫발 뗀 한국 국채…...",
-          "source": "economychosun.com",
-          "url": "https://economychosun.com/site/data/html_dir/2026/04/03/2026040300020.html",
-          "description": "4월 1일 서울 채권시장에서 국고채 금리는 전 구간에서 큰 폭으로 하락했다. 3년 만기 국고채 금리는 전 거래일보다 18.2bp(1bp=0.01%포인트) 내린 연 3.370%에 마감했고, 10년물 금리도 19.0bp 하락한 3.689%로 거래를 마쳤다....",
-          "pubDate": "Fri, 10 Apr 2026 11:34:00 +0900"
+          "title": "뉴욕증시, 미-이란 협상 앞두고 혼조 마감…나스닥 0.35%↑",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260411000017",
+          "description": "채권 금리는 가격과 반대로 움직인다. 오라이언의 팀 홀랜드 최고투자책임자(CIO는 \"연준은 3월과 4월에 발표되는 그 어떤 경제 지표라도 일시적인 것으로 간주하고 넘기기 위해 가용한 모든 수단을 동원할 것...",
+          "pubDate": "Sat, 11 Apr 2026 05:14:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "4월 10일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. greened.kr, ekoreanews.co.kr, hansbiz.co.kr 등에서 보도되었으며, 신한라이프, 빅3, 구도 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 11일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. biztribune.co.kr, ftoday.co.kr, greened.kr 등에서 보도되었으며, 삼양식품, 브리프, 파리바게뜨 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "[브리프]파리바게뜨 오뚜기 농심 삼양식품 폴바셋 동아오츠카 롯데칠성...",
+          "source": "biztribune.co.kr",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=352225",
+          "description": "퀘사디아'를 ▲사이드킥스(Sidekicks)와 '매콤달콤한 불닭 바나나 퍼널 케이크'를 준비했다. 불닭크롤은... 교촌은 이번 이벤트를 통해 4월 30일(목) 대전 한화생명볼파크에서 열리는 ▲한화 이글스-SSG 랜더스 경기와 5월...",
+          "pubDate": "Sat, 11 Apr 2026 08:34:00 +0900"
+        },
+        {
+          "title": "보험사 '생산적 금융' 빗장 풀리나…위험계수 완화 논의는 '신중'",
+          "source": "ftoday.co.kr",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=357540",
+          "description": "이번 논의의 핵심은 지급여력(K-ICS·킥스)제도의 '위험계수' 조정이다. 위험계수는 자산별 위험 수준에 따라... (NH농협·교보·삼성·신한·한화생명) 371조7828억원에 달한다. 이 가운데 채권 비중이 각각 88조3876억원...",
+          "pubDate": "Fri, 10 Apr 2026 16:38:00 +0900"
+        },
         {
           "title": "[유통가 레이더] 첫 임단협 성공한 '배민' 우아한형제들... 비상 시 서비...",
           "source": "greened.kr",
@@ -95,73 +109,59 @@
           "pubDate": "Fri, 10 Apr 2026 12:12:00 +0900"
         },
         {
+          "title": "[유통소식] 삼양식품 불닭, '코첼라' 공식 파트너 참여",
+          "source": "4th.kr",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2110266",
+          "description": "퀘사디아' △사이드킥스(Sidekicks)와 '매콤달콤한 불닭 바나나 퍼널 케이크' 등이 있다. '게토레이 런'. 2026.4.... 행사는 4월 30일 대전 한화생명볼파크와 5월 6일 서울 잠실야구장에서 열리는 경기와 연계해 진행되며, 총...",
+          "pubDate": "Fri, 10 Apr 2026 11:26:00 +0900"
+        },
+        {
           "title": "신한라이프 약진에 생보업계 판도 변화…'빅3' 구도 재편 조짐",
           "source": "ekoreanews.co.kr",
           "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85525",
           "description": "신한라이프의 지급여력비율(K-ICS·킥스)은 지난해 말 기준 206%로 전년 말(205.7%) 대비 0.3%포인트(p) 상승했다. 이는 삼성생명(198%), 교보생명(165.7%, 경과조치 적용 시 223%), 한화생명(157.5%) 등 대형 생보사 중 가장 높은...",
           "pubDate": "Thu, 09 Apr 2026 17:12:00 +0900"
-        },
-        {
-          "title": "[IFRS17 도입, 보험사 점검] ③ 김영만 DB생명, 연임 여부 관심...보장성...",
-          "source": "hansbiz.co.kr",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=831468",
-          "description": "이에 <한스경제>는 주요 보험사들의 자본��정성 변화를 통해 지급여력비율(킥스·K-ICS)과 CSM이 손익... 삼성생명·한화생명·교보생명과 같은 빅3가 국내 생보시장의 절반 이상을 점유하며 구조적 우위를 유지하고...",
-          "pubDate": "Thu, 09 Apr 2026 08:38:00 +0900"
-        },
-        {
-          "title": "김동원 사장 체제 한화생명, 순이익 56% 급감…뿌리가 흔들린다",
-          "source": "insightkorea.co.kr",
-          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=244351",
-          "description": "한화생명의 킥스 비율은 지난해 기준 157.7%로 1년 새 6.2%p 하락했다. 연결 실적으로 보면 해외 실적 덕분에 그나마 사정이 낫다. 한화생명의 지난해 연결기준 당기순이익은 8363억원으로 전년 대비 3.4% 감소했다. 새로...",
-          "pubDate": "Wed, 08 Apr 2026 19:08:00 +0900"
-        },
-        {
-          "title": "[포커스] 신한라이프, 순이익 보험업계 3위 등극…'빅3' 구도 깨다",
-          "source": "startuptoday.co.kr",
-          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=609126",
-          "description": "한화생명은 8조7140억원으로 4.3% 감소했다. 신한라이프의 지난해 말 킥스는 205.9%로 대형 생보 4사 중 가장 높다. 삼성생명은 198%, 교보생명은 165.7%, 한화생명은 157% 수준이다. 내년 기본자본 제도 도입을 앞둔...",
-          "pubDate": "Wed, 08 Apr 2026 14:48:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "4월 10일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. bloter.net, pinpointnews.co.kr, biz.heraldcorp.com 등에서 보도되었으며, 반도체, 삼성전기, 이달 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 11일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. newsway.co.kr, sisajournal-e.com, newsis.com 등에서 보도되었으며, 6000, 반도체, 세수 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전기, 이달 30일 1분기 실적 발표 IR 개최",
-          "source": "bloter.net",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=659157",
-          "description": "삼성전기의 핵심 사업인 적층세라믹콘덴서(MLCC)를 중심으로 한 수요 회복 흐름과 수익성 개선 여부에 주목하고 있다. 특히 전장 및 서버용 등 고부가 제품 비중 확대가 실적에 미친 영향과 함께 카메라모듈 및 반도체...",
-          "pubDate": "Fri, 10 Apr 2026 15:08:00 +0900"
+          "title": "반도체 세수 125조 전망…국채 부담 완화·증시 밸류 높인다",
+          "source": "newsway.co.kr",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026041011500493436",
+          "description": "반도체 업황의 가파른 개선으로 상황은 반전됐다. 올해 삼성전자와 SK하이닉스가 각각 300조원, 200조원대 영업이익을 기록할 경우 두 기업이 내년에 납부할 법인세만 약 125조원으로 추정된다. 이는 올해 정부 법인세...",
+          "pubDate": "Sat, 11 Apr 2026 09:04:00 +0900"
         },
         {
-          "title": "알에프텍, 독자 균주 톡신 개발 박차… 바이오 사업 미래 먹거리 확보",
-          "source": "pinpointnews.co.kr",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=444543",
-          "description": "삼성전자의 차세대 인공지능(AI) 스마트폰인 갤럭시 시리즈가 글로벌 시장에서 예상을 뛰어넘는 사전 예약... 또한 반도체와 디스플레이 공정에서 쌓은 장비 기술을 활용해 이차전지 물류 자동화 시스템 사업을...",
-          "pubDate": "Fri, 10 Apr 2026 15:06:00 +0900"
+          "title": "메모리 가격 2분기도↑···삼성전자·SK하이닉스 실적 더 뛴다",
+          "source": "sisajournal-e.com",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=420393",
+          "description": "범용 메모리 반도체 가격이 올 1분기에 이어 2분기에도 큰 폭의 상승세가 예상되면서 삼성전자와 SK하이닉스의 추가 실적 개선을 견인할 것으로 전망된다. 특히 가장 많은 캐파(생산능력)를 보유 중인 삼성전자의...",
+          "pubDate": "Sat, 11 Apr 2026 09:00:00 +0900"
         },
         {
-          "title": "양향자 “與 용인 반도체 클러스터 이전 시도 저지할 것”…경기지사 출...",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10714628?ref=naver",
-          "description": "그는 “민주당은 용인 반도체 클러스터까지 이전하려 한다. 국민의힘이 견제해야 한다”며 “후보가 되면... 고졸 출신 삼성전자 임원 이력의 양 최고위원은 회견 후 취재진에 “저는 경기지사를 두 번 해도 추 후보...",
-          "pubDate": "Fri, 10 Apr 2026 15:05:00 +0900"
+          "title": "\"지금 올라탈까\"…증권가 \"40만전자·200만닉스 간다\"",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260410_0003585895",
+          "description": "삼성전자가 반도체 슈퍼 사이클에 힘입어 역대급 실적을 기록한 데 이어 SK하이닉스도 깜짝 실적을 발표할 것으로 전망되면서 주가 눈높이가 높아지고 있다. 증권가에서는 삼성전자가 글로벌 1위, 하이닉스가 3위...",
+          "pubDate": "Sat, 11 Apr 2026 09:00:00 +0900"
         },
         {
-          "title": "[신상품]신한자산운용, 'SOL AI반도체TOP2플러스' ETF…메모리 반도체 집...",
-          "source": "press9.kr",
-          "url": "http://www.press9.kr/news/articleView.html?idxno=74893",
-          "description": "특히 국내 반도체 ETF 가운데서도 삼성전자와 SK하이닉스 비중을 크게 가져가는 구조가 차별화 요소다. 기존 반도체 ETF들이 소부장 중심 또는 밸류체인 전반에 분산 투자하는 방식이었다면, 해당 상품은 AI 반도체...",
-          "pubDate": "Fri, 10 Apr 2026 15:04:00 +0900"
+          "title": "[ETF워치]코스피 6000 탈환 눈앞…ETF 400조 시대 '초읽기'",
+          "source": "news.bizwatch.co.kr",
+          "url": "https://news.bizwatch.co.kr/article/market/2026/04/10/0009",
+          "description": "이ㅅ와 함께 개별 운용사의 ETF 순자산총액도 빠르게 증가하는 모습입니다.KODEX 200 순자산 20조...TIGER 반도체TOP10 10조 돌파 삼성자산운용은 지난 9일 KODEX 200 순자산(AUM)이 20조원을 돌파했다고 밝혔습니다....",
+          "pubDate": "Sat, 11 Apr 2026 09:00:00 +0900"
         },
         {
-          "title": "[이슈딜] \"삼성전자 300조·하이닉스 200조…싸게 살 마지막 기회\"",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/168467",
-          "description": "(매수할) 종목을 선택한다면 반도체가 1순위가 되지 않겠느냐\"고 말했다. 염 이사는 삼성전자의 1분기 영업이익이 사상 최대치인 57조원을 기록한 데 대해 \"이게 올해 바닥이고 4분기까지 계속 올라간다\"며 메모리...",
-          "pubDate": "Fri, 10 Apr 2026 15:02:00 +0900"
+          "title": "\"계산기 대신 꿈을\" 젠슨 황의 도박… 삼성·SK와 'AI 롱게임' 승부수",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202604110833406270fbbec65dfb_1",
+          "description": "삼성전자와 SK하이닉스는 대규모 증산을 추진하고 있다. 그러나 시장 수요가 빅테크의 투자 축소 등으로 예상보다 저조할 경우, 급격한 공급 과잉이 발생할 수 있다. 이는 곧 HBM 단가 폭락으로 이어져 국내 반도체...",
+          "pubDate": "Sat, 11 Apr 2026 08:58:00 +0900"
         }
       ]
     }

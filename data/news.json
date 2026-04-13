@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-04-12T00:04:08.414Z",
+  "updatedAt": "2026-04-13T06:32:47.909Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "4월 12일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. economist.co.kr, ddaily.co.kr, fnnews.com 등에서 보도되었으며, 중동, 기준금리, 달러 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 13일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. asiatime.co.kr, newscj.com, newsway.co.kr 등에서 보도되었으며, 신현송, 사설, 4월도 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "달러 넘치는데 원화만 ‘뚝’… 외환 수급의 역설에 갇힌 韓경제",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202604060068",
-          "description": "17년 만에 1500원 돌파… 주요국 중 ‘하락률 최상위권’ 서울 외환시장에 따르면 지난 3월 31일 원·달러 환율은 장중 1536.9원까지 치솟으며 시장에 충격을 줬다. 이는 글로벌 금융위기 당시인 2009년 3월 10일(1561원) 이후...",
-          "pubDate": "Sun, 12 Apr 2026 09:01:00 +0900"
+          "title": "[사설] 4월도 역대급 수출 호조, 이면에 가려진 ‘그림자’도 살펴야",
+          "source": "asiatime.co.kr",
+          "url": "https://www.asiatime.co.kr/article/20260413500317",
+          "description": "같은 날 서울외환시장에서 원‧달러 환율은 전 거래일 대비 12.9원 오른 1495.4원에 개장하며 심리적 저항선인 1,500원 재돌파를 눈앞에 두고 있다. 환율상승은 수출기업의 원화환산 실적엔 유리하지만 수입물가 상승과...",
+          "pubDate": "Mon, 13 Apr 2026 15:26:00 +0900"
         },
         {
-          "title": "[경제D톡스] 중동 불안에 금리 또 묶였다…떠나는 이창용 “양쪽 비판 ...",
-          "source": "ddaily.co.kr",
-          "url": "https://www.ddaily.co.kr/page/view/2026041116594252208",
-          "description": "금융·외환시장의 변동성이 크게 확대됐다고 진단했다. 중동시장 불확실성이 높은 만큼, 현재 기준금리 수준을 유지하면서 사태의 추이와 파급영향을 지켜보는 적절하다는 판단에서다. 환율의 경우 지난 3월 중순 글로벌...",
-          "pubDate": "Sun, 12 Apr 2026 09:00:00 +0900"
+          "title": "신현송 \"외화표시 금융자산 상당 부분 처분… 순차적으로 줄이겠다\"",
+          "source": "newscj.com",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3393397",
+          "description": "신 후보자는 \"최근 환율이 1480원대로 다소 낮아지긴 했지만 중동 전쟁 이후 상승 폭이 여타 통화에 비해 컸다\"며 \"불확실성도 여전히 높은 만큼 앞으로도 외환시장 상황을 유심히 살펴보겠다\"고 강조했다. 신 후보자는...",
+          "pubDate": "Mon, 13 Apr 2026 15:16:00 +0900"
         },
         {
-          "title": "신현송 \"현 기준금리, 중립금리 추정 범위 중간 수준\"",
-          "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202604120815315600",
-          "description": "국민연금이 기금 투자 재원을 외화채권 발행 등으로 다변화��는 방식과 관련해서는 국내 외환시장에서의 외환 수요가 감소해 환율 상승 압력이 완화될 수 있다고 분석했다.",
-          "pubDate": "Sun, 12 Apr 2026 08:25:00 +0900"
+          "title": "미·이란 노딜에 환율 또 출렁…15일 신현송 청문회에 쏠린 눈",
+          "source": "newsway.co.kr",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026041315004012827",
+          "description": "13일 서울 외환시장에서 미국 달러화 대비 원화 환���은 12.9원 오른 1495.4원에서 출발해 점차 상승폭을 줄여 이날 오후 1480원대에서 거래되고 있다. 외환시장에서는 급등하는 국제유가로 환율이 다시 1500원선을 터치할 수...",
+          "pubDate": "Mon, 13 Apr 2026 15:08:00 +0900"
         },
         {
-          "title": "한은 사상 첫 ‘빅스텝’부터 환율과의 ‘사투’까지…이창용의 치열했...",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10715080?ref=naver",
-          "description": "이 총재는 국민연금의 ‘탄력적 환헤지(환율 변동 위험 관리)’를 비롯해 국민연금 ‘뉴 프레임워크(New framework)’ 등 다양한 외환시장 안정화 조치를 추진하며 수급 불균형을 정상화하는 데 집중했다. 이런 조치들이...",
-          "pubDate": "Sun, 12 Apr 2026 08:19:00 +0900"
+          "title": "신현송 \"추경 0.2%p 효과\"…외화자산 축소·CBDC 중심 통화질서 제시",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1705239",
+          "description": "다만 물가와 환율에 미치는 영향은 제한적일 것으로 봤다. 신 후보자는 \"에너지가격 상승 억제와 취약계층... 외환시장 안정 방안으로는 국민연금의 환헤지 확대를 긍정적으로 평가했다. 외화채권 발행 등 투자재원...",
+          "pubDate": "Mon, 13 Apr 2026 15:06:00 +0900"
         },
         {
-          "title": "중동 ‘2주 휴전’에 '高환율·高물가' 숨고르기…기준금리 어떻게 움직...",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202604080071",
-          "description": "미국 달러화에 대한 원화 환율(원·달러 환율)이 치솟으면서 우리 경제도 타격을 받은 가운데, 일각에서는... 전쟁 확산이라는 파괴적 시나리오는 일단 멈춰 섰지만, 외환 및 원자재 시장의 긴장감은 여전하다는 평가도...",
-          "pubDate": "Sun, 12 Apr 2026 08:01:00 +0900"
+          "title": "'노딜' 쇼크에 달러가치 급등...엔화 환율도 오른다",
+          "source": "gukjenews.com",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3555783",
+          "description": "글로벌 외환시장에서 달러화 가치가 강세를 보이고 있다. 13일 오후 1시 20분 기준 주요 6개국 통화 대비... 61%) 등 주요국 통화 가치는 일제히 하락했으며, 엔·달러 환율도 159.80엔으로 올라 엔화 가치가 절하됐다....",
+          "pubDate": "Mon, 13 Apr 2026 15:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "4월 12일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. sentv.co.kr, yna.co.kr, ceoscoredaily.com 등에서 보도되었으며, 채권시장, 금통위, 중동 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 13일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.kbs.co.kr, ajunews.com, news.sbs.co.kr 등에서 보도되었으며, 중동, 49, 성공예감 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "채권시장, 금통위 소화 후 중동 정세·신현송 청문회 ‘주시’",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202604120001",
-          "description": "대차 잔고 감소는 투자자들이 향후 채권 가격 상승(금리 하락)을 예상하고 공매도 성격의 거래를 줄였음을 의미한다. 전문가들은 단기 최악 국면은 지났으나 당분간 변동성 장세나 박스권 등락이 이어질 가능성이 높다고...",
-          "pubDate": "Sun, 12 Apr 2026 08:14:00 +0900"
+          "title": "[성공예감] 중동 전쟁을 테마로 투자? 이 원칙만은 꼭 지키세요 – 홍춘...",
+          "source": "news.kbs.co.kr",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8534258&ref=A",
+          "description": "그런데 미국의 기업들 중에 지금 마이크로소프트 정도를 제외하고는 아까 이야기했던 4대 빅테크 기업들이 주주들에 대한 보상을 점점 줄이거나 어마어마한 규모의 채권을 발행하고 있는데 채권 금리가 급등하기...",
+          "pubDate": "Mon, 13 Apr 2026 15:27:00 +0900"
         },
         {
-          "title": "무난한 금통위 넘긴 채권시장…중동 변수·신현송 청문회 대기",
-          "source": "yna.co.kr",
-          "url": "https://www.yna.co.kr/view/AKR20260411033900008?input=1195m",
-          "description": "채권 금리와 가격은 반대로 움직인다. 금융투자협회에 따르면 채권 대차거래 잔고 금액은 지난달 30일 203조7천309억원까지 통계 집계 이래 사상 최대치까지 불어났다가 소폭이지만 점차적으로 감소하는 추세다. 지난 10일...",
-          "pubDate": "Sun, 12 Apr 2026 08:05:00 +0900"
+          "title": "'롤러코스터 장세'에 전략 바꾼 투자자…\"파킹형 ETF 급부상\"",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260413145038715",
+          "description": "또 단기 채권과 CD금리를 기반으로 해 가격 변동성이 제한적이라는 점은 투자자들에게 심리적 안정감을 제공한다. 결국 시장 불확실성이 이어지는 가운데 투자자들 사이에서 '공격보다 대기' 전략이 확산되면서...",
+          "pubDate": "Mon, 13 Apr 2026 15:24:00 +0900"
         },
         {
-          "title": "4대 금융, 올 1분기 실적 소폭 개선 전망…호조 지속은 ‘글쎄’",
-          "source": "ceoscoredaily.com",
-          "url": "https://www.ceoscoredaily.com/page/view/2026040815043046338",
-          "description": "KB증권은 수수료 손익은 증가하겠지만, 금리 상승에 따른 채권 평가손실과 환평가 손실 반영으로 기타 비이자이익이 감소할 것으로 분석했다. 순이자이익은 4대 금융 모두 고른 성장세를 나타냈다. 올해 1분기...",
-          "pubDate": "Sun, 12 Apr 2026 07:00:00 +0900"
+          "title": "에너지 불안에 일본 10년물 국채 금리 2.49%로 상승…29년 만 최고",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008516186&plink=ORI&cooper=NAVER",
+          "description": "자금운용부 쇼크란 당시 대장성(현 재무성) 자금운용부가 국채 매입 중단을 선언하며 일본 국채 금리가 급등하고 채권시장이 큰 혼란에 빠졌던 사건입니다. 국채 금리가 크게 상승한 것은 중동 정세와 이로 인한...",
+          "pubDate": "Mon, 13 Apr 2026 15:15:00 +0900"
         },
         {
-          "title": "이란 전쟁·세계국채지수 편입 효과… 개미 '안전자산’ 채권 쓸어 담았...",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202604091725237311a6e8311f64_1",
-          "description": "특히 4월 WGBI 편입으로 향후 채권금리 하락을 기대한 투자자들의 수요가 반영된 것으로 전문가는 보고 있다. 지수 추종 자금이 국내시장으로 들어오면 금리 인하 효과가 전망되기 때문이다. 공동락 대신증권...",
-          "pubDate": "Sun, 12 Apr 2026 05:02:00 +0900"
+          "title": "푸본현대생명, 7000억원 자본 확충에도 투자손실 반복…수익성 회복 ‘...",
+          "source": "sateconomy.co.kr",
+          "url": "https://sateconomy.co.kr/news/view/1065577836031476",
+          "description": "금리 상승에 따른 채권 평가손실과 외화자산 환헤지 비용이 동시에 발생하면서 투자 부문 손실이 실적 전반을 끌어내린 것으로 분석된다. 이 같은 구조는 IFRS17(새 국제회계기준)과 IFRS9 도입 이후 더욱 뚜렷해졌다....",
+          "pubDate": "Mon, 13 Apr 2026 14:50:00 +0900"
         },
         {
-          "title": "20만전자, 100만닉스, 미·이란 휴전에 투심 폭발했지만…[주간 증시해설...",
-          "source": "thescoop.co.kr",
-          "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=309809",
-          "description": "하지만 채권금리가 하락세를 유지할지는 의문이다. 한국은행이 지난 10일 기준금리를 7차례 동결하면서 채권금리가 상승세로 돌아섰기 때문이다. 여기에 중동 리스크로 인한 인플레이션 우려가 장기화하면...",
-          "pubDate": "Sat, 11 Apr 2026 10:23:00 +0900"
+          "title": "중동 리스크에 채권금리 급등…외국인 보유잔고 감소폭 '사상 최대'",
+          "source": "seoulwire.com",
+          "url": "http://www.seoulwire.com/news/articleView.html?idxno=716586",
+          "description": "중동 지정학적 리스크 확산과 글로벌 금리 상승 여파로 국내 채권시장이 약세 흐름을 이어갔다. 국고채 금리가 전 구간에서 큰 폭으로 상승해 외국인 투자자금 이탈과 발행 물량 확대가 맞물리며 수급 부담이...",
+          "pubDate": "Mon, 13 Apr 2026 14:48:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "4월 12일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, view.asiae.co.kr, biztribune.co.kr 등에서 보도되었으며, 보험사, 환율, 100원 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 13일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, view.asiae.co.kr, biztribune.co.kr 등에서 보도되었으며, 보험사, 환율, 100원 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "보험사, 환율 100원 움직이면 킥스 1%p 변동…\"환 영향 적어\"",
@@ -119,49 +119,49 @@
           "title": "[유통가 레이더] 첫 임단협 성공한 '배민' 우아한형제들... 비상 시 서비...",
           "source": "greened.kr",
           "url": "https://www.greened.kr/news/articleView.html?idxno=339128",
-          "description": "퀘사디아'를 ▲사이드킥스(Sidekicks)와 '매콤달콤한 불닭 바나나 퍼널 케이크'를 준비했다. 불닭 크롤은... 교촌은 이번 이벤트를 ��해 4월 30일 대전 한화생명볼파크에서 열리는 ▲한화 이글스-SSG 랜더스 경기와 5월 6일...",
+          "description": "퀘사디아'를 ▲사이드킥스(Sidekicks)와 '매콤달콤한 불닭 바나나 퍼널 케이크'를 준비했다. 불닭 크롤은... 교촌은 이번 이벤트를 통해 4월 30일 대전 한화생명볼파크에서 열리는 ▲한화 이글스-SSG 랜더스 경기와 5월 6일...",
           "pubDate": "Fri, 10 Apr 2026 12:12:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "4월 12일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. seoulfn.com, newsis.com, opinionnews.co.kr 등에서 보도되었으며, 반도체, HBM이, 키운 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 13일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. dailian.co.kr, popcornnews.net, pinpointnews.co.kr 등에서 보도되었으며, 삼성, 삼성전자, 노조 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "HBM이 키운 장비 호황···K-반도체 생태계 동반 성장",
-          "source": "seoulfn.com",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=626212",
-          "description": "삼성전자와 공급 계약을 체결했고, 아이에스티이 역시 SK하이닉스에 FOUP 클리너 장비를 납품하며 수주를 확대하고 있다. ◇ AI·HBM 투자 폭증···장비 시장 '200조 시대' 진입 = 이 같은 수주 확대는 글로벌 반도체 시장의...",
-          "pubDate": "Sun, 12 Apr 2026 09:00:00 +0900"
-        },
-        {
-          "title": "\"노트북 100만원↑\"…메모리 급등·관세 영향에 전자제품 가격 줄줄이 인...",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260410_0003586136",
-          "description": "메모리 반도체 가격 급등과 관세 부과 영향으로 전자제품 가격��� 잇따라 오를 조짐을 보이고 있다. 소비자 가격 인상이 수요 감소로 이어질 수 있어 시장 위축 우려도 나온다. 12일 업계에 따르면 LG전자와 삼성전...",
-          "pubDate": "Sun, 12 Apr 2026 09:00:00 +0900"
-        },
-        {
-          "title": "[이번주 증시] 중동 뉴스 플로우에 변동성 커질 수 있어",
-          "source": "opinionnews.co.kr",
-          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=136613",
-          "description": "역시 삼성전자 실적 서프라이즈 이후 코스피 2026년 당기순이익 전망치 상향 조정 진행 중이며 12개월 선행... 업종들로는 반도체, IT-HW, 증권, 기계, 2차전지 등이 있다\"고 덧붙였다. 이번주에는 케빈 워시 미 차기...",
-          "pubDate": "Sun, 12 Apr 2026 09:00:00 +0900"
-        },
-        {
-          "title": "황교안 평택(을) 국회의원 재선거 후보, 제4호 공약 발표",
+          "title": "삼성 노조, 파업 불참자 '블랙리스트' 논란…회사 경찰 수사 의뢰",
           "source": "dailian.co.kr",
-          "url": "https://www.dailian.co.kr/news/view/1632416/?sc=Naver",
-          "description": "삼성반도체와 협력업체가 함께하는 상생모델을 구축하고 지역 청년 우선채용 협약을 추진하는 한편, 국제학교 조기 개교와 교육특화구역 조성으로 교육 여건을 강화하겠다는 구상이다. 눈에 띄는 공약은 맞벌이 부부와...",
-          "pubDate": "Sun, 12 Apr 2026 09:00:00 +0900"
+          "url": "https://www.dailian.co.kr/news/view/1632878/?sc=Naver",
+          "description": "이번 논란은 최근 성과급 재원 확대와 총파업 예고를 둘러싼 삼성전자 노사 갈등과도 맞물린다. 업계에서는 성과급 갈등에서 출발한 노사 대립이 파업 불참자 색출 문제로까지 번지면서, 반도체(DS)와 디바이스경험(DX)...",
+          "pubDate": "Mon, 13 Apr 2026 15:28:00 +0900"
         },
         {
-          "title": "‘휴전·반도체 실적’ 맞물려 반등…방향키는 ‘유가·환율’ [주간증...",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20260411026466221",
-          "description": "특히 반도체 업종을 중심으로 실적 기대가 빠르게 상향되며 지수 상승을 견인했다. 증권가에 따르면 지난 7일 삼성전자 실적 발표 이후 코스피 이익 추정치는 단기간에 큰 폭으로 상향 조정됐다. 올해 코스피 합산...",
-          "pubDate": "Sun, 12 Apr 2026 09:00:00 +0900"
+          "title": "\"부자가 되어 좋은 일을 많이 하자\" 세종대 김대종 교수, '상주 상산포럼...",
+          "source": "popcornnews.net",
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=118207",
+          "description": "특히 세계 시가총액 1위 기업 엔���디아와 삼성전자에 투자를 강조하며,\"월급의 25%를 분산투자하면 1조... 모빌리티, 반도체, 에너지 등 이재명 정부의 ABCDEF 미래 산업 중심의 정책 방향에 적극적으로 참여해야 한다고...",
+          "pubDate": "Mon, 13 Apr 2026 15:26:00 +0900"
+        },
+        {
+          "title": "한솔테크닉스 주가 떡상랠리… 삼성 공급망 핵심 가치 부각",
+          "source": "pinpointnews.co.kr",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=445069",
+          "description": "업계 대장주인 삼성전자는 2.55% 하락한 20만 750원에 거래 중이며, LG전자 역시 3% 하락한 11만 4850원을 기록하고 있다. 일월지엠엘과 서울반도체, 그리고 광학 렌즈 분야의 아이엘 역시 하락세를 나타내며 장을 이어가고...",
+          "pubDate": "Mon, 13 Apr 2026 15:24:00 +0900"
+        },
+        {
+          "title": "中 로봇 잘 나갈수록 삼성전자·SK하이닉스도 '호재'",
+          "source": "sisajournal-e.com",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=420451",
+          "description": "삼성전기·LG이노텍도 반도체 기판·카메라 모듈 등 주요 부품 사업을 휴머노이드 로봇으로 확장하고 있다. 양사 모두 중국의 가격 경쟁력에 대응해 기술 진입 장벽이 높은 고정밀 센싱과 카메라 모듈, 플립칩...",
+          "pubDate": "Mon, 13 Apr 2026 15:22:00 +0900"
+        },
+        {
+          "title": "충남 아산, 삼성전자 반도체 투자 유치 '청신호'",
+          "source": "ccdn.co.kr",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1073172",
+          "description": "충남 아산시가 삼성전자 반도체 투자 유치에 속도를 내면서 지역경제 활성화에 대한 기대감이 높아지고 있다. 오세현 아산시장은 지난 1일 배방읍 소재 삼성전자 온양사업장을 방문해 인공지능(AI) 중심으로 급증하는...",
+          "pubDate": "Mon, 13 Apr 2026 15:22:00 +0900"
         }
       ]
     }

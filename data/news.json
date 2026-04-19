@@ -1,56 +1,70 @@
 {
-  "updatedAt": "2026-04-18T05:26:21.066Z",
+  "updatedAt": "2026-04-19T00:05:20.508Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "4월 18일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. gokorea.kr, daily365.news, biz.newdaily.co.kr 등에서 보도되었으며, 글로벌, 호르무즈, 금융시장 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 19일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. betanews.net, mediapen.com, edaily.co.kr 등에서 보도되었으며, 시장, 환율, 1470 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "G20 총회서 확인한 한국의 위상… 글로벌 투자자들도 주목",
-          "source": "gokorea.kr",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=864001",
-          "description": "그는 중동 지역의 긴장이 완화됨에 따라 외환시장과 주식시장이 안정되고 있으며, 이러한 흐름 속에서... 환율 안정화가 경제에 어떤 영향을 미칠지에 대해 논의할 가능성도 열어두었다. 환율과 관련하여 그는 한국 경제의...",
-          "pubDate": "Sat, 18 Apr 2026 10:48:00 +0900"
+          "title": "대출 규제·공급 확대·거시 불안... 4월 말 부동산 시장 '시계제로'",
+          "source": "betanews.net",
+          "url": "https://www.betanews.net/article/view/beta202604190001",
+          "description": "환율 상승은 수입 물가 자극을 통해 금리 인하 시점을 늦추는 요인이 된다. 이는 부동산 시장의 자금 조달 비용 상승과 투자 심리 위축으로 이어질 수 있어, 외환 시장의 변동성이 부동산 시장에 미칠 파급력에 대해...",
+          "pubDate": "Sun, 19 Apr 2026 08:02:00 +0900"
         },
         {
-          "title": "호르무즈 개방 소식에 글로벌 금융시장 들썩…S&P500 첫 7,100선 돌파",
-          "source": "daily365.news",
-          "url": "https://www.daily365.news/2026/04/18/%ed%98%b8%eb%a5%b4%eb%ac%b4%ec%a6%88-%ea%b0%9c%eb%b0%a9-%ec%86%8c%ec%8b%9d%ec%97%90-%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%88%ec%9c%b5%ec%8b%9c%ec%9e%a5-%eb%93%a4%ec%8d%a9sp500-%ec%b2%ab-7/",
-          "description": "18일 한국시간 오전 2시 기준 달러-원 환율은 전장 서울외환시장 종가(1,483.50원) 대비 23.50원 하락한 1,460.00원에 야간 거래를 마쳤다. 한때 1,455원까지 내려 이란 전쟁 개시 이후 최저치를 기록했다. 주요 6개국 통화...",
-          "pubDate": "Sat, 18 Apr 2026 10:48:00 +0900"
+          "title": "\"벌어도 빠져나간다…해외투자에 약해진 원화\"",
+          "source": "mediapen.com",
+          "url": "https://www.mediapen.com/news/view/1094213",
+          "description": "보고서는 외환시장의 민감도가 높아지고 단기적인 수급 불균형이 심화될 경우 환율 변동성이 확대될 수 있다고 지적했다. 특히 미국 자산에 대한 높은 집중도와 이에 따른 달러 강세 기대가 이러한 변동성을 추가로 키울...",
+          "pubDate": "Sun, 19 Apr 2026 08:02:00 +0900"
         },
         {
-          "title": "호르무즈 열리자 금융시장 'V자 반등' … 환율 1460원 급락·S&P500 7100 돌...",
-          "source": "biz.newdaily.co.kr",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/04/18/2026041800023.html",
-          "description": "18일 외환시장에 따르면 달러-원 환율은 야간 거래에서 전일 대비 14.6원 하락한 1460.0원에 마감했다. 장중 한때 1455원까지 떨어지며 전쟁 이후 최저 수준을 기록했다. 불과 하루 전 1480원대 중반과 비교하면 20원 넘게...",
-          "pubDate": "Sat, 18 Apr 2026 10:40:00 +0900"
+          "title": "낙관과 경계 사이…상·하방 압력에 1400원 후반대 박스권[주간외환전망...",
+          "source": "edaily.co.kr",
+          "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=01144726645417760",
+          "description": "이란 전쟁에 대한 종전 낙관론이 위험 선호 심리를 키운 만큼 외환시장은 주말 추가 협상에 대한 소식을... 여전히 시장을 주도할 것으로 분석된다. 원·달러 환율은 상하방 압력이 공존하는 만큼 1400원 후반대가 이어질...",
+          "pubDate": "Sun, 19 Apr 2026 07:01:00 +0900"
         },
         {
-          "title": "구윤철 \"한국경제에 대한 국제사회 기대·관심 높아짐 느껴\"",
-          "source": "mbnmoney.mbn.co.kr",
-          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005816619",
-          "description": "그는 \"중동 전쟁 관련, 이란에서 오늘 (호르무즈 해협) 통항을 허용하면서 외환시장도 안정화되고 우리... 산업부에서 첫 대미투자 프로젝트를 준비하고 있다\"며 \"중동 전쟁과 관련해 환율이 많이 안정화되고 유가도...",
-          "pubDate": "Sat, 18 Apr 2026 10:30:00 +0900"
+          "title": "[다음주 환율전망] 중동 리스크·배당 수요 겹쳤다…원·달러 환율, 1470...",
+          "source": "goodkyung.com",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=286011",
+          "description": "17일 서울 외환시장에서 원·달러 환율은 전 거래일 주간거래 종가(오후 3시 30분)에서 8.9원 오른 1483.5원에 마감했다. 이날 다시 환율이 1480선을 돌파하며 급등한 배경은 중동전쟁의 장기화 가능성이다. 전날(현지시간)...",
+          "pubDate": "Sun, 19 Apr 2026 07:00:00 +0900"
         },
         {
-          "title": "미국 찾은 구윤철 \"국제사회의 韓 경제에 대한 기대 굉장히 커\"",
-          "source": "todaykorea.co.kr",
-          "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=400876",
-          "description": "그는 \"이란에서 통항을 허용하면서 외환시장도 안정화되고 우리 주식시장도 급등하는 분위기 속에서 잘... 관련 환율이 많이 안정화되고 유가도 떨어진 상황이니 이는 한국 경제에 좋은 신호가 되지 않을까 싶다. 이런...",
-          "pubDate": "Sat, 18 Apr 2026 09:56:00 +0900"
+          "title": "역외차액결제선물환 시장 격차, 서울 환율 변동성 촉진",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/economy/351085",
+          "description": "19일 연합인포맥스에 따르면 지난달 서울 외환시장 원/달러 환율 종가를 기준으로 계산한 적정 차액결제선물환 환율과 실제 뉴욕 시장에서 거래된 원/달러 1개월물 최종 호가의 차이는 하루 평균 12.2원이었다....",
+          "pubDate": "Sun, 19 Apr 2026 06:58:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "4월 18일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. ntoday.co.kr, seoulfn.com, thescoop.co.kr 등에서 보도되었으며, 이란, 주담대, 17 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 19일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. weekly.chosun.com, news1.kr, ntoday.co.kr 등에서 보도되었으며, 8조, 17, 기름값 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "기름값 뛰고 경기는 식는다…'4高 쇼크' 다시 오나",
+          "source": "weekly.chosun.com",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=50774",
+          "description": "다만 휴전으로 채권 금리와 환율이 내려가고 주가가 뛰는 등 금융시장이 먼저 반응하는 것을 보면, 전쟁이 조기에 종식될 경우 스태그플레이션 가능성은 매우 낮아지게 된다.\" 박상현 iM증권 연구원은 이렇게 전망했다....",
+          "pubDate": "Sun, 19 Apr 2026 08:00:00 +0900"
+        },
+        {
+          "title": "WGBI 편입 2주 만에 외국인 8조 순매수…일본계 '큰손'도 2.8조 유입",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/economy/trend/6140757",
+          "description": "유가 급등에 따른 물가 충격으로 4월 이후 채권 금리의 하방 경직성이 강화될 수 있으며, 금통위가 매파적 스탠스로 선회할 경우 외국인 자산 평가 손실로 이어질 수 있다는 점도 리스크 요인으로 꼽힌다. 김명실...",
+          "pubDate": "Sun, 19 Apr 2026 06:30:00 +0900"
+        },
         {
           "title": "인플레 우려에도 달러로 자금 이동…유가에 달린 금값",
           "source": "ntoday.co.kr",
           "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=126620",
-          "description": "금리가 내려가면 채권이나 예금 같은 달러 자산의 수익률이 떨어지고, 달러 약세가 동반되면서 달러로 거래되는 금 가격은 자연스럽게 오른다. 러시아·우크라이나 전쟁 장기화, 미·중 갈등 등 복합적인 지정학적...",
+          "description": "금리가 내려가면 채권이나 예금 같은 달러 자산의 수익률이 떨어지고, 달러 약세가 동반되면서 달러로 거래���는 금 가격은 자연스럽게 오른다. 러시아·우크라이나 전쟁 장기화, 미·중 갈등 등 복합적인 지정학적...",
           "pubDate": "Sat, 18 Apr 2026 10:06:00 +0900"
         },
         {
@@ -66,26 +80,12 @@
           "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=309908",
           "description": "#채권 = 국내 채권금리 안정세가 이어지고 있다. 한국은행의 기준금리 동결 소식 이후 3.38%까지 상승했던 국고채(3년물) 금리는 미국-이란 종전 협상 기대감에 지난 15일 3.32%로 떨어졌다. 여기에 세계국채지수(WGBI)...",
           "pubDate": "Sat, 18 Apr 2026 09:53:00 +0900"
-        },
-        {
-          "title": "뉴욕증시, 이란 호르무즈 개방에 방긋…S&P500·나스닥 사상 최고치[종합...",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2576879",
-          "description": "뉴욕 채권시장에서 미국 채권금리의 벤치마크 역할을 하는 10년 만기 미 국채금리는 전일보다 7bp(1bp=0.01%포인트) 하락했다. 6개 통화 대비 달러 가치를 나타내는 달러지수는 위험자산 선호 심리가 고조되자 0.3...",
-          "pubDate": "Sat, 18 Apr 2026 08:16:00 +0900"
-        },
-        {
-          "title": "금리 인하·주담대 규제에…5대은행 주담대, 보름 사이 5000억 증가",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026041715085436162",
-          "description": "지난달부터 리스크 회피를 위한 저원가성 예금이 유입되며 자금 조달 비용이 줄어든 데다, 종전 기대감으로 채권 금리가 하락하며 주담대 고정·변동 금리를 함께 끌어내리고 있다. 지난 15일 기준 주담대 변동금리...",
-          "pubDate": "Sat, 18 Apr 2026 08:00:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "4월 18일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ekn.kr, edaily.co.kr, bizwnews.com 등에서 보도되었으며, 자사주, 신한라이프, 금융지주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 19일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ekn.kr, edaily.co.kr, bizwnews.com 등에서 보도되었으며, 자사주, 신한라이프, 금융지주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "신한라이프, 금융지주 2위 굳은 신한 ‘반격 열쇠’",
@@ -119,49 +119,49 @@
           "title": "금융권 자사주 소각 흐름 속 일부는 '관망'… 자사주 처리 온도차, 왜?",
           "source": "ekoreanews.co.kr",
           "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85576",
-          "description": "한화생명의 킥스 비율은 지난해 말 기준 157.5%로 전년(163.7%) 대비 6.2%포인트(p) 하락한 상태다. 한신평은 \"이번 상법 개정에 따른 자기주식 의무 소각이 금융회사의 신용도에 미치는 영향은 제한적일 것\"이라며...",
+          "description": "한화생명의 킥스 비율은 지난해 말 기준 157.5%로 전년(163.7%) 대비 6.2%포인트(p) 하락한 상태다. 한신평은 \"이번 상법 개정에 따른 자기주식 의무 소각이 ��융회사의 신용도에 미치는 영향은 제한적일 것\"이라며...",
           "pubDate": "Mon, 13 Apr 2026 17:12:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "4월 18일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. newspost.kr, ajunews.com, jeonmae.co.kr 등에서 보도되었으며, 대통령, 순방, 동행 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 19일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. thebigdata.co.kr, imaeil.com, opinionnews.co.kr 등에서 보도되었으며, SK하이닉스, 실적, 이번주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "李대통령 순방 동행, 재계 총수 총출동…인도·베트남 투자 총력전",
-          "source": "newspost.kr",
-          "url": "https://www.newspost.kr/news/articleView.html?idxno=222413",
-          "description": "2024년 12월에는 현지 조직을 '베트남삼성전략협력실'로 개편해 사업 중요도를 높이고, 약 12억 달러(1조8천억 원) 규모의 AI 반도체 기판 투자도 추진 중이다. SK그룹은 베트남에서 신재생에너지와 자원순환 중심의...",
-          "pubDate": "Sat, 18 Apr 2026 14:20:00 +0900"
+          "title": "SK하이닉스, HBM 수요 낸드까지 번졌다…증권가 ‘실적 랠리’ 전망(일...",
+          "source": "thebigdata.co.kr",
+          "url": "http://www.thebigdata.co.kr/view.php?ud=202604171642277670ecbf9426b_23",
+          "description": "이에 따라 SK하이닉스를 비롯한 주요 반도체 기업들의 실적 기대감도 높아지는 모습이다. 19일... 삼성전자는 시안 공장의 공정 전환과 증설을 진행 중이며 SK하이닉스도 다롄 공장을 중심으로 생산 효율 개선과 일부...",
+          "pubDate": "Sun, 19 Apr 2026 09:02:00 +0900"
         },
         {
-          "title": "[기원상 경제진단] 종전의 문턱에 선 코스피, 환호보다 검증이 먼저다",
-          "source": "ajunews.com",
-          "url": "https://www.ajunews.com/view/20260418135927442",
-          "description": "상승의 주축은 이번에도 반도체다. 미래에셋·하나증권은 삼성전자 목표주가를 30만 원으로, KB증권은 36만 원까지 제시했다. SK하이닉스 역시 한국투자증권이 기존 150만 원에서 180만 원으로 상향조정하는 등...",
-          "pubDate": "Sat, 18 Apr 2026 14:12:00 +0900"
+          "title": "[황현호 칼럼] 전쟁 민생지원금",
+          "source": "imaeil.com",
+          "url": "https://www.imaeil.com/page/view/2026041308592323106",
+          "description": "우선은 삼성전자, 하이닉스 같은 세계적 반도체 기업이 세수 확보를 해 주니 버틸 수 있는데, 이들 기업이 어려움을 겪는 순간 우리나라는 위기로 들어갈 수 밖에 없다. 국민 경제의 기초체력을 다져야 하는데 보조금으로...",
+          "pubDate": "Sun, 19 Apr 2026 09:00:00 +0900"
         },
         {
-          "title": "경기도, 평택에서 상반기 '투자유치 현장 인사이트 데이' 개최",
-          "source": "jeonmae.co.kr",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249301",
-          "description": "이어 방문한 삼성전자 평택캠퍼스에서는 세계 최대 규모의 반도체 생산기지를 둘러보며 첨단 ���업 유치를 위한 인프라 형성과 행정 지원의 중요성을 현장에서 직접 체감했다. 유소정 경기도 투자진흥과장은 \"성공 현장...",
-          "pubDate": "Sat, 18 Apr 2026 14:06:00 +0900"
+          "title": "[이번주 증시] 미-이란 2차 회담 관건...SK하이닉스 등 실적도 주목",
+          "source": "opinionnews.co.kr",
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=136982",
+          "description": "앞서 실적을 발표한 삼성전자가 강한 메모리 가격 상승을 바탕으로 컨센서���를 크게 상회한 점을 고려할... 선택\"이라며 \"반도체, IT하드웨어, 산업재(상산, 전력기기, 원전 등), 증권, 은행, 지주 업종의 비중 확대...",
+          "pubDate": "Sun, 19 Apr 2026 09:00:00 +0900"
         },
         {
-          "title": "덕산테코피아, 반도체+배터리 동시 반등…게임 체인저 등장",
-          "source": "pinpointnews.co.kr",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446579",
-          "description": "주요 고객사는 삼성전자와 삼성디스플레이, SK온 등 국내 대형 IT 기업과 글로벌 제약사들로 구성되어 있다. 안정적인 고객 기반은 실적 변동성을 완화하는 요소로 평가된다. 최근 시장에서 주목하는 포인트는 반도체...",
-          "pubDate": "Sat, 18 Apr 2026 13:48:00 +0900"
+          "title": "코스피 6300넘을까…실적 vs 지정학 변수[주간증시전망]",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260417_0003596227",
+          "description": "앞서 삼성전자가 메모리 가격 상승을 바탕으로 시장 기대치를 크게 웃도는 실적을 내놓은 점을 감안하면... 투자 전략 측면에서는 인공지능(AI) 인프라를 중심으로 한 반도체 업종에 대한 주목도가 높아지고 있다....",
+          "pubDate": "Sun, 19 Apr 2026 09:00:00 +0900"
         },
         {
-          "title": "삼전·하이닉스 성과급이 공공재? \"지역화폐로 내수 살려라\" 황당 주장",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202604180011",
-          "description": "반도체 업황 회복에 따라 삼성전자와 SK하이닉스가 역대급 실적을 기록하며 대규모 성과급 지급을 예고하자, 일각에서 이들의 보상을 '지역화폐'로 지급해야 한다는 황당한 주���이 제기되어 논란이 일고 있다. 기업의...",
-          "pubDate": "Sat, 18 Apr 2026 13:47:00 +0900"
+          "title": "[이번주 관심주] 하이닉스 실적발표 초읽기, 관건은 '영업익 40조'",
+          "source": "opinionnews.co.kr",
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=136967",
+          "description": "AI 데이터센터에 쓰이는 메모리 반도체는 갈수록 많이 필요한데, 공급하는 곳이 삼성전자, 하이닉스, 미국 마이크론 3사에 불과하다. 빅테크들은 공급사와 3~5년 LTA를 맺고 수급 안정성을 확보하고 있다. 이는...",
+          "pubDate": "Sun, 19 Apr 2026 09:00:00 +0900"
         }
       ]
     }

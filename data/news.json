@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-04-20T06:34:34.670Z",
+  "updatedAt": "2026-04-21T06:16:03.811Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "4월 20일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. segyebiz.com, donga.com, getnews.co.kr 등에서 보도되었으며, 이창용, 한은, 통화 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 21일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ytn.co.kr, imaeil.com, huffingtonpost.kr 등에서 보도되었으며, 코스피, 돌파, 환율 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "한은 ‘신현송 시대’ 개막…떠나는 이창용 \"마음 무겁지만 믿는다\"",
-          "source": "segyebiz.com",
-          "url": "http://www.segyebiz.com/newsView/20260420512575?OutUrl=naver",
-          "description": "또한 “외환시장 개입이나 금리 정책만으로 환율을 관리하려고 하면 더 큰 부작용이 발생할 수 있다”며 구조개혁 필요성을 강조했다. 퇴임 이후 행보와 관련해서는 국내에 머물며 경제평론과 자문 활동을 이어가겠다는...",
-          "pubDate": "Mon, 20 Apr 2026 15:20:00 +0900"
+          "title": "코스피 장중 6,370선 돌파...2달 만에 최고치 경신",
+          "source": "ytn.co.kr",
+          "url": "https://www.ytn.co.kr/_ln/0102_202604211452012957",
+          "description": "서울외환시장에서 달러화 대비 원화 환율은 오전 10시 반 기준, 전 거래일 주간 거래 종가보다 1.5원 내린 1,470.80원을 기록하고 있습니다. 주요 6개국 통화와 비교할 때 달러의 가치를 나타내는 달러인덱스는 97.9를...",
+          "pubDate": "Tue, 21 Apr 2026 14:52:00 +0900"
         },
         {
-          "title": "퇴임한 이창용 “통화·재정정책 영향력 약화…제도개혁 필요”",
-          "source": "donga.com",
-          "url": "https://www.donga.com/news/Economy/article/all/20260420/133774085/1",
-          "description": "원-달러 환율 역시 외환시장에 영향을 주는 변수가 많아지면서 중앙은행의 시장 개입만으로는 안정화를 이루기 어렵다고 설명했다. 이 총재는 “이제는 국내 기업, 개인, 국민연금 등 거주자의 투자 활동 등의 영향도...",
-          "pubDate": "Mon, 20 Apr 2026 15:16:00 +0900"
+          "title": "경상수지 흑자에도 원화 약세…\"환율, 수출 아닌 자본이 움직인다\"",
+          "source": "imaeil.com",
+          "url": "https://www.imaeil.com/page/view/2026041716244587717",
+          "description": "김지현 한은 국제금융연구팀 과장은 \"해외자산 수요가 단기간에 쏠리면 수급 불균형이 심화해 환율 변동성이 확대될 수 있다\"면서 \"외환시장 심도를 높이고 투자자 기반을 다양화하는 것이 변동성 완화에 중요하다....",
+          "pubDate": "Tue, 21 Apr 2026 14:50:00 +0900"
         },
         {
-          "title": "한은 떠나는 이창용 총재 \"통화·재정정책만으로 경제안정·성장 어려워...",
-          "source": "getnews.co.kr",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=868157",
-          "description": "그는 \"이러한 현실을 제���적으로 개선하려는 노력 없이 과거와 같이 외환시장 개입이나 금리정책만으로 환율을 관리하려고 하면 더 큰 부작용이 발생할 수 있다\"며 \"저출생과 저성장 문제 또한 통화·재정정책과 같은 단기...",
-          "pubDate": "Mon, 20 Apr 2026 15:14:00 +0900"
+          "title": "신현송 한국은행 총재 '한국 경제 퍼펙트 스톰' 우려와 함께 취임 : 눈 ...",
+          "source": "huffingtonpost.kr",
+          "url": "https://www.huffingtonpost.kr/article/256757",
+          "description": "현재 외환시장은 중동 지역의 긴장 고조와 글로벌 지정학적 불확실성, 미국 행정부의 관���정책 급변 등이 맞물리며 원·달러 환율이 1400원 후반 대까지 치솟는 등 극심한 변동성에 시달리고 있다. 전임자인 이창용 전 총재...",
+          "pubDate": "Tue, 21 Apr 2026 14:50:00 +0900"
         },
         {
-          "title": "퇴임하는 이창용 총재 “경제 안정, 통화정책만으로는 어려워”",
-          "source": "ichannela.com",
-          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524980",
-          "description": "그는 \"외국인 투자자의 자본 유출입에 크게 좌우되던 외환시장에서 이제는 국내 기업, 개인, 국민연금 등 거주자 영향도 크게 확대됐다\"며 \"제도 개선 노력 없이 과거와 같이 외환시장 개입이나 금리정책만으로 환율을...",
-          "pubDate": "Mon, 20 Apr 2026 14:58:00 +0900"
+          "title": "코스피, 사상 첫 6370선 돌파...6400선이 보인다 [fn오후시황]",
+          "source": "fnnews.com",
+          "url": "http://www.fnnews.com/news/202604211435211871",
+          "description": "83p(0.07%) 오른 1175.68에 거래되고 있다. 이날 지수는 전 거래일(1174.85)보다 11.38p(0.97%) 오른 1186.23에 거래를 시작했다. 이날 서울 외환시장에서 원·달러 환율은 전장보다 4.8원 내린 1472.4원에 개장했다.",
+          "pubDate": "Tue, 21 Apr 2026 14:38:00 +0900"
         },
         {
-          "title": "이창용 한은 총재 퇴임…\"통화·재정정책만으로 안정·성장 달성 어려워...",
-          "source": "fntoday.co.kr",
-          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=382700",
-          "description": "없이 외환시장 개입이나 금리정책만으로 환율을 관리하려 하면 더 큰 부작용이 발생할 수 있다\"고 지적했다. 대표적 제도 개선 사례로 그는 '국민연금 뉴프레임워크'를 언급했다. \"비록 '서학개미' 발언으로 많은 질책을...",
-          "pubDate": "Mon, 20 Apr 2026 14:58:00 +0900"
+          "title": "코스피 6376.28...원·달러 환율 1469.80 거래중",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260421000979",
+          "description": "85로 거래되는 가운데, 서울 중구 하나은행 을지로본점 딜링룸에서 직원들이 업무를 보고 있다. 서울외환시장에서 원·달러 환율은 전장 대비 7.40원 하락한 1469.80원에 주간거래를 하고있다. 2026.04.21",
+          "pubDate": "Tue, 21 Apr 2026 14:36:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "4월 20일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. mt.co.kr, khan.co.kr, wikitree.co.kr 등에서 보도되었으며, 하락세, 40, 상신이디피 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 21일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. view.asiae.co.kr, ebn.co.kr, joongangenews.com 등에서 보도되었으며, 블룸버그, 칼럼, 오픈AI에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "상신이디피, 주식전환 어려운 CB 금리가 2％…덤핑발행 논란도",
-          "source": "mt.co.kr",
-          "url": "https://www.mt.co.kr/stock/2026/04/20/2026042013585125094",
-          "description": "상신이디피는 중소형사로 신용등급을 받지 않는데, 이런 회사의 채권 금리가 신용등급 AA-급 회사채 금리보다 낮은 상황이다. 지난달 3년 만기 AA-급 회사채 금리는 4%를 넘었다. 상신이디피가 실제로 발행 한도까지...",
-          "pubDate": "Mon, 20 Apr 2026 14:59:00 +0900"
+          "title": "[블룸버그 칼럼]오픈AI에 올인한 소프트뱅크, 그 대가는 무엇일까",
+          "source": "view.asiae.co.kr",
+          "url": "https://view.asiae.co.kr/article/2026042014320715963",
+          "description": "지난주 소프트뱅크는 36억달러 규모의 채권 발행을 통해 사상 최고 금리로 달러화 채권을 상환하기도 했다. 소프트뱅크의 현재 유동성 상황을 고려할 때, 손 회장에게 오픈AI의 기업공개(IPO)는 매우 중요하다....",
+          "pubDate": "Tue, 21 Apr 2026 14:35:00 +0900"
         },
         {
-          "title": "자리잡는 주주환원? 코스피·코스닥 배당액 ‘역대 최고’, 배당성향 40...",
-          "source": "khan.co.kr",
-          "url": "https://www.khan.co.kr/article/202604201446001",
-          "description": "안전자산인 채권보다 가격상승과 배당수익도 뒤쳐졌지만 지난해엔 대체로 주주환원이 늘고 국고채 금리도 하락하면서 채권 대비 주식의 상대적인 매력도가 높아진 셈이다. 삼성전자를 포함한 고배당 공시법인...",
-          "pubDate": "Mon, 20 Apr 2026 14:46:00 +0900"
+          "title": "BNK금융, 밸류업위원회·새 CFO로 진용 재편…자본효율 해법 내놓을까",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1706088",
+          "description": "특히 시장금리 급등으로 인한 채권 평가손으로 1분기 순이익이 시장 기대치를 밑돌것으로 예상되는 상황에서 BNK금융이 어떤 해법을 내놓을지 주목된다. 안정적인 CET1 비율을 기반으로 한 주주환원 정책도 내놓아야...",
+          "pubDate": "Tue, 21 Apr 2026 14:20:00 +0900"
         },
         {
-          "title": "오늘 금가격(금값) 하락세... 국제 금시세가 급격하게 붕괴하는 이유는",
-          "source": "wikitree.co.kr",
-          "url": "https://www.wikitree.co.kr/articles/1132439",
-          "description": "따라서 예금이나 채권의 금리가 높아지는 고금리 환경에서는 투자 기회비용이 커져 금의 매력도가 급격히 추락한다. 여기에 글로벌 자금이 안전자산인 미국 달러화로 쏠리며 블룸버그 달러 현물 지수가 0.2% 상승한...",
-          "pubDate": "Mon, 20 Apr 2026 14:30:00 +0900"
+          "title": "[공시돋보기] 삼성카드, '저금리 장기채' 수혜 끝물...업계 1위 수성 박...",
+          "source": "joongangenews.com",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=513505",
+          "description": "이듬해인 2021년 발행한 카드채 잔액은 4조4900억원으로 평균 2.44%의 금리로 채권을 발행했다. 반면 삼성카드는 이보다 낮은 2.00%의 금리로 1조4500억원 상당의 카드채를 발행했다. 미국 연방준비제도는 코로나-19 팬데믹...",
+          "pubDate": "Tue, 21 Apr 2026 14:20:00 +0900"
         },
         {
-          "title": "예금금리 하락세 속…3%대 고금리 어디 남았나?",
-          "source": "metroseoul.co.kr",
-          "url": "http://www.metroseoul.co.kr/article/20260420500220",
-          "description": "이는 은행이 발행하는 채권 금리보다도 낮은 수준이지만, 은행들은 예금금리를 높여가며 자금을 조달할 유인이 없다는 입장이다. 20일 금융권에 따르면 KB국민·신한·하나·우리 등 4대은행의 정기예금 금리는 12개월...",
-          "pubDate": "Mon, 20 Apr 2026 14:06:00 +0900"
+          "title": "지방금융 1분기 실적 '맑음'…BNK·JB 웃고, iM 주춤",
+          "source": "daily.hankooki.com",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1360135",
+          "description": "다만 \"비이자이익은 수수료손익이 양호함에도 금리 상승에 따른 채권평가손실로 전년 동기 대비 큰 폭 감소할 가능성이 있다\"고 덧붙였다. JB금융은 안정적인 NIM과 함께 대출 성장세가 실적을 뒷받침할 전망이다....",
+          "pubDate": "Tue, 21 Apr 2026 13:58:00 +0900"
         },
         {
-          "title": "ETF도 '초단기채 쏠림'…회사채 ETF 자금 이탈 가속",
-          "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202604201259544191",
-          "description": "금리가 상승할 경우 채권 가격은 하락하는 만큼, 상대적으로 가격 변동성이 낮은 초단기채 ETF가 '피난처' 역할을 하고 있다는 분석이다. 실제 크레딧 시장에서도 경계 신호는 뚜렷하다. AA- 등급 3년 만기 회사채와...",
-          "pubDate": "Mon, 20 Apr 2026 13:37:00 +0900"
+          "title": "[매일 탑 리더스 아카데미] 이진우 GFM투자연구소 소장 \"정답 없는 시장...",
+          "source": "imaeil.com",
+          "url": "https://www.imaeil.com/page/view/2026042113371846990",
+          "description": "이 소장은 \"금리가 높은 채권 상품은 그만큼 통화 가치 하락 위험이 반영된 것\"이라며 \"자칫 환율 변동으로 더 큰 손실을 볼 수 있다. 투자는 금리와 환율을 함께 고려해야 하는 복합적인 판단을 필요로 하는 영역\"이라고...",
+          "pubDate": "Tue, 21 Apr 2026 13:39:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "4월 20일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. newsfc.co.kr, ekn.kr, edaily.co.kr 등에서 보도되었으며, 생보사, 작년, 보험금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 21일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. newsfc.co.kr, ekn.kr, edaily.co.kr 등에서 보도되었으며, 생보사, 작년, 보험금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "작년 생보사 보험금 예실차비율 흥국생명 1위....'이익부풀리기' 심했나...",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "4월 20일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. sedaily.com, kyongbuk.co.kr, dailian.co.kr 등에서 보도되었으며, 반도체, 월배당, 삼전 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 21일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. sedaily.com, queen.co.kr, daily.hankooki.com 등에서 보도되었으며, 미래에셋, 반도체, 월배당 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "“삼전·하닉에 월배당 더했다”…TIGER 반도체TOP10커버드콜액티브 상...",
+          "title": "하이닉스 주주들만 웃는 게 아니었다...코스피 신고가 종목 이렇게 많다...",
           "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20034679?ref=naver",
-          "description": "해당 ETF는 국내 반도체 ETF 가운데 순자산 1위로, 삼성전자와 SK하이닉스 등 주요 반도체 종목에 집중 투자하는 구조다. 정 본부장은 “인공지능(AI) 에이전트 시대가 본격화되면서 방대한 데이터를 연속적으로 기억...",
-          "pubDate": "Mon, 20 Apr 2026 15:33:00 +0900"
+          "url": "https://www.sedaily.com/article/20035183?ref=naver",
+          "description": "보고서는 반도체와 산업재 전반의 펀더멘털 개선이 이어지고 있으며, 인공지능(AI) 관련 반도체 수요가 실적 상승의 핵심 동력으로 작용하고 있다고 했다. 삼성전자와 SK하이닉스를 제외한 시장 전체 이익 성장률도...",
+          "pubDate": "Tue, 21 Apr 2026 15:13:00 +0900"
         },
         {
-          "title": "오중기 경북도지사 예비후보, 구미 '반도체 중심지' 전환 청사진 제시",
-          "source": "kyongbuk.co.kr",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4070492",
-          "description": "오 예비후보는 \"소재·부품 시험평가센터를 반도체 특화단지와 연계하고, 삼성SDS AI 데이터센터를 구미 산업의 '두뇌'로 활용해 제조공정 전반의 디지털 전환을 실현하겠다\"고 설명했다. 정부와의 협력을 통한 산업단지...",
-          "pubDate": "Mon, 20 Apr 2026 15:32:00 +0900"
+          "title": "\"ETF의 모든 장점을 한 번에\"...미래에셋, 반도체 월배당 ETF 출시",
+          "source": "queen.co.kr",
+          "url": "http://www.queen.co.kr/news/articleView.html?idxno=455509",
+          "description": "미래에셋자산운용이 국내 주식 개별 종목 옵션을 활용한 최초의 커버드콜 ETF를 선보이며 반도체 배당... 기존 커버드콜 ETF가 코스피200 지수 옵션을 중심으로 운용된 반면, 이번 상품은 삼성전자·SK하이닉스 등 개별...",
+          "pubDate": "Tue, 21 Apr 2026 15:12:00 +0900"
         },
         {
-          "title": "반도체 월배당 ETF 등장…미래에셋, 성장성·안정성 다 잡았다",
-          "source": "dailian.co.kr",
-          "url": "https://www.dailian.co.kr/news/view/1635488/?sc=Naver",
-          "description": "정 본부장은 “국내 반도체 톱2�� 삼성전자와 SK하이닉스 합산 비중이 50%를 넘는 만큼, 삼성전자·SK하이닉스 집중 투자로 코스피200 대비 높은 성장이 기대된다”고 내다봤다. 특히 미래에셋자산운용은 월 단위 인컴을...",
-          "pubDate": "Mon, 20 Apr 2026 15:30:00 +0900"
+          "title": "LG디스플레이, OLED 체질개선 성과…1분기 수익 반등 '청신호'",
+          "source": "daily.hankooki.com",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1360196",
+          "description": "장정훈 삼성증권 연구원은 \"비수기 영향으로 출하 ��적이 전분기 대비 줄어든 가운데 노트북 패널이 포함된 IT LCD(액정표시장치) 부문은 반도체 부품 수급 영향으로 고객 수요가 약했던 것으로 추정된다\"고...",
+          "pubDate": "Tue, 21 Apr 2026 15:10:00 +0900"
         },
         {
-          "title": "반도체 사이클 호황에 상승장 올까···국내 증시 방향성에 투자자 '촉...",
-          "source": "todaykorea.co.kr",
-          "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=400917",
-          "description": "특히, 메모리 슈퍼사이클에 힘입어 '반도체 투톱'인 삼성전자와 SK하이닉스의 실적 상승 지속이 예상된다는 점도 코스피 상승 모멘텀으로 작용할 것이란 관측이 나온다. KB증권은 양사의 시가총액이 실적 개선 속도와...",
-          "pubDate": "Mon, 20 Apr 2026 15:28:00 +0900"
+          "title": "“반도체 성장에 월배당 더했다”…미래에셋, ‘TIGER 반도체TOP10커버드...",
+          "source": "todayeconomic.com",
+          "url": "https://www.todayeconomic.com/news/article.html?no=30293",
+          "description": "개별 종목 옵션 활용…“프리미엄 수익 극대화” 해당 ETF는 삼성전자, SK하이닉스 등 주요 반도체 종목을 기반으로 콜옵션을 직접 매도하는 전략을 사용한다. 기존 커버드콜 ETF가 코스피200 지수 옵션 중심으로 운용된...",
+          "pubDate": "Tue, 21 Apr 2026 15:10:00 +0900"
         },
         {
-          "title": "임종룡 우리금융 회장 \"생산적금융 속도감 있게 추진\"",
-          "source": "hansbiz.co.kr",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834107",
-          "description": "우리은행은 한국산업은행 주관하는 '국민성장펀드'와 연계해 △신안 우이 해상풍력 사업 △삼성전자 평택 반도체 시�� △AI 반도체 기업 리벨리온 투자 등 첨단산업 생태계 전반을 아우르는 대형 프로젝트에...",
-          "pubDate": "Mon, 20 Apr 2026 15:28:00 +0900"
+          "title": "미래에셋자산운용, 'TIGER 반도체TOP10커버드콜액티브 ETF' 신규 상장",
+          "source": "100ssd.co.kr",
+          "url": "https://www.100ssd.co.kr/news/articleView.html?idxno=208492",
+          "description": "미래에셋에 따르면 반도체TOP10커버드콜액티브는 국내 주식 개별 종목 옵션을 활용한 첫 커버드콜 ETF로, 반도체 산업의 성장성과 월 단위 현금흐름을 동시에 추구하는 게 특징이다. 해당 ETF는 삼성전자, SK하이닉스 등...",
+          "pubDate": "Tue, 21 Apr 2026 15:10:00 +0900"
         }
       ]
     }

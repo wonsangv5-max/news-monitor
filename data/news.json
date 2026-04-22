@@ -1,92 +1,99 @@
 {
-  "updatedAt": "2026-04-21T06:16:03.811Z",
+  "updatedAt": "2026-04-22T06:14:07.893Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "4월 21일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ytn.co.kr, imaeil.com, huffingtonpost.kr 등에서 보도되었으며, 코스피, 돌파, 환율 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 22일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.bbsi.co.kr, news.einfomax.co.kr, mt.co.kr 등에서 보도되었으며, 스위치원, 연간, 92 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피 장중 6,370선 돌파...2달 만에 최고치 경신",
-          "source": "ytn.co.kr",
-          "url": "https://www.ytn.co.kr/_ln/0102_202604211452012957",
-          "description": "서울외환시장에서 달러화 대비 원화 환율은 오전 10시 반 기준, 전 거래일 주간 거래 종가보다 1.5원 내린 1,470.80원을 기록하고 있습니다. 주요 6개국 통화와 비교할 때 달러의 가치를 나타내는 달러인덱스는 97.9를...",
-          "pubDate": "Tue, 21 Apr 2026 14:52:00 +0900"
+          "title": "[경제 오딧세이]한국은행, 이창용 떠나고 신현송 입성(入城)",
+          "source": "news.bbsi.co.kr",
+          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4079892",
+          "description": "\"이러한 현실을 제도적으로 개선하려는 노력없이 과거와 같이 외환시장 개입이나 금리정책만으로 환율을 관리하려고 하면 더 큰 부작용이 발생할 수 있음을 보고 있습니다. 제도적 개선의 좋은 예로 이번에 발표된...",
+          "pubDate": "Wed, 22 Apr 2026 15:10:00 +0900"
         },
         {
-          "title": "경상수지 흑자에도 원화 약세…\"환율, 수출 아닌 자본이 움직인다\"",
-          "source": "imaeil.com",
-          "url": "https://www.imaeil.com/page/view/2026041716244587717",
-          "description": "김지현 한은 국제금융연구팀 과장은 \"해외자산 수요가 단기간에 쏠리면 수급 불균형이 심화해 환율 변동성이 확대될 수 있다\"면서 \"외환시장 심도를 높이고 투자자 기반을 다양화하는 것이 변동성 완화에 중요하다....",
-          "pubDate": "Tue, 21 Apr 2026 14:50:00 +0900"
+          "title": "스위치원 \"연간 거래액 10조원 달성\"",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411012",
+          "description": "회사에 따르면 최근 국제 금융시장의 환율 변동성 확대와 맞물려 성장세가 가팔라지고 있다. 글로벌 환율 변동성이 커지면서 개인과 기업 고객의 외환 거래 수요가 증가했고, 이는 스위치원의 거래 규모 확대에...",
+          "pubDate": "Wed, 22 Apr 2026 15:02:00 +0900"
         },
         {
-          "title": "신현송 한국은행 총재 '한국 경제 퍼펙트 스톰' 우려와 함께 취임 : 눈 ...",
-          "source": "huffingtonpost.kr",
-          "url": "https://www.huffingtonpost.kr/article/256757",
-          "description": "현재 외환시장은 중동 지역의 긴장 고조와 글로벌 지정학적 불확실성, 미국 행정부의 관���정책 급변 등이 맞물리며 원·달러 환율이 1400원 후반 대까지 치솟는 등 극심한 변동성에 시달리고 있다. 전임자인 이창용 전 총재...",
-          "pubDate": "Tue, 21 Apr 2026 14:50:00 +0900"
+          "title": "스위치원, 연간 10조 거래 플랫폼 도약…1분기 매출 300억",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/future/2026/04/22/2026042208482342194",
+          "description": "· 회사에 따르면 최근 성장세는 국제 금융시장의 환율 변동성 확대와 맞물려 가속화되고 있다. 글로벌 환율 변동성이 커지면서 개인 및 기업 고객의 외환 거래 수요가 증가했고, 이는 스위치원의 거래 규모 확대에...",
+          "pubDate": "Wed, 22 Apr 2026 15:00:00 +0900"
         },
         {
-          "title": "코스피, 사상 첫 6370선 돌파...6400선이 보인다 [fn오후시황]",
-          "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202604211435211871",
-          "description": "83p(0.07%) 오른 1175.68에 거래되고 있다. 이날 지수는 전 거래일(1174.85)보다 11.38p(0.97%) 오른 1186.23에 거래를 시작했다. 이날 서울 외환시장에서 원·달러 환율은 전장보다 4.8원 내린 1472.4원에 개장했다.",
-          "pubDate": "Tue, 21 Apr 2026 14:38:00 +0900"
+          "title": "중소기업 연체율 0.92%의 경고음, 비상한 각오로 부실 확대 선제 대응해...",
+          "source": "siminilbo.co.kr",
+          "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160286287912651",
+          "description": "한국은행은 ‘3월 금융안정 상황 보고서’를 통해 “외환·금융시장의 높은 변동성과 취약부문 부실 확대가 잠재 리스크”라며 “미 관세 영향 본격화와 환율 상승 등으로 기업 재무구조와 수익성이 다시 저하될...",
+          "pubDate": "Wed, 22 Apr 2026 15:00:00 +0900"
         },
         {
-          "title": "코스피 6376.28...원·달러 환율 1469.80 거래중",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20260421000979",
-          "description": "85로 거래되는 가운데, 서울 중구 하나은행 을지로본점 딜링룸에서 직원들이 업무를 보고 있다. 서울외환시장에서 원·달러 환율은 전장 대비 7.40원 하락한 1469.80원에 주간거래를 하고있다. 2026.04.21",
-          "pubDate": "Tue, 21 Apr 2026 14:36:00 +0900"
+          "title": "MSCI 편입 겨냥…외환·자본시장 개편 설명",
+          "source": "biz.sbs.co.kr",
+          "url": "https://biz.sbs.co.kr/article_hub/20000305986?division=NAVER",
+          "description": "중동 전쟁의 영향으로 환율 변동성과 대외 불확실성이 커지는 상황에서 외환·금융시장 안정을 위해 OECD 회원국과 협력을 강화하겠다는 의지도 표명했습니다. 재경부는 이번 회의가 \"한국 외환·금융시장에 대한...",
+          "pubDate": "Wed, 22 Apr 2026 14:51:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "4월 21일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. view.asiae.co.kr, ebn.co.kr, joongangenews.com 등에서 보도되었으며, 블룸버그, 칼럼, 오픈AI에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 22일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. theguru.co.kr, kor.theasian.asia, news.einfomax.co.kr 등에서 보도되었으며, 20260422, 넘치는, 유동성에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[블룸버그 칼럼]오픈AI에 올인한 소프트뱅크, 그 대가는 무엇일까",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026042014320715963",
-          "description": "지난주 소프트뱅크는 36억달러 규모의 채권 발행을 통해 사상 최고 금리로 달러화 채권을 상환하기도 했다. 소프트뱅크의 현재 유동성 상황을 고려할 때, 손 회장에게 오픈AI의 기업공개(IPO)는 매우 중요하다....",
-          "pubDate": "Tue, 21 Apr 2026 14:35:00 +0900"
+          "title": "中, 넘치는 유동성에 채권에 돈 몰려..전쟁 중에 '안전 자산'심리도",
+          "source": "theguru.co.kr",
+          "url": "https://www.theguru.co.kr/news/article.html?no=100896",
+          "description": "채권 금리가 낮아졌다는 것은 채권 투자 수요가 많아져 가격이 비싸졌다는 뜻이다. 이번 채권 시장 강세의 핵심 동력은 풍부한 유동성이다. 중국인민은행(PBOC)이 경기 부양을 위해 완화적인 통화 정책을 유지하면서...",
+          "pubDate": "Wed, 22 Apr 2026 14:34:00 +0900"
         },
         {
-          "title": "BNK금융, 밸류업위원회·새 CFO로 진용 재편…자본효율 해법 내놓을까",
-          "source": "ebn.co.kr",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1706088",
-          "description": "특히 시장금리 급등으로 인한 채권 평가손으로 1분기 순이익이 시장 기대치를 밑돌것으로 예상되는 상황에서 BNK금융이 어떤 해법을 내놓을지 주목된다. 안정적인 CET1 비율을 기반으로 한 주주환원 정책도 내놓아야...",
-          "pubDate": "Tue, 21 Apr 2026 14:20:00 +0900"
+          "title": "[아시아라운드업 20260422] 트럼프, 사실상 무기한 휴전 선언...이란 \"휴...",
+          "source": "kor.theasian.asia",
+          "url": "http://kor.theasian.asia/archives/404619",
+          "description": "채권 금리가 낮아졌다는 것은 채권 투자 수요가 많아져 가격이 비싸졌다는 것을 의미.- 이 같은 강세는 중국 정부가 오는 25일 30년 만기 초장기 특별국채 발행을 시작할 예정이라는 점을 고려하면 더욱 의외의 흐름. 통상...",
+          "pubDate": "Wed, 22 Apr 2026 12:14:00 +0900"
         },
         {
-          "title": "[공시돋보기] 삼성카드, '저금리 장기채' 수혜 끝물...업계 1위 수성 박...",
-          "source": "joongangenews.com",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=513505",
-          "description": "이듬해인 2021년 발행한 카드채 잔액은 4조4900억원으로 평균 2.44%의 금리로 채권을 발행했다. 반면 삼성카드는 이보다 낮은 2.00%의 금리로 1조4500억원 상당의 카드채를 발행했다. 미국 연방준비제도는 코로나-19 팬데믹...",
-          "pubDate": "Tue, 21 Apr 2026 14:20:00 +0900"
+          "title": "\"BOJ 이달 동결, 6월 인상 전망…장기 금리 하락 제한적\"",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410912",
+          "description": "일본 10년물 금리[출처: 연합인포맥스(화면번호 6532)] 22일 연합인포맥스(화면번호 6538)에 따르면 전일 도쿄 채권시장에서 장기 금리 벤치마크인 10년물 국채 금리는 직전 거래일보다 1.24bp 하락한 2.3864%에 거래됐다....",
+          "pubDate": "Wed, 22 Apr 2026 09:46:00 +0900"
         },
         {
-          "title": "지방금융 1분기 실적 '맑음'…BNK·JB 웃고, iM 주춤",
-          "source": "daily.hankooki.com",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1360135",
-          "description": "다만 \"비이자이익은 수수료손익이 양호함에도 금리 상승에 따른 채권평가손실로 전년 동기 대비 큰 폭 감소할 가능성이 있다\"고 덧붙였다. JB금융은 안정적인 NIM과 함께 대출 성장세가 실적을 뒷받침할 전망이다....",
-          "pubDate": "Tue, 21 Apr 2026 13:58:00 +0900"
+          "title": "\"현대해상, 주주환원 의지 명확…배당 불확실성 관건\"<BNK투자證>",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20260422500050",
+          "description": "1분기 순이익 25% 감소한 1522억 전망 금리 상승에 따른 채권 평가손실 직격탄 장기·예실차 긍정적…자동차 적자 ‘부담’ [사진=뉴스투데이DB] [뉴스투데이=김태규 기자] BNK투자증권은 22일 현대해상(001450)에 대해...",
+          "pubDate": "Wed, 22 Apr 2026 09:44:00 +0900"
         },
         {
-          "title": "[매일 탑 리더스 아카데미] 이진우 GFM투자연구소 소장 \"정답 없는 시장...",
-          "source": "imaeil.com",
-          "url": "https://www.imaeil.com/page/view/2026042113371846990",
-          "description": "이 소장은 \"금리가 높은 채권 상품은 그만큼 통화 가치 하락 위험이 반영된 것\"이라며 \"자칫 환율 변동으로 더 큰 손실을 볼 수 있다. 투자는 금리와 환율을 함께 고려해야 하는 복합적인 판단을 필요로 하는 영역\"이라고...",
-          "pubDate": "Tue, 21 Apr 2026 13:39:00 +0900"
+          "title": "[노현우의 채권분석] 어쨌든 시간은 우리 편 vs 바뀌는 판",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410911",
+          "description": "미국으로 눈길을 돌려도, 현재처럼 위험이 관리되는 전쟁을 전제로 한다면 단순히 재정 지출 증가에 소비가 강해지고 채권 공급이 늘면서 금리에 상방 압력이 커질 것으로 볼 여지가 있다. 불확실성에 글로벌 통화당국은...",
+          "pubDate": "Wed, 22 Apr 2026 09:42:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "4월 21일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. newsfc.co.kr, ekn.kr, edaily.co.kr 등에서 보도되었으며, 생보사, 작년, 보험금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 22일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dailian.co.kr, newsfc.co.kr, ekn.kr 등에서 보도되었으며, 보험사, 적립금, 100조 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "적립금 100조 넘고 수익률 은행 앞서…보험사 퇴직연금 존재감 확대",
+          "source": "dailian.co.kr",
+          "url": "https://www.dailian.co.kr/news/view/1636104/?sc=Naver",
+          "description": "교보생명은 DC형 26.15%, IRP 26.35%를 기록했고, 한화생명은 DC형 22.57%, IRP 19.80%로 나타났다. 이처럼 수익률 측면에서는 경쟁력을 보이고 있지만, 지급여력(K-ICS·킥스)비율 관리 부담과 제한적인 상품 포트폴리오...",
+          "pubDate": "Wed, 22 Apr 2026 07:03:00 +0900"
+        },
         {
           "title": "작년 생보사 보험금 예실차비율 흥국생명 1위....'이익부풀리기' 심했나...",
           "source": "newsfc.co.kr",
@@ -98,7 +105,7 @@
           "title": "신한라이프, 금융지주 2위 굳은 신한 ‘반격 열쇠’",
           "source": "ekn.kr",
           "url": "https://www.ekn.kr/web/view.php?key=20260414024256881",
-          "description": "1%)을 넘어 한화생명(8조7140억원, -4.3%)을 추격하고 있다. 나이스신용평가는 순보험계약 부채 중 CSM 비중과... 초기 투자 비용 부담이 상당할 뿐더러 충당금 적립시 가용자본이 줄어 신지급여력제도(K-ICS·킥스) 비율이...",
+          "description": "1%)을 넘어 한화생명(8조7140억원, -4.3%)을 추격하고 있다. 나이��신용평가는 순보험계약 부채 중 CSM 비중과... 초기 투자 비용 부담이 상당할 뿐더러 충당금 적립시 가용자본이 줄어 신지급여력제도(K-ICS·킥스) 비율이...",
           "pubDate": "Wed, 15 Apr 2026 06:10:00 +0900"
         },
         {
@@ -114,54 +121,47 @@
           "url": "http://www.bizwnews.com/news/articleView.html?idxno=133747",
           "description": "퀘사디아'를 ▲사이드킥스(Sidekicks)와 '매콤달콤한 불닭 바나나 퍼널 케이크'를 준비했다. 불닭 크롤은... 교촌은 이번 이벤트를 통해 오는 4월 30일 대전 한화생명볼파크에서 열리는 ▲한화 이글스-SSG 랜더스 경기와...",
           "pubDate": "Wed, 15 Apr 2026 03:34:00 +0900"
-        },
-        {
-          "title": "‘강달러 직격탄’, 생보사 외환차손 1년 새 4배↑…삼성·교보도 못피...",
-          "source": "ceoscoredaily.com",
-          "url": "https://www.ceoscoredaily.com/page/view/2026041010432913903",
-          "description": "외환차손이 커질수록 투자손익이 감소하고, 결국 킥스(K-ICS) 비율 등 자본 건전성에도 부담이 될 수 있다.... 원), 한화생명(142억 원→896억 원), AIA생명(55억 원→493억 원), 메트라이프생명(41억 원→420억 원) 등이 뒤를...",
-          "pubDate": "Mon, 13 Apr 2026 17:48:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "4월 21일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. sedaily.com, queen.co.kr, daily.hankooki.com 등에서 보도되었으며, 미래에셋, 반도체, 월배당 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "4월 22일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. bloter.net, veritas-a.com, newsis.com 등에서 보도되었으며, 하만, 피지컬AI에, 숨은 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "하이닉스 주주들만 웃는 게 아니었다...코스피 신고가 종목 이렇게 많다...",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20035183?ref=naver",
-          "description": "보고서는 반도체와 산업재 전반의 펀더멘털 개선이 이어지고 있으며, 인공지능(AI) 관련 반도체 수요가 실적 상승의 핵심 동력으로 작용하고 있다고 했다. 삼성전자와 SK하이닉스를 제외한 시장 전체 이익 성장률도...",
-          "pubDate": "Tue, 21 Apr 2026 15:13:00 +0900"
+          "title": "피지컬AI에 숨은 '진짜 돈맥'…NH아문디 선택은 광통신 [현장+]",
+          "source": "bloter.net",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=660258",
+          "description": "엔비디아를 비롯해 △AMD △인텔 △TSMC △삼성전자 △SK하이닉스 등 AI 반도체 시장을 주도하는 기업을 향한 투자는 지속될 것으로 보인다. 특히 최 팀장은 옛 명성을 잃었다는 평가를 받은 인텔의 재도약을 기대했다....",
+          "pubDate": "Wed, 22 Apr 2026 15:13:00 +0900"
         },
         {
-          "title": "\"ETF의 모든 장점을 한 번에\"...미래에셋, 반도체 월배당 ETF 출시",
-          "source": "queen.co.kr",
-          "url": "http://www.queen.co.kr/news/articleView.html?idxno=455509",
-          "description": "미래에셋자산운용이 국내 주식 개별 종목 옵션을 활용한 최초의 커버드콜 ETF를 선보이며 반도체 배당... 기존 커버드콜 ETF가 코스피200 지수 옵션을 중심으로 운용된 반면, 이번 상품은 삼성전자·SK하이닉스 등 개별...",
-          "pubDate": "Tue, 21 Apr 2026 15:12:00 +0900"
+          "title": "경상국립대 램프 포닥 천형진 박사, 한국연구재단 이사장상 수상",
+          "source": "veritas-a.com",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=606948",
+          "description": "유기반도체 소재–소자 융합연구를 수행해 왔다. 특히 정기적인 브레인스토밍 미팅, 얼리버드(Early-bird)... 국제공동연구, 삼성전자 SAIT(옛 삼성종합기술원)와의 산학공동연구, 사업단 내 및 교내 공동연구 등을...",
+          "pubDate": "Wed, 22 Apr 2026 15:12:00 +0900"
         },
         {
-          "title": "LG디스플레이, OLED 체질개선 성과…1분기 수익 반등 '청신호'",
-          "source": "daily.hankooki.com",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1360196",
-          "description": "장정훈 삼성증권 연구원은 \"비수기 영향으로 출하 ��적이 전분기 대비 줄어든 가운데 노트북 패널이 포함된 IT LCD(액정표시장치) 부문은 반도체 부품 수급 영향으로 고객 수요가 약했던 것으로 추정된다\"고...",
-          "pubDate": "Tue, 21 Apr 2026 15:10:00 +0900"
+          "title": "'제2의 하만' 나와야 하는데…삼성전자 '파업 리스크'에 M&A 전략 여파는",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260422_0003601938",
+          "description": "김대종 세종대 경영학과 교수는 \"반도체 라인 하나를 구��하는 데만 1조원이 넘게 드는 장치 산업 특성상 수익의 상당 부분은 미래를 위한 투자로 환원돼야 한다\"고 밝혔다. 황용식 세종대 경영학과 교수도 \"삼성전...",
+          "pubDate": "Wed, 22 Apr 2026 15:10:00 +0900"
         },
         {
-          "title": "“반도체 성장에 월배당 더했다”…미래에셋, ‘TIGER 반도체TOP10커버드...",
-          "source": "todayeconomic.com",
-          "url": "https://www.todayeconomic.com/news/article.html?no=30293",
-          "description": "개별 종목 옵션 활용…“프리미엄 수익 극대화” 해당 ETF는 삼성전자, SK하이닉스 등 주요 반도체 종목을 기반으로 콜옵션을 직접 매도하는 전략을 사용한다. 기존 커버드콜 ETF가 코스피200 지수 옵션 중심으로 운용된...",
-          "pubDate": "Tue, 21 Apr 2026 15:10:00 +0900"
+          "title": "한화운용, '신냉전시대와 K제조업의 부흥' 투자 세미나 개최",
+          "source": "biz.sbs.co.kr",
+          "url": "https://biz.sbs.co.kr/article_hub/20000305998?division=NAVER",
+          "description": "'AI 하드파워'는 AI 데이터센터 슈퍼사이클 등 인프라 투자 급증으로 수혜를 볼 수 있는 산업으로, 반도체... 62%(21일, 자펀드 기준) 수익률을 기록 중입니다. 국민은행, 삼성증권, 한화증권, PINE앱을 통해 가입할 수 있습니다.",
+          "pubDate": "Wed, 22 Apr 2026 15:10:00 +0900"
         },
         {
-          "title": "미래에셋자산운용, 'TIGER 반도체TOP10커버드콜액티브 ETF' 신규 상장",
-          "source": "100ssd.co.kr",
-          "url": "https://www.100ssd.co.kr/news/articleView.html?idxno=208492",
-          "description": "미래에셋에 따르면 반도체TOP10커버드콜액티브는 국내 주식 개별 종목 옵션을 활용한 첫 커버드콜 ETF로, 반도체 산업의 성장성과 월 단위 현금흐름을 동시에 추구하는 게 특징이다. 해당 ETF는 삼성전자, SK하이닉스 등...",
-          "pubDate": "Tue, 21 Apr 2026 15:10:00 +0900"
+          "title": "'이재용의 결단' 삼성, 하만 인수 10년…'초일류' 전장 기업으로",
+          "source": "goodkyung.com",
+          "url": "https://www.goodkyung.com/news/articleView.html?idxno=286178",
+          "description": "하만은 가전·모바일 등 IT 완제품은 물론, 반도체·이동통신·디스플레이·전자소자 등 부품 등에서 기술을 갖춘 삼성과 만나면서 시너지를 내고 있다. 구체적으로 디지털 콕핏, 카오디오 시스템 등 하만의 핵심 전장...",
+          "pubDate": "Wed, 22 Apr 2026 15:10:00 +0900"
         }
       ]
     }

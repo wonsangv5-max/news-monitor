@@ -1,97 +1,111 @@
 {
-  "updatedAt": "2026-04-29T23:56:42.562Z",
+  "updatedAt": "2026-04-30T23:54:50.464Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "4월 30일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. seoulwire.com, wowtv.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 달러, 488, 50원 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 1일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. kdfnews.com, news.einfomax.co.kr, dailian.co.kr 등에서 보도되었으며, 정부, 달러, 중앙은행 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "원/달러 환율 \"고유가·리스크오프에 1490원 중심 등락 전망\"",
-          "source": "seoulwire.com",
-          "url": "http://www.seoulwire.com/news/articleView.html?idxno=719632",
-          "description": "서울 외환시장에서 30일 원/달러 환율은 국제유가 급등과 위험선호 심리 위축 영향으로 상승 압력이 우위를 보이며 1490원 부근에서 등락할 것으로 전망된다. 민경원 우리은행 선임연구원은 이날 보고서에서 \"미국 도널드...",
-          "pubDate": "Thu, 30 Apr 2026 08:46:00 +0900"
+          "title": "日 정부·중앙은행, 엔화 160엔 후반까지 치솟자 외환시장 개입 [KDF Worl...",
+          "source": "kdfnews.com",
+          "url": "http://www.kdfnews.com/news/articleView.html?idxno=182879",
+          "description": "당일 외환시장에서 엔·달러 환율은 장중 한때 달러당 160엔 후반까지 치솟으며 약 1년 9개월 만의 최고 수준을 기록했다. 이후 당국의 경고성 발언 이후 환율은 160엔선을 하회했으며 개입 이후에는 155엔대 중반까지...",
+          "pubDate": "Fri, 01 May 2026 08:36:00 +0900"
         },
         {
-          "title": "이란 국민, 리알화 공중에서 뿌리기 시작했다! Do-or-Die(이판사판), 끝...",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604300298&t=NN",
-          "description": "증시보다 외환시장이 더 주목, 중동발 금융위기? - 오일머니 트랩에 빠진 중동 통화, 일제히 하락 - 오일머니... - 대러시아 제재, 주가와 루블화 ‘flash crash’ - RTS 지수, 우크라 사태 직전 대비 90% 폭락 - 환율, 140루블까지...",
-          "pubDate": "Thu, 30 Apr 2026 08:36:00 +0900"
-        },
-        {
-          "title": "NDF, 1,488.00/ 1,488.50원…10.50원↑",
+          "title": "[뉴욕마켓워치] 일본 정부 환개입에 연쇄 파급 효과…주식↑달러↓채권...",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412525",
-          "description": "최근 1개월물 스와프포인트(-1.25원)를 고려하면 전장 서울외환시��� 현물환 종가(1,479.00원) 대비 10.50원... 달러-엔 환율은 160.344엔, 유로-달러 환율은 1.16750달러를 나타냈다. 달러-위안(CNH) 환율은 6....",
-          "pubDate": "Thu, 30 Apr 2026 08:32:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412812",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 156.561엔으로, 전 거래일 뉴욕장 마감 가격 160.382엔보다 3.821엔(2.382%) 급락했다. 가타야마 사쓰키...",
+          "pubDate": "Fri, 01 May 2026 08:24:00 +0900"
         },
         {
-          "title": "달러·엔, 160엔선 뚫렸다…이란전쟁·연준 금리동결 영향",
-          "source": "edaily.co.kr",
-          "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03230806645421368",
-          "description": "29일(현지시간) 니혼게이자이(닛케이)신문에 따르면 이날 뉴욕 외환시장에서 달러·엔 환율은 한때 160.48엔까지 치솟아 2024년 7월 이후 최고 수준을 기록했다. 이란 전쟁에 따른 국제유가 급등으로 미 연방준비제도(Fed...",
-          "pubDate": "Thu, 30 Apr 2026 08:29:00 +0900"
-        },
-        {
-          "title": "[뉴욕마켓워치] 워시 향해 경고 날린 연준 3인방…채권↓달러↑주식 혼...",
+          "title": "[뉴욕환시] 달러 급락…결국 칼 빼든 日 외환당국에 엔 급등",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412521",
-          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 160.382엔으로, 전 거래일 뉴욕장 마감 가��� 159.659엔보다 0.723엔(0.453%) 높아졌다. 지난달 30일 이후...",
-          "pubDate": "Thu, 30 Apr 2026 08:26:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412801",
+          "description": "달러인덱스 장중 흐름출처: 연합인포맥스 연합인포맥스(화면번호 6411)에 따르면 30일 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 156.561엔으로, 전 거래일 뉴욕장 마감 가격 160.382엔보다 3....",
+          "pubDate": "Fri, 01 May 2026 07:26:00 +0900"
+        },
+        {
+          "title": "[뉴욕채권] 단기물 강세 속 스팁…'아리송' 유가·日 환시 개입에 되돌...",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412800",
+          "description": "일본 외환당국의 외환시장 실개입 여파가 맞물리면서 전반적인 포지션 되돌림 양상이 나타났다.... 달러-엔 환율이 유럽 거래에서 급락하자 유가 낙폭은 더 확대됐다. '원유 롱·엔화 쇼트' 포지션이 타격을 받았을 수...",
+          "pubDate": "Fri, 01 May 2026 07:12:00 +0900"
+        },
+        {
+          "title": "'매파' 워시 체제 연준 임박…국내 금융시장 변동성 커지나",
+          "source": "dailian.co.kr",
+          "url": "https://www.dailian.co.kr/news/view/1640026/?sc=Naver",
+          "description": "우선 외환시장에서는 달러 강세 압력이 다시 확대될 가능성이 거론된다. 미국 금리가 높은 수준에서 장기간 유지될 경우 달러 자산 선호가 강화되면서 원·달러 환율 상승 요인으로 작용할 수 있다. 고환율 기조가...",
+          "pubDate": "Fri, 01 May 2026 07:01:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "4월 30일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. sentv.co.kr, news.sbs.co.kr, view.asiae.co.kr 등에서 보도되었으며, 뉴욕증시, 마감, 연준 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 1일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. g-enews.com, fins.co.kr, mt.co.kr 등에서 보도되었으며, 2026, 효성비나, 000억 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "뉴욕증시, 고유가 장기화 우려 속 보합권 마감…채권·금값↓",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202604300011",
-          "description": "한편, 채권 금리는 고유가 장기화 우려와 연준의 매파적 정책 입장 기대에 상승(채권가격 하락)했다. 전자거래 플랫폼 트레이드웹에 따르면 10년 만기 미 국채 수익률은 뉴욕증시 마감 무렵 4.42%로 전장 대비 6bp 올라...",
-          "pubDate": "Thu, 30 Apr 2026 08:52:00 +0900"
+          "title": "효성비나, 2,000억 동 규모 회사채 발행 성공… 재무 구조 개선 안간힘",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=2026050108423059450c8c1c064d_1",
+          "description": "초기 고정 금리는 연 9%로 설정되었으며, 이는 2023년 말 동일한 조건으로 발행했던 채권 금리(연 7.1~7.2%)와 비교해 약 2%포인트 가량 상승한 수치다. 조달된 자금은 주로 단기 부채 상환과 운영 자금 확보 등 재무...",
+          "pubDate": "Fri, 01 May 2026 08:46:00 +0900"
         },
         {
-          "title": "'8대 4' 미 연준 '워시 체제' 앞두고 내부 분열 표출",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008540239&plink=ORI&cooper=NAVER",
-          "description": "채권 금리는 고유가 장기화 우려와 연준의 매파적 정책 입장 기대에 상승(채권 가격 하락)했습니다. 전자거래 플랫폼 트레이드웹에 따르면 10년 만기 미 국채 수익률은 뉴욕증시 마감 무렵 4.42%로 전장 대비 6bp(1bp=0.01...",
-          "pubDate": "Thu, 30 Apr 2026 08:15:00 +0900"
+          "title": "[보험주, 긴 터널 끝 보이나② 삼성생명] '보험 대장주' 재평가 본격화",
+          "source": "fins.co.kr",
+          "url": "http://www.fins.co.kr/news/articleView.html?idxno=108385",
+          "description": "금리 하락기에 채권평가익이 늘어나면 지급여력비율(K-ICS) 개선 효과도 기대할 수 있다. 시장에서는 삼성생명을 '방어주이면서 가치주'로 동시에 평가한다. 경기 둔화기에는 안정적 이익과 배당으로 버틸 수 있고, 업황...",
+          "pubDate": "Fri, 01 May 2026 08:30:00 +0900"
         },
         {
-          "title": "[굿모닝 증시]국제유가 급등·매파 Fed…코스피, 방향성 탐색",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026043008080320076",
-          "description": "채권 금리는 고유가 장기화 우려와 Fed의 매파적 정책 입장 기대에 상승(채권가격 하락)했다. 전자거래 플랫폼 트레이드웹에 따르면 10년 만기 미 국채 수익률은 뉴욕증시 마감 무렵 4.42%로 전장 대비 6bp(1bp=0.01...",
-          "pubDate": "Thu, 30 Apr 2026 08:13:00 +0900"
+          "title": "\"AI 3000억불 잔치 끝났나\"… 빅테크 보증 없으면 지갑을 닫는 시장",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202605010729328229fbbec65dfb_1",
+          "description": "AI 관련 채권과 국채 간 금리 차이가 벌어지기 ���작하면 시장의 위험 회피 성향이 극에 달했다는 신호다. 셋째, 하이퍼스케일러의 실적 가이드라인이다. MS, 아마존 등이 AI 수요 둔화를 언급하는 순간, 모건스탠리 및...",
+          "pubDate": "Fri, 01 May 2026 08:14:00 +0900"
         },
         {
-          "title": "뉴욕증시, 연준 내분ㆍ유가 급등에 보합 마감... 파월, 기준금리 동결",
-          "source": "getnews.co.kr",
-          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=869046",
-          "description": "채권 금리는 고유가 장기화 우려와 연준의 매파적 정책 입장 기대에 상승(채권가격 하락)했다. 전자거래 플랫폼 트레이드웹에 따르면 10년 만기 미 국채 수익률은 뉴욕증시 마감 무렵 4.42%로 전장 대비 6bp(1bp=0.01...",
-          "pubDate": "Thu, 30 Apr 2026 08:06:00 +0900"
+          "title": "\"2분기는 더 좋다\" 지방금융 3사, 실적 자신감에 주주환원 '가속페달'",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/finance/2026/05/01/2026043016521397287",
+          "description": "김기홍 JB금융 회장은 지난 23일 컨퍼런스 콜에서 \"명예퇴직금 증가와 시장금리 상승에 따른 채권평가이익이 상당히 감소했지만 경상적 핵심이자이익이 견고한 성장세를 보였다\"라며 \"올해 연간 순이익 7500억원...",
+          "pubDate": "Fri, 01 May 2026 08:00:00 +0900"
         },
         {
-          "title": "[뉴욕증시] ‘오일 쇼크’에 약보합… 빅테크 실적 기대감 ‘방어막’은...",
-          "source": "dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12060309?ref=naver",
-          "description": "고유가와 매파적 연준이라는 ‘이중고’에 채권 금리는 일제히 상승했다. 10년 만기 미 국채 수익률은 전날보다 6bp 오른 4.42%를 기록하며 한 달 만에 최고 수준을 나타냈고, 정책 금리에 민감한 2년물 수익률 역시 9bp...",
-          "pubDate": "Thu, 30 Apr 2026 07:44:00 +0900"
+          "title": "[2026 정기평가] A 같은 BBB…한진-두산-리딩-코스맥스",
+          "source": "dealsite.co.kr",
+          "url": "https://dealsite.co.kr/articles/161079",
+          "description": "하이일드 채권의 금리 메리트도 수요층 형성에 긍정적 영향을 끼친다. 현재 BBB+ 등급은 A-등급보다 금리 메리트가 높다. 지난 28일 3년물 종가 기준 BBB+ 등급의 등급민평 금리는 7.53%, A-등급의 등급민평 금리는 5.29...",
+          "pubDate": "Fri, 01 May 2026 07:22:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "4월 30일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. topdaily.kr, opinionnews.co.kr, dealsite.co.kr 등에서 보도되었으며, KDB생명, 보험사, 금융지주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 1일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ilyo.co.kr, news.einfomax.co.kr, topdaily.kr 등에서 보도되었으며, KDB생명, 건전성에, 막혔나 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "건전성에 막혔나 셈법에 묶였나…한화생명 ‘자사주 처리’ 침묵 속사정",
+          "source": "ilyo.co.kr",
+          "url": "https://ilyo.co.kr/?ac=article_view&entry_id=510646",
+          "description": "한화생명의 킥스 비율이 2023년 183.8%, 2024년 163.7%, 2025년 157.5%로 하락해 온 만큼, 자사주 처리 문제는 기본자본비율과 배당가능이익, 해약환급금준비금 부담 등을 함께 고려해야 하는 사안으로 풀이된다. 일각에서는...",
+          "pubDate": "Thu, 30 Apr 2026 17:52:00 +0900"
+        },
+        {
+          "title": "롯데손보도 ORSA 도입…보험사, 자체 위험 평가 체계 속속",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412536",
+          "description": "현재 보험사들의 자본 평가 지표인 지급여력(킥스·K-ICS) 비율이 보험사들의 평균적인 수치를 관리하는... 도입했고, 한화손해보험도 2023년 ORSA를 갖췄다. 동양생명은 일부 항목에 대해 ORSA를 적용하고 있고, KDB생명...",
+          "pubDate": "Thu, 30 Apr 2026 09:00:00 +0900"
+        },
         {
           "title": "금융지주 생보사, 보험손익보다 출렁인 투자손익 부진 ‘어쩌나‘",
           "source": "topdaily.kr",
           "url": "https://www.topdaily.kr/articles/109866",
-          "description": "부담’…킥스비율 방어력 주목 올해 1분기 4대 금융지주(KB·신한·하나·우리)계열 생명보험사들의... 지난해 보험손익을 늘려 한화생명과 교보생명을 바짝 추격한 신한라이프도 투자손익의 하락 여파를 맞았다....",
+          "description": "부담’…킥스비율 방어력 주목 올해 1분기 4대 금융지주(KB·신한·하나·우리)계열 생명보��사들의... 지난해 보험손익을 늘려 한화생명과 교보생명을 바짝 추격한 신한라이프도 투자손익의 하락 여파를 맞았다....",
           "pubDate": "Tue, 28 Apr 2026 16:58:00 +0900"
         },
         {
@@ -107,61 +121,47 @@
           "url": "https://dealsite.co.kr/articles/160584",
           "description": "재무·운용 통합 컨트롤타워 가동…보험·투자손익 동반 악화, 펀더멘털 시험대 한국산업은행이 KDB생명... 정 전무는 보험계리사 출신으로 한화손해보험과 iM라이프 CFO를 지낸 대표적인 '재무통'이다. 장기 보장성...",
           "pubDate": "Tue, 28 Apr 2026 07:16:00 +0900"
-        },
-        {
-          "title": "보험사 자사주 소각 확산… 삼성·한화생명은 '관망' 왜?",
-          "source": "ekoreanews.co.kr",
-          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=85773",
-          "description": "반면 한화생명의 경우 킥스 비율이 지난해 말 기준 157.5%로 전년 말(163.7%) 대비 6.2%포인트 하락했다. 기본자본 킥스 비율 또한 58%로 잠정 집계돼 건전성 지표가 모두 금융당국 권고치에 근접한 수준이다. 여기에...",
-          "pubDate": "Mon, 27 Apr 2026 17:12:00 +0900"
-        },
-        {
-          "title": "보험사, 퇴직연금 수익률 '두각'…DC·IRP 시장서 존재감 확대",
-          "source": "daily.hankooki.com",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1361437",
-          "description": "7조6670억원 △한화생명 7조889억원 순으로 나타났다. 특히 보험사들의 DC·IRP 퇴직연금 수익률(가중평균)은... 다만 수익률 측면에서 경쟁력을 확보하고 있음에도 지급여력(K-ICS·킥스) 비율 관리 부담, 제한적인 상품...",
-          "pubDate": "Mon, 27 Apr 2026 06:00:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "4월 30일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. zdnet.co.kr, news.tf.co.kr, yonhapnewstv.co.kr 등에서 보도되었으며, 삼성전자, 1분기, 53 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 1일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. thepublic.kr, yna.co.kr, sedaily.com 등에서 보도되었으며, 삼성, 뉴스, 브리핑 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "메모리 협상력 떨어진 애플...\"아이폰 가격 올려, 말아?\" 기로",
-          "source": "zdnet.co.kr",
-          "url": "https://zdnet.co.kr/view/?no=20260430083253",
-          "description": "데이터센터용 고성능 메모리 수요가 폭발적으로 늘어나면서 삼성전자, SK하이닉스, 마이크론 등 주요 반도체 업체들의 공급을 둘러싼 경쟁이 한층 치열해졌기 때문이다. 한 메모리 업계 고위 임원은 “애플은 한때 사실상...",
-          "pubDate": "Thu, 30 Apr 2026 08:55:00 +0900"
+          "title": "[뉴스 브리핑] 與의원 '삼성·하이닉스 이익 나누자'… 반도체 논쟁 터...",
+          "source": "thepublic.kr",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=303186",
+          "description": "[뉴스 브리핑] 與의원 '삼성·하이닉스 이익 나누자'… 반도체 논쟁 터졌다 더퍼블릭 / 더퍼블릭",
+          "pubDate": "Fri, 01 May 2026 08:40:00 +0900"
         },
         {
-          "title": "[속보] 삼성전자 1분기 영업익 57.2조…반도체만 53.7조",
-          "source": "news.tf.co.kr",
-          "url": "https://news.tf.co.kr/read/economy/2318634.htm",
-          "description": "삼성전자, 1분기 확정 실적 발표 삼성전자는 올해 1분기 영업이익 57조2000억원을 기록했다고 30일 밝혔다. 이는 전년 동기 대비 756% 증가한 수치다. 반도체 사업을 담당하는 디바이스솔루션(DS) 부문에서만...",
-          "pubDate": "Thu, 30 Apr 2026 08:55:00 +0900"
+          "title": "성과급 요구·원하청 교섭 촉구…노동계 '하투' 빨라진다(종합)",
+          "source": "yna.co.kr",
+          "url": "https://www.yna.co.kr/view/AKR20260430203351530?input=1195m",
+          "description": "데다 반도체 업계 노조의 성과급 분배 요구까지 갈등 양상도 다양하게 나타나면서 곳곳에서 노사간 대립의 불씨가 꺼지지 않는 모습이다. 1일 업계와 노동계에 따르면 삼성바이오로직스 노조는 이날부터 5일까지 전면...",
+          "pubDate": "Fri, 01 May 2026 08:37:00 +0900"
         },
         {
-          "title": "[속보] 삼성전자 1분기 반도체 부문 영업이익 53.7조…역대 최대",
-          "source": "yonhapnewstv.co.kr",
-          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260430085440cmE",
-          "description": "#삼성전자 #실적 #반도체",
-          "pubDate": "Thu, 30 Apr 2026 08:55:00 +0900"
+          "title": "삼성전자 1분기 매출 133조…사상 최대 실적",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20039417?ref=naver",
+          "description": "■ 반도체 슈퍼사이클 개막: 삼성전자(005930)가 1분기 영업이익 57조 2328억 원으로 창사 이래 최대 분기 실적을 기록했다. HBM4 완판과 범용 D램 공급 부족이 겹치며 연간 영업이익 전망치가 324조 원을 넘어섰다....",
+          "pubDate": "Fri, 01 May 2026 08:31:00 +0900"
         },
         {
-          "title": "[속보] 삼성전자 1분기 실적 '반도체 53.7조 vs.가전·휴대폰 3조'",
-          "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202604300850493101",
-          "description": "",
-          "pubDate": "Thu, 30 Apr 2026 08:54:00 +0900"
+          "title": "삼성·하닉, 영업이익률 세계 1·2위…엔비디아도 제쳤다 [갭 월드]",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20039336?ref=naver",
+          "description": "K-반도체가 전 세계에서 가장 효율적으로 돈을 버는 ‘머니 머신’으로 자리 잡았다는 평가가 나온다. 1일 업계에 따르면 올 1분기 삼성전자와 SK하이닉스의 메모리 부문 영업이익률은 각각 73%(추정치)와 71.5%를...",
+          "pubDate": "Fri, 01 May 2026 08:30:00 +0900"
         },
         {
-          "title": "[상보] 삼성전자, 1분기 영업익 57.2조…분기 최대 실적",
-          "source": "ajunews.com",
-          "url": "https://www.ajunews.com/view/20260430085226009",
-          "description": "삼성전자는 2분기에도 반도체 중심 실적 개선 흐름이 이어질 것으로 전망했다. 회사는 \"AI 인프라 투자 확대에 따라 메모리 수요 강세가 지속될 것\"이라며 \"고부가 제품 중심으로 수익성 극대화를 추진할 것...",
-          "pubDate": "Thu, 30 Apr 2026 08:54:00 +0900"
+          "title": "AI로 인한 인류의 미래 시나리오",
+          "source": "seouleconews.com",
+          "url": "http://www.seouleconews.com/news/articleView.html?idxno=90984",
+          "description": "AI로 인한 반도체 산업의 호황은 뜻하지 않은 부작용을 가져오고 있는 데, 지나친 복지를 지속적으로 유지할... 삼성전자 노조는 연봉 50%인 성과급 상한선을 없애고 영업이익의 15%를 요구하고 있어서 300조원으로 예상되는...",
+          "pubDate": "Fri, 01 May 2026 08:30:00 +0900"
         }
       ]
     }

@@ -1,92 +1,99 @@
 {
-  "updatedAt": "2026-05-10T23:55:01.725Z",
+  "updatedAt": "2026-05-12T00:00:39.109Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "5월 11일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. seoulfn.com, news.einfomax.co.kr, the-biz.co.kr 등에서 보도되었으며, 461, 50, 주간환율전망 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 12일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. snmnews.com, news.einfomax.co.kr, the-biz.co.kr 등에서 보도되었으며, 달러, 환율, 이란 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[주간환율전망] 종전협상 기대·우려 '교차'···1460원대 눈치싸움",
-          "source": "seoulfn.com",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=628393",
-          "description": "원·달러 환율(11~15일)은 눈치보기 장세에 돌입할 전망이다. 다만 전면적인 공습 재개로 이어지지 않을... 이번주 외환시장 역시 핵심 변수는 미국과 이란의 지정학적 리스크다. 지난 10일(현지시간) 도널드 트럼프 미국...",
-          "pubDate": "Mon, 11 May 2026 08:46:00 +0900"
+          "title": "5월 11일 원/달러 환율 1,472.40원...엔화·유로·위안화",
+          "source": "snmnews.com",
+          "url": "http://www.snmnews.com/news/articleView.html?idxno=569246",
+          "description": "11일, 서울외환시장에서 금일 오후 3시 30분 기준 미국 달러(US) 매매기준율(금융권이 달러를 구해 온 평균 원가)은 1달러당 1,472.40원을 기록했다. 전 거래일 대비 달러당 0.70원 상승했다. 같은 기준으로...",
+          "pubDate": "Tue, 12 May 2026 08:52:00 +0900"
         },
         {
-          "title": "NDF, 1,461.50/ 1,461.90원…9.00원↓(재송)",
+          "title": "NDF, 1,473.80/ 1,474.20원…2.75원↑",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414006",
-          "description": "최근 1개월물 스와프포인트(-1.00원)를 고려하면 전장 서울외환시장 현물환 종가(1,471.70원) 대비 9.00원... 달러-엔 환율은 156.660엔으로 하락했고, 유로-달러 환율은 1.17838달러로 상승했다. 달러-위안(CNH) 환율은 6....",
-          "pubDate": "Mon, 11 May 2026 08:42:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414226",
+          "description": "최근 1개월물 스와프포인트(-1.15원)를 고려하면 전장 서울외환시장 현물환 종가(1,472.40원) 대비 2.75원... 달러-엔 환율은 157.070엔이었고, 유로-달러 환율은 1.17828달러였다. 달러-위안(CNH) 환율은 6.7914위안을...",
+          "pubDate": "Tue, 12 May 2026 08:48:00 +0900"
         },
         {
-          "title": "원/달러 환율 \"AI 랠리 낙수효과에 1460원 초반 지지선 테스트 전망\"",
+          "title": "원/달러 환율 \"미·이란 협상 교착에 1470원대 중반 등락 전망\"",
           "source": "the-biz.co.kr",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=720295",
-          "description": "서울 외환시장에서 11일 원/달러 환율은 인공지능(AI) 중심 위험선호 심리 회복 영향으로 하락 압력이 우위를 보일 전망이다. 민경원 우리은행 선임연구원은 이날 보고서에서 \"미국 도널드 트럼프 대통령이 이란이 제안한...",
-          "pubDate": "Mon, 11 May 2026 08:24:00 +0900"
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=720391",
+          "description": "다만 수출업체 네고 물량과 일본 당국의 외환시장 개입 경계감은 환율 상단을 제한할 것으로 전망했다. 민 연구원은 \"최근 몇 주간 수출업체들이 1460~1470원대 구간에서 꾸준히 달러 공급을 확대해 온 만큼 1470원대 중반...",
+          "pubDate": "Tue, 12 May 2026 08:26:00 +0900"
         },
         {
-          "title": "진옥동, 북중미 IR 방문…'신한 밸류업 2.0' 해외 투자자 설득",
-          "source": "cstimes.com",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=705042",
-          "description": "신한금융은 환율 변동성과 외환·자금시장 유동성 리스크를 일별로 점검하고 있으며, 위험 관리 체계를 강화해 주요 지표 모니터링 주기를 단축한 상태다. 진 회장은 이번 방문 기간 현지 법인과 해외 지점도 찾아 글로벌...",
-          "pubDate": "Mon, 11 May 2026 08:24:00 +0900"
+          "title": "[뉴욕마켓워치] 美·이란 교착 속 S&P '8,250' 전망…주식·달러↑채권↓",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414212",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 157.243엔으로, 전 거래일 뉴욕장 마감 가격 156.733엔보다 0.510엔(0.325%) 상승했다. 달러-엔 환율은 높은 유가를...",
+          "pubDate": "Tue, 12 May 2026 08:00:00 +0900"
         },
         {
-          "title": "반도체 호황에도 고환율…한은 금리 셈법, '인상' 고민?",
-          "source": "metroseoul.co.kr",
-          "url": "http://www.metroseoul.co.kr/article/20260511500012",
-          "description": "지난 8일 서울 외환시장에서 원·달러 환율은 전 거래일보다 17.7원 오른 1471.7원에 마감했다. 문제는 반도체가 성장을 떠받칠수록 한은의 금리 인하 명분은 약해진다는 점이다. 당초 중동 사태 장기화는 유가 상승을 통해...",
-          "pubDate": "Mon, 11 May 2026 07:50:00 +0900"
+          "title": "美재무, 트럼프 방중 앞서 日방문…\"환율·對중국 공조 논의\"",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/world/usa-canada/6163347",
+          "description": "미국 또한 급격한 환율 변동을 우려하고 있어 양국 간 공조 가능성이 제기된다. 실제로 미국 연방준비제도는 지난 1월 재무부 요청으로 외환시장 시세를 확인하는 '레이트 체크'를 실시했다. 이는 시장 개입의 전 단계로...",
+          "pubDate": "Tue, 12 May 2026 07:46:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "5월 11일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, newspim.com, view.asiae.co.kr 등에서 보도되었으며, 8800, 보험사, 장기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 12일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. bigtanews.co.kr, cstimes.com, raonnews.com 등에서 보도되었으며, 금리, 데일리, 머니마켓 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "보험사 장기 국채 매수 2년 만에 최저…부채 부담↓",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414010",
-          "description": "또한 금리가 오르면서 채권 자산의 평가액이 줄어들어 실적에도 영향을 미치는 만큼 자산을 더 늘릴 필요가 없다고 판단한 셈이다. 이미 시장금리 상승에 따라 보험사들은 자본 여력을 챙긴 대신 투자 이익이...",
-          "pubDate": "Mon, 11 May 2026 08:52:00 +0900"
+          "title": "[데일리 머니마켓] S&P500·나스닥 또다시 사상 최고치",
+          "source": "bigtanews.co.kr",
+          "url": "https://www.bigtanews.co.kr/article/view/big202605120001",
+          "description": "◆채권시장 미 국채금리는 전 구간에서 상승했다. 인베스팅닷컴(Investing.com)은 “10년물 금리가 5.5bp 오른 4.41%, 30년물 금리가 4.8bp 오른 4.986%를 기록했다”고 전했다. 단기물도 상승해 2년물은 약 3.946...",
+          "pubDate": "Tue, 12 May 2026 08:56:00 +0900"
         },
         {
-          "title": "[모닝 리포트] 대신증권, 코스피 목표치 8800 상향…\"반도체 주도 레벨업...",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20260511000100",
-          "description": "미·이란 전쟁 장기화 속에서도 국제유가는 여전히 높은 수준이지만, 글로벌 채권금리와 달러 강세, 변동성 지수(VIX) 반등 폭이 제한적인 점을 들어 \"지정학적 리스크를 선반영해 왔기 때문에 악재로서의 영향력과...",
-          "pubDate": "Mon, 11 May 2026 08:48:00 +0900"
+          "title": "주담대 금리 다시 7% 눈앞…차주들, '변동형' 갈아타기",
+          "source": "cstimes.com",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=705249",
+          "description": "중동 리스크 장기화와 한국은행의 긴축 가능성이 시장금리에 반영되면서 채권금리가 상승한 영향이다. 반면 차주들은 당장 금리 부담이 낮은 변동금리로 몰리는 모습이다. 11일 5대 시중은행(KB국민·신한·하나·우리...",
+          "pubDate": "Tue, 12 May 2026 08:42:00 +0900"
         },
         {
-          "title": "[금융가 사람들] 불장 한복판에 시동거는 채권통…KCGI운용 홍사욱",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413998",
-          "description": "그는 \"채권은 절대금리 수준이 목표수익률에 근접하게 되거나, 내 자산의 변동성을 관리하고 싶다고 할 때 유의미한 투자 수단\"이라고 설명했다. 특히 주식시장 호황으로 수혜를 본 40대~50대 개인 투자자들에게도 채권...",
-          "pubDate": "Mon, 11 May 2026 08:30:00 +0900"
+          "title": "금리 인상론 고개…채권투자 전략, 어떻게 바꿔야 하나",
+          "source": "raonnews.com",
+          "url": "https://www.raonnews.com/news/article.html?no=58073",
+          "description": "고정금리 채권처럼 가격 하락을 걱정할 필요가 적다는 점에서 금리 상승기에 직접적인 수혜 상품으�� 꼽힌다. 다만 금리 변동 위험은 피할 수 있어도 발행자 신용위험까지 없애는 것은 아니다. 발행자 신용도가 나빠지면...",
+          "pubDate": "Tue, 12 May 2026 08:32:00 +0900"
         },
         {
-          "title": "국토장관 \"비거주 1주택자 거래허용 검토\"",
+          "title": "\"1000억 부자들도 코스피 더 산다…지금 팔면 후회할 수도\"[부자들의 투...",
           "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026051108131502989",
-          "description": "이와 함께 대출 규제나 거래제한 등 고강도 안정화 조치, 글로벌 채권금리 상승에 따른 주택담보대출 금리 상승, 시장 질서를 확립하기 위한 강력한 단속체제를 갖추는 등 과거와는 여건이라고 김 장관은 강조했다. 앞서...",
-          "pubDate": "Mon, 11 May 2026 08:13:00 +0900"
+          "url": "https://view.asiae.co.kr/article/2026051110382038164",
+          "description": "성 센터장은 \"브라질 채권은 금리가 높고 비과세라서 비교적 안정적으로 이자를 받을 수 있는 장점이 있다\"며 \"헤알화 표시 채권의 경우 연 10% 이상의 이자가 나오기 때문에 매매차익보다는 이자수익을 목적으로...",
+          "pubDate": "Tue, 12 May 2026 07:33:00 +0900"
         },
         {
-          "title": "아이엠증권, 5분기 연속 흑자…재무안정성 '쑥쑥'",
-          "source": "sisaon.co.kr",
-          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=200915",
-          "description": "아이엠증권은 지난해 하반기 이후 금리 상승에 따른 채권운용 부문의 실적 부진에도 증시 호조에 기반한 위탁매매 및 집합투자증권(ETF) 부문의 실적 개선세 및 차입비용 부담 경감 덕분에 영업순수익이 개선세를...",
-          "pubDate": "Mon, 11 May 2026 07:30:00 +0900"
+          "title": "‘타코’는 안 오고 ‘나초’가 왔다…호르무즈 개방 포기한 월가[美-이...",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20042641?ref=naver",
+          "description": "채권 시장의 경우 금리 인상에 민감한 단기물 수익률이 상승했지만, 장기물 수익률은 내려가며 곡선이 평탄해지는 모습을 보였다. 반면 주식 시장에서는 ‘타코’를 예상한 투자자들의 낙관적인 기대도 엿보인다....",
+          "pubDate": "Tue, 12 May 2026 06:13:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "5월 11일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. kbanker.co.kr, tfmedia.co.kr, greened.kr 등에서 보도되었으며, 보험사, 역마진, 감수한 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 12일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. srtimes.kr, kbanker.co.kr, tfmedia.co.kr 등에서 보도되었으며, 보험사, 동양, ABL생명 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "동양·ABL생명 합병 본격화…기대와 우려 교차",
+          "source": "srtimes.kr",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=202955",
+          "description": "이에 따라 통합 법인은 생명보험업계에서 삼성생명, 한화생명, 교보생명, 신한라이프에 이어 업계 5위... 둔화·킥스 부담…통합 이후 건전성 과제 부상 실적 부진도 풀어야 할 숙제다. 동양생명과 ABL생명의 올해...",
+          "pubDate": "Mon, 11 May 2026 16:46:00 +0900"
+        },
         {
           "title": "역마진 감수한 보험사 '빚잔치' 이제 끝물",
           "source": "kbanker.co.kr",
@@ -114,54 +121,47 @@
           "url": "http://www.4th.kr/news/articleView.html?idxno=2111339",
           "description": "교촌에프앤비 교촌, 한화 이글스전  '교촌 1991 브랜드데이' 진행 교촌에프앤비는 대전 한화생명볼파크에서... 고객이 '무신사 킥스 성수'에 마련된 질바이질스튜어트 팝업스토어를 둘러보고 있다. 2026.5.6./사진=LF LF...",
           "pubDate": "Wed, 06 May 2026 06:00:00 +0900"
-        },
-        {
-          "title": "건전성에 막혔나 셈법에 묶였나…한화생명 ‘자사주 처리’ 침묵 속사정",
-          "source": "ilyo.co.kr",
-          "url": "https://ilyo.co.kr/?ac=article_view&entry_id=510646",
-          "description": "한화생명의 킥스 비율이 2023년 183.8%, 2024년 163.7%, 2025년 157.5%로 하락해 온 만큼, 자사주 처리 문제는 기본자본비율과 배당가능이익, 해약환급금준비금 부담 등을 함께 고려해야 하는 사안으로 풀이된다. 일각에서는...",
-          "pubDate": "Thu, 30 Apr 2026 17:52:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "5월 11일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. biz.heraldcorp.com, news.bbsi.co.kr, biz.chosun.com 등에서 보도되었으며, 삼성전자, 27, 8000 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 12일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. ebn.co.kr, catchnews.kr, ajunews.com 등에서 보도되었으며, 반도체, Tech, Now 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "이번주 ‘코스피 8000’ 갈까…증권가선 “1만2000포인트도 가능” [투자...",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10734814?ref=naver",
-          "description": "국내 증시의 열기는 반도체주에서 다른 업종으로 일부 옮겨가는 모습이었다. 장 초반 하락했던 SK하이닉스(1.93%)는 장 후반 상승 전환해 사상 최고가를 경신했지만, 삼성전자(-1.10%)는 하락 마감됐다. 현대차(7.17%)는...",
-          "pubDate": "Mon, 11 May 2026 08:54:00 +0900"
+          "title": "[Tech & Now] 어플라이드 머티어리얼즈, TSMC와 차세대 AI 반도체 스케일...",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1708350",
+          "description": "◆어플라이드 머티어리얼즈, TSMC와 차세대 AI 반도체 스케일링 협력 어플라이드 머티어리얼즈는 대만 TSMC와... ◆영우디에스피, 삼성디스플레이와 34억원 규모 검사장비 공급계약 영우디에스피는 삼성디스플레이와...",
+          "pubDate": "Tue, 12 May 2026 08:56:00 +0900"
         },
         {
-          "title": "[아침저널] 양향자 \" '秋 어깨나 주무르더니?' 조응천 자충수 안타까워...",
-          "source": "news.bbsi.co.kr",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4082757",
-          "description": "그 반도체 특별법을 통과시켜서 KOSPI 칭찬을 이끈 사람이 누군지 분명하게 아마 경기도민들이 판단을 하실 거라고 저는 믿고 있습니다. ▷ 금태섭 : 삼성전자 SK하이닉스 그리고 억대 연봉 말씀하시니까 사실 지금 삼성전자...",
-          "pubDate": "Mon, 11 May 2026 08:52:00 +0900"
+          "title": "5월 11일 주식시장 주요공시",
+          "source": "catchnews.kr",
+          "url": "https://www.catchnews.kr/news/articleView.html?idxno=123717",
+          "description": "선정 ▶삼성중공업, 테티스 라인즈 아이엔씨(Tethys Lines Inc.) 등이 선박처분금지 및 점유이전금지 소송 취하 ▶코오롱인더, 조회공시 요구(디스플레이 코팅액 및 반도체 패키지 소재 사업부 매각 추진...",
+          "pubDate": "Tue, 12 May 2026 08:55:00 +0900"
         },
         {
-          "title": "키움證 “삼성전자, 2분기 영업이익 100조원 전망…목표가 27% 상향”",
-          "source": "biz.chosun.com",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/05/11/SBPVW6UJX5D2THJD4SWNRCSYJA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "description": "키움증권은 11일 삼성전자가 올해 2분기 영업이익 100조원을 내며 ‘어닝 서프라이즈’를 기록할 것이라... 메모리 반도체의 가격이 예상보다 빨리 뛰고 있어서다. 범용 D램과 낸드의 가격 상승률은 각각 전 분기...",
-          "pubDate": "Mon, 11 May 2026 08:51:00 +0900"
+          "title": "韓 1분기 성장률 주요국 중 1위…반도체 호황에 GDP '점프'",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260512084040017",
+          "description": "올해 1분기의 이례적인 '깜짝 성장' 역시 반도체를 비롯한 수출 덕분이었다. 1분기 수출은 정보기술(IT) 품목을 중심으로 5.1% 급증했고 순수출 기여도는 1.1%포인트에 달했다. 삼성전자와 SK하이닉스 역시 각각...",
+          "pubDate": "Tue, 12 May 2026 08:54:00 +0900"
         },
         {
-          "title": "삼성전자 창사 2번째 파업 ‘기로’…노사, 오늘 협상 테이블",
-          "source": "dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12061684?ref=naver",
-          "description": "업계 일각에서는 올해 삼성전자 영업이익 전망치를 기준으로 할 경우 반도체 부문 임직원 1인당 수억원대 성과급 지급이 가능하다는 계산도 나온다. 반면 회사 측은 특별 포상 등을 통해 업계 최고 수준 보상을 추진할...",
-          "pubDate": "Mon, 11 May 2026 08:47:00 +0900"
+          "title": "양향자 \"뉴데일리, 자유와 책임·시장과 안보의 가치 끝까지 붙든 언론...",
+          "source": "newdaily.co.kr",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/05/12/2026051200049.html",
+          "description": "양 후보는 1983년 고(故) 이병철 삼성 회장의 2·8 동경선언으로 대한민국이 반도체 사업에 뛰어든 일화를 소개했다. 양 후보는 \"1983년 2월 동경선언으로 이병철 회장이 반도체 사업을 한다고 할 때, 어느 누가 이게...",
+          "pubDate": "Tue, 12 May 2026 08:54:00 +0900"
         },
         {
-          "title": "민형배, '전남광주 대전환 선대위' 출범…\"AI·미래산업 중심 경제대도...",
-          "source": "m-i.kr",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1371263",
-          "description": "이어 \"기업이 몰려들고 AI·반도체·미래차·데이터 산업이 성장해 청년들이 더 이상 지역을 떠나지 않아도... 이날 선대위 인선 가운데 가장 눈길을 끈 것은 주은기 삼성전자 고문의 경제특별고문 합류다. 삼성전자 부사장...",
-          "pubDate": "Mon, 11 May 2026 08:46:00 +0900"
+          "title": "월가 \"마이크론, 더 오른다…목표가 1천달러\"",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414228",
+          "description": "생산은 삼성전자와 SK하이닉스, 마이크론 정도로 제한돼 있으며 이들의 생산 능력 역시 제한적이라는 설명이다. 도이체방크 역시 마이크론이 반도체 업황 사이클 변화에 대한 수혜를 받을 것이라며 마이크론에 대한...",
+          "pubDate": "Tue, 12 May 2026 08:52:00 +0900"
         }
       ]
     }

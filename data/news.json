@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-05-19T00:10:10.827Z",
+  "updatedAt": "2026-05-20T00:09:13.091Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "5월 19일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. gukjenews.com, news1.kr, yonhapnewstv.co.kr 등에서 보도되었으며, 코스피, 내린, 달러 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 20일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. pointdaily.co.kr, yonhapnewstv.co.kr, dailian.co.kr 등에서 보도되었으며, 73, 코스피, 오른 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피, 1.20% 내린 7425.66 개장...원·달러 환율 1493.8원",
-          "source": "gukjenews.com",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3585974",
-          "description": "38포인트(1.20%) 하락한 7425.66에 거래를 시작했다. 코스닥 지수는 전날보다 0.27포인트(0.02%) 오른 1111.36에 거래를 출발했다. 서울 외환시장에서 원·달러 환율은 전 거래일 대비 6.5원 내린 1493.8원에 개장했다.",
-          "pubDate": "Tue, 19 May 2026 09:08:00 +0900"
+          "title": "코스피, 0.73% 상승 출발해 7300선 회복",
+          "source": "pointdaily.co.kr",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=305536",
+          "description": "86포인트(0.73%) 오른 7324.52에 장을 시작했다. 코스닥은 전 장과 비교해 3.32포인트(0.31%) 하락한 1081.04에 개장했다. 서울외환시장에서 원·달러 환율은 전 거래일 대비 1.2원 오른 1509.0원에 장을 시작했다.",
+          "pubDate": "Wed, 20 May 2026 09:08:00 +0900"
         },
         {
-          "title": "코스피, 장 초반 7400선도 붕괴…1.74% 하락한 7380선(2보)",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/general-stock/6170862",
-          "description": "08를 기록하고 있다. 코스닥은 전일 대비 1.23포인트(p)(0.11%) 상승한 1112.32를 기록 하고 있다. 서울외환시장에서 달러·원 환율은 전��� 오후 3시 30분 주간종가 대비 6.5원 내린 1493.8원에 출발햇다.",
-          "pubDate": "Tue, 19 May 2026 09:07:00 +0900"
-        },
-        {
-          "title": "코스피, 1.20% 하락 출발…코스닥은 상승 출발",
+          "title": "코스피, 0.73% 오른 7,324.52 출발…코스닥은 내려",
           "source": "yonhapnewstv.co.kr",
-          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260519090537A7B",
-          "description": "코스닥 지수는 전 거래일보다 0.27포인트(0.02%) 오른 1,111.36에 출발했습니다. 한편 서울 외환시장에서 원·달러 환율은 전 거래일 대비 6.5원 내린 1,493.8에 거래를 시작했습니다. #코스피 #코스닥 #원달러환율",
-          "pubDate": "Tue, 19 May 2026 09:06:00 +0900"
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260520090600RAs",
+          "description": "16에 거래되고 있습니다. 코스닥은 전 거래일보다 0.31% 하락한 1,081.04에 출발했습니다. 한편 서울 외환시장에서 원·달러 환율은 전 거래일보다 1.2원 오른 1,509원에 개장했습니다. #코스피 #코스닥 #환율",
+          "pubDate": "Wed, 20 May 2026 09:06:00 +0900"
         },
         {
-          "title": "원·달러 환율 6.5원 내린 1493.8원 출발",
+          "title": "원·달러 환율 1.2원 오른 1509.0원 출발",
           "source": "dailian.co.kr",
-          "url": "https://www.dailian.co.kr/news/view/1645850/?sc=Naver",
-          "description": "19일 서울 외환시장에서 원·달러 환율은 전 거래일보다 6.5원 내린 1493.8원에 개장했다.",
-          "pubDate": "Tue, 19 May 2026 09:06:00 +0900"
+          "url": "https://www.dailian.co.kr/news/view/1646340/?sc=Naver",
+          "description": "20일 서울 외환시장에서 원·달러 환율은 전 거래일보다 1.2원 오른 1509.0원에 개장했다.",
+          "pubDate": "Wed, 20 May 2026 09:05:00 +0900"
         },
         {
-          "title": "원/달러 환율 6.5원 내린 1,493.8원 개장",
+          "title": "코스피 7324.52(▲0.73%), 코스닥 1081.04(▼0.31%), 원·달러 환율 1509.0원...",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260520_0003636873",
+          "description": "코스닥 지수는 전 거래일(1084.36)보다 3.32포인트(0.31%) 내린 1081.04에 거래를 시작했다. 서울 외환시장에서 원·달러 환율은 전 거래일 주간거래 종가(1507.8원)보다 1.2원 오른 1509.0원에 출발했다.",
+          "pubDate": "Wed, 20 May 2026 09:05:00 +0900"
+        },
+        {
+          "title": "원/달러 환율 1.2원 오른 1,509.0원 개장",
           "source": "issuenbiz.com",
-          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=76727",
-          "description": "19일 서울 외환시장에서 원/달러 환율은 전 거래일 대비 6.5원 내린 1,493.8원에 개장했다.",
-          "pubDate": "Tue, 19 May 2026 09:04:00 +0900"
+          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=76758",
+          "description": "20일 서울 외환시장에서 원/달러 환율은 전 거래일 대비 1.2원 오른 1509.0원에 개장했다.",
+          "pubDate": "Wed, 20 May 2026 09:04:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "5월 19일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. bigtanews.co.kr, biz.heraldcorp.com, youthdaily.co.kr 등에서 보도되었으며, ETF, NH, HANARO 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 20일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.dealsitetv.com, lecturernews.com, gametoc.co.kr 등에서 보도되었으며, 국채금리, 하락, 뉴욕증시 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[데일리 머니마켓] 유가 110달러 안팎 상승",
-          "source": "bigtanews.co.kr",
-          "url": "https://www.bigtanews.co.kr/article/view/big202605190002",
-          "description": "◆채권시장 고유가와 금리 추가 인상 가능성에 채권 금리가 올랐다. 로이터는 18일(현지시각) 미국 10년물 국채금리는 장중 4.659%까지 올라 2025년 2월 이후 최고 수준을 기록한 뒤 4.591% 부근으로 되돌렸다...",
-          "pubDate": "Tue, 19 May 2026 08:56:00 +0900"
+          "title": "[뉴욕 브리핑] 美 국채금리 2007년 이후 최고…3대지수 동반 하락",
+          "source": "news.dealsitetv.com",
+          "url": "https://news.dealsitetv.com/articles/170682",
+          "description": "- 미·이란 전쟁 여파로 에너지 가격이 급등하면서 물가 지표가 급등한 가운데 호르무즈 해협 봉쇄가 장기화할 수 있다는 우려가 인플레이션 우려를 키운 게 글로벌 채권 금리 동반 상승을 초래한 기본적인 배경이...",
+          "pubDate": "Wed, 20 May 2026 09:08:00 +0900"
         },
         {
-          "title": "NH-아문디운용, ‘HANARO 중기종합채권 액티브 ETF’ 상장…“이자수익...",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10740530?ref=naver",
-          "description": "한수일 NH-아문디자산운용 전무는 “중기 채권은 금리 변동에 따른 부담을 낮추면서도 수익성을 보완할 수 있어 불확실한 시장 환경에서 수익성과 안정성을 동시에 추구하는 좋은 대안”이라며 “엄격한 리스크...",
-          "pubDate": "Tue, 19 May 2026 08:53:00 +0900"
+          "title": "미국 기준금리 역할의 국채 수익률 5.20% 돌파…2007년 금융위기 이전 수...",
+          "source": "lecturernews.com",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=202719",
+          "description": "채권 금리 상승은 채권 가격 하락을 의미한다. 최근 투자자들이 미 국채를 대거 매도하면서 금리가 급등하고 있는 셈이다. 실제 뉴욕 채권시장에서 10년물 국채 선물 거래량은 오전장 동안 최근 평균의 두 배 가까이...",
+          "pubDate": "Wed, 20 May 2026 09:06:00 +0900"
         },
         {
-          "title": "뉴욕증시 혼조…美-이란 전쟁 변수에 변동성 확대",
-          "source": "youthdaily.co.kr",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=219365",
-          "description": "채권금리는 장중 급등 이후 상승폭을 반납했다. 10년 만기 미국 국채 금리는 장외 거래에서 4.659%까지 상승했으나 정규장에서는 4.591% 수준으로 내려오며 보합권에서 마감했다. 달러화는 약세를 보였다. 달러...",
-          "pubDate": "Tue, 19 May 2026 08:48:00 +0900"
+          "title": "[오늘의 금시세] 금값 24K 하락세",
+          "source": "gametoc.co.kr",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=108652",
+          "description": "금은 이자를 지급하지 않는 자산인 만큼 채권 금리가 오를 경우 상대적인 투자 매력이 떨어질 수밖에 없다. 여기에 글로벌 투자자들의 차익 실현 매물까지 더해지면서 국제 금값 변동성이 확대되는 모습이다. 또...",
+          "pubDate": "Wed, 20 May 2026 09:04:00 +0900"
         },
         {
-          "title": "NH아문디운용, 수익성·안정성 겨냥한 중기채 ETF 출시",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2585740",
-          "description": "한수일 NH-아문디(Amundi)자산운용 전무는 “중기 채권은 금리 변동에 따른 부담을 낮추면서도 수익성을 보완할 수 있어 불확실한 시장 환경에서 수익성과 안정성을 동시에 추구하는 좋은 대안”이라며 “엄격한...",
-          "pubDate": "Tue, 19 May 2026 08:44:00 +0900"
+          "title": "美국채금리 급등에 뉴욕증시 하락…나스닥 0.8%↓[뉴욕증시]",
+          "source": "mk.co.kr",
+          "url": "https://www.mk.co.kr/article/12052844",
+          "description": "이날 증시를 끌어내린 핵심 변수는 급등한 채권 금리였다. 30년 만기 미 국채 금리는 이날 한때 5.197%까지 오르며 2007년 이후 최고치를 기록했다. 시장의 벤치마크 역할을 하는 10년 만기 미 국채 금리는 장중 4....",
+          "pubDate": "Wed, 20 May 2026 09:03:00 +0900"
         },
         {
-          "title": "NH-Amundi운용, HANARO 중기종합채권(A-이상)액티브 ETF 상장",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026051908431831887",
-          "description": "한수일 NH-Amundi자산운용 전무는 \"중기 채권은 금리 변동에 따른 부담을 낮추면서도 수익성을 보완할 수 있어 불확실한 시장 환경에서 수익성과 안정성을 동시에 추구하는 좋은 대안\"이라며 \"엄격한 리스크 관리...",
-          "pubDate": "Tue, 19 May 2026 08:43:00 +0900"
+          "title": "뉴욕증시, '채권자경단' 귀환에 하락 마감... 美국채금리 급등",
+          "source": "getnews.co.kr",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=870504",
+          "description": "그러나 종전은커녕 휴전마저 깨질 우려가 깨지는 데 따른 지정학적 리스크 재부상과 채권금리 급상승 등의 여파로 AI 반도체 관련 주식들의 차익실현 매물이 쏟아지면서 시장의 하락세를 부추겼다. 채권금리...",
+          "pubDate": "Wed, 20 May 2026 09:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "5월 19일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ddaily.co.kr, ngetnews.com, biz.heraldcorp.com 등에서 보도되었으며, 보험사, 킥스, 부담 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 20일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. newsis.com, ekn.kr, ddaily.co.kr 등에서 보도되었으며, 보험사, 교보, 이어 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "교보 이어 삼성생명도 인식…해약준비금 제도 개선 '안갯속'",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260519_0003636488",
+          "description": "회사별로 ▲삼성생명 8324억원 ▲한화생명 2조8766억원 ▲교보생명 1조2560억원 ▲신한라이프 1조2802억원... 내년부터 도입되는 기본자본 지급여력비율(K-ICS·킥스) 규제에서는 해약준비금과 기본자본 산출 연동 문제가 더...",
+          "pubDate": "Wed, 20 May 2026 07:00:00 +0900"
+        },
+        {
+          "title": "‘축포’ 터트린 1분기 생보사 레이스…‘성장률’은 엇갈렸다",
+          "source": "ekn.kr",
+          "url": "https://www.ekn.kr/web/view.php?key=20260519023556151",
+          "description": "다만 신한라이프가 킥스 비율 201%를 기록하는 등 우수한 자본 안정성을 지니고 있어 장기 체력전에선 한화생명 대비 강점을 지닐 것이란 평가도 있다. 한화생명이 기본자본 부담과 자본효율 문제가 거론돼 왔기에...",
+          "pubDate": "Tue, 19 May 2026 18:12:00 +0900"
+        },
         {
           "title": "삼성전자 랠리에 삼성생명·화재 곳간 ‘빵빵’…주주환원은 여전히 ‘...",
           "source": "ddaily.co.kr",
@@ -105,63 +119,49 @@
           "title": "보험사, 체력·체질 더 좋아졌다",
           "source": "biz.heraldcorp.com",
           "url": "https://biz.heraldcorp.com/article/10740009?ref=naver",
-          "description": "삼성·교보·한화 등 투자·본업 실적↑ 일부 보험사, 일회성 사고·투자 부진 CSM·��스 개선…“펀더멘털... 한화생명은 투자손익 개선과 종속법인 실적 호조로 연결 순이익(3816억원)이 29% 증가했다. 손해보험에서는...",
+          "description": "삼성·교보·한화 등 투자·본업 실적↑ 일부 보험사, 일회성 사고·투자 부진 CSM·킥스 개선…“펀더멘털... 한화생명은 투자손익 개선과 종속법인 실적 호조로 연결 순이익(3816억원)이 29% 증가했다. 손해보험에서는...",
           "pubDate": "Mon, 18 May 2026 11:36:00 +0900"
-        },
-        {
-          "title": "킥스 3년차…경과조치 보험사 개선의지 '희박'",
-          "source": "kbanker.co.kr",
-          "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=224958",
-          "description": "12개 생명보험사 중 지난 2023년 말 대비 경과조치 전 킥스비율이 악화한 곳은 교보·흥국·DB·iM·ABL·처브라이프 등 6개사다. 손해보험사의 경우 경과조치 적용 5개사(한화·롯데·흥국·NH농협·악사) 모두 3년...",
-          "pubDate": "Mon, 18 May 2026 10:36:00 +0900"
-        },
-        {
-          "title": "기본자본 킥스 부담 커지자…상품 체질 바꾸는 한화생명",
-          "source": "news.bizwatch.co.kr",
-          "url": "https://news.bizwatch.co.kr/article/finance/2026/05/15/0033",
-          "description": "한화생명의 1분기 말 킥스 비율은 전 분기보다 4.5%포인트 상승한 162%로 잠정 집계됐다. 기본자본 킥스비율은 60%로 예상된다. 금융당국이 기본자본 중심의 건전성 관리 체계를 강화하는 가운데 회사도 자본 관리에...",
-          "pubDate": "Mon, 18 May 2026 10:10:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "5월 19일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. news1.kr, etoday.co.kr, pinpointnews.co.kr 등에서 보도되었으며, 장동혁, 파업, 단식 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "5월 20일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. pointe.co.kr, mk.co.kr, womaneconomy.co.kr 등에서 보도되었으며, 삼성전자, 노조, 최대 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "장동혁, 삼전 파업 예고에 \"與, 노봉법 통과시키고 뒷짐만\"",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/politics/assembly/6170850",
-          "description": "삼성전자 임원 출신인 양 후보는 전날 언론 공지를 내고 오후 7시부터 무기한 단식에 돌입했다. 양 후보는 \"반도체가 멈추면 대한민국이 멈춘다. 국가 핵심 산업인 반도체의 위기 앞에 깊은 두려움을 느낀다\"며 \"이 작은...",
-          "pubDate": "Tue, 19 May 2026 09:08:00 +0900"
+          "title": "[오늘 일본은] 한일 정상, 에너지 공급망 강화 합의…정책 대화로 구체...",
+          "source": "pointe.co.kr",
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=79658",
+          "description": "삼성전자와 SK하이닉스 등 반도체 대형주가 약세를 보이면서 지수 전반에 부담을 줬고, 외국인 매도세와 고환율 우려도 투자심리를 위축시켰다. [포인트경제 도쿄 특파원 박진우 기자] 포인트경제",
+          "pubDate": "Wed, 20 May 2026 09:08:00 +0900"
         },
         {
-          "title": "'삼성 파업 중단 단식' 양향자 만난 장동혁 “노란봉투법 통과시킨 민주...",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2585773",
-          "description": "이투데이=유진의 기자 | 양향자, 삼성전자 평택캠퍼스 앞 단식·1인 시위 2일차 “파업으로 신뢰 깨면 안 돼…국가안보 문제” 장동혁 국민의힘 대표는 19일 삼성전자 노사 갈등과 관련해 “반도체가 멈춰서면 대한민국이...",
-          "pubDate": "Tue, 19 May 2026 09:08:00 +0900"
+          "title": "삼성전자 성과급 협상 법정공방 번지나…주주단체 “주총 서 허락받아라...",
+          "source": "mk.co.kr",
+          "url": "https://www.mk.co.kr/article/12052847",
+          "description": "노사 최종협상 앞두고 법적 대응 예고 “21일 파업 땐 손배·가처분 등 전면전” 삼성전자 성과급 협상이... 주주운동본부는 “반도체 생산 차질과 기업가치 훼손이 발생할 경우 이를 제3자인 주주의 재산권에 대한 직접...",
+          "pubDate": "Wed, 20 May 2026 09:08:00 +0900"
         },
         {
-          "title": "PCB 자동화 장비 강자 태성, 2차전지·전자소재로 영토 넓힌다",
-          "source": "pinpointnews.co.kr",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453660",
-          "description": "반도체 기판(FC-BGA·PCB·MLB) 테마가 19일 장 초반 혼조세를 보이고 있다. 인공지능(AI) 서버와 고성능 반도체... 반면 삼성전기와 대덕전자, 코리아써키트 등 일부 대형 PCB·FC-BGA 관련주는 차익 실현 압력이 이어지고 있다....",
-          "pubDate": "Tue, 19 May 2026 09:08:00 +0900"
+          "title": "[기자수첩] 이재명 규제위서 박용진 vs 이병태의 PC주의 내전",
+          "source": "womaneconomy.co.kr",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=254042",
+          "description": "겉으로는 삼성전자 초과이익 환수론, 국민배당 구상, 규제 개혁 방향을 둘러싼 정책 충돌처럼 보인다.... ☞ 국민배당 = AI·반도체·플랫폼 산업에서 나온 초과이익 일부를 국민 전체에 나눠주자는 개념이다. 겉으로는...",
+          "pubDate": "Wed, 20 May 2026 09:06:00 +0900"
         },
         {
-          "title": "장동혁, 단식 중인 양향자 만나...\"반도체 멈추면 대한민국 멈춘다\"",
-          "source": "mt.co.kr",
-          "url": "https://www.mt.co.kr/politics/2026/05/19/2026051908502711222",
-          "description": "장 대표는 19일 오전 삼성전자 평택캠퍼스 앞에서 단식 중인 양 후보를 찾아갔다. 장 대표는 면담 후 \"반도체가 멈춰서면 대한민국이 멈춰선다\"며 \"반도체는 대한민국의 미래인데 더불어민주당은 노란봉투법 무책임하게...",
-          "pubDate": "Tue, 19 May 2026 09:08:00 +0900"
+          "title": "삼성전자 최종협상 앞두고…DX기반 노조 \"DS기반 최대 노조 지도부, 폭력...",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260520_0003636814",
+          "description": "삼성전자 노사가 성과급 산정 방식에 대한 최종 협상을 앞두고 있는 가운데, 사내 3대 노조인 '동행노조'가... 디바이스경험(DX) 부문은 비(非)반도체 즉, 스마트폰, 가전, TV 등 완제품 사업을 담당한다. 동행노조는 DX부문의...",
+          "pubDate": "Wed, 20 May 2026 09:06:00 +0900"
         },
         {
-          "title": "하나증권 \"엔비디아 실적발표·데이터센터 확대 기대, 반도체주 투심 개...",
-          "source": "businesspost.co.kr",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=438101",
-          "description": "엔비디아 실적발표를 앞두고 SK하이닉스, 삼성전자 등 반도체주에 주목할 필요가 있��는 증권가 분석이 나왔다. 관련종목으로는 SK하이닉스, 삼성전자, 테크윙, 두산, ISC, 이오테크닉스, 피에스케이홀딩스, 제우스...",
-          "pubDate": "Tue, 19 May 2026 09:08:00 +0900"
+          "title": "태양광, 2032년 최대 전원 부상 전망 [ESG 뉴스 5]",
+          "source": "magazine.hankyung.com",
+          "url": "https://magazine.hankyung.com/business/article/202605207910b",
+          "description": "지난해 기준 수자원공사는 국내 전체 PPA 거래량의 49%를 공급했으며 삼성전자, SK하이닉스, 네이버 등과 총... 석유화학, 철강, 반도체, 자동차, 조선 등 탄소집약 산업 비중이 큰 한국 증시 특성을 감안하면 스코프 3...",
+          "pubDate": "Wed, 20 May 2026 09:06:00 +0900"
         }
       ]
     }

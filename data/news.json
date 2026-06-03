@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-06-02T00:15:44.334Z",
+  "updatedAt": "2026-06-03T01:41:01.584Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "6월 2일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ichannela.com, choicenews.co.kr, newsis.com 등에서 보도되었으며, 코스피, 출발, 8900선 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 3일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. koreareport.co.kr, tokenpost.kr, biz.newdaily.co.kr 등에서 보도되었으며, 코스피, 환율, 70 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[속보]코스피, 사상 첫 8900선 돌파",
-          "source": "ichannela.com",
-          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000532240",
-          "description": "74%) 앞뒀습니다. 코스닥은 전일 대비 19.31포인트(p)(1.84%) 하락한 1030.72를 기록하고 있습니다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 7.7원 오른 1512.0원에 출발했습니다.",
-          "pubDate": "Tue, 02 Jun 2026 09:11:00 +0900"
+          "title": "코스피 8800 찍었는데 외국인 6조 던졌다…환율 1517원 돌파",
+          "source": "koreareport.co.kr",
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=50737",
+          "description": "이날 서울외환시장에서 원 달러 환율은 1516.4원으로 마감하며 12거래일 연속 1500원대를 기록했다. 이는 글로벌 금융위기 당시 수준을 넘어서는 장기 고환율 구간이다. 환율 상승은 외국인 처지에서 달러 기준 수익률을...",
+          "pubDate": "Wed, 03 Jun 2026 10:16:00 +0900"
         },
         {
-          "title": "美 엔비디아 '급등' 속...코스피 '상승 출발', 코스닥은 '장초반 뚝'",
-          "source": "choicenews.co.kr",
-          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=166069",
-          "description": "455%로 전장 대비 0.022%포인트, 통화정책에 민감한 미국 2년물 국채금리는 4.037%로 0.014% 각각 내려갔다. 한편 이날 서울 외환시장에서 원-달러 환율은 전장 대비 7.7원 오른 1512.0원에 개장했다.",
-          "pubDate": "Tue, 02 Jun 2026 09:10:00 +0900"
+          "title": "[국내증시 개장시황] 국내 증시 혼조세: 코스피 상승, 코스닥 하락",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/market/365695",
+          "description": "서울 외환시장에서 원·달러 환율은 전 거래일 대비 4.50원 상승한 1,519.00원에 거래되고 있다. 국제 금 가격은 전일 대비 13.60달러 상승한 트로이온스 당 4,519.90달러이고, 국내 금 가격은 전일 대비 1,352.64원...",
+          "pubDate": "Wed, 03 Jun 2026 09:32:00 +0900"
         },
         {
-          "title": "원·달러 환율, 7.7원 오른 1512.0원 출발",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260602_0003652908",
-          "description": "2일 서울 외환시장에 따르면 이날 원·달러 환율은 7.7원 오른 1512.0원으로 거래를 시작했다. 이날 오전 8시57분 주요 6개국 통화 대비 달러 가치를 나타내는 달러인덱스는 99.17로 전날(99.20)보다 하락했다. 이민혁 국민은행...",
-          "pubDate": "Tue, 02 Jun 2026 09:10:00 +0900"
+          "title": "환율 1500원대 고착화 … 널뛰는 변동폭, 하루 10원대 오르락내리락",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/06/03/2026060300017.html",
+          "description": "뉴데일리 김성현 기자 = 원·달러 환율이 1500원대라는 고���에 안착하고 하루 장중 변동폭이 10원 이상 치솟는 등 외환시장의 불확실성이 최고조에 달하고 있다. 중동 정세 불안이 지속되면서 환율의 하방 지지선은...",
+          "pubDate": "Wed, 03 Jun 2026 09:20:00 +0900"
         },
         {
-          "title": "코스피, 장 초반 8900선 돌파…구천피 1%도 안 남았다(2보)",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/general-stock/6184576",
-          "description": "38p(0.74%) 앞뒀다. 코스닥은 전일 대비 19.31포인트(p)(1.84%) 하락한 1030.72를 기록하고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 7.7원 오른 1512.0원에 출발했다.",
-          "pubDate": "Tue, 02 Jun 2026 09:08:00 +0900"
+          "title": "NDF, 1,516.70/ 1,517.10원…1.40원↑",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418094",
+          "description": "최근 1개월물 스와프포인트(-0.90원)를 고려하면 전장 서울외환시장 현물환 종가(1,516.40원) 대비 1.40원... 달러-엔 환율은 159.852엔, 유로-달러 환율은 1.16300달러를 나타냈다. 달러-위안(CNH) 환율은 6....",
+          "pubDate": "Wed, 03 Jun 2026 08:52:00 +0900"
         },
         {
-          "title": "'구천피' 노리는 코스피, 1.08% 상승한 8883.19 출발…최고치 경신",
-          "source": "pointdaily.co.kr",
-          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=306775",
-          "description": "전날 기록했던 최고치를 갈아치웠다. 코스닥 지수는 전 장과 비교해 5.14포인트(0.49%) 내린 1044.98에 장을 열었다. 서울 외환시장에서 원·달러 환율은 전 거래일보다 7.7원 오른 1512.0원에 개장했다.",
-          "pubDate": "Tue, 02 Jun 2026 09:08:00 +0900"
+          "title": "[뉴욕마켓워치] 젠슨 황 입열자 반도체株 '불기둥'…주가·채권·달러↑",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418086",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 159.929엔으로, 전장 뉴욕장 마감 가격 159.694엔보다 0.235엔(0.147%) 상승했다. 지난 4월 30일 이후 가장 높다. 당시 일본...",
+          "pubDate": "Wed, 03 Jun 2026 07:48:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "6월 2일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, goodkyung.com, asiatime.co.kr 등에서 보도되었으며, 금리, 유가, 모닝 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 3일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. thepowernews.co.kr, biz.chosun.com, mt.co.kr 등에서 보도되었으며, 금리, 미국, 중소형 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[정선미의 돈터치] 금리 오르는 것과 시장이 망가지는 것",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417903",
-          "description": "이 관계자는 \"지금은 채권금리가 올라서 문제가 생기는 부분이 아무 데도 없다\"고 말했다. 한은이 시장 금리 레벨 자체에 불편함을 표시한 적은 없지 않다. 지난 2월 한은 금융시장국장은 라디오에 출연해 당시 국고채...",
-          "pubDate": "Tue, 02 Jun 2026 09:00:00 +0900"
+          "title": "[미국 중소형 IB 해부④] 작은 조직은 어떻게 대형 IB와 다른 시장을 만...",
+          "source": "thepowernews.co.kr",
+          "url": "https://www.thepowernews.co.kr/view.php?ud=202605221106551495de3f0aa1be_7",
+          "description": "Roosevelt & Cross는 지방채 주관, 채권 S&T, 공공·프로젝트 파이낸싱, 리서치를 결합했고, Stern Brothers는 고정금리·변동금리 채권 구조화와 발행 이후 리마케팅을 함께 수행한다. Elite Boutique IB는 또 다른...",
+          "pubDate": "Wed, 03 Jun 2026 10:12:00 +0900"
         },
         {
-          "title": "[뉴욕증시포커스] 기술주가 끌고 유가 급등 눌렀다…3대지수 또 사상 최...",
-          "source": "goodkyung.com",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=287696",
-          "description": "채권시장에서는 국채 금리가 상승했다. 뉴욕 채권시장에서 미국 10년 만기 국채 금리는 전 거래일보다 2bp(1bp=0.01%포인트) 오른 4.46%를 기록했다. 달러 가치도 강세를 나타냈다. 블룸버그달러스팟인덱스는 0.3...",
-          "pubDate": "Tue, 02 Jun 2026 08:44:00 +0900"
+          "title": "코스피 9000선 가는데 증권株 약세… 반도체·AI 독주와 금리 변동성 영...",
+          "source": "biz.chosun.com",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/06/03/NOGPKPEO4NCVZMNU6QT7QGFFAU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "description": "지난 4월부터 채권 금리가 급등락을 반복하며 전반적인 상승 기조를 보이면서 증권사들의 주요 수익 축인 채권 운용 부문의 수익이 크지 않았을 것이란 분석이다. 박혜진 대신증권 연구원은 “1분기의 경우 1월과...",
+          "pubDate": "Wed, 03 Jun 2026 09:30:00 +0900"
         },
         {
-          "title": "[2금융 뉴스브리핑] 신보 '위기대응 특례보험' 출시",
-          "source": "asiatime.co.kr",
-          "url": "https://www.asiatime.co.kr/article/20260601500382",
-          "description": "채권 발행금리는 국내 발행 대비 0.2%포인트(p) 낮은 수준에서 결정됐다. 신보��� 최근 3년간 발행한 해외채권 중 국내 발행 채권과의 금리 차이가 가장 큰 수준이다. 기업들의 금융비용 부담을 완화하는 데 실질적인 도움이...",
-          "pubDate": "Tue, 02 Jun 2026 08:24:00 +0900"
+          "title": "청약 몰려도…\"건자재·석유화학이면 금리 더 얹어야\"",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/stock/2026/06/03/2026060215543674486",
+          "description": "오버금리란 회사채 수요예측에 따라 결정된 금리가 개별민평금리(민간채권평가사가 해당 발행사의 회사채별로 평가한 금리)보다 높게 결정되는 것을 말한다.기관 자금 집행 수요로 인해 모집액 대비 높은...",
+          "pubDate": "Wed, 03 Jun 2026 09:30:00 +0900"
         },
         {
-          "title": "[모닝 리포트] \"유가·금리 동반 상승 속 외환·채권시장 변동성 확대\"",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20260602000078",
-          "description": "채권시장에서는 금리가 전반적으로 상승했다. 국내 국고채 금리는 한국은행 총재의 매파적 발언과 중동 리스크, 장기물 입찰 부담 등이 겹치며 상승 압력을 받았다. 특히 장기물 중심의 베어 스티프닝 흐름이 나타났다....",
-          "pubDate": "Tue, 02 Jun 2026 08:22:00 +0900"
+          "title": "[데일리 머니마켓] 뉴욕 3대 지수 사상 최고치",
+          "source": "bigtanews.co.kr",
+          "url": "https://www.bigtanews.co.kr/article/view/big202606030001",
+          "description": "◆채권시장 미국 국채금리는 큰 폭의 방향성 없이 움직였다. 트레이드웹(Tradeweb) 기준으로 10년물 금리는 한때 4.433%, 30년물은 4.953%로 제시됐고, 이후 10년물은 4.455% 부근에서 움직였다. 로이터는 “10년물이...",
+          "pubDate": "Wed, 03 Jun 2026 09:16:00 +0900"
         },
         {
-          "title": "[모닝 리포트] \"엔화 개입에도 흔들리는 환율, 미 국채 매각 압력 확대...",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20260602000075",
-          "description": "다만 금리 상승에 따른 채권 투자 매력은 점진적으로 높아지겠지만, 의미 있는 자본 차익을 기대할 수 있는 시점은 연말 이후가 될 가능성이 크다는 평가다. 결국 일본의 외환 개입은 단기 방어 수단에 그칠 뿐, 구조적...",
-          "pubDate": "Tue, 02 Jun 2026 08:21:00 +0900"
+          "title": "생보 웃고 손보 울었다…보험사, 1분기 실적 온도차 뚜렷",
+          "source": "thepublic.kr",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=306343",
+          "description": "보험손익은 전년과 비슷한 흐름을 보였으나, 금리 상승에 따른 채권평가손실 등으로 투자손익이 2294억원 감소했다. 보험사들의 외형은 커졌다. 1분기 전체 수입보험료는 66조4884억원으로 지난해 같은 기간보다...",
+          "pubDate": "Wed, 03 Jun 2026 08:24:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "6월 2일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, joongangenews.com, mt.co.kr 등에서 보도되었으며, KDB생명, 예비입찰, 삼성 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 3일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. sidae.com, g-enews.com, mediapen.com 등에서 보도되었으며, KDB생명, 보험사, 금융포커스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "시장금리 상승에 1분기 보험사 킥스 216.2%…기본자본도 양호",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417902",
-          "description": "현대해상의 1분기 킥스 비율은 207.2%로 작년 1분기 159.43%와 비교해 1년 만에 50%p가량 자본지표를 높였다. 한화생명은 작년 말 157.5%에서 올해 1분기 162.1%로 자본 지표를 높였고, 동양생명도 189.6%까지 빠른 속도로...",
-          "pubDate": "Tue, 02 Jun 2026 08:56:00 +0900"
+          "title": "[금융포커스]6번 실패 후 '인기 매물'로…KDB생명, 왜 빅3 몰렸나",
+          "source": "sidae.com",
+          "url": "https://www.sidae.com/article/2026060213314291880",
+          "description": "당초 한국투자금융지주와 태광그룹 간 2파전이 될 것이란 관측이 우세했지만 삼성생명과 한화생명... KDB생명은 완전자본잠식 상태에서 벗어났고, 지난해 말 기준 경과조치 후 지급여력(킥스·K-ICS)비율은 205.73%로...",
+          "pubDate": "Wed, 03 Jun 2026 07:04:00 +0900"
         },
         {
-          "title": "생보업계 주식 자산 100조 재돌파…삼전 덕 본 삼성생명",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417889",
-          "description": "삼성생명(1조8천574억원)과 한화생명(1조2천649억원)의 비중이 작년 3월과 비교해 0.1%p씩 떨어진 1.0%와 0.6%였다. 다만, 위험자산 비중을 늘리는 것보다 킥스비율 등 자본 관리에 중점을 두고 있는 보험사들은 현금 및...",
-          "pubDate": "Tue, 02 Jun 2026 08:28:00 +0900"
+          "title": "[보험사 M&A 기대] 예별손보 한투금융·흥국 격돌… KDB생명·롯데손보 ...",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202606011523088618cd0bfacc1c_1",
+          "description": "생명보험 빅3로 불리는 삼성·한화·교보생명은 매각이 표류했던 KDB생명에 관심을 보이고 있다. 금융당국의... KDB생명의 경우 대주주인 산업은행이 지난해 말 5000억 원 규모의 유상증자를 단행하며 지급여력(K-ICS·킥스)...",
+          "pubDate": "Wed, 03 Jun 2026 05:02:00 +0900"
         },
         {
-          "title": "KDB생명 예비입찰 흥행…삼성·한화·교보 '빅3' 모두 참전",
-          "source": "joongangenews.com",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=523127",
-          "description": "|중앙이코노미뉴스 정재혁 기자|수차례 매각이 무산됐던 KDB생명 인수전에 삼성생명·한화생명·교보생명... 전 킥스비율을 120%대까지 끌어올릴 수 있다는 분석이 나온다. 생보업계 빅3가 동시에 예비입찰에 참여한...",
-          "pubDate": "Mon, 01 Jun 2026 18:48:00 +0900"
+          "title": "삼성·한화·교보도 참전…장기매물 KDB생명, 이번에는 새주인 찾을까",
+          "source": "mediapen.com",
+          "url": "https://www.mediapen.com/news/view/1102250",
+          "description": "한국투자금융지주와 태광그룹��� 물론 삼성생명, 한화생명, 교보생명 등 주요 보험사들까지 예비입찰에... 이에 KDB생명의 경과조치 적용 후 지급여력비율(K-ICS·킥스)은 지난해 9월 말 165.2%에서 12월 말 205.7%로 40.5...",
+          "pubDate": "Tue, 02 Jun 2026 17:46:00 +0900"
         },
         {
-          "title": "KDB생명 인수 예비입찰, 삼성·한화·교보 등 생보 '빅3' 참전",
-          "source": "mt.co.kr",
-          "url": "https://www.mt.co.kr/finance/2026/06/01/2026060118263889848",
-          "description": "KDB생명 인수전에 삼성생명·한화생명·교보생명 등 5개 업체가 참여했다. 1일 보험업계에 따르면 이날 오후... 생명보험 업계 14위 수준이다. 자기자본은 4091억원이다. 지급여력비율(K-ICS·킥스)은 경과조치 적용 후 205.7...",
-          "pubDate": "Mon, 01 Jun 2026 18:33:00 +0900"
+          "title": "생보 빅3는 뭘 봤을까…KDB생명 매각전 판 커졌다",
+          "source": "ntoday.co.kr",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=127419",
+          "description": "당초 한국투자금융지주와 태광그룹 계열 흥국생명 중심의 경쟁 구도가 예상됐지만, 삼성생명·한화생명... 인수 이후 지급여력(킥스·K-ICS)비율 관리와 영업 체질 개선, 시스템 통합, 조직 재편까지 적지 않은 비용이...",
+          "pubDate": "Tue, 02 Jun 2026 17:30:00 +0900"
         },
         {
-          "title": "KDB생명 예비입찰 '깜짝흥행'…한투·태광에 삼성·한화·교보 '빅3' 참전",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/insurance-card/6184259",
-          "description": "삼성생명·한화생명·교보생명 등 생명보헙업계 '빅3'까지 뛰어들면서 예상 밖 흥행몰이에 성공했다. 1일... 보험사의 재무건전성 지표인 지급여력비율(K-ICS·킥스)은 경과조치 적용 후 205.7%로 높은 수준이지만...",
-          "pubDate": "Mon, 01 Jun 2026 18:12:00 +0900"
+          "title": "KDB생명에 쏠린 눈…보험사 M&A 시장 활기 되찾나",
+          "source": "dailian.co.kr",
+          "url": "https://www.dailian.co.kr/news/view/1651707/?sc=Naver",
+          "description": "2일 보험업계에 따르면 KDB생명 매각 예비입찰에 한국투자금융지주와 태광그룹, 삼성·한화·교보생명 등... 이에 따라 KDB생명의 지난해 말 기준 지급여력(K-ICS·킥스) 비율은 경과조치 적용 후 205.7%로 크게 개선됐다....",
+          "pubDate": "Tue, 02 Jun 2026 17:28:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "6월 2일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. view.asiae.co.kr, pinpointnews.co.kr, joongangenews.com 등에서 보도되었으며, 로봇주, 강세, 반도체 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 3일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. mk.co.kr, g-enews.com, insight.co.kr 등에서 보도되었으며, 35, 테슬라, 긴장해 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성운용, KODEX AI반도체TOP2플러스 순자산 4조 돌파",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026060209130627212",
-          "description": "국내 반도체 양대 산맥인 삼성전자와 SK하이닉스 편입 비중은 기존 각각 20%에서 리뉴얼 이후 25%로 확대됐다. 이에 따라 반도체 TOP2 종목을 포트폴리오의 절반인 50%까지 충분히 담아내며 대장주의 성장성을...",
-          "pubDate": "Tue, 02 Jun 2026 09:13:00 +0900"
+          "title": "“테슬라 긴장해”…삼성전자, 메타 제치고 세계 시총 10위",
+          "source": "mk.co.kr",
+          "url": "https://www.mk.co.kr/article/12064702",
+          "description": "외신들은 삼성전자의 이 같은 질주를 AI 반도체 수요 확대에 따른 기업가치 재평가로 분석했다. 생성형 AI 서비스와 데이터센터 투자 확대로 고대역폭메모리(HBM) 등 고성능 메모리 수요가 급증하고 있어서다. 특히...",
+          "pubDate": "Wed, 03 Jun 2026 10:39:00 +0900"
         },
         {
-          "title": "로봇주 일제히 질주…유일로보틱스·로보티즈 강세 배경은?",
+          "title": "골드만, 코스피 올해 목표치 1만 2,000 파격 제시…\"추가 상승 여력 35% ...",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=20260603102958940e250e8e188_1",
+          "description": "이 같은 초강세의 배경에는 인공지능(AI) 열풍에 탄력을 받은 반도체 산업의 부활이 있다. 특히 메모리 칩 제조업체인 SK하이닉스와 글로벌 IT 공룡 삼성전자 등 초대형 기술주들이 시장 전체의 수익성을 주도하는...",
+          "pubDate": "Wed, 03 Jun 2026 10:34:00 +0900"
+        },
+        {
+          "title": "젠슨 황 \"한국이 원한다면 서울서 엔비디아 연례 AI 콘퍼런스 열겠다\"",
+          "source": "insight.co.kr",
+          "url": "https://www.insight.co.kr/news/556733",
+          "description": "GTC는 엔비디아가 매년 주최하는 대표 기술 행사로, AI와 반도체, 로보틱스 등 미래 기술 전략을 발표하는... 엔비디아는 현재 삼성전자, SK하이닉스, 현대자동차, LG전자, 두산 등 국내 대기업들과 로봇, 자율주행, 산업...",
+          "pubDate": "Wed, 03 Jun 2026 10:30:00 +0900"
+        },
+        {
+          "title": "웨이퍼 습도 1%까지 낮춘다…저스템, 고객사 투자 확대 수혜",
           "source": "pinpointnews.co.kr",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=457044",
-          "description": "삼성전자 투자 이후 지속적으로 시장의 주목을 받고 있으며 휴머노이드 상용화 기대감이 주가를 지지하고 있다. 티로보틱스는 물류 자동화 및 반도체 공정용 로봇 분야 경쟁력을 바탕으로 성장 기대가 이어지고 있다....",
-          "pubDate": "Tue, 02 Jun 2026 09:12:00 +0900"
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=457305",
+          "description": "배경에는 반도체 투자 환경 변화가 자리 잡고 있다. 과거에는 신규 생산라인 증설이 성장의 핵심이었다면 최근에는 기존 생산라인의 효율성을 높이는 수율 개선이 더욱 중요해지고 있기 때문이다. 현재 삼성전자와...",
+          "pubDate": "Wed, 03 Jun 2026 10:28:00 +0900"
         },
         {
-          "title": "방한 앞둔 젠슨 황, 최태원과 타이베이 회동...AI 협력 확대 논의",
-          "source": "joongangenews.com",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=523173",
-          "description": "반면 이재용 삼성전자 회장은 해외 일정으로 인해 이번 회동에는 참석하지 않을 것으로 알려졌다. 재계에서는 이번 만남에서 AI 반도체뿐 아니라 로보틱스, 자율주행, 피지컬 AI 등 미래 산업 전반에 대한 협력 확대...",
-          "pubDate": "Tue, 02 Jun 2026 09:10:00 +0900"
-        },
-        {
-          "title": "[애널픽] \"반도체 쏠림 잦아들면 증권주 반등\"",
-          "source": "theviewers.co.kr",
-          "url": "https://theviewers.co.kr/View.aspx?No=4098489",
-          "description": "중 삼성전자와 SK하이닉스 거래대금이 차지하는 비중이 40%를 넘는다\"고 분석했다. 그는 이어 \"현재 반도체 업황이 좋기 때문에 반도체 쏠림 현상은 지속될 것으로 판단된다\"며 \" 증권주 역시 코스피 대비 괴리가 더...",
-          "pubDate": "Tue, 02 Jun 2026 09:10:00 +0900"
-        },
-        {
-          "title": "[박정식의 국내 주식시황] 엔비디아 AI칩 훈풍에 반도체·로봇주 강세 이...",
-          "source": "newsquest.co.kr",
-          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=267191",
-          "description": "특히 엔비디아의 AI PC용 칩 공개는 삼성전자와 SK하이닉스뿐 아니라 반도체 소재·부품·장비주에도 긍정적인 재료로 작용할 수 있다. 여기에 젠슨 황 엔비디아 최고경영자(CEO)의 방한 기대감과 로보틱스 투자 언급이...",
-          "pubDate": "Tue, 02 Jun 2026 09:10:00 +0900"
+          "title": "ETF에도 '빚투' 열기…반도체 신용잔고 급증",
+          "source": "mbnmoney.mbn.co.kr",
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005849802",
+          "description": "KODEX AI반도체TOP2플러스는 삼성전자(시가총액 기준 구성비중 24.76%)와 SK하이닉스(24.40%)를 약 50% 담고 있습니다. 최근 삼성전기 주가 급등으로 인해 해당 ETF 내 삼성전기 비중도 34.53%에 달합니다. 지난 1일까지...",
+          "pubDate": "Wed, 03 Jun 2026 10:28:00 +0900"
         }
       ]
     }

@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-06-11T00:18:13.673Z",
+  "updatedAt": "2026-06-12T00:20:08.049Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "6월 11일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. segyebiz.com, hankyung.com, choicenews.co.kr 등에서 보도되었으며, 코스피, 출발, 중동 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 12일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. hani.co.kr, newsway.co.kr, newsis.com 등에서 보도되었으며, 종전, 코스피, 급등 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[개장시황] 코스피 7500선 내줘…2.86% 하락 출발",
-          "source": "segyebiz.com",
-          "url": "http://www.segyebiz.com/newsView/20260611504268?OutUrl=naver",
-          "description": "86% 하락한 7509.62에 개장했다. 코스닥 지수는 1.52% 내린 937.17에 거래를 출발했다. 서울 외환시장에서 원·달러 환율은 전 거래일 주간거래 종가(1524.2원)보다 1.3원 오른 1525.5원에 시작했다. 주다솔 기자",
-          "pubDate": "Thu, 11 Jun 2026 09:16:00 +0900"
+          "title": "[속보] 미국-이란 종전 임박에 코스피 6% 급등…또 매수 사이드카",
+          "source": "hani.co.kr",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1263199.html",
+          "description": "15%) 등 기술주 전반에 훈풍이 불었다. 코스닥 지수는 3.02% 오른 1027.05에 출발해 상승세를 유지하고 있다. 서울 외환시장에서 원-달러 환율은 전 거래일 종가(오후 3시30분 기준)보다 10.9원 내린 1518.0원에 개장했다.",
+          "pubDate": "Fri, 12 Jun 2026 09:18:00 +0900"
         },
         {
-          "title": "'네 마녀의 날' 코스피, 4% 급락해 7300선…중동 긴장 여파",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/2026061198866",
-          "description": "반면 코오롱티슈진, 원익IPS, 이오테크닉스 등이 오르고 있다. 원·달러 환율은 중동 지역의 확전 우려에 상승세다. 서울 외환시장에서 원·달러 환율은 전날 주간 거래 종가 대비 1.3원 오른 1525.5원으로 개장했다.",
-          "pubDate": "Thu, 11 Jun 2026 09:15:00 +0900"
+          "title": "코스피, 종전 기대감에 8300선 돌파…삼전·닉스 급등[개장시황]",
+          "source": "newsway.co.kr",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026061209145963697",
+          "description": "58%) 등이 상승하고 있다. 반면 HLB(-0.74%)는 소폭 하락 중이다. 원익IPS(0.00%)는 보합권에 거래되고 있다. 한편 이날 서울 외환시장에서 원·달러 환율은 전장 대비 10.9원 내린 1518.0원에 개장했다.",
+          "pubDate": "Fri, 12 Jun 2026 09:18:00 +0900"
         },
         {
-          "title": "美 반도체주 하락 ·중동 긴장 속...코스피 '급락 출발'",
-          "source": "choicenews.co.kr",
-          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=166420",
-          "description": "554%로 전장 대비 0.026%포인트, 통화정책에 민감한 미국 2년물 국채금리는 4.145%로 0.021% 각각 올라갔다. 한편 이날 서울 외환시장에서 원-달러 환율은 전장 대비 1.3원 오른 1525.5원에 개장했다.",
-          "pubDate": "Thu, 11 Jun 2026 09:12:00 +0900"
+          "title": "원·달러 환율, 종전 기대에 10.9원 내린 1518.0원 출발",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260612_0003666581",
+          "description": "원·달러 환율이 12일 서울 외환시장에서 10.9원 내린 1518.0원으로 거래를 시작했다. 주요 6개국 통화 대비 달러 가치�� 나타내는 달러인덱스는 오전 9시 기준 99.74로 0.12 하락했다. 이날 원·달러 환율은 중동 전쟁 종전...",
+          "pubDate": "Fri, 12 Jun 2026 09:15:00 +0900"
         },
         {
-          "title": "코스피, 2.86% 떨어진 7509.62 출발...원·달러 환율 1525.5원",
-          "source": "gukjenews.com",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3605582",
-          "description": "62에 장을 열었다. 코스닥 지수는 전 거래일(951.63)보다 14.46포인트(1.52%) 내린 937.17에 출발했다. 서울 외환시장에서 원·달러 환율은 전 거래일 주간거래 종가(1524.2원)보다 1.3원 오른 1525.5원로 출발했다.",
-          "pubDate": "Thu, 11 Jun 2026 09:08:00 +0900"
+          "title": "코스피, 개장 직후 8300선 회복…7%대 급등",
+          "source": "pointdaily.co.kr",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=307993",
+          "description": "코스닥 또한 전 장과 비교해 30.12포인트(3.02%) 오른 1027.05에 개장했다. 5거래일 만에 '천스닥'을 회복했다. 이날 서울 외환시장에서 원·달러 환율은 전 거래일 대비 10.9원 내린 1518원에 장을 열었다.",
+          "pubDate": "Fri, 12 Jun 2026 09:14:00 +0900"
         },
         {
-          "title": "중동 리스크 재점화에 증시 '휘청'…코스피 7500선 출발",
-          "source": "iminju.net",
-          "url": "http://www.iminju.net/news/articleView.html?idxno=165107",
-          "description": "반면 외국인은 827억 원 규모를 순매도 했다. 코스닥지수는 전 거래일 대비 14.46포인트(1.52%) 하락한 937.17포인트로 출발했다. 서울 외환시장에서 원·달러 환율은 전 거래일보다 1.3원 오른 1525.5원에 거래를 시작했다.",
-          "pubDate": "Thu, 11 Jun 2026 09:08:00 +0900"
+          "title": "미-이란 종전 MOU 임박 소식에…코스피 8000선 재탈환",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/stock/2026/06/12/2026061209135663293",
+          "description": "3%대, 코오롱티슈진이 2%대, 에이비엘바이오, 알테오젠, 리노공업이 1%대 강세다. HLB, 이오테크닉스는 강보합이다. 서울외환시장에서 원/달러 환율은 전 거래일 대비 10.9원 내린 1518.0원에 주간 거래를 시작했다.",
+          "pubDate": "Fri, 12 Jun 2026 09:14:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "6월 11일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. chosun.com, thebigdata.co.kr, koreareport.co.kr 등에서 보도되었으며, 마통, 3년, 7개월 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 12일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. newscape.co.kr, sisajournal.com, news.einfomax.co.kr 등에서 보도되었으며, 증시, 증권사, 순익 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "마통 3년 7개월 만에 최대인데…신용대출 금리는 연 7%, 주담대는 8% 목...",
-          "source": "chosun.com",
-          "url": "https://www.chosun.com/economy/economy_general/2026/06/11/JMJELN5ZKVCDXJGGKVXWF4XH4M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "description": "빚투·영끌족 이자 부담 늘어 채권시장 금리가 지속적으로 오르면서 은행 대출 금리도 오르고 있다. 11일 은행권에 따르면 KB국민·신한·하나·우리·NH농협 등 5대 은행의 주택담보대출 고정형(5년) 금리는 전날 기준...",
-          "pubDate": "Thu, 11 Jun 2026 09:06:00 +0900"
+          "title": "증시 호황에 1분기 증권사 순익 4조3271억 사상 최대",
+          "source": "newscape.co.kr",
+          "url": "http://www.newscape.co.kr/news/articleView.html?idxno=122673",
+          "description": "반면 파생 관련 손익이 3조9396억원 줄었고 채권 손익도 시장금리 상승으로 2조2993억원 감소했다. 증권사의 올해 1분기 기준 자산총액은 1098조4000억원으로 작년 말보다 16.3% 늘어 1000조원을 넘어섰다. 재무건전성...",
+          "pubDate": "Fri, 12 Jun 2026 09:18:00 +0900"
         },
         {
-          "title": "美 5월 소비자물가 상승률 3년래 최고, 중동 긴장 고조에 들썩이는 채권...",
-          "source": "chosun.com",
-          "url": "https://www.chosun.com/economy/money/2026/06/11/MHWLMBSY4NEALG6OAPSZDLOZPQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "description": "서울 채권 시장에서도 국고채 금리가 연중 최고치에 바짝 다가서는 등 시장은 채권 금리 상승(가격 하락)에 베팅하고 있다는 평가다. ◇美 소비자물가 3년래 최고 상승 지난 10일 미 노동부에 따르면 5월 미국...",
-          "pubDate": "Thu, 11 Jun 2026 09:05:00 +0900"
+          "title": "증시 활황에 증권사 실적 급등…순이익 77.1% 증가",
+          "source": "sisajournal.com",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=376254",
+          "description": "반면 파생상품 관련 손익은 3조9396억원 감소했고 채권 손익 역시 시장금리 상승 영향으로 2조2993억원 줄었다. 기타자산 손익은 1조406억원으로 지난해 같은 기간보다 15.6% 감소했다. 신용공여 이자수익 증가로 대출...",
+          "pubDate": "Fri, 12 Jun 2026 08:59:00 +0900"
         },
         {
-          "title": "은행채 발행 올 들어 110조 돌파…대출금리 상단 7.5% '껑충'",
-          "source": "thebigdata.co.kr",
-          "url": "http://www.thebigdata.co.kr/view.php?ud=202606110824152740c808fa9903_23",
-          "description": "문제는 채권 공급 확대가 금리 상승으로 이어진다는 점이다. 은행채 공급이 늘수록 금리는 상승 압력을 받고, 이는 조달비용 증가로 연결된다. 은행이 높아진 조달비용을 대출금리에 전가할 수밖에 없어 가계와...",
-          "pubDate": "Thu, 11 Jun 2026 08:28:00 +0900"
+          "title": "[정선미의 돈터치] 현기증 나는 증시, 흔들리는 돈줄",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419629",
+          "description": "증권사 자금 수요 뿐만 아니라 채권시장이 금리 인상 사이클에 진입한 것도 부담을 키우고 있다. 신용도가 높은 대형증권사들이 높은 금리로 자금을 쓸어가면 중소형 증권사나 신용도가 더 낮은 발행주체의 자금...",
+          "pubDate": "Fri, 12 Jun 2026 08:48:00 +0900"
         },
         {
-          "title": "한국 LNG선 호르무즈 통과…미국-이란 이틀째 충돌",
-          "source": "koreareport.co.kr",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=50861",
-          "description": "미국 5월 소비자물가 중에서 식료품과 에너지를 제외한 근원 CPI는 전월 대비 0.2% 올라 아직 전쟁 영향이 두드러지지 않다는 판단에 채권금리가 하락했다. 인플레 걱정은 7월에 발표될 6월 물가로 시간을 벌었다....",
-          "pubDate": "Thu, 11 Jun 2026 08:00:00 +0900"
+          "title": "하나證 “KB금융, 2분기 순익 2조 눈앞”…목표가 22만 원 상향",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20054870?ref=naver",
+          "description": "국채 금리 상승에 따른 채권 평가손실에도 불구하고 KB증권의 위탁매매 수수료 증가 등으로 비이자이익도 양호한 흐름을 보일 것으로 예상했다. 여기에 부동산 관련 추가 충당금이 반영됐던 지난해보다 대손비용...",
+          "pubDate": "Fri, 12 Jun 2026 08:42:00 +0900"
         },
         {
-          "title": "[전국 주요 신문 톱뉴스](11일 조간)",
-          "source": "yna.co.kr",
-          "url": "https://www.yna.co.kr/view/AKR20260611015800011?input=1195m",
-          "description": "글로벌이코노믹 = 채권금리 요동…주담대 '영끌족' 비명 ▲ 대한경제 = 지역 SOC, 지선 후폭풍… 대수술 예고 ▲ 디지털타임스 = '좀비기업' 최대… 반도체 호황의 민낯 ▲ 매일경제 = '더 남아돌' 교부금…대학에 쓴다...",
-          "pubDate": "Thu, 11 Jun 2026 08:00:00 +0900"
+          "title": "[아침밥]하나증권 \"KB금융 2분기 순이익 2조, 목표가 22만원\"",
+          "source": "sidae.com",
+          "url": "https://www.sidae.com/article/2026061208404459147",
+          "description": "이어 \"국채금리 상승에 따른 채권 평가손 등에도 불구하고 증권 브로커리지수수료 증가 등에 힘입어 비이자이익도 선방할 것\"이라고 내다봤다. 최 애널리스트는 판관비의 경우 교육세 인상 영향 및 성과급 증가...",
+          "pubDate": "Fri, 12 Jun 2026 08:42:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "6월 11일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news2day.co.kr, biz.heraldcorp.com, the-biz.co.kr 등에서 보도되었으며, 보험사, KDB생명, 한투 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 12일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news2day.co.kr, biz.heraldcorp.com, the-biz.co.kr 등에서 보도되었으며, 보험사, KDB생명, 한투 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "[투데이 Pick] 한투, 보험사 매물 3곳 모두 등장…예별손보 본입찰에 판...",
@@ -119,49 +119,49 @@
           "title": "‘찬밥 매물’ KDB생명·예별손보 매각전 반전... 보험사 M&A 뜻밖에 흥행...",
           "source": "joseilbo.com",
           "url": "http://www.joseilbo.com/news/news_read.php?uid=569726&class=18&grp=",
-          "description": "삼성생명, 한화생명, 교보생명 등이 참여했다. 산업은행은 이들 5곳을 적격 인수 후보로 선정하고 예비실사... 금융지주사 전환이라는 장기 목표는 뚜렷하지만, 당장에는 규제 한도와 킥스(K-ICS) 부담을 동시에 관리해야...",
+          "description": "삼성생명, 한화생명, 교보생명 등이 참여했다. 산업은행은 이��� 5곳을 적격 인수 후보로 선정하고 예비실사... 금융지주사 전환이라는 장기 목표는 뚜렷하지만, 당장에는 규제 한도와 킥스(K-ICS) 부담을 동시에 관리해야...",
           "pubDate": "Wed, 10 Jun 2026 06:01:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "6월 11일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. segye.com, seoul.co.kr, munhwa.com 등에서 보도되었으며, 삼전닉스, 20, 67 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 12일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. inews24.com, etoday.co.kr, edaily.co.kr 등에서 보도되었으며, 코스피, 8300선, 회복 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "하락세 보이는 삼전닉스... KB증권 “주가 아직 절반도 안 올랐다”",
-          "source": "segye.com",
-          "url": "https://www.segye.com/newsView/20260611504302?OutUrl=naver",
-          "description": "삼성전자, SK하이닉스. 뉴시스·연합뉴스 KB증권은 11일 보고서를 내고 반도체 업종의 주가 방향에 대해 분석했다. 김동원 KB증권 리서치본부장은 “하반기부터 AI에이전트 시장이 클라우드 중심에서 엣지 디바이스로...",
-          "pubDate": "Thu, 11 Jun 2026 09:17:00 +0900"
+          "title": "SK하이닉스도 챗GPT 도입 검토...곽노정 \"AI가 새 경쟁력\"",
+          "source": "inews24.com",
+          "url": "http://www.inews24.com/view/1975973",
+          "description": "삼성전자 완제품(DX)부문은 이날부터 오픈AI 챗GPT, 구글 제미나이 엔터프라이즈, 앤트로픽 클로드를 공식 도입했다. 반도체(DS)부문 역시 현재 클로드를 사용 중이며 이달 중 챗GPT, 연내 제미나이 도입을 추진하고...",
+          "pubDate": "Fri, 12 Jun 2026 09:19:00 +0900"
         },
         {
-          "title": "[서울데이터랩]개장 직후 인기 검색 종목 20選",
-          "source": "seoul.co.kr",
-          "url": "https://www.seoul.co.kr/news/economy/securities/2026/06/11/20260611500032?wlog_tag3=naver",
-          "description": "검색 비율 상위권에 오른 삼성전자(005930)와 SK하이닉스(000660)를 비롯해 현대차(005380), LG전자(066570)... 반도체 대표주가 나란히 약세를 보이면서 관련 투자 심리도 다소 위축된 분위기다. 플랫폼과...",
-          "pubDate": "Thu, 11 Jun 2026 09:17:00 +0900"
+          "title": "코스피, 7%대 반등하며 8300선 회복⋯삼전ㆍSK하닉 ↑",
+          "source": "etoday.co.kr",
+          "url": "https://www.etoday.co.kr/news/view/2592963",
+          "description": "시가총액 상위종목 중 삼성전자(10.03%), SK하이닉스(8.85%), SK스퀘어(9.36%), 삼성전자우(7.75%), 삼성전기... 힘입어 반도체주를 중심으로 강세를 보이면서 반등에 성공했다. 국내 증시도 반등이 예상됐다....",
+          "pubDate": "Fri, 12 Jun 2026 09:18:00 +0900"
         },
         {
-          "title": "[속보]코스피 장초반4%급락…7500선 붕괴",
-          "source": "munhwa.com",
-          "url": "https://www.munhwa.com/article/11594771?ref=naver",
-          "description": "전날 미국 뉴욕증시가 반도체 투매로 급락한 영향으로 보인다. 이날 오전 9시10분 유가증권시장에서... 시가총�� 상위 종목 중에서는 삼성전자가 4.46%, SK하이닉스가 3.32% 급락 중이다. SK스퀘어와...",
-          "pubDate": "Thu, 11 Jun 2026 09:17:00 +0900"
+          "title": "이안, 2026 대한민국 가상융합대상 수상",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02978246645481064",
+          "description": "이안은 포스코 그룹 산업시설 건축 사업관리 플랫폼을 구축했으며, 삼성전자와 삼성디스플레이 반도체 공장(FAB)에 AR 기반 시공 관리 시스템을 적용한 바 있다. 최근에는 SK하이닉스 용인 반도체 클러스터와 청주 M15X 등...",
+          "pubDate": "Fri, 12 Jun 2026 09:17:00 +0900"
         },
         {
-          "title": "'중동 긴장고조' 삼전닉스 약세…28만전자·198만닉스[핫종목]",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/general-stock/6194026",
-          "description": "11일 장 초반 삼성전자(005930)와 SK하이닉스(000660)가 각각 4%, 3% 약세로 출발하며 28만 원, 198만 원 선으로... 다우존스(-1.87%)를 비롯해 S&P500(-1.62%), 나스닥(-1.98%) 모두 하락했고 필라델피아 반도체 지수는 3.57...",
-          "pubDate": "Thu, 11 Jun 2026 09:13:00 +0900"
+          "title": "종전 기대감에 코스피 '급등'…8300선 회복",
+          "source": "sisajournal.com",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=376266",
+          "description": "종목별로는 삼성전자가 9.28%, SK하이닉스 8.76%, SK스퀘어 9.12% 등 시가총액 상위 종목 종목 전반이 강한... 54%, 다우존스30산업평균지수는 1.86% 올랐으며, 필라델피아 반도체지수는 7.91% 급등해 장을 마감했다.",
+          "pubDate": "Fri, 12 Jun 2026 09:17:00 +0900"
         },
         {
-          "title": "[디지털포스트 모닝픽] CXMT, D램 야금야금 … 점유율, 3.97% → 7.67%",
-          "source": "ilovepc.co.kr",
-          "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=59662",
-          "description": "삼성전자·SK하이닉스·마이크론이 여전히 D램 시장의 약 90%를 차지하고 있지만, CXMT가 강력한 경쟁자로... 엔비디아 채용 공고에는 AI 솔루션, 반도체 시뮬레이션, 자율주행 소프트웨어 등 연구·기술 직군이...",
-          "pubDate": "Thu, 11 Jun 2026 09:12:00 +0900"
+          "title": "[개장시황] 코스피, 美 반��체 랠리·중동 긴장 완화에 6%대 급등 출발…...",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260612091116628",
+          "description": "간밤 뉴욕증시가 일제히 강세를 보인 가운데 삼성전자와 SK하이닉스 등 반도체 대형주를 중심으로 매수세가 집중되는 모습이다. 12일 한국거래소에 따르면 오전 9시 7분 현재 코스피는 전 거래일 대비 518....",
+          "pubDate": "Fri, 12 Jun 2026 09:16:00 +0900"
         }
       ]
     }

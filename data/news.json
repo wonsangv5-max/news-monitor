@@ -1,92 +1,113 @@
 {
-  "updatedAt": "2026-06-14T00:09:20.703Z",
+  "updatedAt": "2026-06-15T00:13:33.373Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "6월 14일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. g-enews.com, opinionnews.co.kr, jnilbo.com 등에서 보도되었으며, 환율, 당국, 종전 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 15일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, pointdaily.co.kr, choicenews.co.kr 등에서 보도되었으며, 코스피, 출발, 이란 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "외국인 주식 비중조절·스페이스X 상장 달러수요 막바지... 환율 하락 기...",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202606121541355560bb91c46fcd_1",
-          "description": "국내 외환시장에서 고환율을 자극하고 있는 주요인으로 꼽히는 외국인 투자자들의 국내주식 비중조절이 막바지에 달하고 있다. 이에 더해 스페이스X 기업공개(IPO) 마무리에 따른 달러 환전 수요 또한 줄어들면서 환율...",
-          "pubDate": "Sun, 14 Jun 2026 09:04:00 +0900"
+          "title": "\"NDF 역내 흡수, 규제보다 유인책\"…해외 사례 보니",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419924",
+          "description": "서울 중구 하나은행 딜링룸 외환당국이 서울외환시장의 선진화 과정에서 역외 차액결제선물환(NDF) 거래... NDF는 만기 때 원화를 실제로 주고받지 않고, 약정환율과 만기 기준환율의 차액만 결제통화로 정산하는 선물환...",
+          "pubDate": "Mon, 15 Jun 2026 09:12:00 +0900"
         },
         {
-          "title": "[이번주 환율] 1550원 찍고 1510원대로…당국 개입·종전 기대에 롤러코...",
-          "source": "opinionnews.co.kr",
-          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139965",
-          "description": "14일 서울 외환시장에 따르면 지난주 달러·원 환율은 1500원대 초반에서 출발해 장중 1555.2원까지 치솟았다가 다시 1510원대로 내려왔다. 주간 기준으로는 여전히 1500원대에 머물렀지만, 시장 참가자들은 금융위기 이후...",
-          "pubDate": "Sun, 14 Jun 2026 09:00:00 +0900"
+          "title": "코스피, 미·이란 종전 합의 소식에 5% 가까이 급등 출발",
+          "source": "pointdaily.co.kr",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308129",
+          "description": "코스닥은 전 장과 비교해 19.14포인트(1.86%) 상승한 1048.19에 장을 시작했다. 이날 서울 외환시장에서 원·달러 환율은 전 거래일보다 8.4원 내린 1511.4원에 개장했다.",
+          "pubDate": "Mon, 15 Jun 2026 09:12:00 +0900"
         },
         {
-          "title": "'50년만 최고' 성장 뒤...커지는 \"양극화\"",
-          "source": "jnilbo.com",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000042161",
-          "description": "서울 외환시장에서 미국 달러화 대비 원화 환율의 주간 거래 종가(오후 3시 30분 기준)는 지난달 15일부터 거의 한 달째 1500원을 웃돌고 있다. 이달 5일에는 야간 거래 중에 1560원을 넘겨 글로벌 금융위기 시절인...",
-          "pubDate": "Sun, 14 Jun 2026 08:49:00 +0900"
+          "title": "\"미-이란 종전 합의, 19일 서명\"...코스피 '급등 출발'",
+          "source": "choicenews.co.kr",
+          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=166553",
+          "description": "483%로 전장 대비 0.018%포인트, 통화정책에 민감한 미국 2년물 국채금리는 4.087%로 0.017% 각각 올라갔다. 한편 이날 서울 외환시장에서 원-달러 환율은 전장 대비 8.4원 내린 1511.4원에 개장했다.",
+          "pubDate": "Mon, 15 Jun 2026 09:10:00 +0900"
         },
         {
-          "title": "중동 훈풍·당국 총력전에 환율 멈칫…\"종전 서명 해야 1500원 깨진다\"",
+          "title": "\"전쟁 끝 보인다\"…코스피, 4.95% 상승한 8500선 출발",
+          "source": "iminju.net",
+          "url": "http://www.iminju.net/news/articleView.html?idxno=165257",
+          "description": "코스닥지수는 전 거래일 대비 19.14포인트(1.86%) 상승한 1048.19포인트로 출발했다. 서울 외환시장에서 원·달러 환율은 전 거래일보다 8.4원 내린 1511.4원에 거래를 시작했다.",
+          "pubDate": "Mon, 15 Jun 2026 09:08:00 +0900"
+        },
+        {
+          "title": "코스피, 장초반 4.80% 올라 '또 사이드카'…코스닥 1.47%↑(2보)",
           "source": "news1.kr",
-          "url": "https://www.news1.kr/economy/trend/6194955",
-          "description": "종전 기대감에 외인 25거래일 만에 순매수…환율 9.1원 하락 14일 서울외환시장에 따르면 지난 12일 오후 3시 30분 달러·원 환율은 전 거래일 주간 종가 대비 9.1원 내린 1519.8원에 거래를 마쳤다. 중동전쟁 종전 기대감이...",
-          "pubDate": "Sun, 14 Jun 2026 07:10:00 +0900"
-        },
-        {
-          "title": "‘셀 코리아’와 강달러의 이중 압박… 1500원대 굳어지는 환율",
-          "source": "weekly.donga.com",
-          "url": "https://weekly.donga.com/3/all/11/6265636/1",
-          "description": "원/달러 환율은 6월 8일 서울 외환시장에서 1550.2원에 거래를 시작했다. 환율 시초가로는 서브프라임발(發) 글로벌 금융위기 상황이던 2009년 3월 6일(1590원) 이후 가장 높은 수치다. 연초 원/달러 환율이 1440원대에서...",
-          "pubDate": "Sun, 14 Jun 2026 07:01:00 +0900"
+          "url": "https://www.news1.kr/finance/general-stock/6197151",
+          "description": "29를 기록 하고 있다. 코스닥은 전일 대비 15.14포인트(p)(1.47%) 상승한 1044.19를 기록 하고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 8.4원 내린 1511.4원을 기록했다.",
+          "pubDate": "Mon, 15 Jun 2026 09:08:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "6월 14일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. opinionnews.co.kr, youthdaily.co.kr, hankyung.com 등에서 보도되었으며, 금리, 확대, 이번주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 15일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, topdaily.kr, gokorea.kr 등에서 보도되었으며, 이란, 금리, 상승 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[이번주 증시] 주 초반 상승세 기대...FOMC 등 주요 이벤트 주목해야",
-          "source": "opinionnews.co.kr",
-          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139971",
-          "description": "이경민 대신증권 연구원은 \"물론 끝날 때까지 끝난 게 아닐 수 있지만, 실질적인 협상 타결, 사인 이후에는 유가 안정으로 인한 물가 우려 완화, 채권 금리, 달러화 하향 안정이 글로벌 증시에 추가 상승 동력이 될 전망...",
-          "pubDate": "Sun, 14 Jun 2026 09:00:00 +0900"
+          "title": "미·이란 종전 합의에도…\"안심하기 이르다, 고유가 당분간 계속\"",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419915",
+          "description": "이경민 대신증권 연구원은 \"유가가 85달러를 하회하고 있지만, 채권금리와 달러화는 고점권에서 소폭 하락하는 데 그치고 있다\"며 \"매크로 리스크 인덱스도 현재 위험 회피 시그널을 유지하고 있어 추가적인 변동성 확대...",
+          "pubDate": "Mon, 15 Jun 2026 09:00:00 +0900"
         },
         {
-          "title": "\"여전채 금리 상승에\"...카드사들, 해외 자금조달 채널 ‘확대’",
-          "source": "youthdaily.co.kr",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=220824",
-          "description": "이번 채권은 3년 6개월 만기 변동금리부채권(FRN) 구조로 발행됐으며 국내 비은행 금융기관이 FRN 형태의 포모사본드를 발행한 것은 처음이다. 수요예측에는 발행 규모의 4배가 넘는 16억9천만달러의 주문이 몰렸고, 대만...",
-          "pubDate": "Sun, 14 Jun 2026 08:02:00 +0900"
+          "title": "금리 오르는데 만기 물량 산적…롯데카드 조달 부담 확대",
+          "source": "topdaily.kr",
+          "url": "https://www.topdaily.kr/articles/110511",
+          "description": "올해 롯데카드는 기존 채권보다 높은 금리로 신규 채권을 발행하고 있다. 롯데카드는 올해 들어 총 1조8400억원 규모의 카드채를 발행했는데, 발행금리는 평균 연 3.92%에 달한다. 올해 만기가 돌아오는 카드채 평균...",
+          "pubDate": "Mon, 15 Jun 2026 08:48:00 +0900"
         },
         {
-          "title": "롤러코스터 타고 팔천피 재탈환…각국 중앙은행으로 쏠리는 눈 [주간전...",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/2026061234376",
-          "description": "이경민 대신증권 연구원은 \"다음주 FOMC 결과에 따�� 추가 등락은 감안해야겠지만 이를 기점으로 상승 추세를 재개해 나갈 전망\"이라며 \"실질적인 협상 타결 이후에는 유가 안정으로 인한 물가 우려 완화, 채권금리와...",
-          "pubDate": "Sun, 14 Jun 2026 08:01:00 +0900"
+          "title": "금리 상승 속 카드사의 묘수... 해외 채권으로 자금조달 해법 찾다",
+          "source": "gokorea.kr",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=869091",
+          "description": "신한카드는 이달 중순 국내 비은행 금융기관으로는 처음으로 4억달�� 규모의 변동금리부채권, 일명 포모사본드를 공모 방식으로 발행했다. 포모사본드는 외국기관이 대만에서 대만달러 외 통화로 발행하는 채권을...",
+          "pubDate": "Mon, 15 Jun 2026 08:46:00 +0900"
         },
         {
-          "title": "정기예금 금리 3%대 진입, 은행들 예금 유치 경쟁 격화",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/economy/369065",
-          "description": "이런 금리 인상은 기준금리 인상 가능성이 커지면서 채권시장 금리가 먼저 오른 데 따른 결과로 해석된다. 금융투자협회 채권정보센터에 따르면 은행채 1년물 금리는 지난달 13일 3.221%에서 이달 12일 3.585%로 0.364...",
-          "pubDate": "Sun, 14 Jun 2026 06:18:00 +0900"
+          "title": "'매각 7수' KDB생명, 생보 빅3 관심 받는 이유는",
+          "source": "news.dealsitetv.com",
+          "url": "https://news.dealsitetv.com/articles/171681",
+          "description": "KDB생명의 1분기 자산(16조5575억원)은 전년 대비 7.3% 감소했는데, 시중금리가 상승하면서 채권 평가값이 감소했고, 운용자산을 순매도한 영향이다. 금리가 상승하면, 보유한 채권가격이 하락하면서 평가손실이...",
+          "pubDate": "Mon, 15 Jun 2026 08:18:00 +0900"
         },
         {
-          "title": "월풀, 유럽 채권 조기매수 참여 확대…20억달러 담보부 채권으로 차환 ...",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/market/369064",
-          "description": "상당 폭 끌어내며 단기 만기 부담을 줄이는 데 일정 부분 성과를 냈다. 다만 높은 금리의 신규 담보부 채권을 발행한 만큼, 향후 수익성 회복과 현금흐름 개선이 재무 전략의 성패를 가를 핵심 변수로 남게 됐다.",
-          "pubDate": "Sun, 14 Jun 2026 06:18:00 +0900"
+          "title": "[특징주] 미·이란 협상 진전에 삼전닉스 상승 출발…프리마켓 강세",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260615000059",
+          "description": "대신증권도 미국과 이란 간 협상 진전이 유가, 채권금리, 달러화, 달러/원 환율 안정으로 이어질 수 있다고 봤다. 다만 6월 FOMC를 앞둔 매파적 해석 가능성과 매크로 리스크 지표의 위험회피 신호를 변수로...",
+          "pubDate": "Mon, 15 Jun 2026 08:11:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "6월 14일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.dealsitetv.com, segyebiz.com, mt.co.kr 등에서 보도되었으며, 보험업계, 매물, 보험사 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 15일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. investchosun.com, insnews.co.kr, ekn.kr 등에서 보도되었으며, 금리, 보험사, 80 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "[Invest]금리 급등에 한숨 돌린 보험사…고금리 운용 전략 한계 '뚜렷'",
+          "source": "investchosun.com",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/06/14/2026061480038.html",
+          "description": "같은 기간 킥스 규제로 해약환급금준비금 적립 부담을 안고 있는 한화생명 역시 킥스 비율을 전년 동기 155% 수준에서 올 1분기 162%까지 끌어올렸다.문제는 하반기에도 금리 상승 압박이 지속될 전망이라는 점이다....",
+          "pubDate": "Mon, 15 Jun 2026 07:02:00 +0900"
+        },
+        {
+          "title": "보험사 M&A 시장 재가동… 자본지원·라이선스 수요 맞물려",
+          "source": "insnews.co.kr",
+          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91234",
+          "description": "(K-ICS·킥스)비율은 2024년 말 158.24%에서 지난해 말 205.73%로 47.49%포인트(p) 상승했다. 지난 1일 마감된 예비입찰에는 한국투자금융지주와 흥국생명뿐 아니라 삼성생명, 한화생명, 교보생명 등 대형 생명보험 3사도 참여한...",
+          "pubDate": "Mon, 15 Jun 2026 00:02:00 +0900"
+        },
+        {
+          "title": "‘80%의 벽’ 못 넘은 보험사들...“금리 인상이 반갑다”",
+          "source": "ekn.kr",
+          "url": "https://www.ekn.kr/web/view.php?key=20260614028092979",
+          "description": "14일 보험업계에 따르면 올 1분기 기준 기본자본 신지급여력제도(K-ICS·킥스) 비율이 80%를 밑도는 보험사는... 생명보험업권에서는 한화생명(60.2%), 동양생명(79.3%), KDB생명(41.8%), ABL생명(76.4%), iM라이프(14.8%), 하나생명(20....",
+          "pubDate": "Sun, 14 Jun 2026 17:10:00 +0900"
+        },
         {
           "title": "[교보금융지주 가시화] 추가 M&A 불지핀 교보생명…남은 퍼즐은 손보사",
           "source": "news.dealsitetv.com",
@@ -100,68 +121,47 @@
           "url": "http://www.segyebiz.com/newsView/20260612514899?OutUrl=naver",
           "description": "삼성생명, 한화생명, 교보생명 등이 참여했다. 앞서 대주주인 산업은행은 2010년 금호그룹 구조조정... 산업은행이 지난해 12월 5000억원 규모의 유상증자를 단행해 자본력을 보강했으며 최근 KDB생명의 킥스 비율은 지난해...",
           "pubDate": "Sat, 13 Jun 2026 07:02:00 +0900"
-        },
-        {
-          "title": "'체력 바닥' 보험업계…금리인상 단비에 기대감↑",
-          "source": "mt.co.kr",
-          "url": "https://www.mt.co.kr/finance/2026/06/12/2026061115293231297",
-          "description": "실제로 iM증권은 1분기 한화생명의 킥스 개선, 삼성생명의 종신보험 중심 실적 개선이 모두 중동사태로 인한 금리상승 덕분이라는 분석을 내놓았다. 여기에 신현송 한국은행 총재가 지난달부터 시장에 기준금리 인상...",
-          "pubDate": "Fri, 12 Jun 2026 16:47:00 +0900"
-        },
-        {
-          "title": "[보험사 자본구조 진단] 5000억 수혈받은 KDB생명…기본자본 여전히 '마...",
-          "source": "dealsite.co.kr",
-          "url": "https://dealsite.co.kr/articles/163375",
-          "description": "유증으로 킥스비율 개선됐지만 해약환급금 부담 확대…자본의 질 개선 과제 KDB생명보험이 지난해... 삼성생명·교보생명·한화생명 등 '빅3' 생보사들이 참여해 관심을 모았다. KDB생명의 기본자본비율이 개선되지...",
-          "pubDate": "Fri, 12 Jun 2026 10:06:00 +0900"
-        },
-        {
-          "title": "[투데이 Pick] 한투, 보험사 매물 3곳 모두 등장…예별손보 본입찰에 판...",
-          "source": "news2day.co.kr",
-          "url": "https://www.news2day.co.kr/article/20260610500283",
-          "description": "KDB생명 예비입찰에 삼성생명·한화생명·교보생명 등 생보 3사와 태광그룹(흥국생명)까지 5개사가 몰리며... 롯데손보는 1분기 말 킥스 비율이 예외모형·경과조치 후 기준 164.42%를 기록하며 지난해 1분기 저점(119.9...",
-          "pubDate": "Thu, 11 Jun 2026 06:56:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "6월 14일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. mk.co.kr, news.einfomax.co.kr, news.dealsitetv.com 등에서 보도되었으며, 삼성전기, 실리콘, 삼전닉스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 15일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. wolyo.co.kr, kpenews.com, inews24.com 등에서 보도되었으며, AI, 40, 90 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "“삼전닉스 양손에 쥐고…숨은 진주 ‘소부장’은 ETF로 담아라” [여의...",
-          "source": "mk.co.kr",
-          "url": "https://www.mk.co.kr/article/12073509",
-          "description": "박 실장은 과거 2019년 삼성전자의 비메모리 비전 발표 당시와 비교해 현재 소부장 생태계의 체력이 완전히 달라졌다고 평가했다. 미·중 갈등에 따른 공급망 재편과 반도체 국산화 흐름 속에서 한국 소부장 기업들이...",
-          "pubDate": "Sun, 14 Jun 2026 09:06:00 +0900"
+          "title": "\"반세권 수요 몰린다\"…대우건설 '브레인시티 푸르지오' 계약률 90% 넘어",
+          "source": "wolyo.co.kr",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=313532",
+          "description": "평택시의 비상을 이끌고 있는 곳은 반세권을 넘어 삼성 반도체 직주근접 입지를 갖춘 평택 브레인시티다. 세계 최대 반도체 생산라인을 갖춘 삼성전자 평택캠퍼스를 배후에 두고 경기도 최대 규모 4차산업 첨단...",
+          "pubDate": "Mon, 15 Jun 2026 09:12:00 +0900"
         },
         {
-          "title": "삼성전기, AI반도체 핵심 '실리콘 캐패시터'로 '황제주' 기세 이어간다",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4419837",
-          "description": "삼성전기는 AI 반도체의 전력 안정화를 담당하는 핵심 부품인 '실리콘 캐패시터'의 생산으로 적층세라믹캐패시터(MLCC)·반도체패키지 기판과 함께 AI 반도체 시장에 필요한 첨단 부품 라인업을 완성했다고 14일 밝혔다....",
-          "pubDate": "Sun, 14 Jun 2026 09:06:00 +0900"
+          "title": "하나증권 “KB금융 신한지주 2분기 실적 모멘텀 압도 예상..주간 iM금융...",
+          "source": "kpenews.com",
+          "url": "https://kpenews.com/View.aspx?No=4111878",
+          "description": "월요일 미국 마이크론의 폭락에 따른 반도체주 급락으로 코스피가 8.3%나 하락하는 등 큰폭의 급락세로... 케이뱅크가 18.0% 상승했고 삼성카드와 IBK기업은행이 각각 12.0%와 5.6% 상승해 한주간 주가 상승 폭이 가장...",
+          "pubDate": "Mon, 15 Jun 2026 09:12:00 +0900"
         },
         {
-          "title": "삼성전기, 실리콘 캐패시터로 AI 밸류체인 완성",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/171711",
-          "description": "삼성전기에 따르면 AI 반도체는 일반 반도체 대비 전력 소모와 순간적인 전력 변화의 폭이 크다. 그래픽처리장치(GPU), 고대역폭메모리(HBM) 등이 탑재되는 AI 서버용 패키지의 경우 고집적·대면적 구조로 설계되기 때문에...",
-          "pubDate": "Sun, 14 Jun 2026 09:06:00 +0900"
+          "title": "\"한국은 갔는데 일본은 패싱\"⋯젠슨 황 행보에 충격 받은 日, 'AI 위기론...",
+          "source": "inews24.com",
+          "url": "http://www.inews24.com/view/1976377",
+          "description": "닛케이는 한국의 삼성전자와 SK하이닉스, 대만의 TSMC가 엔비디아 AI 반도체 공급망의 핵심 축을 담당하고 있다는 점에 주목했다. 매체는 \"젠슨 황이 한국과 대만 기업들을 단순 협력사를 넘어 전략적 파트너로...",
+          "pubDate": "Mon, 15 Jun 2026 09:12:00 +0900"
         },
         {
-          "title": "반도체 호황에 초과세수...전망치 15조 웃돌아",
-          "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202606140849434400",
-          "description": "특히 삼성전자와 SK하이닉스 등 반도체 기업의 실적 개선세가 지속될 것으로 전망되는 만큼, 하반기 법인세 세수에도 긍정적인 영향을 줄 것으로 관측된다. 증권거래세도 예상보다 가파른 증가세를 보이고 있다....",
-          "pubDate": "Sun, 14 Jun 2026 09:05:00 +0900"
+          "title": "삼성전자, 'C랩 아웃사이드' 9기 모집…AI·로봇 등 스타트업 30곳 선발",
+          "source": "bizwork.co.kr",
+          "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=416481",
+          "description": "또 다른 8기 스타트업인 엑사리온은 실감형 3D 오디오와 AI 영상처리 반도체 IP를 개발하는 딥테크 기업이다. 현재 삼성전자와 사업 협력 및 기술 검증 추진을 논의하고 있으며, 독자 기술력을 기반으로 나스닥 상장을...",
+          "pubDate": "Mon, 15 Jun 2026 09:12:00 +0900"
         },
         {
-          "title": "삼성전기, MLCC·실리콘캐패시터 투트랙으로 AI시대 노린다",
-          "source": "asiatime.co.kr",
-          "url": "https://www.asiatime.co.kr/article/20260614500003",
-          "description": "(사진=삼성전기) 14일 삼성전기는 AI 반도체의 전력 안정화를 유도하는 고부가 ‘실리콘 캐패시터’ 양산에 돌입했다고 밝혔다. 지난달 글로벌 대형 기업과 총 1조5000억원 규모의 대형 공급 계약을 전격 체결하기도 했다....",
-          "pubDate": "Sun, 14 Jun 2026 09:04:00 +0900"
+          "title": "[오늘의 사설] \"송전망 사업 40% 지연...이래선 발전소 지어도 허사\"",
+          "source": "nongaek.com",
+          "url": "http://www.nongaek.com/news/articleView.html?idxno=95708",
+          "description": "사설은 \"삼성전자와 SK하이닉스가 600조 원 이상을 투자해 조성하는 용인 반도체 클러스터 역시 송전 인프라 구축이 완료되지 않으면 공장을 돌릴 수 없다\"며 \"미국, 중국, 일본 등과 치열한 속도 경쟁을 펼쳐야 하는 한국...",
+          "pubDate": "Mon, 15 Jun 2026 09:12:00 +0900"
         }
       ]
     }

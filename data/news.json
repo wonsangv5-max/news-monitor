@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-06-20T00:11:05.747Z",
+  "updatedAt": "2026-06-21T00:10:00.914Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "6월 20일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. newscj.com, biz.heraldcorp.com, economist.co.kr 등에서 보도되었으며, 환율, 1500원대, 종전에도 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 21일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. newsway.co.kr, news.einfomax.co.kr, news1.kr 등에서 보도되었으며, 환율, 달러, MSCI 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "종전에도 오른다… 환율, 24거래일 연속 1500원대",
-          "source": "newscj.com",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3410721",
-          "description": "20일 서울 외환시장에 따르면 이날 오전 2시 원/달러 환율은 주간 거래 종가(1527.0원) 대비 3.90원 오른 1531.00원으로 마감했다. 전날 환율은 직전 거래일보다 10.3원 오른 1537.4원으로 주간 거래를 시작해 장중 1539....",
-          "pubDate": "Sat, 20 Jun 2026 08:22:00 +0900"
+          "title": "'1만피' 열쇠 쥔 MSCI…18년 숙원 푼다[MSCI 선진국 편입]",
+          "source": "newsway.co.kr",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026061914034384169",
+          "description": "김규진 NH투자증권 연구원은 \"관찰대상국 등재 이후 환율 변동성과 국내 실적 변동성 안정화는 밸류에이션... 하지만 원화의 낮은 태환성과 복잡한 투자자 등록 절차, 제한적인 외환시장 구조 등이 문제로 지적됐고 결국...",
+          "pubDate": "Sun, 21 Jun 2026 09:06:00 +0900"
         },
         {
-          "title": "미·이란 종전인데 환율은 왜 아직도 1500원? 이유는 ‘세 가지’ 때문 ...",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10782391?ref=naver",
-          "description": "환율, 24거래일 연속 1500원…글로벌 인플레 우려 여전 19일 서울 외환시장에서 원/달러 환율은 전 거래일보다 0.1원 내린 1527원에 주간 거래를 마쳤다. 지난달 15일(1500.8원) 이후 24거래일 연속 1500원대 주간 종가 기록을...",
-          "pubDate": "Sat, 20 Jun 2026 08:14:00 +0900"
+          "title": "재경부, '환율 실탄' 외평채 발행 준비 착수…달러·유로화 검토",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421041",
+          "description": "이에 따라 달러-원 환율은 1,530원선을 넘나들며 여전히 불안한 흐름을 이어가고 있다. 여기에 지난 18일 한미전략투자특별법 시행으로 정부가 3천500억달러 규모 대미 투자에 조만간 착수할 수 있다는 점도 외환시장에...",
+          "pubDate": "Sun, 21 Jun 2026 08:48:00 +0900"
         },
         {
-          "title": "“왜 못 막나” 환율 1500원대 고착화…한국은행 대응법은",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202606150050",
-          "description": "환율 1500원대…외국인 매도세가 기름 부어 서울외환시장에 따르�� 원·달러 환율은 지난 5월 15일 이후 지속해서 1500원대를 유지하고 있다. 원·달러 환율은 중동 전쟁 이전 1450원 안팎에서 거래됐지만 지난 3일 1505원으로...",
-          "pubDate": "Sat, 20 Jun 2026 08:01:00 +0900"
+          "title": "종전에도 1500원대…환율 발목 잡는 '연준·유가·달러 수요'",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/economy/trend/6203057",
+          "description": "다만 국내시장 복귀계좌, 국민연금 외환스와프 등 이미 많은 환율 안정책을 내놓은 정부가 활용할 수 있는 정책 수단은 많지 않다는 평가가 나온다. 결국 구두개입이나 미세조정 수준의 대응에 머물 수밖에 없다는...",
+          "pubDate": "Sun, 21 Jun 2026 07:30:00 +0900"
         },
         {
-          "title": "코스피 7거래일 만에 하락…급등 후시장 불안감이 원인인가",
-          "source": "gokorea.kr",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=869788",
-          "description": "외환시장에서는 당일 서울 외환시장에서 달러 대비 원화 환율이 전 거래일보다 0.1원 내린 1,527.0원에 거래되었다. 코스피 상승 종목은 115개에 불과했으며, 하락 종목은 787개나 됐다. 이는 반도체 업종의 급등이 작은...",
-          "pubDate": "Sat, 20 Jun 2026 07:34:00 +0900"
+          "title": "[영상] “미국보다 돈 2배나 많이 풀려… 원/달러 환율 내년 1700원 돌파...",
+          "source": "weekly.donga.com",
+          "url": "https://weekly.donga.com/3/all/11/6273955/1",
+          "description": "나라를 지키려면 자주국방을 해야 하는 것처럼 외환시장에서도 우리 스스로 환율을 지켜야 하는데, 그 핵심이 외환보유고를 꾸준히 늘리는 것이다.” 4월 주간동아 인터뷰에서 “연말 환율이 1600원에 도달할 수...",
+          "pubDate": "Sun, 21 Jun 2026 07:02:00 +0900"
         },
         {
-          "title": "\"이스라엘·헤즈볼라 휴전 속 달러-원 환율 1,531원 마감… 주간 변동폭...",
-          "source": "gokorea.kr",
-          "url": "https://www.gokorea.kr/news/articleView.html?idxno=869784",
-          "description": "20일 새벽 2시, 한국시간 기준으로 달러-원 환율은 이전 서울 외환시장 종가보다 3.90원 오른 1,531.00원으로 마감했다. 주간 거래에서는 이보다 4.00원 상승한 1,527.00원을 기록했다. 뉴욕시장을 앞두고 1,530원 근처에...",
-          "pubDate": "Sat, 20 Jun 2026 07:32:00 +0900"
+          "title": "\"해외투자 3% 늘어날 때 원화값 0.7% 하락\"",
+          "source": "mediapen.com",
+          "url": "https://www.mediapen.com/news/view/1105559",
+          "description": "다만 투자소득이 국내로 들어오지 않고 현지에 재투자될 경우 환율 안정 효과는 제한적인 것으로 분석됐다.... 이에 따라 보고서는 투자소득 규모뿐 아니라 실제 국내 외환시장으로 환류되는 정도와 해외 유보 성향까지...",
+          "pubDate": "Sun, 21 Jun 2026 06:06:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "6월 20일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. namdonews.com, mediapen.com, wowtv.co.kr 등에서 보도되었으며, 비트버니, 퀴즈, 6월 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 21일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. ebn.co.kr, thebell.co.kr, digitaltoday.co.kr 등에서 보도되었으며, 50, 서학개미, 시대 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "비트버니 퀴즈 6월 20일 정답은",
-          "source": "namdonews.com",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=914172",
-          "description": "2026년 6월 20일 비트버니 퀴즈 문제는 '0000이란, 채권 가격과 만기·금리의 관계에서 금리 변화에 채권 가격이 얼마나 민 감하게 반응 하는지를 나타낸 지표를 말해요.' 비트버니 퀴즈 6월 20일 정답은 바로 '듀레이션'이다....",
-          "pubDate": "Sat, 20 Jun 2026 07:50:00 +0900"
+          "title": "\"서학개미 시대 끝?\"…국내 주식형 ETF 비중 첫 50% 돌파",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713283",
+          "description": "◆ 채권 ETF 시대 저무나…금리 인상 우려에 비중 급감 반대로 채권형 ETF는 고전하고 있다. 국내 채권형 ETF 비중은 2024년 말 28.3%에서 현재 12.0%까지 급감했다. 순자산 규모는 63조원으로 소폭 증가했지만, 주식형...",
+          "pubDate": "Sun, 21 Jun 2026 08:28:00 +0900"
         },
         {
-          "title": "[유럽증시] 美·이란 평화회담 전격 취소에 하락...ASML 美당국 조사에 ...",
-          "source": "mediapen.com",
-          "url": "https://www.mediapen.com/news/view/1105502",
-          "description": "케빈 워시 미국 연방준비제도(Fed) 신임 의장의 매파적 발언으로 고금리 장기화 우려가 채권 금리를 밀어 올렸다. 유로존 국채 금리가 오르며 기술주에 압박을 가했다. 미국과 이란의 종전 불안감으로 브렌트유가...",
-          "pubDate": "Sat, 20 Jun 2026 05:02:00 +0900"
+          "title": "[더벨][인사이드 헤지펀드] 빌리언폴드운용, AUM 1조 고지…비결은 '마켓...",
+          "source": "thebell.co.kr",
+          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202603061316105920102793",
+          "description": "금리 상승 이후 채권 가격 변동성이 확대되면서 기존의 주식·채권 분산 포트폴리오의 안정성이 약화됐기 때문이다. 일부 기관과 고액 자산가들은 시장 방향성 노출이 낮은 절대수익 전략으로 자산 배분을 조정하는...",
+          "pubDate": "Sun, 21 Jun 2026 08:22:00 +0900"
         },
         {
-          "title": "\"최대 9500선이긴 한데\"…두가지 넘으면 '1만피' 보인다",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606190454&t=NN",
-          "description": "반대로 예상치에 부합하거나 하회하면 채권금리·달러화 하향 안정과 맞물려 상승 탄력이 강화될 것으로 관���된다. 케빈 워시 신임 연준 의장이 포워드 가이던스를 폐기한 만큼, 향후 물가 지표에 대한 주가...",
-          "pubDate": "Sat, 20 Jun 2026 05:00:00 +0900"
+          "title": "[증시전망] 9000선 넘은 코스피 행방은...PCE·마이크론 실적 주목",
+          "source": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676881",
+          "description": "유가 안정이 물가 부��� 완화로 이어지면 채권금리와 달러가 안정되고 이는 국내 증시에도 우호적으로 작용할 수 있다. 마이크론 실적 발표도 중요한 변수다. 마이크론은 24일 2026회계연도 3분기 실적을 발표할...",
+          "pubDate": "Sun, 21 Jun 2026 08:10:00 +0900"
         },
         {
-          "title": "국고채 금리 전 구간 상승, 채권시장 약세 지속",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/economy/371160",
-          "description": "채권 금리는 가격과 반대로 움직이기 때문에 금리 상승은 그만큼 채권값이 내려갔다는 뜻이다. 중기물과 장기물의 오름폭도 비교적 컸다. 5년물 금리는 5.6bp 상승한 연 4.005%, 10년물 금리는 5.3bp 오른 연 4.171%를...",
-          "pubDate": "Sat, 20 Jun 2026 00:24:00 +0900"
+          "title": "장기부채 부담에 생보사 외화증권 16조 급증…한화생명 2.9조↑ ‘최대’",
+          "source": "ceoscoredaily.com",
+          "url": "https://www.ceoscoredaily.com/page/view/2026061612052499582",
+          "description": "금리 상승은 신규 채권의 이자수익 확대와 역마진 완화라는 긍정적 효과가 있지만, 기존에 보유한 매도가능채권의 평가손실을 유발해 K-ICS 비율을 일시적으로 악화시킬 수 있기 때문이다. 한국금융연구원에 따르면...",
+          "pubDate": "Sun, 21 Jun 2026 07:00:00 +0900"
         },
         {
-          "title": "포모사본드부터 이중통화까지, 카드업계 비용절감·자금조달 다변화 고...",
-          "source": "businesspost.co.kr",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=440433",
-          "description": "고정금리 채권과 대비되는 개념이다. 삼성카드는 5월28일 4억 위안(약 888억 원) 규모의 위안화 표시 김치본드를 발행했다. 업계 최초는 아니지만 삼성카드로서는 처음으로 발행하는 위안화 김치본드다. 카드사들이...",
-          "pubDate": "Fri, 19 Jun 2026 17:30:00 +0900"
+          "title": "케빈 워시式 ‘슬림 연준’ 시험대…매파 신호에 시장 출렁",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=2026062017584883869a1f309431_1",
+          "description": "시장은 이를 금리 인상이 가까워졌다는 뜻으로 해석했고 채권금리는 상승했다. 뉴욕 연방준비은행에서 커뮤니케이션 담당 고위직을 지낸 크리슈나 구하는 워시 의장의 기자회견이 시장 반응을 “대폭 증폭시켰다”고...",
+          "pubDate": "Sun, 21 Jun 2026 05:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "6월 20일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. hansbiz.co.kr, biztribune.co.kr, wikileaks-kr.org 등에서 보도되었으며, 보험사, 216, 1분기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 21일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. hansbiz.co.kr, biztribune.co.kr, wikileaks-kr.org 등에서 보도되었으며, 보험사, 216, 1분기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "보험사, 1분기 킥스 216.1%...4개 분기 연속 상승",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "6월 20일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. choicenews.co.kr, news.einfomax.co.kr, asiatime.co.kr 등에서 보도되었으며, 삼성전자, 파운드리, TSMC 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 21일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. tournews21.com, thebigdata.co.kr, sentv.co.kr 등에서 보도되었으며, 이상일, 시장, 포곡단오창포축제장서 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전자 파운드리, TSMC 생산한계에 '유일한 대안'으로",
-          "source": "choicenews.co.kr",
-          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=166855",
-          "description": "글로벌 반도체 시장에서 삼성전자 파운드리가 대만 TSMC의 독점을 깨뜨릴 강력한 대안으로 급부상하고 있다. 인공지능(AI) 칩 수요가 폭증하면서 업계 1위인 TSMC의 생산 능력이 완전히 포화 상태에 이르렀기 때문이다....",
-          "pubDate": "Sat, 20 Jun 2026 09:06:00 +0900"
+          "title": "이상일 시장, 포곡단오창포축제장서 재선 축하 꽃다발…\"용인을 위해 더...",
+          "source": "tournews21.com",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=136948",
+          "description": "삼성전자 반도체가 들어갈 국가산단이 정부의 미온적인 태도로 진행이 답보 상태인 가운데 전라도 광주에 반도체 공장 신설이 가시화되고 있다. 이런 가운데 삼성전자를 이끌고 있는 이재용 회장이 이재명 대통령과...",
+          "pubDate": "Sun, 21 Jun 2026 09:08:00 +0900"
         },
         {
-          "title": "격차 커지는 코스피·코스닥…내달 30주년 행사에 쏠린 눈",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421003",
-          "description": "kr 코스피가 반도체 대형주들의 선방에 9,000선을 넘어 '고공행진'하고 있지만 코스닥은 1,000선을 하회하며 부진한 흐름을 이어가고 있다. 외국인과 기관 등은 코스닥 업종에 대한 관심을 거두고 있지 않지만, 삼성전자...",
-          "pubDate": "Sat, 20 Jun 2026 09:04:00 +0900"
+          "title": "삼성전기·LG이노텍, 패키지 기판 존재감 확대...수요 급증에 공급 부족...",
+          "source": "thebigdata.co.kr",
+          "url": "http://www.thebigdata.co.kr/view.php?ud=202606191455442730ecbf9426b_23",
+          "description": "이달 착공에 들어가는 베트남 반도체 기판 신공장을 통해 생산능력 확대에도 나설 계획이다. 삼성전기는 이미 국내 FC-BGA 시장 선두주자로 자리 잡고 있다. 패키지 기판과 적층세라믹커패시터(MLCC)에 이어 차세대 AI...",
+          "pubDate": "Sun, 21 Jun 2026 09:02:00 +0900"
         },
         {
-          "title": "[힘내라 K산업]② 최윤범의 11조원 승부수...美공급망 장악 나선 '프로젝...",
-          "source": "asiatime.co.kr",
-          "url": "https://www.asiatime.co.kr/article/20260619500131",
-          "description": "비철금속과 반도체 황산까지 생산한다. 미국 내에서 사실상 전례를 찾기 어려운 규모다. 특히 프로젝트가 들어서는 테네시는 미국 남동부 배터리 벨트의 중심지다. 현대차그룹과 GM, SK온, LG에너지솔루션, 삼성SDI 등...",
-          "pubDate": "Sat, 20 Jun 2026 09:02:00 +0900"
+          "title": "반도체가 띄운 '셔세권'…50조원 넘는 자금 풀리나",
+          "source": "sentv.co.kr",
+          "url": "https://www.sentv.co.kr/article/view/sentv202606210006",
+          "description": "삼성전자와 SK하이닉스의 역대��� 성과급과 저금리 사내대출이 수도권 부동산 시장에 대규모 유동성을... 최근 수원·동탄·평택 등 이른바 '셔세권' 지역 집값이 강세를 보이는 가운데, 업계에서는 반도체 호황이 만들어낸...",
+          "pubDate": "Sun, 21 Jun 2026 09:02:00 +0900"
         },
         {
-          "title": "SK하닉 시총, 어느새 삼전 턱밑...‘실적 장세’ 논리 균열?",
-          "source": "mk.co.kr",
-          "url": "https://www.mk.co.kr/article/12078430",
-          "description": "이재만 하나증권 애널리스트는 “SK하이닉스 시총이 삼성전자를 추월하는 경우, 반도체 실적 개선 기대가 상당 부분 주가에 반영됐다는 신호로 볼 수 있다”며 “과거 2000년 테크 버블의 종료는 이익 규모와...",
-          "pubDate": "Sat, 20 Jun 2026 09:01:00 +0900"
+          "title": "[기획] 동탄 아파트 반도체 호황에 폭등장…삼전닉스 셔세권도 '들썩'",
+          "source": "m-i.kr",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1383348",
+          "description": "사진=연합뉴스 제공 매일일보 = 김다니엘 기자  |  반도체 호황 기대에 삼성전자·SK하이닉스 등 이른바 '반도체 빅2' 인근 지역 아파트값이 들썩이고 있다. 특히 삼성전자 화성·기흥라인, SK하이닉스 반도체 클러스터와...",
+          "pubDate": "Sun, 21 Jun 2026 09:02:00 +0900"
         },
         {
-          "title": "첨단산업 품은 광주·인프라 갖춘 검단서 '분상제' 단지 공급…분양시장...",
-          "source": "dailypop.kr",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=99863",
-          "description": "아울러 SK그룹과 오픈AI가 추진하는 서남권 데이터센터 후보지로 거론되고 있으며, 삼성전자와 SK하이닉스가 '전남 1호 데이터센터'가 들어서는 전남 장성 등에 반도체 공장 설립을 검토 중인 것으로 알려졌다. 사진...",
-          "pubDate": "Sat, 20 Jun 2026 09:00:00 +0900"
+          "title": "JEDEC, 'SPHBM4' 표준 제정…유리기판 활용성 주목",
+          "source": "etnews.com",
+          "url": "https://www.etnews.com/20260619000108",
+          "description": "SPHBM4의 시장 확산은 실제 채택 여부에 달려 있다. 삼성전자·SK하이닉스 등 메모리 기업이 관련 제품을 내놓고, TSMC와 엔비디아 등 주요 AI 반도체 생태계 기업이 이를 채택해야 표준 제정의 의미가 본격화할 수 있다.",
+          "pubDate": "Sun, 21 Jun 2026 09:01:00 +0900"
         }
       ]
     }

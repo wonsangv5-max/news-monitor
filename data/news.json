@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-06-24T00:00:17.226Z",
+  "updatedAt": "2026-06-25T00:15:12.847Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "6월 24일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. joseilbo.com, topstarnews.net, sentv.co.kr 등에서 보도되었으며, 532, 뉴욕증시, 약세 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 25일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. choicenews.co.kr, hankookilbo.com, pointdaily.co.kr 등에서 보도되었으며, 코스피, 마이크론, 코스닥 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "뉴욕증시, 반도체 쇼크에 일제히 약세…나스닥 2.2% 급락",
-          "source": "joseilbo.com",
-          "url": "http://www.joseilbo.com/news/news_read.php?uid=570608&class=53&grp=",
-          "description": "외환시장에서는 안전자산 선호와 미국 통화정책 경계감이 맞물리며 달러가 강세를 나타냈다. 주요 6개 통화 대비 달러 가치를 보여주는 달러인덱스는 0.4% 오른 101.38을 기록했다. 엔·달러 환율은 달러당 161.56엔까지...",
-          "pubDate": "Wed, 24 Jun 2026 08:51:00 +0900"
+          "title": "美 마이크론, 호실적 '축포'...코스피·코스닥 '장초반 급등'",
+          "source": "choicenews.co.kr",
+          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=167082",
+          "description": "398%로 전장 대비 0.094%포인트, 통화정책에 민감한 미국 2년물 국채금리는 4.148%로 0.052% 각각 내려갔다. 한편 이날 서울 외환시장에서 원-달러 환율은 전장 대비 1.2원 오른 1543.0원에 개장했다.",
+          "pubDate": "Thu, 25 Jun 2026 09:14:00 +0900"
         },
         {
-          "title": "MSCI 관찰대상국 또 불발…남은 숙제는 외환시장 개혁",
-          "source": "topstarnews.net",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16109403",
-          "description": "실제로 최근 코스피의 주요 변수는 AI 투자 확대, 반도체 업황, 외국인 수급, 환율과 금리 등이다. MSCI 편입 여부는 중장기 제도 이슈에 가깝다는 평가가 나온다. 다만 정부가 추진 중인 외환시장 개혁의 성패는 향후...",
-          "pubDate": "Wed, 24 Jun 2026 08:50:00 +0900"
+          "title": "[속보] 코스피, 개장 직후 5% 급등하며 매수 사이드카… 환율 1547원",
+          "source": "hankookilbo.com",
+          "url": "https://www.hankookilbo.com/news/article/A2026062508520003366?did=NA",
+          "description": "코스닥은 17.86포인트(1.96%) 상승한 927.17선에서 움직이고 있다. 이날 서울 외환시장에서 원·달러 환율은 전 거래일 대비 1.2원 오른 1,543.0원에 개장한 뒤 1,547원까지 올랐다.",
+          "pubDate": "Thu, 25 Jun 2026 09:14:00 +0900"
         },
         {
-          "title": "뉴욕증시, AI·반도체주 매도세에 약세…나스닥 2.2%↓",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202606240008",
-          "description": "외환시장과 채권시장에서는 연준의 향후 통화정책에 대한 불확실성이 반영됐다. 시장 일각에서... 이에 따라 엔달러 환율은 달러당 161.56엔 수준에 거래되며 엔화 가치는 40년만의 최저 수준에 근접했다. 최근...",
-          "pubDate": "Wed, 24 Jun 2026 08:46:00 +0900"
+          "title": "코스피, 2.74% 상승 출발…8703.42 개장",
+          "source": "pointdaily.co.kr",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309558",
+          "description": "40포인트(2.74%) 오른 8703.42에 개장했다. 코스닥은 전 장과 비교해 14.35포인트(1.58%) 오른 923.66에 장을 열었다. 서울 외환시장에서 원·달러 환율은 주간종�� 기준 전장 대비 1.2원 오른 1543.0원에 개장했다.",
+          "pubDate": "Thu, 25 Jun 2026 09:12:00 +0900"
         },
         {
-          "title": "MSCI 또 불발에 증권가 \"예견된 결과…2029년 실제 편입 시나리오 유효\"",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260624_0003680933",
-          "description": "김규진 연구원은 \"2026~2027년 중 외환시장 거래 활성화 수준에 따라 환율 안정성이 높아지고, IT 중심의 밸류에이션(가치평가) 상승 시나리오는 유효하다\"며 \"향후 2028년 편입 발표 시 리밸런싱(자산 재조정) 효과에 따라...",
-          "pubDate": "Wed, 24 Jun 2026 08:43:00 +0900"
+          "title": "코스피, 마이크론 호실적에 장 초반 8960선 회복(2보)",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/finance/general-stock/6207776",
+          "description": "코스닥은 전일 대비 8.94포인트(p)(0.98%) 상승한 918.25를 기록 하고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 1.2원 오른 1543.0원에 출발했다.",
+          "pubDate": "Thu, 25 Jun 2026 09:10:00 +0900"
         },
         {
-          "title": "NDF, 1,532.20/ 1,532.60원…5.85원↓",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421525",
-          "description": "최근 1개월물 스와프포인트(-0.85원)를 고려하면 전장 서울외환시장 현물환 종가(1,539.10원) 대비 5.85원... 달러-엔 환율은 161.482엔, 유로-달러 환율은 1.13806달러를 나타냈다. 달러-위안(CNH) 환율은 6....",
-          "pubDate": "Wed, 24 Jun 2026 08:34:00 +0900"
+          "title": "코스피 2%대·코스닥 1%대 상승 출발…반도체·IT 대형주 강세",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713829",
+          "description": "99%), 에코프로(-0.28%), 이오테크닉스(-0.21%)는 약세를 보였다. 서울 외환시장에서 원·달러 환율은 같은 시각 전 거래일보다 0.90원(0.06%) 오른 1544.40원을 나타냈다. 달러인덱스는 101.61로 보합권에서 움직였다.",
+          "pubDate": "Thu, 25 Jun 2026 09:08:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "6월 24일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. enewstoday.co.kr, wowtv.co.kr, tokenpost.kr 등에서 보도되었으며, 발행, 10, NH투자증권 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 25일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, joseilbo.com, view.asiae.co.kr 등에서 보도되었으며, 유가, 증시, 기술주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "NH투자증권, 6억달러 규모 유로본드 발행 성공",
-          "source": "enewstoday.co.kr",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2441750",
-          "description": "고정금리부 형태로 발행된 이번 채권의 최종 금리는 3년물 4.937%(미국 국채 대비 +70bp), 5년물 5.038%(+75bp)로 결정됐다. 최초 제시금리(IPG)였던 3년물 +105bp, 5년물 +110bp에서 풍부한 투자 수요를 바탕으로 스프레드를...",
-          "pubDate": "Wed, 24 Jun 2026 08:58:00 +0900"
+          "title": "MBS 미매각에 한전채 유찰까지…경계감 계속되는 크레디트 시장",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421746",
+          "description": "증권사의 한 채권 관계자는 \"금리 인상 경계감 등이 이어지면서 지금은 크레디트물 매수세가 주춤해진 상황\"이라며 \"분기 말이 지나면 수급적으로 조금 나아질 순 있겠지만 당분간 쉽지 않은 터라 오버 발행을...",
+          "pubDate": "Thu, 25 Jun 2026 08:38:00 +0900"
         },
         {
-          "title": "뉴욕증시도 '검은 화요일' 필라델피아 반도체 지수 7% 급락...마이크론 ...",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606240195&t=NN",
-          "description": "또 비슷한 신용 등급을 가진 인텔의 10년 만기 채권 금리보다 0.5% 포인트 높은 수준입니다. 또 하나는 가장 많은 수요가 몰린 채권은 바로 만기가 짧고 리스크가 적은 단기채라는 점인데요. 이러한 점이 역시나...",
-          "pubDate": "Wed, 24 Jun 2026 08:11:00 +0900"
+          "title": "AI주 팔고 항공주 샀다…유가 급락에 뉴욕증시, 혼조 마감",
+          "source": "joseilbo.com",
+          "url": "http://www.joseilbo.com/news/news_read.php?uid=570687&class=53&grp=",
+          "description": "다만 채권금리 하락에도 달러화는 강세를 이어갔다. 미국 연방준비제도(Fed·연준)가 매파적 통화정책 기조를 유지할 수 있다는 경계감과 안전자산 선호가 동시에 작용한 결과다. 주요 6개 통화 대비 달러 가치를...",
+          "pubDate": "Thu, 25 Jun 2026 08:31:00 +0900"
         },
         {
-          "title": "스페이스엑스의 첫 회사채 발행, 투자자의 신중한 평가 드러나",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/economy/372246",
-          "description": "채권 금리가 더 높다는 것은 그만큼 투자자들이 추가 위험에 대한 보상을 요구했다는 의미다. ��페이스엑스가 이번에 채권 조달에 나선 배경도 시장의 경계심을 키운 요인으로 꼽힌다. 조달 자금은 브릿지론(단기 자금...",
-          "pubDate": "Wed, 24 Jun 2026 08:04:00 +0900"
+          "title": "[굿모닝 증시]美증시 혼조세 속 마이크론 급등…코스피도 훈풍",
+          "source": "view.asiae.co.kr",
+          "url": "https://view.asiae.co.kr/article/2026062508102129326",
+          "description": "국채 금리가 하락한 점이 긍정적 영향을 미쳤다\"며 \"다만 사모 신용 ��출 관련 우려가 재부각되고... 국내 증시도 국제 유가와 미 국채 금리 하락 및 마이크론 호실적 등의 환경 속에서 상승 출발할 것으로 보인다. 국내...",
+          "pubDate": "Thu, 25 Jun 2026 08:17:00 +0900"
         },
         {
-          "title": "폭우 뒤 국장…10% 폭락의 눈물 딛고 '코스피 1만' 벼른다",
-          "source": "ftoday.co.kr",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360957",
-          "description": "▲유가 하락에도 채권금리와 달러가 고공 행진 중이고 ▲매크로 리스크 지수상 위험 회피(Risk Off) 신호가 유효하며 ▲코스피 주도주들의 과열·가격 부담이 여전하다는 이유에서다. 코스피 상승 변곡점은 9100...",
-          "pubDate": "Wed, 24 Jun 2026 08:00:00 +0900"
+          "title": "[데일리 머니마켓] 기술주 약세 S&P500·나스닥 하락",
+          "source": "bigtanews.co.kr",
+          "url": "https://www.bigtanews.co.kr/article/view/big202606250001",
+          "description": "◆채권시장 미국채 금리는 하락했다. 마켓워치(MarketWatch)는 미국 10년물은 전 거래일보다 –0.094%p 하락한 4.408%, 2년물은 0.045%p 하락한 4.152%로 마감했다고 전했다. 독일 10년물은 0.2bp 하락한 2.868%, 영국...",
+          "pubDate": "Thu, 25 Jun 2026 08:12:00 +0900"
         },
         {
-          "title": "[오늘의 경제뉴스] 스페이스X 1주 새 950조 증발…진짜 위기는 이제 시작...",
-          "source": "newsverse.kr",
-          "url": "https://www.newsverse.kr/news/articleView.html?idxno=10775",
-          "description": "특히 스페이스X의 경우 지난해 주가매출비율(PSR)이 100배를 웃도는 등 고평가 우려가 제기됐던 만큼 이번 채권 금리 변화에 더욱 민감하게 반응한 것으로 보인다. 스페이스X가 지난 3월 조달한 브릿지론을 상환하기...",
-          "pubDate": "Wed, 24 Jun 2026 06:42:00 +0900"
+          "title": "AI 고평가 부담에 기술주 하락... 유가 급락 속 다우만 상승",
+          "source": "m-i.kr",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=1385066",
+          "description": "유가 하락은 물가 우려를 낮추며 채권 금리 안정으로 이어졌다. 10년 만기 미국 국채 금리는 10bp 내린 4.40%를 가리켰고 2년 만기 국채 금리는 1bp 하락한 4.15%를 나타냈다. 외환시장에서는 미국 연방준비제도(Fed...",
+          "pubDate": "Thu, 25 Jun 2026 08:00:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "6월 24일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dt.co.kr, metroseoul.co.kr, s-journal.co.kr 등에서 보도되었으며, 216, 늘어나는, 해약환급금준비금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 25일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dt.co.kr, metroseoul.co.kr, s-journal.co.kr 등에서 보도되었으며, 216, 늘어나는, 해약환급금준비금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "늘어나는 해약환급금준비금… 보험사 배당 재개 ‘안갯속’",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "6월 24일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. economist.co.kr, newstopkorea.com, newsdream.kr 등에서 보도되었으며, 반도체, 12, 21 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 25일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. seoul.co.kr, edaily.co.kr, metroseoul.co.kr 등에서 보도되었으며, 마이크론, 깜짝실적, 코스피 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼전닉스, 하루 만에 514조원 '훨훨'…금융위기 이후 최대, 왜?",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202606240003",
-          "description": "코스피를 이끌어온 삼성전자와 SK하이닉스가 나란히 12% 넘게 급락하며 국내 증시가 금융위기 이후 최대 수준의 충격을 받았다. 두 반도체 대장주의 시가총액은 하루 만에 500조원 이상 증발했고, 코스피는 종가...",
-          "pubDate": "Wed, 24 Jun 2026 08:59:00 +0900"
+          "title": "마이크론 ‘깜짝실적’에 코스피 급등 출발…삼전닉스도 동반 상승",
+          "source": "seoul.co.kr",
+          "url": "https://www.seoul.co.kr/news/economy/securities/2026/06/25/20260625500025?wlog_tag3=naver",
+          "description": "국내 메모리 반도체 대표 회사인 삼성전자와 SK하이닉스 역시 전장 대비 각각 5%, 10% 가까이 올랐다. 코스닥 지수도 전 거래일(909.31)보다 14.35포인트(1.58%) 오른 923.66에 거래를 시작했다. 마이크론은 회계연도...",
+          "pubDate": "Thu, 25 Jun 2026 09:14:00 +0900"
         },
         {
-          "title": "나스닥, AI 반도체 매물에 2.21% 하락...뉴욕증시 '성장주 쏠림' 부담",
-          "source": "newstopkorea.com",
-          "url": "https://www.newstopkorea.com/news/articleView.html?idxno=45753",
-          "description": "한국 코스피가 10% 하락하고 삼성전자도 12.3% 밀리면서 메모리 반도체 밸류체인 전반에 대한 경계감이 커졌다. 이밖에 연준 변수도 성장주 할인율 부담으로 작용했다. 연준은 지난 17일 성명에서 \"인플레이션은...",
-          "pubDate": "Wed, 24 Jun 2026 08:58:00 +0900"
+          "title": "노타, 우주의약 자율 실험 플랫폼 개발 참여…AI 최적화 기술 우주로 확...",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02961846645485328",
+          "description": "특히 엔비디아, 퀄컴, Arm, 삼성전자 등 글로벌 반도체·플랫폼 기업들과 협력하며 다양한 칩셋 환경에서 AI 성능을 극대화하는 기술력을 인정받았다. 업계에서는 노타를 AI 시대의 ‘소프트웨어 최적화 인프라 기업’...",
+          "pubDate": "Thu, 25 Jun 2026 09:14:00 +0900"
         },
         {
-          "title": "한투운용, 'ACE 고배당주Plus커버드콜액티브' ETF 첫 분배금 지급",
-          "source": "newsdream.kr",
-          "url": "http://www.newsdream.kr/news/articleView.html?idxno=113499",
-          "description": "20종목에 삼성전자와 SK하이닉스를 추가 편입한 것이 특징이다. 첫 분배금은 이�� 26일까지 해당 ETF를... 한국투자신탁운용 관계자는 \"반도체 대형주가 높은 변동성을 통해 자본 차익을 낼 때 고배당주가 포트폴리오...",
-          "pubDate": "Wed, 24 Jun 2026 08:58:00 +0900"
+          "title": "불장에 주식계좌 1000만개 늘었다…1억877만개 기록",
+          "source": "metroseoul.co.kr",
+          "url": "http://www.metroseoul.co.kr/article/20260625500057",
+          "description": "증권업계에서는 국내 대표 반도체주인 삼성전자와 SK하이닉스의 주가 강세가 투자 심리를 개선한 데다 연금계좌와 자녀 계좌 개설까지 확대되면서 활동계좌 증가세가 이어지고 있다고 보고 있다",
+          "pubDate": "Thu, 25 Jun 2026 09:14:00 +0900"
         },
         {
-          "title": "삼성·SK, 호남·충청에 수백조 반도체 투자 추진",
-          "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202606240842019989",
-          "description": "삼성전자와 SK하이닉스가 광주·전남 등 호남권과 충청권을 중심으로 반도체 클러스터 투자 확대 방안을 검토하고 있는 것으로 나타났다. 24일 업계에 따르면 삼성전자와 SK하이닉스는 이달 말 이재명 대통령 주재로...",
-          "pubDate": "Wed, 24 Jun 2026 08:56:00 +0900"
+          "title": "마이크론 \"장기계약 16건…협의중 포함시 매출 절반\"",
+          "source": "biz.sbs.co.kr",
+          "url": "https://biz.sbs.co.kr/article_hub/20000318733?division=NAVER",
+          "description": "미국 메모리 반도체 기업 마이크론 테크놀로지가 24일(현지시간) 회계연도 3분기 사상 최고 실적을... 마이크론의 아이다호·뉴욕 신규 팹은 각각 2027년 중반과 2028∼2030년, SK하이닉스 M15X 라인과 삼성 P5 라인도 2027...",
+          "pubDate": "Thu, 25 Jun 2026 09:13:00 +0900"
         },
         {
-          "title": "“삼성전자도 12% 빠졌는데”...폭락장서 주목받는 삼성생명",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20260624028475953",
-          "description": "증권가에서는 반도체주에 대리 투자하는 채널로 삼성생명을 소개하는 분위기도 포착된다. '검은 화요일' 속에서 주가 하락을 피하지 못했지만, 실적 전망이 굳건한 점도 언급된다. 삼성생명의 연간 당기순이익...",
-          "pubDate": "Wed, 24 Jun 2026 08:56:00 +0900"
+          "title": "메모리 호황 올라탄 심텍, HPC 시장 성장세에 실적 턴어라운드 본격화",
+          "source": "pinpointnews.co.kr",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462932",
+          "description": "증권업계 전문가는 \"전자장비와기기 업종 강세는 AI와 첨단 반도체 산업 성장이라는 구조적 변화가 반영된 결과\"라며 \"삼성전기, LG이노텍, 심텍, 대덕전자처럼 실적 가시성이 높은 기업과 함께 고영, 파크시스템스...",
+          "pubDate": "Thu, 25 Jun 2026 09:12:00 +0900"
         }
       ]
     }

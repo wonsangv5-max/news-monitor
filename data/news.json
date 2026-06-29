@@ -1,92 +1,106 @@
 {
-  "updatedAt": "2026-06-28T00:04:55.890Z",
+  "updatedAt": "2026-06-29T00:11:21.018Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "6월 28일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. newscj.com, opinionnews.co.kr, fnnews.com 등에서 보도되었으며, 환율, 2분기, 평균 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 29일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. pointdaily.co.kr, yonhapnewstv.co.kr, gukjenews.com 등에서 보도되었으며, 코스피, 출발, 5원 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "2분기 평균 환율 1500원 돌파… 외환위기 이후 28년 만에 처음",
-          "source": "newscj.com",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3412641",
-          "description": "환전 환율은 이미 1600원을 넘어선 상태다. 글로벌 금융위기 당시인 2009년 1분기(1418.3원)는 물론 미국 상호관세 충격이 컸던 작년 1분기(1452.9원), 외환시장 수급 불균형이 확대된 작년 4분기(1451.9원), 중동 전쟁이...",
-          "pubDate": "Sun, 28 Jun 2026 09:02:00 +0900"
+          "title": "코스피, 외인 '팔자'에 약보합 출발…8334.28 개장",
+          "source": "pointdaily.co.kr",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309886",
+          "description": "코스닥은 전 장과 비교해 9.03포인트(1.06%) 오른 860.40에 장을 열었다. 이날 서울 외환시장에서 원·달러 환율은 전 거래일 대비 4.5원 상승한 1536.5원에 거래를 시작했다.",
+          "pubDate": "Mon, 29 Jun 2026 09:10:00 +0900"
         },
         {
-          "title": "[이번주 환율] 강달러에 1540원대 재진입…외국인 매도·연준 긴축 전망...",
-          "source": "opinionnews.co.kr",
-          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=140722",
-          "description": "28일 서울외환시장에 따르면 달러·원 환율은 지난 22일 1537.0원으로 마감하며 다시 1530원대로 올라섰다. 미국의 금리 인상 기대가 확대되면서 달러인덱스가 101선 부근까지 상승했고, 외국인이 국내 증시에서 2조원 넘게...",
-          "pubDate": "Sun, 28 Jun 2026 09:00:00 +0900"
+          "title": "코스피, 하락 출발해 8,300선 밑으로…코스닥은 2%대 상승",
+          "source": "yonhapnewstv.co.kr",
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260629090833mW3",
+          "description": "한편, 서울 외환시장에서 원·달러 환율은 전 거래일 주간거래 종가 대비 4.5원 오른 1,536.5원에 주간거래를 시작했습니다. #코스피 #코스닥 #환율 #삼성전자 #SK하이닉스",
+          "pubDate": "Mon, 29 Jun 2026 09:09:00 +0900"
         },
         {
-          "title": "\"달러가 없다\" 日메가뱅크, 美 투자 자금난에 정부에 SOS",
-          "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202606280826403873",
-          "description": "은행들이 자체적으로 달러를 확보하려면 외화예금을 늘리거나 외환시장에서 달러를 직접 매입해야 한다.... 경우 환율이 약 1엔(약 9.5원) 정도 상승하는 효과가 나타날 수 있다\"고 분석했다. 금융권에서는 BOJ의 달러...",
-          "pubDate": "Sun, 28 Jun 2026 08:49:00 +0900"
+          "title": "코스피, 0.91% 내린 8334.28 출발...환율 1536.5원",
+          "source": "gukjenews.com",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3620227",
+          "description": "93포인트(0.91%) 내린 8334.28에 출발했다. 코스닥지수는 전 거래일보다 9.03포인트(1.06%) 오른 960.40에 거래를 시작했다. 서울 외환시장에서 원/달러 환율은 전 거래일 대비 4.5원 오른 1,536.5원에 개장했다.",
+          "pubDate": "Mon, 29 Jun 2026 09:08:00 +0900"
         },
         {
-          "title": "2분기 평균 환율 1,500원 넘었다…외환위기 이후 처음",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008630679&plink=ORI&cooper=NAVER",
-          "description": "한국을 선진국 지수 관찰대상국에 올리지 않았습니다. 해외 역외차액결제선물환(NDF) 시장의 투자자들이 심야에 서울 외환시장 환율을 참고해 거래하면 갑자기 환율이 튀는 일도 줄어들 수 있다는 관측이 나옵니다.",
-          "pubDate": "Sun, 28 Jun 2026 08:38:00 +0900"
+          "title": "美 반도체주 '급락' 속...코스피 '하락 출발', 코스닥은 '장초반 반등'",
+          "source": "choicenews.co.kr",
+          "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=167225",
+          "description": "376%로 전장 대비 0.015%포인트, 통화정책에 민감한 미국 2년물 국채금리는 4.096%로 0.024% 각각 내려갔다. 한편 이날 서울 외환시장에서 원-달러 환율은 전장 대비 4.5원 오른 1536.5원에 개장했다.",
+          "pubDate": "Mon, 29 Jun 2026 09:08:00 +0900"
         },
         {
-          "title": "2분기 환율 평균 1500원, 외환위기 이후 처음…'뉴노멀' 되나",
-          "source": "jnilbo.com",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000045881",
-          "description": "해외 역외차액결제선물환(NDF) 시장의 투자자들이 심야에 서울 외환시장 환율을 참고해 거래하면 갑자기 환율이 튀는 일도 줄어들 수 있다는 관측이 나온다. 다만 환율 수준에 직접적인 영향은 크지 않을 것이라는...",
-          "pubDate": "Sun, 28 Jun 2026 07:37:00 +0900"
+          "title": "원/달러 환율, 4.5원 오른 1536.5원 출발",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/economy/2026/06/29/2026062909052084499",
+          "description": "29일 서울 외환시장에서 원/달러 환율이 전 거래일 종가 대비 4.5원 오른 1536.5원에 거래를 시작했다.",
+          "pubDate": "Mon, 29 Jun 2026 09:06:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "6월 28일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.dealsitetv.com, fortunekorea.co.kr, news.bizwatch.co.kr 등에서 보도되었으며, AI, 64, 자본 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 29일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. joseilbo.com, raonnews.com, biz.heraldcorp.com 등에서 보도되었으며, KOFR, 변동금리채권, 10 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "'자본 64%' 걸린 GS글로벌…GS엔텍 반등 전까지 신용부담 지속",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/172485",
-          "description": "금리 밴드는 민간채권평가회사 평균금리 대비 -30bp에서 +30bp 수준이 제시될 것으로 예상된다. 결국 GS엔텍이 자체적인 현금창출력을 확보하기 전까지는 모회사 신용에 대한 의존도가 이어질 수밖에 없는 구조다....",
-          "pubDate": "Sun, 28 Jun 2026 08:06:00 +0900"
+          "title": "금감원, KOFR 활성화 가속…7월부터 행정지도 실시",
+          "source": "joseilbo.com",
+          "url": "http://www.joseilbo.com/news/news_read.php?uid=570884&class=18&grp=",
+          "description": "그동안 양도성예금증서(CD) 금리에 크게 의존해온 은행 변동금리채권과 이자율 스왑시장에서 KOFR 사용 비중을 단계적으로 끌어올려 지표금리 개혁에 속도를 내겠다는 구상이다. 금감원은 2026년 7월 1일부터 KOFR...",
+          "pubDate": "Mon, 29 Jun 2026 09:08:00 +0900"
         },
         {
-          "title": "AI 붐, 거품 붕괴 전 '블로오프 국면'으로 화려하게 끝날 듯",
-          "source": "fortunekorea.co.kr",
-          "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52986",
-          "description": "미국과 이란이 마침내 적대 행위를 끝내면서 유가와 채권금리가 하락했고, AI 붐은 더 높은 단계로 올라갈 수 있을 것으로 보였다. 실제로 SK하이닉스와 삼성전자 등 AI 수혜주가 지수를 주도하는 한국 코스피는 지난주...",
-          "pubDate": "Sat, 27 Jun 2026 15:00:00 +0900"
+          "title": "변동금리 대출자에 유리한 'KOFR' 확대…CD금리 의존 줄인다",
+          "source": "raonnews.com",
+          "url": "https://www.raonnews.com/news/article.html?no=59140",
+          "description": "금감원, 7월부터 행정지도…2031년까지 은행 변동금리채권 절반 KOFR 연동 금융감독원이 다음 달부터 은행이 발행하는 변동금리채권(FRN)과 금융사 간 이자율 스와프 거래에 한국무위험지표금리(KOFR·코파)를 준거로...",
+          "pubDate": "Mon, 29 Jun 2026 08:44:00 +0900"
         },
         {
-          "title": "[돈MORE]8% 턱밑서 꺾인 주담대 고정금리…상승 압력은 여전",
-          "source": "news.bizwatch.co.kr",
-          "url": "https://news.bizwatch.co.kr/article/finance/2026/06/26/0043",
-          "description": "미국과 이란의 종전 합의로 국제유가 급등 우려가 누그러지면서 국고채 등 채권시장 금리도 ���림세를 보였고 금융채 5년물도 같은 흐름을 탔다. 다만 주담대 고정금리 하락은 단기에 그칠 가능성이 높다. 중동발...",
-          "pubDate": "Sat, 27 Jun 2026 12:00:00 +0900"
+          "title": "CD금리 줄인다…은행 변동금리채권 KOFR 비중, 2031년까지 50%로 확대",
+          "source": "biz.heraldcorp.com",
+          "url": "https://biz.heraldcorp.com/article/10790883?ref=naver",
+          "description": "그동안 대출과 채권 금리의 기준으로 널리 활용된 양도성예금증서(CD) 금리 대신, 실거래 기반으로 산출돼 신뢰도가 높은 KOFR 활용 비중을 단계적으로 늘려가겠다는 게 핵심이다. 금감원은 정부의 지표금리 개혁...",
+          "pubDate": "Mon, 29 Jun 2026 08:36:00 +0900"
         },
         {
-          "title": "[6월 넷째 주 세계경제동향 브리핑] 코스피·코스닥 동반 급락…나스닥...",
-          "source": "kihoilbo.co.kr",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027145",
-          "description": "국내 증시가 약세를 보인 가운데 채권시장에서는 금리 하락 흐름이 나타났다. 미국 증시는 혼조세를 보였다. 다우존스 산업평균지수는 5만1,865.52포인트로 전주 대비 152.81포인트, 0.3% 상승했다. 반면 S&P500...",
-          "pubDate": "Sat, 27 Jun 2026 11:22:00 +0900"
+          "title": "금융감독원, 은행 변동금리채권 10% KOFR 연동 의무화…행정지도 시행",
+          "source": "etnews.com",
+          "url": "https://www.etnews.com/20260629000035",
+          "description": "금융감독원이 무위험 지표금리(KOFR) 활성화를 위해 은행권 변동금리채권(FRN) 발행 물량의 일부를 KOFR 금리에 연동하도록 하는 행정지도에 나선다. 기존 양도성 예금증서(CD) 금리 중심의 지표체계를 개편해...",
+          "pubDate": "Mon, 29 Jun 2026 08:30:00 +0900"
         },
         {
-          "title": "[데일리 머니마켓] AI·반도체주 차익 실현…뉴욕증시 약세",
-          "source": "bigtanews.co.kr",
-          "url": "https://www.bigtanews.co.kr/article/view/big202606270001",
-          "description": "◆채권시장 미국 국채 금리는 하락했다. 로이터는 “미국 10년물이 전 거래일보다 0.018%p 하락한 4.375%, 독일 10년물은 0.006%p 상승한 2.856%, 영국 10년물은 0.004%p 하락한 4.732%, 일본 10년물는 0.012%p 상승한 2.614...",
-          "pubDate": "Sat, 27 Jun 2026 09:04:00 +0900"
+          "title": "변동금리채권 10% 이상 KOFR로 발행… 금감원, 지표금리 개혁 속도",
+          "source": "biz.chosun.com",
+          "url": "https://biz.chosun.com/stock/finance/2026/06/29/R4ONZKVIERCC3L2EHUXDJK3YBU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "description": "오는 7월부터 은행들이 발행하는 변동금리채권(FRN)의 일부를 무위험지표금리�� KOFR(Korea Overnight Financing Repo Rate·한국 익일물 RP 자금조달금리)를 기준으로 발행해야 한다. 금융감독원은 다음 달 1일부터 KOFR 기반...",
+          "pubDate": "Mon, 29 Jun 2026 08:29:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "6월 28일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ceoscoredaily.com, newstomato.com, dt.co.kr 등에서 보도되었으며, 보험사, 216, 보험부채 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 29일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. datanews.co.kr, insnews.co.kr, ceoscoredaily.com 등에서 보도되었으며, 해약환급금준비금, 보험사, 생보업계 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "생보업계, 해약환급금준비금 확대…건전성 발목 잡나",
+          "source": "datanews.co.kr",
+          "url": "http://datanews.co.kr/news/article.html?no=145304",
+          "description": "이 가운데 해약환급금준비금이 이익잉여금을 초과할 경우 보완자본으로 재분류돼 기본자본 킥스비율을 낮추는 요인으로 작용하게 된다. 보험사별로 보면 한화생명과 농협생명은 올 1분기 기준으로 준비금이...",
+          "pubDate": "Mon, 29 Jun 2026 08:50:00 +0900"
+        },
+        {
+          "title": "[창간 24주년 기획②] 금융의 한 축으로… 보험산업 24년의 변화",
+          "source": "insnews.co.kr",
+          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91480",
+          "description": "삼성생명과 교보생명, 대한생명(현 한화생명) 등 대형 생명보험사의 신규 계약 가운데 종신보험이... 아울러 보험업계 내부적으로는 새 지급여력제도(K-ICS·킥스) 도입 이후 퇴직연금 사업의 자본효율성이 낮다는...",
+          "pubDate": "Mon, 29 Jun 2026 00:02:00 +0900"
+        },
         {
           "title": "보험부채 계산할 사람이 부족하다…‘계리사 모시기’ 승자는 삼성화재...",
           "source": "ceoscoredaily.com",
@@ -105,63 +119,49 @@
           "title": "늘어나는 해약환급금준비금… 보험사 배당 재개 ‘안갯속’",
           "source": "dt.co.kr",
           "url": "https://www.dt.co.kr/article/12069080?ref=naver",
-          "description": "23일 금융권에 따르면 올해 1분기 기준 생명보험사 5곳(삼성생명·��보생명·한화생명·신한라이프... 해약환급금준비금 제도가 금융당국이 내년에 도입 예정인 기본자본 지급여력(킥스·K-ICS)비율 제도와 상충하는...",
+          "description": "23일 금융권에 따르면 올해 1분기 기준 생명보험사 5곳(삼성생명·교보생명·한화생명·신한라이프... 해약환급금준비금 제도가 금융당국이 내년에 도입 예정인 기본자본 지급여력(킥스·K-ICS)비율 제도와 상충하는...",
           "pubDate": "Tue, 23 Jun 2026 16:44:00 +0900"
-        },
-        {
-          "title": "KDB생명 인수전 본게임…승부 가를 ‘자본보강 청구서’",
-          "source": "metroseoul.co.kr",
-          "url": "http://www.metroseoul.co.kr/article/20260623500024",
-          "description": "/KDB생명 KDB생명 인수전이 삼성생명·한화생명·교보생명·한국투자금융지주·태광그룹 등 5파전으로... 올해 1분기 경과조치 적용 후 지급여력제도(K-ICS·킥스) 비율은 186.1%로 금융당국 권고 수준인 130%를 웃돌았다. 반면...",
-          "pubDate": "Tue, 23 Jun 2026 08:26:00 +0900"
-        },
-        {
-          "title": "보험업계 지급여력비율 216.1%… 4분기 연속 개선세",
-          "source": "s-journal.co.kr",
-          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=41919",
-          "description": "생보업계 '빅3' 킥스 비율은 엇갈린 흐름을 보였다. 삼성생명은 209.9%로 전 분기 대비 12.0%포인트 상승했고, 한화생명도 162.1%로 4.6%포인트 개선됐다. 반면, 교보생명은 214.2%로 11.7%포인트 하락했다. 손보업계 '빅5...",
-          "pubDate": "Mon, 22 Jun 2026 17:16:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "6월 28일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. thepublic.kr, ekn.kr 등에서 보도되었으며, 반도체, 정부, 호남 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "6월 29일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. news2day.co.kr, edaily.co.kr, biz.heraldcorp.com 등에서 보도되었으며, 삼성전자, 호남, 반도체 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "\"끝나기 전에 혜택 누리세요\"… 삼성전자 '감사 페스티벌' D-9",
-          "source": "thepublic.kr",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=309228",
-          "description": "삼성전자가 반도체 '성과'를 국민과 함께 나누기 위해 시작된 이번 감사 페스티벌은 지난 8일 시작해 다음 달 5일 끝나는 이번 행사는 온·오프라인 1,000여 개 매장에서 동시에 진행 중이다. 이와 관련 삼성전자는 행사...",
-          "pubDate": "Sun, 28 Jun 2026 09:02:00 +0900"
+          "title": "\"30주년 맞는 코스닥, 다음 30년은 AI 병목 해결 기업이 이끈다\"<하나證...",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20260629500045",
+          "description": "최근 국내 증시는 삼성전자와 SK하이닉스를 중심으로 대형 반도체주 랠리가 이어졌다. 반면 코스닥은 상승장에서는 상대적으로 덜 오르고 조정장에서는 더 크게 흔들리는 모습을 보였다. 자금이 코스피 대형주와...",
+          "pubDate": "Mon, 29 Jun 2026 09:08:00 +0900"
         },
         {
-          "title": "반도체가 흔든 코스피…증권가 “추세 하락보다 분할매수” [주간증시]",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20260628028087094",
-          "description": "우선 이달 수출 지표가 반도체 수출 흐름을 다시 확인시켜 줄지 주목된다. 이어 발표될 삼성전자 잠정실적은 메모리 업황에 대한 시장의 신뢰를 다시 확인하는 계기가 될 가능성이 있다는 평가다. 반도체 실적이 예상치를...",
-          "pubDate": "Sun, 28 Jun 2026 09:02:00 +0900"
+          "title": "삼성전자, 난기류에도 목적지는 안 바뀐다…목표가 44만원 유지-현대차",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02456726645486640",
+          "description": "노 연구원은 “삼성전자의 올해 영업이익 97%가 메모리 반도체에서 발생한다”며 “영업이익 관점에서 삼성전자는 메모리 반도체 순수 기업과 유사하다”고 분석했다. 이어 “순수 메모리 회사 대비 밸류에이션...",
+          "pubDate": "Mon, 29 Jun 2026 09:06:00 +0900"
         },
         {
-          "title": "李 정부 '호남 반도체 클러스터', 朴 정부 '미르재단' 데칼코마니?",
-          "source": "thepublic.kr",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=309293",
-          "description": "최병묵 정치평론가는 27일 본인 유튜브 ��널 '최병묵의 팩트'를 통해, 최근 정관계와 언론을 달구고 있는 삼성전자와 SK하이닉스의 호남 반도체 클러스터 조성 사업에 대해, 전형적인 정권 차원의 '기업 팔 비틀기...",
-          "pubDate": "Sun, 28 Jun 2026 09:02:00 +0900"
+          "title": "“투기 대박 프로젝트…정부·여당 인사 없나” 野, 호남 반도체 투자 ...",
+          "source": "biz.heraldcorp.com",
+          "url": "https://biz.heraldcorp.com/article/10790948?ref=naver",
+          "description": "된다”며 “반도체 첨단 공정에서 RE100 재생에너지를 이야기하는 것 자체가 대단히 잘못됐다. 지금 용인의 삼성전자 국가산단에 10GW 전기를 대려면 태양광으로, 서울시 1억7000만 평의 땅에 태양광 패널을 깔고 그다음에...",
+          "pubDate": "Mon, 29 Jun 2026 09:06:00 +0900"
         },
         {
-          "title": "7월 증시는 어떨까? 반도체 강세 속 변동성 관리 필요",
-          "source": "thepublic.kr",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=309292",
-          "description": "내년에도 삼성전자와 SK하이닉스의 순이익 증가율은 각각 33%, 38%로 전망돼 반도체 제외 기업들의 증가율인 18%를 크게 웃돌 것으로 분석됐다. 시장 쏠림 현상도 뚜렷하다. 코스피 전체 순이익에서 삼성전자와...",
-          "pubDate": "Sun, 28 Jun 2026 09:02:00 +0900"
+          "title": "키움證 “삼성전자 2분기 영업익 기대치 밑돌 것…성과급 충당금 영향”",
+          "source": "biz.chosun.com",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/06/29/2TILMEN5URENXDYGMHT25LMJ6M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "description": "키움증권은 삼성전자의 2분기 영업이익이 당초 예상보다 낮은 수준을 기록할 것으로 29일 전망했다. 메모리 가격 상승으로 반도체 실적은 개선되겠지만 성과급 충당금이 예상보다 크게 반영되면서 기존 추정치를...",
+          "pubDate": "Mon, 29 Jun 2026 09:03:00 +0900"
         },
         {
-          "title": "호남 반도체 클러스터 기대감 속 현실론 부상…전력·용수·인력 확보 관...",
-          "source": "thepublic.kr",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=309296",
-          "description": "이재명 대통령 주재로 오는 29일 청와대에서 열릴 '대한민국 대도약 3대 메가 프로젝트 국민 보고회'에서 호남 반도체 클러스터 조성 사업에 대한 ��체적 계획안이 발표될 것으로 점쳐지고 있다. 당초 삼성전자와...",
-          "pubDate": "Sun, 28 Jun 2026 09:02:00 +0900"
+          "title": "“민주당 의원들 호남 땅 공개하라”…‘반도체 특혜’ 공방, 부동산으...",
+          "source": "mk.co.kr",
+          "url": "https://www.mk.co.kr/article/12085234",
+          "description": "t의 산업용수 공급도 가능한 것으로 검토됐다”며 “세계 1, 2위를 다투는 반도체 첨단기업 삼성과 하이닉스가 용수가 부족한 지역에 검토도 없이 초대규모 공장 설립 계획을 할 만큼 어리석지 않다”고 반박하기도 했다.",
+          "pubDate": "Mon, 29 Jun 2026 09:03:00 +0900"
         }
       ]
     }

@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-07-02T00:10:27.830Z",
+  "updatedAt": "2026-07-03T00:08:24.486Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "7월 2일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. dailian.co.kr, hankookilbo.com, issuenbiz.com 등에서 보도되었으며, 달러, 환율, 3원 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 3일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news1.kr, the-biz.co.kr, yonhapnewstv.co.kr 등에서 보도되었으며, 달러, 환율, 11 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "원·달러 환율 2.6원 내린 1552.3원 출발",
+          "title": "코스피, 장초반 0.35% 상승한 7674.48…코스닥 0.90%↓(2보)",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/finance/general-stock/6216627",
+          "description": "48를 기록 하고 있다. 코스닥은 전일 대비 7.79포인트(p)(0.90%) 하락한 858.93를 기록 하고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 18.60원 내린 1537.20원으로 출발했다.",
+          "pubDate": "Fri, 03 Jul 2026 09:06:00 +0900"
+        },
+        {
+          "title": "원/달러 환율 \"美 고용 부진에 소폭 하락 전망\"",
+          "source": "the-biz.co.kr",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=723739",
+          "description": "서울 외환시장에서 3일 원/달러 환율은 미국 고용지표 부진에 따른 달러 약세에도 낙폭은 제한적인 흐름을 보일 전망이다. 김유미 키움증권 연구원은 이날 보고서에서 \"미국 6월 고용보고서 부진으로 미국 연방준비제도...",
+          "pubDate": "Fri, 03 Jul 2026 09:06:00 +0900"
+        },
+        {
+          "title": "코스피, 전날 폭락 딛고 1.20% 상승 출발…코스닥도 0.98%↑",
+          "source": "yonhapnewstv.co.kr",
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260703090524hz8",
+          "description": "코스닥 지수도 전 거래일보다 0.98% 상승한 875.18에 장을 열었습니다. 한편, 서울 외환시장에서 원·달러 환율��� 전 거래일보다 11.3원 내린 1,544.5원에 개장했습니다. #코스피 #코스닥 #원달러환율",
+          "pubDate": "Fri, 03 Jul 2026 09:06:00 +0900"
+        },
+        {
+          "title": "원/달러 환율, 11.3원 내린 1544.5원 개장",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/economy/2026/07/03/2026070309053424414",
+          "description": "3일 서울 외환시장에서 원/달러 환율이 전 거래일 종가 대비 11.3원 내린 1544.5원에 거래를 시작했다.",
+          "pubDate": "Fri, 03 Jul 2026 09:06:00 +0900"
+        },
+        {
+          "title": "원·달러 환율 11.3원 내린 1544.5원 출발",
           "source": "dailian.co.kr",
-          "url": "https://www.dailian.co.kr/news/view/1662443/?sc=Naver",
-          "description": "2일 서울 외환시장에서 원·달러 환율은 전 거래일보다 2.6원 내린 1552.3원에 개장했다.",
-          "pubDate": "Thu, 02 Jul 2026 09:07:00 +0900"
-        },
-        {
-          "title": "[속보] 코스피 개장 직후 5%대 급락… 8000선 붕괴",
-          "source": "hankookilbo.com",
-          "url": "https://www.hankookilbo.com/news/article/A2026070208530002273?did=NA",
-          "description": "급락하면서 투자 심리가 얼어붙은 것으로 풀이된다. 코스닥도 33.02포인트(3.55%) 내린 896.33선에서 움직이고 있다. 이날 서울 외환시장에서 원·달러 환율은 전 거래일 대비 2.6원 내린 1,552.3원에 개장했다.",
-          "pubDate": "Thu, 02 Jul 2026 09:05:00 +0900"
-        },
-        {
-          "title": "원/달러 환율 2.6원 내린 1,552.3원 개장",
-          "source": "issuenbiz.com",
-          "url": "http://www.issuenbiz.com/news/articleView.html?idxno=77612",
-          "description": "2일 서울 외환시장에서 원/달러 환율은 전 거래일 대비 2.6원 내린 1,552.3원에 개장했다.",
-          "pubDate": "Thu, 02 Jul 2026 09:04:00 +0900"
-        },
-        {
-          "title": "코스피 7933.10(▼4.46%), 코스닥 904.53(▼2.67%), 원·달러 환율 1552.3원...",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260702_0003692774",
-          "description": "코스닥 지수는 전 거래일(929.35)보다 24.82포인트(2.67%) 내린 904.53에 거래를 시작했다. 서울 외환시장에서 원·달러 환율은 전 거래일 주간거래 종가(1554.9원)보다 2.6원 내린 1552.3원에 출발했다．",
-          "pubDate": "Thu, 02 Jul 2026 09:04:00 +0900"
-        },
-        {
-          "title": "[외환개장] 원·달러 환율 1552.3원···2.6원↓",
-          "source": "seoulfn.com",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=632472",
-          "description": "2일 서울 외환시장에서 원·달러 환율은 주간종가 기준 전장 대비 2.6원 내린 달러당 1552.3원에 개장했다.",
-          "pubDate": "Thu, 02 Jul 2026 09:02:00 +0900"
+          "url": "https://www.dailian.co.kr/news/view/1662923/?sc=Naver",
+          "description": "3일 서울 외환시장에서 원·달러 환율은 전 거래일보다 11.3원 내린 1544.5원에 개장했다.",
+          "pubDate": "Fri, 03 Jul 2026 09:05:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "7월 2일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. finomy.com, wowtv.co.kr, g-enews.com 등에서 보도되었으며, 2026, 유안타증권, 증권주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 3일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. ftoday.co.kr, newspim.com, newsprime.co.kr 등에서 보도되었으며, 미국, 하루, 거래대금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "유안타증권 \"증권주 반등, 코스닥 온기 확산에 달려\"",
-          "source": "finomy.com",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=256666",
-          "description": "우 연구원은 \"2분기 채권금리는 상승했지만 상승 폭은 1분기보다 줄었다\"며 \"거래대금과 고객예탁금, 외화증권 거래 흐름을 감안하면 증권사들의 2분기 실적은 양호한 수준을 기록할 가능성이 크다\"고 말했다. 다만...",
-          "pubDate": "Thu, 02 Jul 2026 09:00:00 +0900"
+          "title": "하루 거래대금 100조 '육박'…코스피 회전율 동학개미 뛰어넘었다",
+          "source": "ftoday.co.kr",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=361541",
+          "description": "삼성증권에 대해서는 리테일(개인 투자자) 관련 수익 비중이 높아 하반기 채권금리가 오르더라도 현 수준의 거래대금이 유지되는 한 안정적인 실적을 낼 것으로 내다봤다. 또 미국 온라인 증권사 IBKR(인터랙티브...",
+          "pubDate": "Fri, 03 Jul 2026 08:04:00 +0900"
         },
         {
-          "title": "유가 하락에도 금리 상승 [글로벌 머니플로우]",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607020196&t=NN",
-          "description": "게다가 AI 투자를 위한 채권 발행 증가도 금리 상승 압력으로 작용하고 있습니다. 금리가 진정이 되려면 경기 둔화가 오거나 연준이 돈 풀기를 재개해야 하는데, 바클레이즈는 지금으로선 둘 다 쉽지 않다고 짚었습니다....",
-          "pubDate": "Thu, 02 Jul 2026 08:46:00 +0900"
+          "title": "[미국 특징주] 월가, 주식시장 불안 불구 하반기 강세 지속 기대",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260703000042",
+          "description": "동시에 높아진 채권금리는 걸림돌이 아닌 기회로 받아들여지면서 단기채와 우량 크레딧을 활용한 인컴 전략이 다시 주목받고 있다. 장 부아뱅이 이끄는 블랙록인베스트먼트인스티튜트팀은 \"듀레이션이 길거나 금리...",
+          "pubDate": "Fri, 03 Jul 2026 08:03:00 +0900"
         },
         {
-          "title": "뉴욕증시, 반도체주 매도에 약세 마감…차익실현에 메타 변수까지-[글로...",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607020190&t=NN",
-          "description": "채권 금리는 간밤 ECB 포럼에 참석한 케빈 워시 연준 의장의 발언을 소화하며 움직였습니다. 워시 의장은 여기서 인플레이션을 목표치인 2%로 되돌리겠다며 매파적인 원칙을 재확인했는데요. 그러면서도 \"최근 4주 동안...",
-          "pubDate": "Thu, 02 Jul 2026 08:45:00 +0900"
+          "title": "신한지주, 실적 개선 이어 주주환원 강화…저평가 매력 '주목'",
+          "source": "newsprime.co.kr",
+          "url": "http://www.newsprime.co.kr/news/article.html?no=738961",
+          "description": "금리상승으로 채권관련 손익 부진에도 전체 비이자이익은 1조2100억원으로 전분기 대비 1.8% 증가할 것으로 ���석했다. 건전성 부담도 제한적이라는 평가다. 중앙그룹 관련 익스포저는 약 100억원으로 금융지주 가운데...",
+          "pubDate": "Fri, 03 Jul 2026 07:24:00 +0900"
         },
         {
-          "title": "워시 신임 의장, 백악관 압박에도 '연준 독립성' 못박았다",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=2026070208022335509a1f309431_1",
-          "description": "직전 FOMC 이후 시장 포지션이 이미 긴축 쪽으로 기울어져 있었기 때문에 작은 완화 신호에도 채권금리가 반응한 것으로 풀이된다. 워시 체제의 연준을 둘러싼 시장 해석은 아직 안정되지 않았다. 투자자들은 그가 얼마나...",
-          "pubDate": "Thu, 02 Jul 2026 08:06:00 +0900"
+          "title": "미국 고용 둔화, 연준 금리 인상 전망 약화... 금·비트코인 상승",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/374694",
+          "description": "일반적으로 미국의 금리 인상 가능성이 낮아지면 달러 자산의 수익 매력이 줄어들기 때문에 채권 금리는 떨어지고 달러화는 약세를 보이기 쉽다. 반대로 금과 은, 가상화폐 같은 자산에는 매수세가 몰렸다. 현물...",
+          "pubDate": "Fri, 03 Jul 2026 07:14:00 +0900"
         },
         {
-          "title": "금융지주 하반기 전략회의 임박···상반기와 어떻게 다를까 [2026 금융...",
-          "source": "fntimes.com",
-          "url": "http://www.fntimes.com/html/view.php?ud=202607011715204033b4a7c6999c_18",
-          "description": "포용금융 역시 금융의 사회적 역할을 강화하는 긍정적 효과가 있지만, 채권 소각과 금리 인하, 중금리대출 확대는 수익성에 부담을 줄 수 있다. 은행권 관계자는 \"하반기 전략회의에서는 생산적·포용금융을 단순한...",
-          "pubDate": "Thu, 02 Jul 2026 07:02:00 +0900"
+          "title": "[데일리 머니마켓] 다우 또다시 사상 최대치",
+          "source": "bigtanews.co.kr",
+          "url": "https://www.bigtanews.co.kr/article/view/big202607030001",
+          "description": "◆채권시장 미국 국채 금리는 하락했다. 미국 재무부가 공시한 2년물은 전 거래일보다 0.96% 하락한 4.13%, 5년물은 1.18% 하락한 4.19%, 10년물은 0.67% 하락한 4.4477%, 30년물은 1.21% 하락한 4.91%로 마감했다. 로이터는...",
+          "pubDate": "Fri, 03 Jul 2026 07:06:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "7월 2일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. srtimes.kr, insnews.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 한화생명, 김동원, 창간기획 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 3일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ekoreanews.co.kr, dt.co.kr, ftoday.co.kr 등에서 보도되었으며, 한화생명, 해외시장, 이어 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "한화생명, 해외시장 이어 캐피탈까지… 사업 다각화 승부수",
+          "source": "ekoreanews.co.kr",
+          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86851",
+          "description": "다만 한화생명의 지급여력비율(K-ICS·킥스)이 올해 1분기 기준 162.1%로 생보사 평균(경과조치 전 190.7%, 후 207.7%)을 밑돌고 있어, 애큐온캐피탈 인수가 건전성 부담으로 작용할 가능성도 제기된다. 인수 비용 부담에 더해...",
+          "pubDate": "Thu, 02 Jul 2026 17:06:00 +0900"
+        },
+        {
+          "title": "보험사 ‘진짜 체력’ 중요해졌다… 현대해상, 건전성 개선 ‘눈길’",
+          "source": "dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12070890?ref=naver",
+          "description": "반면 한화생명은 기본자본 킥스 비율이 답보 상태다. 올해 1분기 기준 한화생명의 기본자본 킥스 비율은 58.8%로 나타났다. 금융당국의 권고치는 웃돌았으나 건전성 관리 부담이 커진 상황이다. 일부 중소형사들은...",
+          "pubDate": "Thu, 02 Jul 2026 17:02:00 +0900"
+        },
+        {
+          "title": "삼성생명, KDB생명 인수 TF 꾸린 이유…초과자본 투자 시동",
+          "source": "ftoday.co.kr",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=361503",
+          "description": "이번 KDB생명 매각에는 삼성생명을 비롯해 교보생명과 한화생명, 한국투자금융지주, 태광그룹 등이... 삼성생명의 올해 1분기 말 지급여력(K-ICS·킥스) 비율은 209.9%로 업계 평균인 190.7%를 웃돈다. 금융당국 권고치인 130...",
+          "pubDate": "Thu, 02 Jul 2026 15:42:00 +0900"
+        },
+        {
+          "title": "“보험업계 M&A로 지각변동 예고” MG예별·롯데·KDB 인수전 활발",
+          "source": "biz.heraldcorp.com",
+          "url": "https://biz.heraldcorp.com/article/10795832?ref=naver",
+          "description": "삼성·한화·교보생명 등 대형 생보 3사가 참전했다. 롯데손보 또한 신한금융그룹과 한투금융이 인수전에... 고금리와 새 회계기준(IFRS17), 지급여력비율(K-ICS·킥스) 제도 도입으로 기업가치가 보수적으로 바뀐 데다...",
+          "pubDate": "Thu, 02 Jul 2026 11:17:00 +0900"
+        },
         {
           "title": "[창간기획] 한화 금융 독립 언제쯤…김동원 사장의 '승계 방정식' 풀릴...",
           "source": "srtimes.kr",
           "url": "http://www.srtimes.kr/news/articleView.html?idxno=205803",
           "description": "킥스비율 부담 탓에 한화생명은 2024~2025년 2년 연속으로 8,000억원대 순이익에도 배당을 실시하지 못했다. 금융권에서는 이 수치가 승계 자체를 가로막는 사법적 장애물은 아니라고 본다. 다만 '계열분리 이후 독립...",
           "pubDate": "Thu, 02 Jul 2026 06:10:00 +0900"
-        },
-        {
-          "title": "한국신용평가, \"한화생명 애큐온 인수, 신용도 영향은 제한적\"",
-          "source": "insnews.co.kr",
-          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=91629",
-          "description": "지난 3월 말 기준 한화생명의 킥스비율은 162.1%, 기본자본 지급여력비율은 59%다. 한신평은 \"한화생명의 견조한 이익창출력과 신계약 보험계약마진(CSM) 규모 등을 고려하면 규제 수준을 웃도는 자본비율은 유지할 수 있을...",
-          "pubDate": "Wed, 01 Jul 2026 18:24:00 +0900"
-        },
-        {
-          "title": "한신평 \"한화생명 품에 안기는 애큐온캐피탈 신용등급 상향검토\"",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422900",
-          "description": "올해 3월 말 기준 한화생명의 킥스 비율은 162.1%, 기본자본 킥스 비율은 59%를 나타냈다. 한신평은 \"인수 이후 킥스 비율 변화에 대한 모니터링이 필요하다\"고 언급했다. 애큐온캐피탈[애큐온캐피탈 제공]",
-          "pubDate": "Wed, 01 Jul 2026 16:44:00 +0900"
-        },
-        {
-          "title": "“1兆보다 큰 베팅”...김동원, 한화생명 ‘금융지형’ 넓힌다",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20260701025517933",
-          "description": "신용평가사들이 이번 인수로 한화생명의 신용도가 흔들릴 가능성이 낮다고 본 이유다. 단, 단기적인 신지급여력제도(K-ICS·킥스) 비율 하락은 피하기 어렵다. 애큐온캐피탈·저축은행의 포트폴리오로 볼 때 위험액이...",
-          "pubDate": "Wed, 01 Jul 2026 10:32:00 +0900"
-        },
-        {
-          "title": "“보험업계 지각변동 예고” 달아오르는 MG예별·롯데·KDB 인수전",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10794084?ref=naver",
-          "description": "삼성생명·한화생명·교보생명 등 대형 생명보험 3사가 참전했다. 롯데손보 역시 신한금융그룹과... 고금리와 새 회계기준(IFRS17), 지급여력비율(K-ICS·킥스) 제도 도입으로 보험사의 기업가치 평가가 예전보다 보수적으로...",
-          "pubDate": "Wed, 01 Jul 2026 10:14:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "7월 2일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. gukjenews.com, ebn.co.kr, etoday.co.kr 등에서 보도되었으며, 폭락, 반도체, 쇼크에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 3일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. tfmedia.co.kr, aitimes.kr, gukjenews.com 등에서 보도되었으며, 삼성, 파운드리, 부활 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[속보] 코스피, 반도체 쇼크에 4.46% 폭락...삼성전자 주가 '30만' 아래로",
+          "title": "앤트로픽, 삼성과 AI칩 생산 논의…삼성 파운드리 '부활' 신호탄",
+          "source": "tfmedia.co.kr",
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=205487",
+          "description": "앤트로픽은 삼성전자 파운드리(반도체 수탁생산) 사업부의 2㎚(나노미터) 제조 공정과 첨단 패키징 시설을 활용하는 방안을 검토하고 있다. 2나노 공정은 현재 업계에서 가장 진일보한 칩 공정으로 프로세서 집적도를...",
+          "pubDate": "Fri, 03 Jul 2026 09:06:00 +0900"
+        },
+        {
+          "title": "제틱에이아이, LG 슈퍼스타트 인큐베이터 선정… \"산업 전반 온디바이스...",
+          "source": "aitimes.kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=40810",
+          "description": "글로벌 반도체 제조 대기업의 메모리 제조라인에서 온디바이스 AI 기반 품질분석 프로젝트를 수행하고... 오큘러스, 삼성 갤럭시 등에 온디바이스 AI 솔루션을 상용화한 김연석 대표를 중심으로 서울대 박사...",
+          "pubDate": "Fri, 03 Jul 2026 09:04:00 +0900"
+        },
+        {
+          "title": "미 반도체지수 11% 폭락에도… 삼성전자·SK하이닉스, 장 초반 반등 성공",
           "source": "gukjenews.com",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3624011",
-          "description": "주요 반도체 기업들이 두 자릿수 급락세를 보이자 국내 증시도 투자심리가 급격히 위축된 것으로 풀이된다. 시가총액 상위 종목들은 일제히 파란불을 켜며 하락세를 주도하고 있다. 대장주 삼성전자는...",
-          "pubDate": "Thu, 02 Jul 2026 09:08:00 +0900"
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3625282",
+          "description": "사진/삼성전자 사옥 미국 뉴욕증시에서 반도��지수가 이틀간 11%가량 폭락하는 등 글로벌 AI 투자 과응 우려가 확산했으나, 국내 반도체 투톱인 삼성전자와 SK하이닉스는 장 초반 반등에 성공하며 상승세를 나타내고...",
+          "pubDate": "Fri, 03 Jul 2026 09:04:00 +0900"
         },
         {
-          "title": "[Tech & Now] 마키나락스, 상반기 수주 200억원 돌파 전망 등",
-          "source": "ebn.co.kr",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714776",
-          "description": "첨단제조(반도체·디스플레이·배터리 등 22%), 일반제조(자동차·로봇·기계 등 21%) 순으로 나타났다. 마키나락스는 현재 국방과학연구소, 두산에너빌리티, 삼성전자, 요코가와, 현대자동차 등 굵직한 주요 고객사를...",
-          "pubDate": "Thu, 02 Jul 2026 09:08:00 +0900"
+          "title": "[IT큐레이션] 앤트로픽까지 노크하는 삼성 2나노, 파운드리 부활 퍼즐 맞...",
+          "source": "econovill.com",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=744179",
+          "description": "앤트로픽이 지난 5월 시리즈H 투자 라운드에서 삼성전자를 비롯한 3대 메모리반도체 제조사가 전략적 인프라 파트너로 참여했다고 밝히면서 이들의 기술이 전 세계 메모리와 저장장치, 로직 칩 공급에 핵심 역할을...",
+          "pubDate": "Fri, 03 Jul 2026 09:04:00 +0900"
         },
         {
-          "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체 쇼크에 장초반 급락",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2599458",
-          "description": "이투데이=정수천 기자 | 미국 반도체주 급락 여파로 삼성전자와 SK하이닉스가 장 초반 동반 약세다. 2일 오전 9시4분 삼성전자는 전 거래일 대비 6.84% 하락한 29만3000원에 거래되고 있다. SK하이닉스는 7.77% 내린...",
-          "pubDate": "Thu, 02 Jul 2026 09:08:00 +0900"
-        },
-        {
-          "title": "메타는 오른 메타발(發) 폭락...삼전 하닉도 폭락 출발",
-          "source": "chosun.com",
-          "url": "https://www.chosun.com/economy/money/2026/07/02/OIW7FWXDSRDKPDTSOKSDTYIE7A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "description": "◇한국 반도체는 관건은 한국이다. 삼성전자와 SK하이닉스는 메타 같은 하이퍼스케일러에 고대역폭메모리(HBM)를 공급하며 이번 슈퍼사이클의 최대 수혜를 누려왔다. 메타의 ‘잉여 컴퓨팅’ 신호가 곧 ‘메모리 신규...",
-          "pubDate": "Thu, 02 Jul 2026 09:08:00 +0900"
-        },
-        {
-          "title": "한국발 '수백조' 희소식 \"세계적 장비업체들 만세!\" [여의도 Pick!]",
-          "source": "news.mtn.co.kr",
-          "url": "https://news.mtn.co.kr/news-detail/2026070209004685915",
-          "description": "5% 올랐습니다.삼성전자와 SK하이닉스가 각각 반도체 공장 2개씩, 총 4개 공장을 국내에 신설하는 800조원 규모의 투자 계획을 발표한 이후 노광과 식각, 증착 등 핵심 장비를 공급하는 업체들의 실적 개선 기대가 커진...",
-          "pubDate": "Thu, 02 Jul 2026 09:06:00 +0900"
+          "title": "반도체와 AI로 그리는 미래 산업 지도",
+          "source": "h21.hani.co.kr",
+          "url": "https://h21.hani.co.kr/arti/economy/economy_general/59580.html",
+          "description": "충청권은 첨단 패키징 거점으로, 동남·대경권은 소부장 및 전력반도체 혁신 거점으로 육성된다. 삼성은 충청에 고대역폭메모리(HBM) 팹, 디스플레��, 차세대 배터리, AI 서버용 패키지 등에 140조원을 투자하고, SK는...",
+          "pubDate": "Fri, 03 Jul 2026 09:04:00 +0900"
         }
       ]
     }

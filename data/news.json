@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-07-04T00:06:40.448Z",
+  "updatedAt": "2026-07-05T00:03:11.135Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "7월 4일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. hani.co.kr, mediafine.co.kr, g-enews.com 등에서 보도되었으며, 고환율, 주범, NDF거래 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 5일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. khgames.co.kr, tjb.co.kr, newspim.com 등에서 보도되었으며, 달러, 환율, 24시간 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "고환율 주범 ‘NDF거래’ 제동 투기판 잠재울까",
-          "source": "hani.co.kr",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1266689.html",
-          "description": "이런 현상이 발생하면 서울 외환시장에 달러 매도가 몰려 원-달러 환율은 급락하게 된다. 결국 실제 달러 수요와 무관하게 야간 역외시장의 투기적 흐름과 은행들의 헤지로 인한 기계적 거래가 국내 현물 환율을 위나...",
-          "pubDate": "Sat, 04 Jul 2026 09:02:00 +0900"
+          "title": "[6월 마지막 주차] 가상화폐 시장 정리",
+          "source": "khgames.co.kr",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=306036",
+          "description": "최근 '미국 달러/일본 엔(USD/JPY)' 환율은 지난 1986년 이후 약 40년 만에 최고 수준까지 상승했다. '미국 달러... 현재 일부 시장 전문가들은 일본 당국의 외환시장 개입 가능성이나 현지 중앙은행의 정책 변화 여부가 향후...",
+          "pubDate": "Sun, 05 Jul 2026 09:02:00 +0900"
         },
         {
-          "title": "달러-원 환율, 야간장서 1,530원 마감-엔화 흐름 따라 낙폭 일부 만회",
-          "source": "mediafine.co.kr",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=82600",
-          "description": "4일(한국시간) 새벽 2시 달러-원 환율은 전장 서울외환시장 종가보다 25.80원 내린 1,530.00원에 마감했다. 다만 주간 거래(오전 9시~오후 3시30분) 종가인 1,525.60원과 비교하면 4.40원 높은 수준에서 야간장을 마쳤다. 이날...",
-          "pubDate": "Sat, 04 Jul 2026 08:36:00 +0900"
+          "title": "원/달러 24시 거래로 환율 안정될까...상반기 평균 1,484원",
+          "source": "tjb.co.kr",
+          "url": "https://www.tjb.co.kr/news05/bodo/view/id/100416",
+          "description": "마무리되면서 환율 하단이 1,470원 수준으로 낮아질 것\"이라고 내다봤습니다. 한편 오는 6일부터 서울 외환시장에서 원/달러가 24시간 거래되면서 기존에 거래가 불가능했던 새벽 2시∼오전 9시에도 거래가...",
+          "pubDate": "Sun, 05 Jul 2026 08:52:00 +0900"
         },
         {
-          "title": "美 고용 둔화에 글로벌 증시 ‘방긋’…두 달 만에 최대 주간 상승폭 기...",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202607040807105755e250e8e188_1",
-          "description": "40년 만에 최저치까지 떨어졌던 엔화 ��율은 달러당 161엔 선에서 보합세를 보였으며, 외환시장 참가자들은 일본 당국의 기습적인 시장 개입 가능성에 고도의 경계태세를 유지하고 있다. 다만 시장의 장기적인 불안...",
-          "pubDate": "Sat, 04 Jul 2026 08:14:00 +0900"
+          "title": "[주간금융이슈] 외환시장 24시간 개방, 환율 안정 vs 변동성 확대",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260703000344",
+          "description": "서울 외환시장에서 달러/원 환율은 11.3원 내린 1544.5원에 개장했다. 서울 중구 하나은행 딜링룸에서 딜러들이 업무를 보고 있다. 2026.07.03 khwphoto@newspim.com 이에 따라 이번 주부터 주말과 1월 1일을 제외한 모든 날(공휴일...",
+          "pubDate": "Sun, 05 Jul 2026 08:00:00 +0900"
         },
         {
-          "title": "[하반기 이렇게 달라집니다] KTX·SRT 앱 통합…‘계약형 지역필수의사...",
-          "source": "nongmin.com",
-          "url": "https://www.nongmin.com/article/20260703500610",
-          "description": "그동안 우리나라 외환시장은 공휴일과 주말을 뺀 오전 9시부터 다음날 오전 2시까지 열려 접근성이 떨어진다는 지적을 받았다. 이번 조치로 외국인 투자자 등이 새벽에도 실시간 환율로 외환거래가 가능해졌다....",
-          "pubDate": "Sat, 04 Jul 2026 08:01:00 +0900"
-        },
-        {
-          "title": "\"같은 학비인데 수백만원 더 내\"…고환율에 신음하는 유학생들[1600원 환...",
+          "title": "은행도 보험사도 고환율 '비상'…\"건전성·자본관리 부담 커져\"[1600원 환...",
           "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260703_0003695389",
-          "description": "4일 서울 외환시장에 따르면 원·달러 환율은 지난 2일 주간 거래에서 1555.8원에 마감했다. 종가 기준 글로벌 금융위기 당시인 2009년 3월 5일 1568.0원 이후 약 17년 3개월 만의 최고치를 기록했다. 전날 30.2원 급락하며 1525....",
-          "pubDate": "Sat, 04 Jul 2026 08:00:00 +0900"
+          "url": "https://www.newsis.com/view/NISX20260703_0003695324",
+          "description": "고환율 뉴노멀 이슈와 중동분쟁 이후 시장의 외환 변동성에 대한 면밀한 모니터링을 실시 중이다. 하나금융그룹은 외환파생상품 등 환율 민감도가 높은 상품의 한도 관리를 강화하고 있다. 장기 외화계약에 대해서는...",
+          "pubDate": "Sun, 05 Jul 2026 08:00:00 +0900"
+        },
+        {
+          "title": "원·달러 24시간 거래 도입, 외환 불안 완화될까?",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/economy/375082",
+          "description": "있을지 시장의 관심이 쏠리고 있다. 한국은행 경제통계시스템에 따르면 올해 상반기 원·달러 환율의 주간 거래 종가 평균은 1,484.56원으로 집계됐다. 이는 외환위기였던 1998년 상반기 1,493.08원 다음으로 높은 수준이다....",
+          "pubDate": "Sun, 05 Jul 2026 07:26:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "7월 4일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, bloter.net, dailian.co.kr 등에서 보도되었으며, 금리, 발행금리, 부담에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 5일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. hankyung.com, youthdaily.co.kr, news1.kr 등에서 보도되었으며, 금리, 주담대, 영끌족 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "발행금리 부담에 회사채 비수기 빨리 도래…\"하반기도 회복 어려워\"",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423352",
-          "description": "김 연구원은 \"7월 기준금리 인상 기대감과 6월 반기말 단기자금 유출로 인해 단기금리가 상승했으나 5bp 내외로 소폭에 그치면서 단기 금리와 채권 금리 격차는 크게 확대된 수준이 유지됐다\"고 말했다. 그러면서 \"CD와...",
-          "pubDate": "Sat, 04 Jul 2026 08:16:00 +0900"
+          "title": "영끌족 잠 못 이룰라…8% 넘보는 주담대, 이자 폭탄 '비상'",
+          "source": "hankyung.com",
+          "url": "https://www.hankyung.com/article/2026070558077",
+          "description": "금리 상승 배경에는 채권금리 오름세가 있다. 하반기 기준금리 인상 가능성이 채권시장에 먼저 반영되면서 국고채 금리가 올랐고 이를 따라 은행채 금리도 상승했다는 분석이다. 은행채 금리가 오르면 이를...",
+          "pubDate": "Sun, 05 Jul 2026 08:02:00 +0900"
         },
         {
-          "title": "[자금조달 프리뷰] 삼성증권 공모채·레몬헬스케어 상장 '눈길'",
-          "source": "bloter.net",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=667291",
-          "description": "희망 밴드는 개별 민간채권평가사 평균인 민평금리 기준 ±30bp(1bp=0.01%p)의 금리를 제시했다. 주관은 SK·KB·NH투자·한국투자·대신·신한투자·IBK투자·부국·BNK투자증권이 맡았다. 앞서 삼성증권은 올해 2월에도...",
-          "pubDate": "Sat, 04 Jul 2026 08:00:00 +0900"
+          "title": "금리·증시 훈풍에 '최대 실적' 견인...국내 4대 금융지주, 순이익 11조원...",
+          "source": "youthdaily.co.kr",
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=222091",
+          "description": "김인 BNK투자증권 연구원은 \"순이자마진 상승과 원화대출 성장에 따른 이자이익 증가세가 이어지고 있다\"며 \"시장금리 상승에 따른 채권 평가손실 부담은 있지만 증권 자회사의 수수료 수익과 주식 관련 이익 증가가...",
+          "pubDate": "Sun, 05 Jul 2026 08:00:00 +0900"
         },
         {
-          "title": "금리 오르고 증시는 널뛰기… '갈 곳 잃은' 대기 자금 722조 쌓였다",
-          "source": "dailian.co.kr",
-          "url": "https://www.dailian.co.kr/news/view/1663207/?sc=Naver",
-          "description": "우선 시장 내에서 올해 하반기 추가 금리 인�� 가능성이 지속적으로 언급되면서 채권금리를 비롯한 시장금리가 일제히 올랐다. 한국 국고채 2년물 금리는 연 3.670%로 연초보다 87.6bp(1bp=0.01%포인트) 올랐다. 5년물은 연 4....",
-          "pubDate": "Sat, 04 Jul 2026 07:03:00 +0900"
+          "title": "\"고삐 풀린 금리\" 주담대 8%대 넘본다…보금자리론도 5%대로 뛰었다",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/finance/general-finance/6217471",
+          "description": "금리 상승의 배경으로는 한국은행의 하반기 기준금리 인상 ��능성이 채권시장에 선반영된 점이 꼽힌다. 이에 국고채 금리가 상승했고 이를 반영한 은행채 금리도 오르며 주담대 금리 상승으로 이어졌다는...",
+          "pubDate": "Sun, 05 Jul 2026 06:40:00 +0900"
         },
         {
-          "title": "3년 8개월 내 최고 금리, 당신의 지갑 겨누고 있다",
-          "source": "shindonga.donga.com",
-          "url": "https://shindonga.donga.com/3/all/13/6286534/1",
-          "description": "재정을 방만하게 운영하는 정부, 인플레 위험을 방치하는 중앙은행에 채권 금리를 상승시켜 이자 비용 부담이 늘게 함으로써 정책 수정 압박에 나선 것이다. 중동전쟁으로 촉발된 제2차 인플레이션 우려 지난 2월 28일...",
-          "pubDate": "Sat, 04 Jul 2026 07:01:00 +0900"
+          "title": "원·달러 환율 1560원을 어떻게 읽을 것인가… 그 너머의 수치",
+          "source": "biz.chosun.com",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/07/05/43RFELDDOBG4RKLVT5UBTP4GUM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "description": "국가신용 위험을 반영하는 외국환평형기금채권 가산 금리와 신용부도스와프(CDS) 프리미엄은 역대 최저권에 머물러 있다. 외환보유액은 5월 말 약 4270억달러(약 659조6296억원)로 세계 12위 수준을 지켰다. 은행의 외화...",
+          "pubDate": "Sun, 05 Jul 2026 06:01:00 +0900"
         },
         {
-          "title": "전세계 증시를 떨게하는 '세글자' [B급기자의 B급리포트]",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030365&t=NN",
-          "description": "△ 결국 '물가 불안 → 기준금리 인상 공포 → 채권 금리 급등 → 주가 하락'이라는 공식이 만들어지는 겁니다. ● PPI, 빵 공장이 밀가루를 사오는 가격(매달 11~15일 발표) 물가의 출발점에 있는 지표가 생산자물가지수...",
-          "pubDate": "Sat, 04 Jul 2026 06:00:00 +0900"
+          "title": "금리 동결 무게 美 연준… 채권 ‘수익률 고점’ 잡을 기회일까",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=20260704135815220fbbec65dfb_1",
+          "description": "이로 인한 법적 공방과 정치성 리스크는 여전히 금융시장의 불확실성으로 남아 장기 채권 금리의 변동성을 키우는 요인이다. 발 빠른 자금 이동… 변동성 줄며 국채 금리 하향 안정화 워시 의장은 취임 이후 연준...",
+          "pubDate": "Sun, 05 Jul 2026 03:06:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "7월 4일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. segyebiz.com, ceoscoredaily.com, ekoreanews.co.kr 등에서 보도되었으며, 문전성시, 보험, 신한금융 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 5일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. segyebiz.com, ceoscoredaily.com, ekoreanews.co.kr 등에서 보도되었으며, 문전성시, 보험, 신한금융 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "문전성시 보험 M&A…신한금융 가세로 격전지 확대",
@@ -105,7 +105,7 @@
           "title": "한화생명, 해외시장 이어 캐피탈까지… 사업 다각화 승부수",
           "source": "ekoreanews.co.kr",
           "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86851",
-          "description": "다만 한화생명의 지급여력비율(K-ICS·킥스)이 ��해 1분기 기준 162.1%로 생보사 평균(경과조치 전 190.7%, 후 207.7%)을 밑돌고 있어, 애큐온캐피탈 인수가 건전성 부담으로 작용할 가능성도 제기된다. 인수 비용 부담에 더해...",
+          "description": "다만 한화생명의 지급여력비율(K-ICS·킥스)이 올해 1분기 기준 162.1%로 생보사 평균(경과조치 전 190.7%, 후 207.7%)을 밑돌고 있어, 애큐온캐피탈 인수가 건전성 부담으로 작용할 가능성도 제기된다. 인수 비용 부담에 더해...",
           "pubDate": "Thu, 02 Jul 2026 17:06:00 +0900"
         },
         {
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "7월 4일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. sisajournal-e.com, dealsite.co.kr, chosun.com 등에서 보도되었으며, SK하이닉스, 호남, 반도체 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 5일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, newsian.co.kr, hankyung.com 등에서 보도되었으며, 이번주, 삼성전자, 실적 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전자·SK하이닉스, 경기·호남·충청 첨단 메모리 '삼각 편대' 조성",
-          "source": "sisajournal-e.com",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=422160",
-          "description": "반도체업계에 따르면 삼성전자와 SK하이닉스는 최근 연이어 지역별 반도체 투자 계획을 발표하며, 호남권·충청권에 각각 도합 800조원, 200조원 규모의 메가톤급 투자 계획을 집행할 예정이라고 밝혔다. 호남권에선...",
-          "pubDate": "Sat, 04 Jul 2026 09:02:00 +0900"
+          "title": "[뉴욕증시-주간전망] 삼전 실적·하닉 ADR에 달렸다…FOMC 의사록도 관심",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423373",
+          "description": "최근 삼성전자와 SK하이닉스 등 한국의 반도체 거대기업의 주가 방향성에 따라 나스닥 종합지수와 필라델피아 반도체 지수의 움직임이 정해지고 있다. 연합인포맥스가 최근 1개월 내 보고서를 낸 증권사 17곳의...",
+          "pubDate": "Sun, 05 Jul 2026 09:02:00 +0900"
         },
         {
-          "title": "[ETF 리그테이블] [2026년 상반기] 신한·타임폴리오, 더블업 달성…성장...",
-          "source": "dealsite.co.kr",
-          "url": "https://dealsite.co.kr/articles/164695",
-          "description": "국내 ETF 시장이 삼성운용과 미래운용의 양강 구도로 굳어져가는 상황 속에서 중위권 하우스의 역량을... 실제 올해 3월 17일 신규 상장한 SOL AI반도체TOP2플러스가 3개월여 만에 8조2660억원을 끌어모으며 전사 AUM의...",
-          "pubDate": "Sat, 04 Jul 2026 09:02:00 +0900"
+          "title": "[이번주 증시] 메타 쇼크 딛고 어닝 시즌으로…삼성전자 실적 '주목'",
+          "source": "newsian.co.kr",
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=91823",
+          "description": "특히 최근 공급 과잉 우려와 인공지능(AI) 투자 둔화 논란으로 흔들린 반도체 업황의 향방을 가늠할 삼성전자의 2분기 잠정 실적 발표가 최대 변수로 꼽힌다. 3일 오전 서울 중구 하나은행 딜링룸에 지수가 표시돼...",
+          "pubDate": "Sun, 05 Jul 2026 09:02:00 +0900"
         },
         {
-          "title": "실리콘밸리 테크 행사를 보면 AI와 기업의 미래가 보인다",
-          "source": "chosun.com",
-          "url": "https://www.chosun.com/economy/tech_it/2026/07/04/Y32DSJCGZVGCJHCV7GQF4C6YEU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "description": "꾸밀 수 있다는 ‘캔버스’ 기능을 설명하면서 김밥 가게 사장이 한글 포스터를 제작하는 장면이 나왔다. 엔비디아 GTC에서는 반도체 파운드리(위탁 생산) 협력사인 삼성을 향해 황 CEO가 “땡큐 삼성”을 외치기도 했다.",
-          "pubDate": "Sat, 04 Jul 2026 09:01:00 +0900"
+          "title": "숨고르기 돌입한 주식시장…그래도 핵심테마는 바뀌지 않는다",
+          "source": "hankyung.com",
+          "url": "https://www.hankyung.com/article/202607019768i",
+          "description": "삼성전자·SK하이닉스의 역대급 주주환원 향후 3년간 국내 반도��� 양강의 주주환원율은 잉여현금흐름(FCF)의 50% 안팎에 달할 것으로 전망된다. 상법상 분리과세 혜택을 고려해 배당 성향을 25%로 잡고, 나머지 재원을...",
+          "pubDate": "Sun, 05 Jul 2026 09:01:00 +0900"
         },
         {
-          "title": "SK하이닉스 최연소 임원 출신이 만든 반도체 팹리스[VC 요람]",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01200486645511240",
-          "description": "엑시나 창업자 김진영 대표는 삼성전자 메모리사업부에서 시작해 SK하이닉스 최연소 기술임원까지 오른 메모리 반도체 전문가다. SK하이닉스에서 차세대 솔루션 제품 개발을 총괄한 경험을 바탕으로 2022년...",
-          "pubDate": "Sat, 04 Jul 2026 09:01:00 +0900"
+          "title": "[이번주 관심주] 삼성전자 실적발표 D-2...영업익 폭증 전망 속 목표가 ...",
+          "source": "opinionnews.co.kr",
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141046",
+          "description": "이는 AI 투자 축소와 메모리 반도체 수요 감소 우려로 이어지며 삼성전자, 하이닉스 주가를 끌어내렸다. 증권가는 펀더멘털 훼손보다 노이즈에 의한 밸류에이션 디레이팅 성격이 강하다고 분석한다. 이재원...",
+          "pubDate": "Sun, 05 Jul 2026 09:00:00 +0900"
         },
         {
-          "title": "\"호남 반도체 팹? 전력·용수 전폭 지원에 달려\"…삼전·닉스, '업황 둔...",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260703_0003695422",
-          "description": "삼성전자는 호남 반도체 투자 계획을 발표하며 정부의 인프라 지원 필요성을 강조하기도 했다. 전영현 부회장은 \"전력은 안정적 공급이 무엇보다도 중요하다\"며 \"이를 위해서 재생에너지의 간헐성을 보완할 원전 확대 및...",
-          "pubDate": "Sat, 04 Jul 2026 09:00:00 +0900"
+          "title": "[이번주 증시] 삼성전자 잠정 실적에 달린 코스피 향방",
+          "source": "opinionnews.co.kr",
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141060",
+          "description": "이재원 유안타증권 연구원 역시 \"이익 신뢰가 유지되는 구간에서는 삼성전자 잠정실적, SK하이닉스 나스닥 상장이라는 빅 이벤트를 주시해야 한다\"며 \"주도주를 믿으며 반도체, IT하드웨어, 금융 중심의 코스피 저가...",
+          "pubDate": "Sun, 05 Jul 2026 09:00:00 +0900"
         }
       ]
     }

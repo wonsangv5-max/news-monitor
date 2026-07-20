@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-07-20T00:00:04.620Z",
+  "updatedAt": "2026-07-20T23:57:26.516Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "7월 20일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. the-biz.co.kr, imnews.imbc.com, news.einfomax.co.kr 등에서 보도되었으며, 75, 487, 경제 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 21일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, newspim.com, edaily.co.kr 등에서 보도되었으며, 475, 환율, NDF 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "중동 불확실성 확대…원/달러 환율 강보합권 등락 전망",
-          "source": "the-biz.co.kr",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=724625",
-          "description": "28원으로 마감했다. 달러 강보합 흐름과 대외 불확실성을 반영해 이날 원/달러 환율은 제한적인 상승 압력을 받을 것\"이라고 전망했다. 한편 서울외환시장에서 원/달러 환율은 이날 오전 8시22분 기준 1489.0원에 거래되고 있다.",
-          "pubDate": "Mon, 20 Jul 2026 08:24:00 +0900"
-        },
-        {
-          "title": "[뉴스 속 경제] 3년6개월만 돌아온 긴축의 시대‥불균형 해소는?",
-          "source": "imnews.imbc.com",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6838547_37012.html",
-          "description": "◀ 앵커 ▶ 한국은행은 환율도 고려대상이라고 했는데 금리를 올리는 게 환율에 얼마나 도움이 될까요?... 외환 시장에서는 원화 약세보다는 강세를 가져올 요인이지만, 그 효과가 어느 정도로 강할지는 장담할 수...",
-          "pubDate": "Mon, 20 Jul 2026 07:43:00 +0900"
-        },
-        {
-          "title": "NDF, 1,487.00/ 1,487.30원…9.50원↑(재송)",
+          "title": "NDF, 1,475.00/ 1,475.40원…2.30원↓",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425696",
-          "description": "최근 1개월물 스와프포인트(-0.85원)를 고려하면 전장 서울외환시장 현물환 종가(1,478.50원) 대비 9.50원... 달러-엔 환율은 162.389엔, 유로-달러 환율은 1.14390달러였다. 역외 달러-위안(CNH) 환율은 6.7764위안이었다.",
-          "pubDate": "Mon, 20 Jul 2026 07:42:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425906",
+          "description": "최근 1개월물 스와프포인트(-0.90원)를 고려하면 전날 서울외환시장 현물환 종가(1,478.40원) 대비 2.30원... 달러-엔 환율은 162.438엔, 유로-달러 환율은 1.14141달러를 기록했다. 역외 달러-위안(CNH) 환율은 6....",
+          "pubDate": "Tue, 21 Jul 2026 08:48:00 +0900"
         },
         {
-          "title": "한국은행, 물가·집값에 8연속 금리동결 중단…금리 2.75%·추가 인상 예...",
-          "source": "newswhoplus.com",
-          "url": "https://www.newswhoplus.com/news/articleView.html?idxno=64837",
-          "description": "서울 외환시장에서 원·달러 환율은 이날 오후 3시30분 기준 전 거래일보다 4.3원 내린 1480.4원에 거래를 마쳤다. 올해 5월12일 1474.8원 이후 약 두 달 만에 가장 낮은 수준이다. 주식시장은 추가 금리 인상 가능성과...",
-          "pubDate": "Mon, 20 Jul 2026 07:30:00 +0900"
+          "title": "[모닝 리포트] \"코스피 바닥권…반도체 분할 매수 나설 때\"",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260721000094",
+          "description": "서울외환시장에서 달러/원 환율은 15시 30분 기준 1478.40원에 거래됐다. 2026.07.20 ryuchan0925@newspim.com 알파벳과 인텔 등 주요 기업의 실적 발표가 예정돼 있다는 점도 제시됐다. 한 연구원은 주 중반 이후 기업 실적이...",
+          "pubDate": "Tue, 21 Jul 2026 08:35:00 +0900"
         },
         {
-          "title": "[스타트 경제] 코스피 이달 하루 6.75%씩 급등락...금융·외환위기 때보...",
-          "source": "ytn.co.kr",
-          "url": "https://www.ytn.co.kr/_ln/0102_202607200713210714",
-          "description": "있지만 환율 안정에 대해서는 한 번 더 올리는 것들이 긍정적일 수 있고 시장금리가 많이 반영돼 있기 때문에 외환시장 안정에 도움을 줄 수 있지 않을까 생각하고 있습니다. 부동산 이야기도 해 보겠습니다. 어제 김용범...",
-          "pubDate": "Mon, 20 Jul 2026 07:13:00 +0900"
+          "title": "[외환] 중동 리스크에도 매도 우위 수급 기대로 1,470원대",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425899",
+          "description": "21일 외환시장에서 달러-원 환율은 오전 6시 현재 전날 서울장 종가(1,478.40원) 대비 0.50원 내린 1,477.90원에 거래됐다. 지난 18일 오전 6시 종가(1,486.00원) 대비로는 8.10원 떨어졌다. 전날 1,490.00원으로 출발한 달러...",
+          "pubDate": "Tue, 21 Jul 2026 08:32:00 +0900"
+        },
+        {
+          "title": "지정학적 우려와 달러 공급 확대…환율, 1470원대서 등락[외환브리핑]",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02689606645516816",
+          "description": "민경원 우리은행 이코노미스트는 “이달 들어 수출 및 중공업체를 중심으로 환헤지 물량이 대거 외환시장에 유입되면서 환율 레벨이 낮아졌다”면서 “여기에 SK하이닉스 미국예탁증서 상장에 따른 달러 매도...",
+          "pubDate": "Tue, 21 Jul 2026 08:20:00 +0900"
+        },
+        {
+          "title": "'1560원→1470원' 뚝 떨어진 환율…원화 강세 이유있었네",
+          "source": "wowtv.co.kr",
+          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607210187&t=NN",
+          "description": "외국인 매도와 달러 매수의 연쇄가 끊기면서 환율이 예상보다 빠르게 1480원 아래로 내려갔다는 분석이다. KB증권은 외환당국 개입 추정, 24시간 외환시장 개설, 금통위 기준금리 인상 등이 복합적으로 작용해 \"달러·원...",
+          "pubDate": "Tue, 21 Jul 2026 08:13:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "7월 20일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, edaily.co.kr, bizwnews.com 등에서 보도되었으며, 채권손실, 8조, 선반영한 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 21일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. etoday.co.kr, newspim.com, g-enews.com 등에서 보도되었으며, 금리, 비상, 하락한 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "채권손실 3.8조 선반영한 증권업…\"기준금리 인상 충격 제한적\"",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425708",
-          "description": "나신평은 \"인공지능(AI) 발 국내 투자 확대에 따른 성장률 상향 가능성과 지정학적 불안에 따른 인플레이션 변수 등으로 채권시장 변동성이 확대될 가능성은 여전히 존재한다\"며 \"향후 시장금리 변동에 따른 채권운용손익...",
-          "pubDate": "Mon, 20 Jul 2026 08:28:00 +0900"
+          "title": "하락한 국제 금값…국내 금시세는?",
+          "source": "etoday.co.kr",
+          "url": "https://www.etoday.co.kr/news/view/2605425",
+          "description": "반면 이자를 지급하지 않아 시장 금리가 오르면 채권 등 이자 자산보다 투자 매력이 낮아지는 특성도 있다. 이날은 중동 긴장에 따른 안전자산 수요보다 유가와 미국 장기금리 상승에 대한 부담이 더 크게...",
+          "pubDate": "Tue, 21 Jul 2026 08:00:00 +0900"
         },
         {
-          "title": "한화생명, 업황 부진 반영한 현 주가…저점 매수 전략 유효-하나",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01233286645516488",
-          "description": "금리 상승에 따른 채권평가손실과 대체투자관련 평가이익 감소로 일반계정 투자손익은 분기 대비 감소하겠으나 변액계정은 매매평가이익이 발생하며 전년 대비 큰 폭의 실적 개선 가능할 것”이라고 덧붙였다.",
-          "pubDate": "Mon, 20 Jul 2026 07:41:00 +0900"
+          "title": "여전채 이미 4.5%인데 금리 인상 거론…카드사 하반기 '조달 비상'",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260720001000",
+          "description": "기존 채권보다 높은 금리로 새 채권을 발행해야 하는 만큼 카드사의 평균 이자비용도 다시 상승할 가능성이 크다. 김석우 나이스신용평가 금융SF평가본부 금융평가2실 수석연구원은 \"금리가 상승할 경우 신규...",
+          "pubDate": "Tue, 21 Jul 2026 08:00:00 +0900"
         },
         {
-          "title": "\"물가, 엇갈린 시선\"…유가 진정, 서비스 버틴다",
-          "source": "bizwnews.com",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=140866",
-          "description": "6월 지표가 시장 예상보다 낮게 나오더라도 7~8월 물가가 재차 높아질 경우 채권금리 하락세는 제한될 수 있다. 반대로 서비스 물가까지 안정되는 흐름이 확인돼야 기준금리 인하 기대도 다시 힘을 받을 수 있다. 김 iM증권...",
-          "pubDate": "Mon, 20 Jul 2026 07:34:00 +0900"
+          "title": "중동 전쟁에 환율 1470원대 돌파… ‘현금 비중’ 늘려야 할까?",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=2026072106041963782bd56fbc3c_1",
+          "description": "국채 금리 상승은 채권 가격 하락을 의미하며, 투자자들이 안전자산인 국채조차 매도하고 있다는 방증이다. 뱅크오브아메리카(BofA)가 20일 발표한 시장 분석 자료에 따르면, 현재 채권 시장은 금리 인하라는 기본...",
+          "pubDate": "Tue, 21 Jul 2026 06:18:00 +0900"
         },
         {
-          "title": "증권사, 금융지주 효자로...브로커리지 호황 타고 실적 견인",
-          "source": "digitaltoday.co.kr",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684813",
-          "description": "다만 국채금리 상승에 따른 채권평가손실은 비이자이익 증가를 제한할 수 있다. 부동산 관련 추가 충당금이 발생했던 전년 동기 기저효과로 그룹 대손비용은 약 5240억원으로 20.0% 감소할 전망이다. 신한금융의...",
-          "pubDate": "Mon, 20 Jul 2026 07:30:00 +0900"
+          "title": "돌아온 고금리 시대…2금융권 엇갈린 희비",
+          "source": "kukinews.com",
+          "url": "https://www.kukinews.com/article/view/kuk202607200091",
+          "description": "보험사는 고객에게 받은 보험료를 장기간 운용하는 만큼 금리가 오르면 신규 자금을 기존보다 높은 금리의 채권과 대체투자 등에 운용할 수 있다. 기존 자산이 만기를 맞을수록 고금리 자산 편입 비중이 커져...",
+          "pubDate": "Tue, 21 Jul 2026 06:02:00 +0900"
         },
         {
-          "title": "[더벨][하우스 분석 | SK증권] 후순위채 770억 발행 완료…이자 부담은 ...",
-          "source": "thebell.co.kr",
-          "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607151420596680102220",
-          "description": "각 채권의 금리를 기준으로 단순 추산한 연간 이자 비용은 140억원 안팎이다. SK증권의 2020년 이후 연평균 영업이익이 200억~300억원 수준이었다는 점을 고려하면 자본적정성 유지를 위해 감수해야 하는 금융비용...",
-          "pubDate": "Mon, 20 Jul 2026 07:02:00 +0900"
+          "title": "금리 인상에 조달비용 비상…“살림 팍팍한데 혜자카드마저 사라지나”",
+          "source": "kmib.co.kr",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030136532&code=61141111&cp=nv",
+          "description": "카드채 금리가 오르면 신규 자금 조달 비용이 증가할 뿐만 아니라, 만기가 도래한 채권을 더 높은 금리로 차환해야 하는 부담도 커진다. 문제는 비용은 커지는데 수익원이 마땅치 않다는 점이다. 지난 1분기 전업 8개...",
+          "pubDate": "Tue, 21 Jul 2026 05:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "7월 20일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. hansbiz.co.kr, sentv.co.kr, raonnews.com 등에서 보도되었으며, 대출, 규제, 80 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 21일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. hansbiz.co.kr, sentv.co.kr, raonnews.com 등에서 보도되었으며, 대출, 규제, 80 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "보험업계, 생산적 금융 확대…규제 개선 촉구",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "7월 20일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. newspim.com, chosun.com, inews24.com 등에서 보도되었으며, AI, 공고, 25 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 21일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, mk.co.kr, ebn.co.kr 등에서 보도되었으며, 2700, 9천피에서, 6천피 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[모닝 리포트] \"고점 대비 25% 급락한 코스피, AI 실적시즌이 반등 시험...",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20260720000044",
-          "description": "미국 반도체주 반등과 저가 매수세 유입으로 일부 회복하는 흐름이 나타났지만 미국·이란 갈등과 한국은행의 기준금리 인상, 반도체 업황 우려가 동시에 겹쳤다. 7월 이후 코스피는 고점 대비 25.2% 내렸고 삼성전자...",
-          "pubDate": "Mon, 20 Jul 2026 08:57:00 +0900"
+          "title": "9천피에서 6천피 됐는데...증권가는 \"월말에 반등한다\" 확신",
+          "source": "fnnews.com",
+          "url": "http://www.fnnews.com/news/202607210834544447",
+          "description": "(AI)과 반도체 피크아웃 우려, 이란 사태 등 악재를 상당 부분 선반영한 만큼 향후 외국인 매도 규모는 점차... 최근 삼성전자와 SK하이닉스가 이 같은 상황에 해당한다는 판단이다. 또한 중국 AI 기업이 고성능·저비용...",
+          "pubDate": "Tue, 21 Jul 2026 08:56:00 +0900"
         },
         {
-          "title": "류진 “대기업 성과급, 중소기업에 도미노 영향…충분한 절차 거쳐야”",
-          "source": "chosun.com",
-          "url": "https://www.chosun.com/economy/industry-company/2026/07/20/56OHRJG7QFHMVGBGH5ZCYCQXCE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "description": "최근 삼성전자와 SK하이닉스를 중심으로 불거진 대기업 성과급 논란에 대해 “중소기업에도 도미노식으로... 류 회장은 “반도체 등 주요 현안으로 4대 그룹 회장들이 매우 바쁜 상황이고, 지나치게 압박하고 싶지는...",
-          "pubDate": "Mon, 20 Jul 2026 08:57:00 +0900"
+          "title": "“반도체서 화끈하게 뽑을 만도 한데”…영업이익 2700% 뛰고도 고용 0....",
+          "source": "mk.co.kr",
+          "url": "https://www.mk.co.kr/article/12102995",
+          "description": "반면 반도체를 포함한 IT·전기·전자 업종은 실적 개선에 비해 고용 확대가 제한적이었다. 이 업종의 매출은 34.4%, 영업이익은 삼성전자와 SK하이닉스 호실적에 힘입어 2740.5% 급증했지만 고용은 1727명(0.6...",
+          "pubDate": "Tue, 21 Jul 2026 08:53:00 +0900"
         },
         {
-          "title": "반도체 업종 채용문 확대…신입 공고 47% 증가",
-          "source": "inews24.com",
-          "url": "http://www.inews24.com/view/1986664",
-          "description": "SK하이닉스는 지난달 신입 ���시채용과 함께 학력 제한을 폐지했고, 삼성전자도 최근 반도체(DS) 부문에서 82개 직무 채용을 진행했다. 글로벌 반도체 기업의 국내 채용도 늘고 있다. 엔비디아와 마이크론의 올해 상반기...",
-          "pubDate": "Mon, 20 Jul 2026 08:56:00 +0900"
+          "title": "대기업 실적 뛰었지만 고용은 제자리…3년간 0.2% 증가",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717058",
+          "description": "반면 삼성전자와 SK하이닉스의 실적 개선이 두드러진 IT·전기·전자 업종은 고용 증가 폭이 상대적으로 작��다. IT·전기·전자 업종의 매출은 최근 3년간 34.4% 증가했다. 영업이익은 반도체 업황 회복과 인공지능...",
+          "pubDate": "Tue, 21 Jul 2026 08:50:00 +0900"
         },
         {
-          "title": "삼성SDS, 국산 NPU 클라우드 서비스 출시 … AI 추론 시대 인프라 경쟁 ...",
-          "source": "biz.newdaily.co.kr",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/20/2026072000031.html",
-          "description": "회사는 기존 GPU 기반 AI 서비스에 더해 NPU 기반 연산 자원까지 제공 범위를 확대함으로써 고객의 AI 인프라 선택권을 넓히고 국산 AI 반도체 생태계 확산에도 기여할 것으로 기대하고 있다. 이호준 삼성SDS...",
-          "pubDate": "Mon, 20 Jul 2026 08:54:00 +0900"
+          "title": "[박정식의 국내 주식시황] 추가 조정이냐 기술적 반등이냐…오늘 증시 ...",
+          "source": "newsquest.co.kr",
+          "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=270057",
+          "description": "(NXT) 애프터마켓에서는 삼성전자와 SK하이닉스가 낙폭을 축소한 영향으로 대덕, 유진테크, SK스퀘어, 켐트로닉스, 가온칩스, 한미반도체, 코미코, 케이씨텍, 코리아써키트, 삼성전기 등 관련주와 반도체 관련주가 상승했다.",
+          "pubDate": "Tue, 21 Jul 2026 08:50:00 +0900"
         },
         {
-          "title": "\"기회는 지금\"…취준생 마음 흔든 SK하이닉스, 공고 검색량 180% 급증",
-          "source": "magazine.hankyung.com",
-          "url": "https://magazine.hankyung.com/business/article/202607203494b",
-          "description": "SK하이닉스는 최근 신입 수시채용을 진행하며 학력 제한 철폐라는 파격적인 카드를 꺼내 들었고, 삼성전자 역시 반도체 부문에서 82개 직무에 달하는 대규모 인재 확보에 나섰다. 글로벌 기업들의 국내 채용 또한...",
-          "pubDate": "Mon, 20 Jul 2026 08:53:00 +0900"
+          "title": "AI·반도체 호재 품은 '호반써밋 첨단3지구' 오늘(21일) 무순위 청약",
+          "source": "ikld.kr",
+          "url": "http://www.ikld.kr/news/articleView.html?idxno=337832",
+          "description": "호반써밋 첨단3지구는 국가 AI데이터센터를 비롯한 AI 산업 인프라와 함께 삼성전자·SK하이닉스의 총 896조원 규모 투자 계획에 따른 반도체 클러스터 개발의 수혜 단지로 주목받고 있다. 첨단3지구는 AI 산업과...",
+          "pubDate": "Tue, 21 Jul 2026 08:48:00 +0900"
         }
       ]
     }

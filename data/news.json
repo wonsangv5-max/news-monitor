@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-07-24T00:02:13.228Z",
+  "updatedAt": "2026-07-25T00:05:32.626Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "7월 24일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. view.asiae.co.kr, nocutnews.co.kr, cstimes.com 등에서 보도되었으며, 한국, 유지, 원화 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 25일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. newsis.com, news.einfomax.co.kr, g-enews.com 등에서 보도되었으며, 달러, 10, 12 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "美, 환율조작국 지정 안 해…한국 등 10개국 관찰대상 유지",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026072408433490092",
-          "description": "미국은 주요 교역국을 대상으로 대미 무역흑자와 경상수지 흑자, 지속적이고 일방적인 외환시장 개입 여부를 평가한다. 3개 기준 가운데 2개를 충족하면 관찰대상국으로 분류한다. 모두 충족하면 환율정책 심층분석...",
-          "pubDate": "Fri, 24 Jul 2026 09:00:00 +0900"
+          "title": "40년 만에 최저치 기록한 엔화, 원화도 안심할 수 없다?",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260724_0003722166",
+          "description": "반면에 국내 외환시장은 최근 비교적 안정적인 흐름을 나타냈다. 원달러 환율은 1560원대까지 올랐다가 1460원대로 내려온 상태다. 환율 하락을 이끈 건 SK하이닉스 ADR 발행이다. 이를 통해 조달한 260억달러(약...",
+          "pubDate": "Sat, 25 Jul 2026 08:59:00 +0900"
         },
         {
-          "title": "재경부 \"원화 약세는 韓경제 펀더멘털과 괴리…美 인식 재확인\"",
-          "source": "nocutnews.co.kr",
-          "url": "https://www.nocutnews.co.kr/news/6552700?utm_source=naver&utm_medium=article&utm_campaign=20260724085506",
-          "description": "지목…외환시장 개방 노력은 긍정 평가 정부는 미국 재무부가 한국을 환율 관찰대상국으로 유지하면서도 최근 원화의 과도한 약세가 한국 경제의 강한 펀더멘털에 부합하지 않는다는 기존 인식을 재확인한 것으로...",
-          "pubDate": "Fri, 24 Jul 2026 08:56:00 +0900"
-        },
-        {
-          "title": "미 재무부, 한국 환율 관찰대상국 유지…원화 약세·경상흑자 주목",
-          "source": "cstimes.com",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=714506",
-          "description": "중장기적으로 외환시장의 유동성과 가격 발견 기능을 개선하는 데 도움이 될 것\"이라고 밝혔다. 환율 관찰대상국 지정은 미국이 주요 교역국의 환율정책을 점검하기 위한 제도로, 즉각적인 제재가 뒤따르는 것은 아니다....",
-          "pubDate": "Fri, 24 Jul 2026 08:56:00 +0900"
-        },
-        {
-          "title": "[정선미의 돈터치] 밀리초를 파는 시대…통방의 '3초'는 얼마짜리일까",
+          "title": "[외환] 매도로 기운 수급에 롱심리 꺾여…1,458.50원 하락 마감",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426605",
-          "description": "생중계가 끝나고 현장 브리핑을 마무리하려던 총재에게 환율·외환시장 관련 돌발 질문이 던져졌다. 총재는 \"오늘 외환 관련 질문이 많이 나오지 않아서\"라며 마이크를 다시 켰고, 생중계가 이미 끝난 상태에서 총재는 화면...",
-          "pubDate": "Fri, 24 Jul 2026 08:54:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426811",
+          "description": "25일 외환시장에서 달러-원 환율은 오전 6시 기준 전날 서울장 종가(1,466.60원) 대비 8.10원 내린 1,458.50원에 거래를 마쳤다. 24시간 전인 전날 오전 6시 뉴욕종가(1,474.20원)와 비교하면 15.70원 하락했다. 전날 오전...",
+          "pubDate": "Sat, 25 Jul 2026 08:46:00 +0900"
         },
         {
-          "title": "[대구창조경제혁신센터 2025년 민관협력 오픈이노베이션 지원사업] 온라...",
-          "source": "magazine.hankyung.com",
-          "url": "https://magazine.hankyung.com/job-joy/article/202607217921d",
-          "description": "구체적으로는, AI 기반 외환 자동 보고서 시스템, 환율 단기 예측 모델, 실시간 환율 정보, 외환시장 뉴스 및 시황 분석, 맞춤형 외환 리포트 등을 고도화하는 방향으로 협업을 진행했습니다. 이러한 성과를 바탕으로...",
-          "pubDate": "Fri, 24 Jul 2026 08:52:00 +0900"
+          "title": "[뉴욕마켓워치] 유가 하락에도 반도체는 '울상'…채권·달러↑주식 혼조",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426806",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 163.855엔으로, 전장 뉴욕장 마감 가격 163.824엔보다 0.031엔(0.019%) 상승했다. 미 재무부가 전날 일본은행(BOJ) 정책금리...",
+          "pubDate": "Sat, 25 Jul 2026 08:12:00 +0900"
+        },
+        {
+          "title": "[뉴욕환시] 달러 이틀째↑…이란은 무력으로, 유럽은 관세로 때리는 美",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426801",
+          "description": "달러인덱스 장중 흐름[출처: 연합인포맥스] 연합인포맥스(화면번호 6411)에 따르면 24일 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 163.855엔으로, 전장 뉴욕장 마감 가격 163.824엔보다 0.031엔(0....",
+          "pubDate": "Sat, 25 Jul 2026 07:54:00 +0900"
+        },
+        {
+          "title": "美, 60개 교역국 상대로 10~12.5% 관세 부과… 글로벌 공급망 재편",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202607250717287342bd56fbc3c_1",
+          "description": "금융시장과 외환 부문에서도 경계감이 고조되고 있다. 글로벌 무역 분쟁 격화로 안전자산 선호가 확산할 경우 원·달러 환율의 변동성이 확대될 수 있으며, 이는 수입 원자재 가격 상승으로 이어져 한국 기업의 제조 원가...",
+          "pubDate": "Sat, 25 Jul 2026 07:22:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "7월 24일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. g-enews.com, news.bbsi.co.kr, ebn.co.kr 등에서 보도되었으며, 뉴욕증시, 일제히, 하락 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 25일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. hansbiz.co.kr, bigtanews.co.kr, koreadaily.com 등에서 보도되었으며, 급락, 58, 외국인 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "美 국채 10년물 4.711%…18개월 만에 최고",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=2026072408441832389a1f309431_1",
-          "description": "미국 국채가 다른 채권과 대출금리의 기준으로 활용되는 만큼 기업과 소비자의 차입 비용도 함께 상승한다. 현재까지 금리 상승이 경제성장을 심각하게 위협하는 수준은 아니라는 평가가 나온다. 대형 기술기업들은...",
-          "pubDate": "Fri, 24 Jul 2026 08:48:00 +0900"
+          "title": "외국인 2.6조 투매…삼전·하이닉스 급락",
+          "source": "hansbiz.co.kr",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852381",
+          "description": "원·달러 환율과 채권금리 변동성이 확대된 점도 외국인의 국내 주식 매도를 자극한 것으로 보인다. 글로벌 투자자들이 위험자산 비중을 줄이는 과정에서 최근 상승 폭이 컸던 국내 대형 반도체주를 우선적으로...",
+          "pubDate": "Sat, 25 Jul 2026 09:00:00 +0900"
         },
         {
-          "title": "미국 뉴욕증시 일제히 하락, 나스닥 2.2%↓...중동 긴장·고유가 영향",
-          "source": "news.bbsi.co.kr",
-          "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4096782",
-          "description": "유가 상승이 인플레이션 우려를 자극하면서 미 채권 금리도 상승했습니다. 10년 만기 미 국채 금리는 전장 대비 4bp 오른 4.70%를 나타냈습니다. 미 국채 10년물 금리가 4.7%를 돌파한 것은 지난해 1월 이후 1년 6개월...",
-          "pubDate": "Fri, 24 Jul 2026 08:42:00 +0900"
+          "title": "[데일리 머니마켓] 중, 미-이란 중재…유가 급락",
+          "source": "bigtanews.co.kr",
+          "url": "https://www.bigtanews.co.kr/article/view/big202607250002",
+          "description": "◆채권시장 미국 국채 금리는 소폭 하락했지만 여전히 높은 수준이다. 미국 10년물 국채금리는 전 거래일 대비 전일 약 4.71%에서 3bp가량 하락한 4.679%였다. 30년물 금리는 장중 5.201%까지 올라 2007년 이후 약...",
+          "pubDate": "Sat, 25 Jul 2026 08:30:00 +0900"
         },
         {
-          "title": "[원자재 시황] 중동 리스크 확산에 자산시장 급락",
-          "source": "ebn.co.kr",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717599",
-          "description": "짐 윅코프 아메리칸골드익스체인지 시장 분석가는 \"유가 상승은 중앙은행들이 기준금리 인하를 미루게 만들 수 ��다는 의미\"라며 \"채권금리 상승은 금과 은의 롱포지션 투자자들에게 부담으로 작용한다\"고 설명했다....",
-          "pubDate": "Fri, 24 Jul 2026 08:36:00 +0900"
+          "title": "30년 모기지 6.58%…11개월내 최고",
+          "source": "koreadaily.com",
+          "url": "https://www.koreadaily.com/article/20260724133104023",
+          "description": "다만 연준이 모기지 금리를 직접 결정하는 것은 아니며, 기준금리 정책이 채권시장에 영향을 미치면서 결과적으로 모기지 금리에도 반영된다. 모기지 ��리는 올해 2월 말 한때 6% 아래로 내려갔지만 이후 다시...",
+          "pubDate": "Sat, 25 Jul 2026 05:32:00 +0900"
         },
         {
-          "title": "[국제금융 브리핑] 트럼프 대이란 작전 재개 검토...브렌트유 100.69달러...",
+          "title": "농협금융, 상반기 당기순이익 1조 7791억원… 전년 동기 대비 9.2% 증가",
+          "source": "weeklytrade.co.kr",
+          "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=6&item=&no=100750",
+          "description": "시장금리 상승에 따른 채권 평가손실 부담에도 불구하고 전략적 운용을 통해 유가증권·외환 부문 수익도 9573억원으로 0.6% 늘었다.농협금융은 지난 6월 약 1조 2천억원 규모의 유상증자를 단행했다. 농협중앙회의...",
+          "pubDate": "Sat, 25 Jul 2026 02:16:00 +0900"
+        },
+        {
+          "title": "정부, 3분기 공적채권 67조원 발행 결정…시장 충격 최소화 전략",
           "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/economy/380748",
-          "description": "이 영향은 유럽 채권금리와 주식시장에도 반영됐다. 원유 공급 측면에서는 8월 2일 회의를 앞두고 OPEC+가 9월에도 기존과 같은 일일 18만8000배럴 증산에 합의할 것으로 예상됐다. 다만 중동전쟁 영향 등으로 일부...",
-          "pubDate": "Fri, 24 Jul 2026 08:32:00 +0900"
-        },
-        {
-          "title": "뉴욕증시, 유가 급등·AI 투자 부담에 일제히 하락…나스닥 2.2%↓",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202607240010",
-          "description": "유가 상승은 인플레이션 우려로 번져 채권 금리를 밀어 올렸다. 10년 만기 미 국채 금리는 전장 대비 4bp(1bp=0.01%포인트) 오른 4.70%를 나타냈다. 4.7% 돌파는 지난해 1월 이후 1년 6개월 만이다. 연방준비제도(Fed·연준)...",
-          "pubDate": "Fri, 24 Jul 2026 08:30:00 +0900"
+          "url": "https://www.tokenpost.kr/news/economy/381117",
+          "description": "금리가 높으면 채권을 발행하는 기관은 더 많은 이자를 부담해야 해 조달 비용이 커지고, 한꺼번에 물량이 몰리면 시장이 이를 소화하는 데 부담이 생길 수 있다. 이런 점을 고려해 정부와 발행기관은 3분기 국고채와...",
+          "pubDate": "Sat, 25 Jul 2026 01:28:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "7월 24일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. biz.sbs.co.kr, ekn.kr, ftoday.co.kr 등에서 보도되었으며, 금리, 70, 보험사도 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 25일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. biz.sbs.co.kr, ekn.kr, ftoday.co.kr 등에서 보도되었으며, 금리, 70, 보험사도 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "보험사도 대출 조이기…주담대 금리 8% 육박",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "7월 24일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. bizwork.co.kr, etoday.co.kr, megaeconomy.co.kr 등에서 보도되었으며, 반도체, 직주근접, 다세권 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "7월 25일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. thepublic.kr, chosun.com, news.einfomax.co.kr 등에서 보도되었으며, AI, 대통령, 머스크 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "직주근접·다세권…'용인반도체클러스터 동일하이빌 파크밸리' 8월 분양",
-          "source": "bizwork.co.kr",
-          "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=417559",
-          "description": "용인에서는 삼성전자와 SK하이닉스를 중심으로 반도체산업 생태계가 확대되면서 배후주거 수요에 대한 기대도 커지고 있다. 동일토건은 오는 8월 용인시 처인구에서 '용인반도체클러스터 동일하이빌 파크밸리'를...",
-          "pubDate": "Fri, 24 Jul 2026 09:00:00 +0900"
+          "title": "머스크 \"AI5 내년 중반 대량생산\"…삼성전자 파운드리 반등 카드 되나",
+          "source": "thepublic.kr",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=312527",
+          "description": "미국 전기차 기업 테슬라가 2분기 시장 기대치를 밑도는 실적을 내놓았으나, 차세대 인공지능(AI) 반도체 'AI5'의 내년 중반 대량생산 계획을 공식화하면서 삼성전자 파운드리(반도체 위탁생산) 사업부의 수혜...",
+          "pubDate": "Sat, 25 Jul 2026 09:02:00 +0900"
         },
         {
-          "title": "김성환 \"서남권 반도체 클러스터 용수·전력 공급 가능…29년 말까지 준...",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2606964",
-          "description": "이투데이=세종=곽도흔 기자 | \"반도체 팹 4개 운영에 필요한 용수 65만톤·전력 6.3GW 확보 가능\" \"원전... 최소한 삼성전자와 SK하이닉스가 각각 1개 팹씩은 가동할 수 있도록 준비할 계획\"이라고 설명했다. 그는 삼성전자와...",
-          "pubDate": "Fri, 24 Jul 2026 09:00:00 +0900"
+          "title": "‘세계의 공장’ 중국, 이제 ‘지능’도 수출…AI 모델 세계 시장으로",
+          "source": "chosun.com",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/25/TA532LZ77FAIPLESLV5S5VZXKQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "description": "7배 늘어 전체의 73% 광모듈 양강 매출 90% 이상 해외서 물류로봇도 북미·유럽 공략 중국 기업들이 반도체... 증가는 삼성전자와 SK하이닉스의 HBM, 서버용 D램, 기업용 SSD 수요를 늘리는 요인이 될 수 있다”고 했다.",
+          "pubDate": "Sat, 25 Jul 2026 09:01:00 +0900"
         },
         {
-          "title": "신한자산운용 ‘SOL 금융지주플러스고배당 ETF’ 눈길…실적·고배당·금...",
-          "source": "megaeconomy.co.kr",
-          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570863887488",
-          "description": "같은 기간 삼���전자, SK하이닉스 등 반도체 대형주의 급락으로 코스피 지수가 -13.49% 하락한 점을 감안하면 시장 수익률을 20%포인트 이상 웃도는 성과다. 금융지주 주가의 고공행진을 뒷받침하는 첫 번째 요인은...",
-          "pubDate": "Fri, 24 Jul 2026 09:00:00 +0900"
+          "title": "李대통령 \"AI 생태계 조성 역할 기대\"…혹 탄 CEO \"소버린 AI 기여\"",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426813",
+          "description": "혹 탄 CEO는 삼성전자·SK하이닉스와의 고대역폭메모리(HBM) 협력과 국내 AI 스타트업을 위한 맞춤형 반도체 개발 계획을 소개하며 한국의 '소버린 AI' 구축에 기여하겠다고 화답했다. 이 대통령은 24일(현지시간) 미국...",
+          "pubDate": "Sat, 25 Jul 2026 09:00:00 +0900"
         },
         {
-          "title": "수원 이목지구, 반도체 벨트 품는다",
-          "source": "finomy.com",
-          "url": "http://www.finomy.com/news/articleView.html?idxno=257905",
-          "description": "수원은 삼성전자와 SK하이닉스 등 반도체 대기업의 생산·연구 시설이 밀집한 경기 남부 산업벨트의 핵심 거점 중 하나다. 관련 인재 양성을 위한 교육 인프라도 함께 확충되고 있어, 산업 종사자들의 배후 주거지로서...",
-          "pubDate": "Fri, 24 Jul 2026 09:00:00 +0900"
+          "title": "\"60만전자·420만닉스 간다\"…증권가 \"지금 매수 기회\"라는 이유",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260724_0003722203",
+          "description": "알파벳(구글)의 호실적 호재에도 유가·금리 부담과 낸드플래시 가격 둔화 우려로 반도체 '투톱' 삼성전자와 SK하이닉스가 급락했다. 그러나 증권가에서는 \"지나치게 과도한 조정이며 지금이 강력한 저점 매수 기회...",
+          "pubDate": "Sat, 25 Jul 2026 09:00:00 +0900"
         },
         {
-          "title": "코스피 반등은 탈출 기회?…개인들 사흘간 6.8조 '팔자'",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202607240854406424153ddfb15a_1",
-          "description": "개인들의 순매도 상위 종목은 국내 대표 반도체주에 집중됐다. 삼성전자가 2조1573억원으로 가장 많았고, SK하이닉스가 1조8059억원으로 뒤를 이었다. 이어 삼성전자우, SK이터닉스, 삼성전기 등이 개인 투자자들의 주요...",
-          "pubDate": "Fri, 24 Jul 2026 08:58:00 +0900"
+          "title": "이 대통령, 'AI 대체불가국' 승부수",
+          "source": "hansbiz.co.kr",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852387",
+          "description": "삼성전자와 SK는 AI 반도체와 고대역폭메모리(HBM), 데이터센터 인프라 분야에서 글로벌 기업과 협력을 확대할 것으로 예상된다. 현대차그룹은 자율주행과 로봇 등 피지컬 AI를, 네이버는 AI 모델과 클라우드·플랫폼...",
+          "pubDate": "Sat, 25 Jul 2026 09:00:00 +0900"
         }
       ]
     }

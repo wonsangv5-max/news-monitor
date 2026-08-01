@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-07-31T00:03:43.908Z",
+  "updatedAt": "2026-08-01T00:03:00.844Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "7월 31일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, news1.kr, opinionnews.co.kr 등에서 보도되었으며, 급등, 12, 16 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 1일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. digitaltoday.co.kr, news.einfomax.co.kr, wolyo.co.kr 등에서 보도되었으며, 달러, 엔화, 장중 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "한일, 사상 최초 '동시 개입' 나섰다…엔·원 한꺼번에 급등",
+          "title": "일본은행, 기준금리 1.0% 동결…엔화 장중 3.5% 급반등",
+          "source": "digitaltoday.co.kr",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689036",
+          "description": "금리 결정 직전 외환시장 변동성도 커졌다. 트레이딩뷰 기준 엔화는 30일 달러 대비 최대 3.5% 올랐다. 일본은행은 최근 환율 움직임에 공식 입장을 내놓지 않았지만, 시장에서는 중앙은행 개입에 따른 반등으로 해석하고...",
+          "pubDate": "Sat, 01 Aug 2026 08:52:00 +0900"
+        },
+        {
+          "title": "[뉴욕마켓워치] 주식 좋았는데 '이란 주말 폭격설' 부상…채권↓달러 보...",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427951",
-          "description": "31일 외환시장에 따르면 전일 밤 달러-엔과 달러-원 환율은 비슷한 시점부터 가파르게 하락했다. 오후 10시 30분께 162엔대였던 달러-엔은 급격히 하락하기 시작해 뉴욕 오전 장에서 157엔 아래로 밀렸다. 니혼게이자이신문은...",
-          "pubDate": "Fri, 31 Jul 2026 09:00:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428151",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 159.180엔으로, 전장 뉴욕장 마감가 159.347엔 대비 0.167엔(0.105%) 하락했다. 달러-엔은 뉴욕 오전 장 초반 160엔...",
+          "pubDate": "Sat, 01 Aug 2026 08:46:00 +0900"
         },
         {
-          "title": "달러당 163엔→157엔…日기습개입에 美도 '레이트 체크' 공조",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/world/usa-canada/6244889",
-          "description": "'레이트 체크(Rate Check)'는 중앙은행이 시장 참가자들에게 현재 환율을 묻는 행위로, 실제 외환시장에 개입하기 직전에 수행하는 '최후통첩' 성격의 경고이다. 앞서 엔화는 지난 21일 약 40년 만에 1달러=163엔대까지...",
-          "pubDate": "Fri, 31 Jul 2026 08:50:00 +0900"
+          "title": "원·달러 환율 1440원대 안착...달러 약세·공급 확대 영향",
+          "source": "wolyo.co.kr",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315877",
+          "description": "달러 강세가 다소 약해진 데다 국내 외환시장에 달러 공급이 늘면서 환율이 안정세를 보이는 것으로 풀이된다. 1일 서울 외환시장에 따르면 주간 거래 종가 기준 7월 다섯째주 평균 원·달러 환율은 1447.8원을...",
+          "pubDate": "Sat, 01 Aug 2026 08:16:00 +0900"
         },
         {
-          "title": "NDF, 1,423.60/ 1,424.00원…12.90원↓",
+          "title": "[뉴욕환시] 달러 보합…엔화, '미국의 개입' 경계감에 장중 강세 전환",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427945",
-          "description": "70원)를 고려하면 전장 서울외환시장 현물환 종가(1,437.40원) 대비 12.90원 내린 셈이다. 매수 호가(BID)는 1,423.60원, 매도 호가(ASK)는 1,424.00원이었다. 간밤 달러화 가치는 엔화 초강세에 급락했다. 달러-엔 환율은...",
-          "pubDate": "Fri, 31 Jul 2026 08:42:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428141",
+          "description": "연합인포맥스(화면번호 6411)에 따르면 31일 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.180엔으로, 전장 뉴욕장 마감가 159.347엔 대비 0.167엔(0.105%) 하락했다. 달러-엔은 뉴욕 오전 장 초반...",
+          "pubDate": "Sat, 01 Aug 2026 07:52:00 +0900"
         },
         {
-          "title": "[뉴욕마켓워치] '구원의 손길' 마이크로소프트 16% 급등…주식↑달러↓...",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427944",
-          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 159.347엔으로, 전장 뉴욕장 마감가 163.513엔 대비 4.166엔(2.548%) 급락했다. 달러-엔은 뉴욕 오전 장 초반 163엔...",
-          "pubDate": "Fri, 31 Jul 2026 08:40:00 +0900"
-        },
-        {
-          "title": "[증시 포인트] 美 반도체주 급등 속 상승 출발 전망",
-          "source": "opinionnews.co.kr",
-          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=142339",
-          "description": "전일 뉴욕 외환시장에서 일본과 미국 정부가 외환시장 개입 행동에 동시에 나선 것으로 전해지는 가운데, 엔·달러 환율이 급락한 바 있다. 현재 시장에서는 기준금리인 정책 금리를 기존 '1.0% 정도' 수준으로 유지할...",
-          "pubDate": "Fri, 31 Jul 2026 08:34:00 +0900"
+          "title": "숨 고르는 원·달러 환율…추세적 안정 여부는 불투명",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260731_0003731954",
+          "description": "국내 외환시장에 달러 공급 기대감이 커지고 있는 상황도 환율을 끌어내리는 데 일조했다. SK하이닉스가 미국주식예탁증서(ADR) 상장으로 조달한 256억 달러가 국내에 들���오며 시장 심리 변화를 주도했다는 분석이다....",
+          "pubDate": "Sat, 01 Aug 2026 07:00:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "7월 31일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. popcornnews.net, cstimes.com, tokenpost.kr 등에서 보도되었으며, 9300, 삼성증권, 상반기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 1일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. g-enews.com, mediapen.com, tokenpost.kr 등에서 보도되었으며, 연준, 채권, 상승 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성증권, 상반기 순익 1조 넘본다…브로커리지·WM '쌍끌이'",
-          "source": "popcornnews.net",
-          "url": "http://www.popcornnews.net/news/articleView.html?idxno=128269",
-          "description": "시장금리 상승으로 보유 채권의 평가손실 부담이 커졌지만, 채권 듀레이션을 보수적으로 관리하고 ETF 유동성공급자(LP) 등 주식시장 관련 운용에서 수익을 거두면서 이를 보완했을 것으로 봤다. 김현수 상상인증권...",
-          "pubDate": "Fri, 31 Jul 2026 09:00:00 +0900"
+          "title": "워시 연준 의장, '채권 발작'에 트럼프와 매파 위원 사이 '외줄타기'",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202608010622473255e250e8e188_1",
+          "description": "케빈 워시 미국 연방준비제도(Fed·연준) 의장이 지난 29일(현지시각) 금리 인상 가능성을 열어두지 않은 채 인플레이션을 잡겠다고 공언하자 채권시장에서 급격한 매도세가 촉발됐다고 로이터 통신이 31일 보도했다. 이...",
+          "pubDate": "Sat, 01 Aug 2026 06:28:00 +0900"
         },
         {
-          "title": "FOMC, '매파' 기조 강화…한은, 연내 추가 금리 인상하나",
-          "source": "cstimes.com",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=715301",
-          "description": "최근 국내 증시 조정과 글로벌 금융시장 변동성이 확대된 데다 미국 장기금리 상승이 국내 채권시장으로 확산되면서 금융시장 불안이 커지고 있기 때문이다. 한은은 FOMC 직후 금융·외환시장 점검회의를 열고 미국...",
-          "pubDate": "Fri, 31 Jul 2026 08:46:00 +0900"
+          "title": "녹색채권 성장에도 비용 유인 '제한적'…한은 \"절차 간소화해야\"",
+          "source": "mediapen.com",
+          "url": "https://www.mediapen.com/news/view/1113692",
+          "description": "반면 일반채권보다 낮은 금리로 발행되는 '그리니엄(Greenium)' 효과가 일부 존재하고 정부의 이차보전 지원도 이뤄지고 있지만, 이를 감안해도 발행비용 측면에서 일반채권과의 차별성이 크지 않은 것으로 분석됐다....",
+          "pubDate": "Sat, 01 Aug 2026 06:26:00 +0900"
         },
         {
-          "title": "[국제금융 브리핑] 나스닥 2.8% 급반등...미국 2분기 GDP 1.5%에도 소비·...",
+          "title": "비트코인, 7월 7.5% 상승 마감 유력…악재 속 방어력 부각",
           "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/economy/383084",
-          "description": "독일 10년물 국채금리는 미국 채권시장 영향 등으로 1bp 하락한 3.16%를 기록했다. 일본 10��물 국채금리는 2.81%로 5bp 상승했고, 한국 CDS는 24bp로 변동이 없었다. 원자재시장에서는 브렌트유가 89.03달러로 1.88% 하락했다....",
-          "pubDate": "Fri, 31 Jul 2026 08:32:00 +0900"
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/383464",
+          "description": "그러나 월간 기준으로는 약 7.5% 상승을 기록할 것으로 보여, 금리 인상 우려와 채권금리 상승, 기술주 조정 등 여러 거시 변수 속에서도 비교적 안정적인 흐름을 이어갔다. 최근 몇 주간 시장은 연방준비제도(Fed)의...",
+          "pubDate": "Sat, 01 Aug 2026 06:00:00 +0900"
         },
         {
-          "title": "\"최악 지났다, 9300 간다\"...대폭락 코스피 '5700선이 터닝포인트' 찍은...",
-          "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202607310735451971",
-          "description": "여기에 도널드 트럼프 미국 대통령과 이란의 갈등까지 완화 국면으로 접어들 경우 유가와 물가, 채권금리가 잇따라 안정되면서 하이퍼스케일러들의 투자 부담도 덜어질 수 있다고 전망했다. \"레버리지 청상규모...",
-          "pubDate": "Fri, 31 Jul 2026 08:31:00 +0900"
+          "title": "외국인 매수세에 국고채 금리 일제히 하락, 시장 기대치 상승",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/economy/383406",
+          "description": "채권 금리가 내렸다는 것은 그만큼 채권 가격이 올랐다는 뜻이다. 이날 시장 강세의 직접적인 배경은 해외 금리 흐름과 외국인 수급이었다. 미국 연방공개시장위원회(FOMC) 결과를 반영하며 한 차례 올랐던 미국...",
+          "pubDate": "Sat, 01 Aug 2026 00:08:00 +0900"
         },
         {
-          "title": "석유 공급 충격이 깨운 전기차 시장 [ESG 뉴스 5]",
-          "source": "magazine.hankyung.com",
-          "url": "https://magazine.hankyung.com/business/article/202607317026b",
-          "description": "보고서에 따르면 녹색채권이 일반채권보다 낮은 금리로 발행되는 ‘그리니엄’과 정부의 이차보전으로 절감되는 비용은 6~9bp에 그쳤다. 내부 행정·관리 부담까지 고려하면 기업이 체감하는 비용은 오히려 더 클 수...",
-          "pubDate": "Fri, 31 Jul 2026 08:29:00 +0900"
+          "title": "금리 동결에도 채권 투매...美 연준 신뢰 흔들리나",
+          "source": "coinreaders.com",
+          "url": "http://coinreaders.com/250638",
+          "description": "시장은 연준이 금리를 올리지 않았지만 장기물 국채금리가 급등한 흐름에 주목했다. 채권 투자자들이 연준의 대응만으로는 장기 인플레이션을 억제하기 어렵다고 판단하면서 더 높은 수익률을 요구한 것으로...",
+          "pubDate": "Sat, 01 Aug 2026 00:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "7월 31일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. greened.kr, fins.co.kr, globalepic.co.kr 등에서 보도되었으며, KDB생명, NH농협생명, 탄탄해진 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 1일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. greened.kr, fins.co.kr, globalepic.co.kr 등에서 보도되었으며, KDB생명, NH농협생명, 탄탄해진 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "NH농협생명, 더 탄탄해진 미래 이익 창출력... 올해 신계약 CSM '껑충'",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "7월 31일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. ikld.kr, news.sbs.co.kr, newsis.com 등에서 보도되었으며, 삼성전자, 천안, 온양 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 1일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. ddaily.co.kr, seoulfn.com, weekly.hankooki.com 등에서 보도되었으며, 베일벗은, 2분기, 빅테크 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전자 천안·온양 56조원 HBM 투자… 역세권·셔세권 갖춘 '천안 두정...",
-          "source": "ikld.kr",
-          "url": "http://www.ikld.kr/news/articleView.html?idxno=338292",
-          "description": "특히 두정역은 삼성전자, 삼성디스플레이, 삼성SDI를 비롯한 반도체·디스플레이 기업들의 통근버스 이용이 활발한 출퇴근 거점으로, 직주근접 프리미엄을 갖춘 입지로 평가받는다. 산업시설과의 접근성뿐 아니라...",
-          "pubDate": "Fri, 31 Jul 2026 09:02:00 +0900"
+          "title": "베일벗은 2분기 美 빅테크 'AI 성적표'…세계 증시가 주목하는 숫자들 ...",
+          "source": "ddaily.co.kr",
+          "url": "https://www.ddaily.co.kr/page/view/2026073117552864533",
+          "description": "미국 뉴욕 증시를 비롯해 국내 증시를 좌우하는 시총 1, 2위 삼성전자와 SK하이닉스의 주가와도... AI 인프라와 자체 반도체가 실제 매출원으로 자리 잡은 셈이다. 투자금 회수에 필요한 수요도 확보했다....",
+          "pubDate": "Sat, 01 Aug 2026 09:01:00 +0900"
         },
         {
-          "title": "하이닉스 60조·삼성전자 89조 넘게 벌었는데…주가는 왜? [스프]",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008682742&plink=ORI&cooper=NAVER",
-          "description": "⚡ 스프 핵심요약 삼성전자와 SK하이닉스가 사상 최대 실적을 기록하고도 주가가 급락하는 현상은 반도체 기업에 편중된 국내 증시 구조와 단일 종목 레버리지 ETF로 인한 기계적 매도 압력 때문으로 해석할 수...",
-          "pubDate": "Fri, 31 Jul 2026 09:01:00 +0900"
+          "title": "[데스크 칼럼] 삼전닉스 '최대실적의 역설'이 주는 교훈",
+          "source": "seoulfn.com",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=634534",
+          "description": "인공지능(AI) 시대의 개막과 함께 고대역폭메모리(HBM)를 비롯한 첨단 반도체 수요가 폭발했고, 한국 반도체 산업은 다시 한번 세계의 중심에 섰다. 삼성전자는 올해 2분기 매출 171조원, 영업이익 89조4000억원이라는 기록적인...",
+          "pubDate": "Sat, 01 Aug 2026 09:00:00 +0900"
         },
         {
-          "title": "한국투자證 \"삼성전자, 목표가 65만원으로 상향…여전히 저평가\"",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260731_0003730978",
-          "description": "삼성전자 2분기 매출은 171조4995억원, 영업이익은 89조4924억원으로, 영업이익은 컨센서스 84조8000억원을 5.5% 상회했다. 메모리 영업이익 91조5000억원을 포함한 반도체 부문의 영업이익은 89조2000억원으로, 전사...",
-          "pubDate": "Fri, 31 Jul 2026 09:01:00 +0900"
+          "title": "반도체 실적↑...코스피 '역대급 저평가' 탈출하나",
+          "source": "weekly.hankooki.com",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7176885",
+          "description": "삼성전자는 콘퍼런스콜에서 2028년까지의 메모리 반도체 공급 부족 전망과 함께 가격·비트 출하량 동반 증가, 내년까지 수급 격차 확대 주주 환원 강화 방침을 제시했고, 시장은 이를 긍정적으로 받아들이며 이날...",
+          "pubDate": "Sat, 01 Aug 2026 09:00:00 +0900"
         },
         {
-          "title": "사람 죽이는 폭염…'냉각 기술'에 뭉칫돈 몰린다",
-          "source": "mt.co.kr",
-          "url": "https://www.mt.co.kr/future/2026/07/31/2026071617193725883",
-          "description": "이스라엘 스타트업 '주타코어(ZutaCore)'는 AI 반도체 표면에 비전도성 특수 액체를 직접 흘려 끓여 열을 뽑아내는 기술로 지난달 1억달러(약 1500억원) 규모의 시리즈C 투자를 유치했다. 삼성그룹의 기업형 벤처캐피털(CVC)인...",
-          "pubDate": "Fri, 31 Jul 2026 09:00:00 +0900"
+          "title": "[이 주의 전자수첩] 삼성·애플, 결국 메모리 값 영향 받았다",
+          "source": "the-biz.co.kr",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=725442",
+          "description": "스마트폰시장의 양대산맥을 이루는 삼성전자와 애플이 나란히 실적을 발표했다. 메모리 값 폭등이라는... 한편 애플은 미국 정부를 상대로 중국 메모리 반도체 기업 창신메모리테크놀로지(CXMT)의 제품을 사용할 수...",
+          "pubDate": "Sat, 01 Aug 2026 09:00:00 +0900"
         },
         {
-          "title": "‘용인 고림 동문 디 이스트’, 합리적 분양가에 중도금 무이자 혜택",
-          "source": "geconomy.co.kr",
-          "url": "https://www.geconomy.co.kr/news/article.html?no=322350",
-          "description": "한국토지주택공사(LH)는 삼성전자 첨단 시스템반도체 국가산업단지 내 팹 1호기 가동 시기를 앞당기기 위해 부지 조성공사 1공구를 우선 발주하는 등 기반시설 조성을 서두르고 있다. 이처럼 정부와 기업이 반도체...",
-          "pubDate": "Fri, 31 Jul 2026 09:00:00 +0900"
+          "title": "[IPO챗] 8월 첫주 공모주 청약 2곳, 수요예측 4곳",
+          "source": "yna.co.kr",
+          "url": "https://www.yna.co.kr/view/AKR20260731159800008?input=1195m",
+          "description": "공모 희망가는 3만~4만1천200원이며, 대표주관사는 삼성증권이다. 해치텍도 3~7일 기관 수요예측을 진행한다. 해치텍은 반도체 및 디스플레이 공정용 소재 기업이다. 해치텍의 희망 공모 밴드는 2만3천~2만8천원이��....",
+          "pubDate": "Sat, 01 Aug 2026 09:00:00 +0900"
         }
       ]
     }

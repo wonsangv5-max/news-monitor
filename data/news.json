@@ -1,92 +1,99 @@
 {
-  "updatedAt": "2026-08-02T23:59:52.720Z",
+  "updatedAt": "2026-08-04T00:10:28.324Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "8월 3일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. youthdaily.co.kr, news.sbs.co.kr, raonnews.com 등에서 보도되었으며, 개입, 엔화, 확인 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 4일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. yonhapnewstv.co.kr, news1.kr, g-enews.com 등에서 보도되었으며, 코스피, 엔화, 47 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "트럼프 \"엔화 방어 위해 美도 시장 개입\"...미·일 외환 공조 공식 확인",
-          "source": "youthdaily.co.kr",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=224320",
-          "description": "레이트 체크는 외환시장 개입에 앞서 주요 금융기관을 상대로 환율과 거래 상황 등을 점검하는 절차로, 통상 시장 개입의 전조로 받아들여진다. 닛케이는 미국과 일본 통화당국이 동시에 외환시장 안정에 나선 것은...",
-          "pubDate": "Mon, 03 Aug 2026 08:56:00 +0900"
-        },
-        {
-          "title": "일, 미국과 '엔화 매수' 공동 개입 공식 확인…\"추가 개입 주저 안 해\"",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008687045&plink=ORI&cooper=NAVER",
-          "description": "이례적으로 외환 시장에 공동 개입한 것으로 전해졌습니다. 일본 정부와 일본은행은 엔화 매입에 나섰고... 방식으로 시장 개입을 실시한 것으로 알려졌습니다. 엔/달러 환율은 지난달 말 164엔에 육박하며 엔화 가치가 약...",
-          "pubDate": "Mon, 03 Aug 2026 08:56:00 +0900"
-        },
-        {
-          "title": "中 온건한 통화정책 유지...인민은행 내수 활성화에 방점",
-          "source": "raonnews.com",
-          "url": "https://www.raonnews.com/news/article.html?no=60000",
-          "description": "일본 엔화 가치 하락 등 ��로벌 외환시장의 변동성이 커지고 있다는 점을 감안, 통제 범위 내에서 위안화 환율을 관리하겠다는 뜻으로 풀이된다. 인민은행은 이와 함께 올 하반기 다자간 및 양자간 통화·금융 협력을...",
-          "pubDate": "Mon, 03 Aug 2026 08:56:00 +0900"
-        },
-        {
-          "title": "달러 매도 릴레이…환율 1400원 붕괴 가능성 제기",
-          "source": "cstimes.com",
-          "url": "https://www.cstimes.com/news/articleView.html?idxno=715462",
-          "description": "한·미·일 외환당국의 시장 안정 조치까지 겹치며 환율 하락세에 힘을 보탰다는 분석이다. 환율이 빠르게 떨어지자 개인들은 저가 매수에 나섰다. 지난달 5대 은행의 개인 달러 환전 규모는 2억8500만달러로...",
-          "pubDate": "Mon, 03 Aug 2026 08:52:00 +0900"
-        },
-        {
-          "title": "일 재무상 \"미국과 엔화 매수 공동 개입\" 확인",
+          "title": "코스피, 1.5% 상승 출발…코스닥도 1.47%↑",
           "source": "yonhapnewstv.co.kr",
-          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260803085159CCw",
-          "description": "일본 정부 관계자 등에 따르면 미일 당국은 엔화 약세를 시정하기 위해 이례적으로 외환 시장에 공동 개입한... 방식으로 시장 개입을 시행한 것으로 알려졌습니다. 엔/달러 환율은 지난달 말 164엔에 육박하며 엔화 가치가...",
-          "pubDate": "Mon, 03 Aug 2026 08:52:00 +0900"
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20260804090844Wur",
+          "description": "42에 거래되고 있습니다. 코스닥 지수도 전 거래일보다 1.47% 상승한 748.19에 장을 열었습니다. 한편 서울 외환시장에서 원·달러 환율은 1,430원대 초반에서 거래되고 있습니다. #코스피 #코스닥 #원달러환율",
+          "pubDate": "Tue, 04 Aug 2026 09:09:00 +0900"
+        },
+        {
+          "title": "코스피, 장초반 1.74% 상승한 6366.51…코스닥 3.49%↑(2보)",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/finance/market-exr/6248198",
+          "description": "51를 기록 하고 있다. 코스닥은 전일 대비 25.73포인트(p)(3.49%) 상승한 763.08를 기록 하고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 2.90원 오른 1432.70원을 기록했다.",
+          "pubDate": "Tue, 04 Aug 2026 09:07:00 +0900"
+        },
+        {
+          "title": "베선트, 연준에 엔화 방어 지원 확대 공개 촉구",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=20260804085248609a1f309431_1",
+          "description": "일본은 지난달 31일 외환시장에서 엔화를 매입한 사실을 확인했다. 가타야마 사쓰키 일본 재무상은 향후... 논란도 이어질 것으로 예상된다. #미국연방준비제도, #미일환율공조, #미국국채 김현철 글로벌이코노믹 기자",
+          "pubDate": "Tue, 04 Aug 2026 09:04:00 +0900"
+        },
+        {
+          "title": "[글로벌 마켓 리포트 8월 4일]",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260804000121",
+          "description": "스콧 베선트 미국 재무장관(왼쪽)과 가타야마 사츠키 일본 재무상 [사진=일본 재무성] 외환시장에서는... 엔/달러 환율은 달러당 157.05엔으로 전 거래일보다 0.18% 하락하며 엔화는 약 3개월 만에 가장 강한...",
+          "pubDate": "Tue, 04 Aug 2026 08:54:00 +0900"
+        },
+        {
+          "title": "트럼프 '우정' 내세웠지만…엔화 방어로 챙긴 '세 가지 국익' [최만수의...",
+          "source": "hankyung.com",
+          "url": "https://www.hankyung.com/article/202608043071i",
+          "description": "협조 외환시장 개입에 나섰다. 도널드 트럼프 미국 대통령은 3일 이를 ‘우정의 증표’라고 표현했지만, 그... 금융위기나 대규모 재해가 아닌 상황에서 양국이 공동으로 환율 방어에 나선 것은 극히 이례적이다. 이번...",
+          "pubDate": "Tue, 04 Aug 2026 08:47:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "8월 3일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, edaily.co.kr, hankookilbo.com 등에서 보도되었으며, 1만피, 연내, 포기한 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 4일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. asiatoday.co.kr, joseilbo.com, ajunews.com 등에서 보도되었으며, 환율, 달러, 하락 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "'연내 1만피 포기한 전망 나왔다'…대신證 9,300선으로 하향 조정",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428232",
-          "description": "채권금리 레벨업과 추가 금리 인상 가능성 등을 감안해 반도체 목표 주가수익비율(PER)을 8배에서 7배로 내렸다. 비반도체 목표 PER도 15배에서 11배로 낮춰 잡았다. 금리 변수 외에도 비반도체의 가파른 실적 전망...",
-          "pubDate": "Mon, 03 Aug 2026 08:52:00 +0900"
+          "title": "엔화 방어 넘어 '삼중 충격' 차단…미·일, 환율·미 국채·물가 동시 관...",
+          "source": "asiatoday.co.kr",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260804010000827",
+          "description": "일본의 금리 인상과 엔화 급등으로 투자자가 미국 국채와 주식을 한꺼번에 매각하면 채권 금리와 증시 변동성이 함께 높아질 수 있다. 2024년 8월 5일 엔 캐리 트레이드 청산 충격으로 닛케이지수는 하루 12%, 미국...",
+          "pubDate": "Tue, 04 Aug 2026 08:36:00 +0900"
         },
         {
-          "title": "1만피 간다더니…목표치 9300으로 내린 이유",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645543712",
-          "description": "채권금리 상승과 추가 금리 인상 가능성을 반영해 적정 밸류에이션(실적 대비 주가 수준)을 하향 조정한 결과다. 다만 최근 급락으로 국내 증시가 역사적 저평가 구간에 진입한 만큼 6000선에서는 비중을 확대할 것을...",
-          "pubDate": "Mon, 03 Aug 2026 08:33:00 +0900"
+          "title": "원·달러 환율, 1429.31원…추가 하락 제한 전망",
+          "source": "joseilbo.com",
+          "url": "http://www.joseilbo.com/news/news_read.php?uid=573185&class=18&grp=",
+          "description": "중동 지역 불안이 완화되며 유가가 하락하고 미국 채권금리도 하락한 영향이다. 엔화는 추가 강세를 보였다. 미국과 일본이 외환시장 동반 개입에 나선 가운데 일본 재무성이 필요시 추가 조치 가능성을 언급한...",
+          "pubDate": "Tue, 04 Aug 2026 08:02:00 +0900"
         },
         {
-          "title": "고환율 시대, 달러 ETF 투자법…'H' 하나가 수익률 가른다",
-          "source": "hankookilbo.com",
-          "url": "https://www.hankookilbo.com/news/article/A2026073113020004365?did=NA",
-          "description": "특히 향후 글로벌 금리가 내려 채권 가격이 상승하면 환율 하락의 영향을 줄이면서 채권 가격 상승에 따른 수익을 오롯이 누릴 수 있는 셈이죠. 여기서 핵심은 환율 방향을 맞히기 위한 무모한 베팅을 하자는 게...",
-          "pubDate": "Mon, 03 Aug 2026 08:00:00 +0900"
+          "title": "증시 흔들려도 달러 수급 개선…환율·채권금리 동반 하락",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260803150146250",
+          "description": "동시에 채권 금리는 빠르게 내려갔다. 금리 고점이라는 인식과 국제유가가 급락했고 주식시장 변동성이 확대되자 안전자산에 대한 수요가 나타난 것이다. 금융투자협회에 따르면 3년 만기 국고채 금리는 지난달 24일...",
+          "pubDate": "Tue, 04 Aug 2026 07:58:00 +0900"
         },
         {
-          "title": "[위기의 중소형사] [카카오페이증권] 야심찬 IB 출사표, 시장엔 '먹구름...",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/173978",
-          "description": "기준금리 인상은 채권 운용 수익과 평가손익 모두에 부정적 영향을 미칠 수 있어, 신규 진입사 입장에서는 수익성 확보가 더욱 어려울 것이라는 전망이다. ETF LP 업무를 둘러싼 규제 환경도 최근 강화되는 기조다....",
-          "pubDate": "Mon, 03 Aug 2026 07:36:00 +0900"
+          "title": "[넥스트-샷] \"월가 엄살 끝?\"···S&P 500 '사상 최고치' 코앞 팡파레",
+          "source": "womaneconomy.co.kr",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256884",
+          "description": "주요 지수 요약 다우존스30: 지정학적 리스크 소멸에 따른 유가 급락과 채권금리 하락 안도감에 전장 대비 693.38포인트(1.32%) 상승한 5만3178.41에 장을 마쳤습니다. S&P 500: 하이퍼스케일러 4사의 전방위 폭등과 85%에...",
+          "pubDate": "Tue, 04 Aug 2026 07:30:00 +0900"
         },
         {
-          "title": "워시의 모호한 신호에 미 국채 투매 우려…장기금리 더 오르나",
-          "source": "ebn.co.kr",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1718770",
-          "description": "워시 의장은 높은 채권금리가 금융 여건을 긴축해 연준의 역할 일부를 대신하고 있다고 주장했다. 연준이 선호하는 물가지표가 여전히 적절한 목표인지 의문을 제기하고 금리 외에도 물가를 억제할 수단이 있다는...",
-          "pubDate": "Mon, 03 Aug 2026 06:26:00 +0900"
+          "title": "[마켓 프리뷰] '일장춘몽' 코스피, 외인 대규모 매도에 또다시 급락",
+          "source": "biz.sbs.co.kr",
+          "url": "https://biz.sbs.co.kr/article_hub/20000326416?division=NAVER",
+          "description": "하향 - 높은 채권금리에 한은 금리 추가 인상 가능성 등 반영 - 목표치 낮추지만 전망 '맑음'…투자전략 '매수' 유지 - 외인 VS 개인 수급 공방 지속…8월 코스피 향방은? (자세한 내용은 동영상을 시청하시기 바랍니다.)",
+          "pubDate": "Tue, 04 Aug 2026 07:30:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "8월 3일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. topdaily.kr, greened.kr, mk.co.kr 등에서 보도되었으며, 보험사, CSM, KDB생명 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 4일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. srtimes.kr, topdaily.kr, greened.kr 등에서 보도되었으며, 한화생명, 보험사, 애큐온 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "한화생명 애큐온 인수 'SPC 카드' 만지작…애큐온저축은행 노조 반발",
+          "source": "srtimes.kr",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=208983",
+          "description": "한화생명의 지급여력(K-ICS·킥스) 비율은 2023년 말 183.8%에서 지난해 말 157.5%까지 하락했다가 올해 3월 말 162.1%로 소폭 회복했다. 한화생명은 지난달 30일 조회공시를 통해 \"현재까지 구체적으로 결정된 사항은 없다\"고...",
+          "pubDate": "Mon, 03 Aug 2026 17:32:00 +0900"
+        },
         {
           "title": "[보험사 M&A] [KDB생명] 삼성생명 우위 굳힐까...\"자본력·명분 모두 갖...",
           "source": "topdaily.kr",
@@ -98,14 +105,14 @@
           "title": "신한라이프, CSM 기준 생보 3위 안착...천상영 대표, 외형 확장 보다 내...",
           "source": "greened.kr",
           "url": "https://www.greened.kr/news/articleView.html?idxno=346608",
-          "description": "현재 신한라이프의 CSM 잔액 규모는 생명보험업계 내 삼성생명과 한화생명에 이은 3위 수준이다. 다만 올... 보험사 자본건전성 지표인 지급여력(K-ICS·킥스)비율 잠정치는 상반기 기준 212%로, 금융당국 권고치 130%를...",
+          "description": "현재 신한라이프의 CSM 잔액 규모는 생���보험업계 내 삼성생명과 한화생명에 이은 3위 수준이다. 다만 올... 보험사 자본건전성 지표인 지급여력(K-ICS·킥스)비율 잠정치는 상반기 기준 212%로, 금융당국 권고치 130%를...",
           "pubDate": "Mon, 03 Aug 2026 08:19:00 +0900"
         },
         {
           "title": "획일적인 보험사 자본규제 … 금융지주 주주환원 '발목'",
           "source": "mk.co.kr",
           "url": "https://www.mk.co.kr/article/12114599",
-          "description": "한화생명, 현대해상, 미래에셋생명, 한화손해보험 등�� 대표적이다. 금융지주의 주주환원에도 영향을 주고... 아울러 지급여력(K-ICS·킥스) 비율 규제에 이미 해약환급금 대량 인출 위험이 반영돼 있으므로 이중 규제...",
+          "description": "한화생명, 현대해상, 미래에셋생명, 한화손해보험 등이 대표적이다. 금융지주의 주주환원에도 영향을 주고... 아울러 지급여력(K-ICS·킥스) 비율 규제에 이미 해약환급금 대량 인출 위험이 반영돼 있으므로 이중 규제...",
           "pubDate": "Sun, 02 Aug 2026 17:50:00 +0900"
         },
         {
@@ -114,54 +121,47 @@
           "url": "https://www.ekn.kr/web/view.php?key=20260802024128659",
           "description": "3월말 기준 한화생명의 신지급여력제도(K-ICS·킥스) 비율은 162.1%, 기본자본 킥스 비율은 59%로 집계됐다. 자회사를 늘리는 과정에서 부담이 가중되면 금융당국의 권고치와 근접하게 된다는 의미다. 애큐온캐피탈...",
           "pubDate": "Sun, 02 Aug 2026 16:40:00 +0900"
-        },
-        {
-          "title": "NH농협생명, 더 탄탄해진 미래 이익 창출력... 올해 신계약 CSM '껑충'",
-          "source": "greened.kr",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=346349",
-          "description": "이어 삼성생명이 7조7667억원, 한화생명 5조6429억원, 교보생명 4조5551억원 순이다. 같은 기간 보장성보험... 지난해 9월 말 기준 경과조치 후 킥스비율은 431.8%로 국내 생보업계 최고 수준으로, 우수한 자본 건전성을...",
-          "pubDate": "Thu, 30 Jul 2026 10:00:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "8월 3일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. m-i.kr, magazine.hankyung.com, ajunews.com 등에서 보도되었으며, 화성특례시, 고생, 대상 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 4일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. yna.co.kr, chosun.com, gukjenews.com 등에서 보도되었으며, 반도체, 삼성운용, 미국CPU반도체TOP10 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "화성특례시, 중·고생 대상 반도체 공유학교 운영",
-          "source": "m-i.kr",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=1397944",
-          "description": "고등학생 과정에서는 △반도체 회로 설계 실습 △AI 시대 반도체의 역할 △반도체 직무·진로 탐색과 함께 명지대학교 FAB 시설 견학을 진행했다. 교육은 삼성전자 메모리사업부 출신 전문가와 대학 교수진이 맡아 산업...",
-          "pubDate": "Mon, 03 Aug 2026 08:58:00 +0900"
+          "title": "삼성운용, '미국CPU반도체TOP10' ETF 상장",
+          "source": "yna.co.kr",
+          "url": "https://www.yna.co.kr/view/AKR20260804033100008?input=1195m",
+          "description": "삼성자산운용은 미국 중앙처리장치(CPU) 기업에 투자하는 상장지수펀드(ETF)인 'KODEX 미국CPU반도체TOP10'을 신규 상장했다고 4일 밝혔다. 해당 상품은 글로벌 CPU 시장을 이끄는 ARM, AMD, 인텔 등 CPU 3대 기업에...",
+          "pubDate": "Tue, 04 Aug 2026 09:08:00 +0900"
         },
         {
-          "title": "안보 경제 시대의 청년 일자리와 산업보국 [김홍유의 산업의 窓]",
-          "source": "magazine.hankyung.com",
-          "url": "https://magazine.hankyung.com/business/article/202607289916b",
-          "description": "삼성전자와 SK하이닉스로 대표되는 반도체·IT 대기업이 매년 수천 명의 핵심 연구 인력을 흡수하는 동안 국가 안보와 미래 먹거리를 결합할 딥테크 방산 창업 생태계는 심각한 인력 및 기업 기근에 시달려 왔다. 실제로...",
-          "pubDate": "Mon, 03 Aug 2026 08:57:00 +0900"
+          "title": "주가 폭락에 국민성장펀드도 마이너스 수익률",
+          "source": "chosun.com",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/08/04/H722I64I3NECJMLN5FIB5XYO7M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "description": "미래·삼성·KB 등 3개 운용사가 돈을 모아 뿌리면 10개 운용사가 실제로 자펀드를 운용한다. 국민 자금 6000억원과 재정 1200억원 등 총 7200억원을 모아 AI, 바이오, 반도체 등 첨단전략산업에 투자한다. 손실이 날 경우...",
+          "pubDate": "Tue, 04 Aug 2026 09:08:00 +0900"
         },
         {
-          "title": "AI 데이터센터가 여는 지능제조업 시대…한국은 왜 주목받나 [화제의 리...",
-          "source": "magazine.hankyung.com",
-          "url": "https://magazine.hankyung.com/business/article/202607293344b",
-          "description": "반면 메모리 반도체는 ‘선생산·후판매’ 구조의 범용 제품 특성상 공급 부족과 과잉생산이 반복되는... 삼성전자는 최근 ‘샌프란시스코 AI 서밋’에서 브로드컴과 2000억달러 규모의 사업 협약을 발표했다. 이는...",
-          "pubDate": "Mon, 03 Aug 2026 08:55:00 +0900"
+          "title": "KAI, 'K-온디바이스 AI 반도체 사업' 방산 분야 우선 협상 대상자 선정",
+          "source": "gukjenews.com",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654729",
+          "description": "삼성전자는 반도체 생산을 맡��� 신뢰성을 보장한다. 여러 국내 AI 반도체 및 AI 모델 개발 중소기업과 기관이 컨소시엄 형태로 참여한다. 이번 사업을 통해 국방 반도체의 국산화와 자립이 추진되며, 국내 중소 팹리스...",
+          "pubDate": "Tue, 04 Aug 2026 09:08:00 +0900"
         },
         {
-          "title": "\"재용이형 지금 조정이지?\" 빵 터진 '총수 단톡방' 패러디, 뭐기에",
-          "source": "ajunews.com",
-          "url": "https://www.ajunews.com/view/20260803081828947",
-          "description": "3일 온라인 커뮤니티와 사회관계망서비스(SNS)에서는 삼성전자와 SK하이닉스, 현대차 총수들이 등장하는... 대형 반도체주를 중심으로 주가가 급등락을 반복하면서 투자자들의 불안감도 커지고 있기 때문으로...",
-          "pubDate": "Mon, 03 Aug 2026 08:54:00 +0900"
+          "title": "[특징주] 피델릭스, 삼성전자 메모리 공급 계약 소식에 상승세",
+          "source": "etoday.co.kr",
+          "url": "https://www.etoday.co.kr/news/view/2610671",
+          "description": "이투데이=김우람 기자 | 피델릭스가 삼성전자에 114억원 규모의 메모리 반도체 공급 계약 소식에 상승세다. 4일 오전 9시 5분 현재 피델릭스는 전일 대비 370원(10.87%) 오른 3775원에 거래됐다. 전날 피델릭스는...",
+          "pubDate": "Tue, 04 Aug 2026 09:08:00 +0900"
         },
         {
-          "title": "[특징주] 삼성전자, 코스피 급등 뒤 차익매물에 프리마켓 약세",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/economy/384003",
-          "description": "다시 반도체 실적과 메모리 가격으로 이동할 것이라고 진단했다. 다만 넥스트레이드 프리마켓은 정규장보다 호가가 얇아 가격 변동성이 크게 나타날 수 있다. 실제로 삼성전자는 과거 프리마켓에서 소량 체결만으로...",
-          "pubDate": "Mon, 03 Aug 2026 08:54:00 +0900"
+          "title": "[슈퍼사이클의 역설 ③] '외줄타기' 韓경제, '반도체 호황 착시'와 '메가...",
+          "source": "newsian.co.kr",
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93227",
+          "description": "삼성전자와 SK하이닉스가 차지하며 독점적 시장 지배력을 유지하고 있다. 차세대 기술 규격인 HBM4와 6세대 D램 분야에서도 한국 기업들의 합산 점유율은 최상위권을 유지할 것이라는 전망이 우세하다. # 시스템 반도체...",
+          "pubDate": "Tue, 04 Aug 2026 09:08:00 +0900"
         }
       ]
     }

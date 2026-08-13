@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-08-12T23:43:30.929Z",
+  "updatedAt": "2026-08-13T23:42:35.332Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "8월 13일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, the-biz.co.kr, ajunews.com 등에서 보도되었으며, 달러, CPI, 외환 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 14일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, the-biz.co.kr, newspim.com 등에서 보도되었으며, 외환, 기대, PPI 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[외환] 美 CPI 안도에도 걷히지 않는 불안 속 1,410원대 후반",
+          "title": "[외환] '기대 이하' 美 PPI 소화하며 1,410원 후반대",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429891",
-          "description": "13일 외환시장에서 달러-원 환율은 오전 6시 기준으로 전날 서울장 종가(1,415.70원) 대비 2.80원 상승한 1,418.50원에 마감했다. 전날 오전 6시 종가(1,413.70원) 대비로는 4.80원 올랐다. 달러-원은 전날 1,412.50원에 출발한...",
-          "pubDate": "Thu, 13 Aug 2026 08:34:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430105",
+          "description": "14일 외환시장에서 달러-원 환율은 오전 6시 기준으로 전날 서울장 종가(1,419.40원) 대비 0.80원 내린 1,418.60원을 기록했다. 전날 오전 6시 종가(1,418.50원) 대비로는 0.10원 올랐다. 달러-원은 전날 1,417.50원으로...",
+          "pubDate": "Fri, 14 Aug 2026 08:40:00 +0900"
         },
         {
-          "title": "CPI 넘었지만 달러는 강세… 원/달러, 1420원선 다시 넘보나",
+          "title": "연준 인상 베팅 1회 밑으로…원/달러 환율, 1410원대 하락 시도 전망",
           "source": "the-biz.co.kr",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726148",
-          "description": "서울 외환시장에서 13일 원/달러 환율은 달러 강세와 역내 실수요 매수세를 반영해 1410원대 후반을 중심으로 상승 압력을 받을 전망이다. 다만 외국인의 국내 증시 순매수와 일본 외환당국의 개입 경계감은 환율 상단을...",
-          "pubDate": "Thu, 13 Aug 2026 08:18:00 +0900"
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726212",
+          "description": "서울 외환시장에서 14일 원/달러 환율은 미국 물가지표 둔화로 연방준비제도(Fed·연준)의 추가 금리 인상 기대가 후퇴하면서 하락 압력을 받을 전망이다. 달러 약세와 위험선호 회복에 따른 외국인 국내 증시 자금...",
+          "pubDate": "Fri, 14 Aug 2026 08:26:00 +0900"
         },
         {
-          "title": "[뉴욕마켓워치] '예상 부합' CPI에도 끈질긴 긴축 베팅…달러↑주식·채...",
+          "title": "[AI MY 증시전망] 코스피, 美 PPI 안도·반도체 강세에 상승 전망",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260814000073",
+          "description": "코스닥 지수는 전일 종가 대비 2.46(0.29%) 오른 1419.4에 장을 마쳤다.서울 외환시장에서 달러/원 환율은 전 거래일 주간종가 대비 7.7원 내린 1416.1원에 마감했다. 이날 오후 서울 중구 하나은행 딜링룸에서 딜러들이...",
+          "pubDate": "Fri, 14 Aug 2026 08:23:00 +0900"
+        },
+        {
+          "title": "[뉴욕마켓워치] PPI도 '인플레 우려' 완화…S&P 500 최고치·채권↑달러...",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429883",
-          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 159.501엔으로, 전장 뉴욕장 마감 가격 159.284엔보다 0.217엔(0.136%) 상승했다. 유로-달러 환율은 1.15225달러로 0....",
-          "pubDate": "Thu, 13 Aug 2026 08:16:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430096",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 159.520엔으로, 전장 뉴욕장 마감 가격 159.501엔보다 0.019엔(0.012%) 상승했다. 스테이트스트리트의 노엘 딕슨 선임...",
+          "pubDate": "Fri, 14 Aug 2026 08:08:00 +0900"
         },
         {
-          "title": "[신세돈 칼럼] 달러화 환율 어디까지 떨어질 것인가",
-          "source": "ajunews.com",
-          "url": "https://www.ajunews.com/view/20260812155716334",
-          "description": "베센트 재무부 장관이 인위적인 외환시장 개입을 지시하고 인플레를 우려한 일본 재무성 당국도 개입의사를 밝히면서 163엔을 넘나들던 엔화환율은 8월 초 이후 157엔대로 떨어졌다. 미국이 급격한 엔화환율 상승, 즉...",
-          "pubDate": "Thu, 13 Aug 2026 08:14:00 +0900"
-        },
-        {
-          "title": "[뉴욕환시] 달러 상승…美 물가 안도감 가린 호르무즈 불확실성",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429876",
-          "description": "달러인덱스 장중 흐름[출처: 연합인포맥스] 연합인포맥스(화면번호 6411)에 따르면 12일 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.501엔으로, 전장 뉴욕장 마감 가격 159.284엔보다 0....",
-          "pubDate": "Thu, 13 Aug 2026 07:22:00 +0900"
+          "title": "[채권/외환] 美 생산자물가 둔화에 국채 강세…9월 금리 인상 기대 후퇴",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260814000037",
+          "description": "◆ 달러는 혼조…PPI 직후 달러인덱스 99.80까지 하락 외환시장에서도 온건한 PPI가 연준의 금리 인상... 달러/원 환율은 한국 시간으로 14일 오전 7시 25분 기준 전장 대비 4.64% 내린 1420.30원에 거래됐다. ◆ 후티 공격에...",
+          "pubDate": "Fri, 14 Aug 2026 07:32:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "8월 13일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, edaily.co.kr, smartbizn.com 등에서 보도되었으며, 뉴욕증시, 얼어붙은, 회사채 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 14일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. bigtanews.co.kr, news2day.co.kr, it.chosun.com 등에서 보도되었으며, 사상, 최고, 500 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[얼어붙은 회사채] 디폴트발 유통시장 투매는 진정…막힌 저등급 조달",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429892",
-          "description": "리테일 채권 전반의 금리 급등세가 주춤해지긴 했으나 비우량 채권 전반의 절대금리 레벨이 여전히 높은 점은 부담 요소다. 증권사의 한 리테일 관계자는 \"금리 급등세가 조금 진정되긴 했지만, 아직도 높은 편\"이라며...",
-          "pubDate": "Thu, 13 Aug 2026 08:38:00 +0900"
+          "title": "[데일리 머니마켓] S&P 500 또다시 사상 최고치",
+          "source": "bigtanews.co.kr",
+          "url": "https://www.bigtanews.co.kr/article/view/big202608140003",
+          "description": "빅터뉴스 이재영 기자 미국 인플레이션 우려가 한 단계 낮아지면서 미국 채권 금리가 떨어졌다. AI·메모리 반도체 실적 기대가 높아지면서 S&P 500이 사상 최고 종가를 기록했다. 국제 유가는 하락했지만...",
+          "pubDate": "Fri, 14 Aug 2026 08:20:00 +0900"
         },
         {
-          "title": "뉴욕증시, CPI 안도감에 상승…AI 낙관론에 기술주 강세[뉴스새벽배송]",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03509606645546992",
-          "description": "북미 투자자들의 본격적인 시장 복귀 여부가 주목되는 이유. -금값은 올해 1월 말 사상 최고치를 기록한 뒤 채권금리 상승과 달러 강세로 조정을 받았지만 중앙은행과 아시아 투자자들의 매수세가 가격을 지지.",
-          "pubDate": "Thu, 13 Aug 2026 08:10:00 +0900"
+          "title": "[N2 포커스] 삼성화재, 자본·건전성 급등…하반기 변수 '금리'",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20260813500276",
+          "description": "[표=뉴스투데이] ■ 장기보험 신계약 흐름 주목 다만 상반기 자본 개선의 상당 부분이 금리 하락에 따른 채권 평가익 효과에 기대고 있다는 점은 하반기 변수로 꼽힌다. 삼성화재가 공개한 K-ICS 민감도 분석에...",
+          "pubDate": "Fri, 14 Aug 2026 07:02:00 +0900"
         },
         {
-          "title": "엔비디아가 끌고 물가가 밀었다, 뉴욕증시 다시 상승세",
-          "source": "smartbizn.com",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=151127",
-          "description": "채권시장에서도 금리는 소폭 내려갔���. 미국 10년물 국채금리는 전날 4.70%에서 4.68%로 하락했다. 다만 이란과의 전쟁으로 국제유가와 인플레이션 우려가 커지기 전의 3.97%와 비교하면 여전히 높은 수준에 머물렀다....",
-          "pubDate": "Thu, 13 Aug 2026 08:06:00 +0900"
+          "title": "삼성·KB 선점한 '삼전닉스+채권' ETF… 미래·한투 '맞불'",
+          "source": "it.chosun.com",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168117",
+          "description": "주식 비중과 채권 만기(듀레이션)에 따라 정도의 차이가 있지만, 채권은 가격은 금리와 반대로 움직이므로 금리 상승 시 평가 손실을 보게 된다. 국고채 3년 만기 금리는 12일 기준 3.78%로 작년 말 2.95%보다 0.8...",
+          "pubDate": "Fri, 14 Aug 2026 06:40:00 +0900"
         },
         {
-          "title": "5450억 끌어온 iM증권…자본 확충 뒤엔 연 218억 부담",
-          "source": "shinailbo.co.kr",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050887",
-          "description": "국내 증시 거래대금 증가에 힘입어 브로커리지 부문은 성장했지만 시장금리 변동에 따른 채권 등 운용 부문 수익 감소가 전체 실적을 끌어내렸다. 이에 iM증권은 올해 신종자본증권 발행을 통해 확보한 자본을...",
-          "pubDate": "Thu, 13 Aug 2026 08:04:00 +0900"
+          "title": "물가압력 완화·유가 하락에 S&P500 사상 최고…나스닥도 0.8%↑(종합)",
+          "source": "yna.co.kr",
+          "url": "https://www.yna.co.kr/view/AKR20260814005451072?input=1195m",
+          "description": "7월 미 생산자물가 보합에 시장 안도…국제유가도 2% 넘게 내려 금리동결 관측에 미 채권금리 하락 김연숙 특파원 = 13일(현지시간) 미국 뉴욕증시는 인플레이션 압력이 완화하고 있다는 신호가 나오면서 3대 주요...",
+          "pubDate": "Fri, 14 Aug 2026 06:15:00 +0900"
         },
         {
-          "title": "[뉴욕증시] \"소비자물가지수 예상치 부합\"…혼조세 마감",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008702800&plink=ORI&cooper=NAVER",
-          "description": "다만, 물가가 목표치에선 웃도는 상황이라 30년물 국채 금리가 5%대 초반에 머물고 있기 때문에 장기물 금리 부담은 여전히 채권시장의 불안 요인으로 남아 있습니다. 물가 둔화 안도감에 더해, AI 관련 기업들의 깜짝...",
-          "pubDate": "Thu, 13 Aug 2026 07:56:00 +0900"
+          "title": "[뉴욕증시 마감시황] 美 PPI 훈풍에 S&P 사상 최고…SK하이닉스 ADR 또 급...",
+          "source": "moneystorm.kr",
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5687",
+          "description": "물가 지표가 안정되면서 채권시장에서는 금리가 하락했다. 미국 10년물 국채금리는 6bp 내린 4.64%를 기록했고 2년물 금리도 하락했다. 금리 부담이 낮아지면서 상대적으로 밸류에이션 부담이 큰 기술주에 매수세가...",
+          "pubDate": "Fri, 14 Aug 2026 06:12:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "8월 13일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ekn.kr, fntimes.com, insnews.co.kr 등에서 보도되었으며, 한화생명, 완화, 확보 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 14일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. tfmedia.co.kr, consumernews.co.kr, moneystorm.kr 등에서 보도되었으며, 한국금융지주, KDB생명, 선정 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "2년째 못 준 배당, 다시 열리나...한화생명 “제도 완화 땐 재원 확보”",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20260813021182225",
-          "description": "한화생명은 상반기 기준 잠정 킥스 비율이 167%로 전분기 대비 5%p, 전년 동기 대비 9.5%p 개선세를 보인 가운데 하반기에도 수익성을 확대해 나가는 한편 요구자본 축소와 예실차관리, 재보험활용 등 다각적인 건전성...",
-          "pubDate": "Thu, 13 Aug 2026 08:40:00 +0900"
+          "title": "[이슈체크] 한국금융지주, KDB생명 품나...우선협상대상자 선정",
+          "source": "tfmedia.co.kr",
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=206470",
+          "description": "앞서 지난 7일 치러진 본입찰에는 한국금융지주를 비롯해 흥국생명, 한화생명 등 3개사가... 원으로 생명보험 업계 14위 규모다. 자기자본은 4091억 원이며, 지급여력비율(K-ICS·킥스)은 경과조치 적용 기준 205.7%로...",
+          "pubDate": "Fri, 14 Aug 2026 05:54:00 +0900"
         },
         {
-          "title": "권혁웅·이경근 한화생명 대표, 손실부담계약 환입·평가처분익 확대에...",
-          "source": "fntimes.com",
-          "url": "https://www.fntimes.com/html/view.php?ud=202608121838112071ed56b8e1f8_18",
-          "description": "한화생명이 손실부담계약 환입과 투자자산 평가·처분이익 확대를 바탕으로 순익을 반등시켰다. 12일... 재무건전성 지표인 지급여력(K-ICS·킥스)비율은 지난해 말보다 9.5%p 상승한 167%로 잠정 집계됐다. 금리·환율...",
-          "pubDate": "Wed, 12 Aug 2026 21:24:00 +0900"
+          "title": "한국금융지주, KDB생명 우선협상대상자로 선정",
+          "source": "consumernews.co.kr",
+          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761494",
+          "description": "올해 일곱번째 매각 시도에서는 한국금융지주 이외에 한화생명, 흥국생명 등이 최종인수제안서를... 올해 1분기 KDB생명의 경과조치 전 기준 킥스(K-ICS) 비율은 74.5%, 기본자본 킥스 비율은 -25.2%에 그친다....",
+          "pubDate": "Thu, 13 Aug 2026 21:32:00 +0900"
         },
         {
-          "title": "한화생명 “해약환급금준비금 완화 시 충분한 배당가능이익 확보”",
-          "source": "fntimes.com",
-          "url": "https://www.fntimes.com/html/view.php?ud=202608121713533530ed56b8e1f8_18",
-          "description": "한화생명이 해약환급금준비금 산출에 적용하는 대량해지율을 보장성보험 25%, 저축성보험 35%로 낮추는... (K-ICS·킥스)비율에도 영향을 준다. 보험업계 해약환급금준비금은 지난 6월 말 58조1000억원으로 제도 도입 직전인...",
-          "pubDate": "Wed, 12 Aug 2026 20:40:00 +0900"
+          "title": "한국금융지주, KDB생명 매각 우선협상대상자로...7번째 매각 시도",
+          "source": "moneystorm.kr",
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=5685",
+          "description": "지난 7일 실시된 KDB생명 매각 본입찰에는 한화생명, 흥국생명, 한국금융지주 등 3개사가 참여했다. 당초... 생보업계는 KDB생명의 지급여력(K-ICS·킥스) 비율이 금융당국 권고치인 130%를 맞추기 위해선 1조원 가량 신규...",
+          "pubDate": "Thu, 13 Aug 2026 20:54:00 +0900"
         },
         {
-          "title": "한화생명 상반기 순익 9045억원, 전년 比 96% 증가… 별도·자회사 '동반...",
-          "source": "insnews.co.kr",
-          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92274",
-          "description": "박수원 한화생명 리스크관리팀장은 \"연말 킥스비율은 165% 이상, 기본자본비율은 60% 이상을 목표로 관리하겠다\"며 \"보험금 예실차 관리를 위한 기초가정 위험 축소와 공동재보험 등을 활용한 금리위험·보험위험...",
-          "pubDate": "Wed, 12 Aug 2026 19:30:00 +0900"
+          "title": "한국금융지주, KDB생명 인수 우선협상대상자 선정",
+          "source": "newsian.co.kr",
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=93707",
+          "description": "7일 마감된 본입찰에는 한국금융지주와 한화생명, 흥국생명이 최종인수제안서를 제출했다. 매각 측은... 경과조치를 적용한 지급여력비율(K-ICS·킥스)은 205.7%로 금융당국 권고 기준인 130%를 웃돌았다. 다만 지난해...",
+          "pubDate": "Thu, 13 Aug 2026 19:04:00 +0900"
         },
         {
-          "title": "한화생명, 상반기 순익 9045억…'이익 체력' 한층 커졌다",
-          "source": "econovill.com",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=747835",
-          "description": "이 팀장은 \"애큐온 인수와 관련해 인수 구조 및 거래 금액 등이 아직 확정되지 않은 상태\"라면서 \"현재 시점에서는 킥스비율 변동 등 정량적인 영향은 구체적으로 설명하기 어려운 단계\"라고 말했다. 한화생명은 사업...",
-          "pubDate": "Wed, 12 Aug 2026 19:28:00 +0900"
+          "title": "한국금융지주, KDB생명 품는다…우협 대상자 선정",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260813_0003748515",
+          "description": "앞서 치러진 본입찰에는 한국금융지주를 비롯해 흥국생명, 한화생명 등 3개사가 참여해 경합을 벌인 끝에... 원으로 생명보험 업계 14위 규모다. 자기자본은 4091억 원이며, 지급여력비율(K-ICS·킥스)은 경과조치 적용...",
+          "pubDate": "Thu, 13 Aug 2026 18:37:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "8월 13일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. smartbizn.com, autodaily.co.kr, newspim.com 등에서 보도되었으며, AI, 삼성전기, 반도체 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 14일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, edaily.co.kr, incheonin.com 등에서 보도되었으며, 코스피, 11, 폭락 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "AI 서버가 바꾼 기술주 판도···삼성전기, 글로벌 IB 최선호주로 부상",
-          "source": "smartbizn.com",
-          "url": "https://www.smartbizn.com/news/articleView.html?idxno=151128",
-          "description": "삼성전기는 미국 맞춤형 반도체(ASIC) 업체로부터 AI 칩 기판 관련 수주를 여러 건 확보했고 베트남 신규 공장 가동은 2028년까지 확대된다. 모건스탠리는 ABF 매출이 2030년까지 4∼5배 증가할 수 있다고 봤다. 국내...",
-          "pubDate": "Thu, 13 Aug 2026 08:42:00 +0900"
+          "title": "\"11% 폭락\"...14만원→4만원 '무조건 산다'던 박진영 회사, 목표주가마저...",
+          "source": "fnnews.com",
+          "url": "http://www.fnnews.com/news/202608140805065529",
+          "description": "삼성전자와 SK하이닉스로 투자금이 쏠리며 엔터주 전반이 약세를 면치 못한 가운데 JYP엔터는 2분기 '어닝... 그러나 '반도체 랠리'에 엔터주 전반이 소외받으며 재차 4만원대로 추락했다. 여기에 어닝 쇼크와 향후...",
+          "pubDate": "Fri, 14 Aug 2026 08:36:00 +0900"
         },
         {
-          "title": "삼성SDI, 반도체 미세공정용 SOH 강화…식각 저항성·평탄화 높인다",
-          "source": "autodaily.co.kr",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=546588",
-          "description": "AI와 HPC용 반도체의 성능 경쟁이 이어지면서 회로 미세화뿐 아니라 적층 구조도 복잡해지고 있다. 삼성SDI는 이러한 공정 변화에 맞춰 SOH의 소재 설계 기술을 고도화하고 전자재료 사업 경쟁력을 강화할 계획이다.",
-          "pubDate": "Thu, 13 Aug 2026 08:40:00 +0900"
+          "title": "美서 키옥시아 2배 ETF 상장 신청…日규제 우회 '역상륙' 우려",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=03270166645547320",
+          "description": "(SEC)에 반도체 메모리 업체 키옥시아홀딩스 주가에 연동하는 레버리지 ETF의 상장 승인을 신청했다.... 지난 5월 27일 삼성전자와 SK하이닉스에 연동하는 단일종목 레버리지 ETF가 처음 상장되자 개인 자금이 몰렸고, 두...",
+          "pubDate": "Fri, 14 Aug 2026 08:35:00 +0900"
         },
         {
-          "title": "[AI MY 증시전망] 코스피, 美 CPI·반도체 훈풍에 상승 기대",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20260813000095",
-          "description": "◆ 美 반도체주 급등…삼성전자·SK하이닉스 추가 반등 주목 이날 국��� 증시에서는 삼성전자와 SK하이닉스 등 반도체 대형주의 움직임이 핵심 변수가 될 전망이다. 최근 국내 증시에서는 코스닥과 비반도체...",
-          "pubDate": "Thu, 13 Aug 2026 08:40:00 +0900"
+          "title": "코스피, 반등의 전주곡인가, 변동성의 덫인가",
+          "source": "incheonin.com",
+          "url": "http://www.incheonin.com/news/articleView.html?idxno=119921",
+          "description": "\"삼성전자가 오를까?\" \"반도체가 끝났나?\" 하지만, 앞으로는 질문이 달라져야 한다. \"AI 시대에서 한국 기업은 어떤 위치에 있는가\"이다. 투자자가 봐야 할 핵심 지표는 다음과 같다. ▲'AI 투자 증가율'로 AI 데이터센터...",
+          "pubDate": "Fri, 14 Aug 2026 08:34:00 +0900"
         },
         {
-          "title": "컴포넌트·패키지가 끌었다…삼성전기, 영업이익률 10%대 복귀",
-          "source": "datanews.co.kr",
-          "url": "http://www.datanews.co.kr/news/article.html?no=145992",
-          "description": "삼성전기는 3분기에도 AI 인프라 투자 지속과 AI용 반도체 성능 향상에 따라 고용량·고신뢰성 MLCC 수요가 증가할 것으로 전망했다. 패키지솔루션에서도 데이터센터용 고부가 FCBGA 기판의 수요 강세가 이어질...",
-          "pubDate": "Thu, 13 Aug 2026 08:38:00 +0900"
+          "title": "美 PPI 안도·샌디스크發 호재에…삼전 3%·하닉 5.8% 강세 [마켓시그널...",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20079326?ref=naver",
+          "description": "같은 시각 삼성전자(005930)는 2.99% 오른 27만 6000원, SK하이닉스(000660)는 5.84% 뛴 168만 6000원에 거래되고... 이에 샌디스크는 13.8% 상승 마감했을 뿐만 아니라 마이크론(4.2%), 램리서치(3.3%) 등 다른 반도체주들도...",
+          "pubDate": "Fri, 14 Aug 2026 08:29:00 +0900"
         },
         {
-          "title": "국내외 투자자, 한국 증시 전망 엇갈린 선택…ETF 투자 전략 강화",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/market/389644",
-          "description": "‘타이거 반도체탑10커버드콜액티브’ 448억원 등 커버드콜 ETF가 상위권에 대거 이름을 올렸다. 커버드콜... 반면 삼성전자와 에스케이하이닉스 같은 개별 대형주를 2배로 추종하는 단일종목 레버리지 ETF에서는...",
-          "pubDate": "Thu, 13 Aug 2026 08:36:00 +0900"
+          "title": "[어제장 오늘장] 기술적 강세장 진입…코스피 상승세 이어질까",
+          "source": "biz.sbs.co.kr",
+          "url": "https://biz.sbs.co.kr/article_hub/20000328692?division=NAVER",
+          "description": "모건스탠리에서 최선호주로 꼽은 삼성전기는 12% 급등했습니다. 코스닥 시총 상위 종목들 흐름은 엇갈렸습니다. 반도체 소부장단에서도 종목별 차별화가 나타났습니다. 주성엔지니어링이 3%, 원익IPS가 7.6...",
+          "pubDate": "Fri, 14 Aug 2026 08:28:00 +0900"
         }
       ]
     }

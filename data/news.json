@@ -1,97 +1,111 @@
 {
-  "updatedAt": "2026-08-15T23:21:45.025Z",
+  "updatedAt": "2026-08-16T23:21:06.136Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "8월 16일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. newsroad.co.kr, edaily.co.kr, goodkyung.com 등에서 보도되었으며, 전망, KDI, 성장률 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 17일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. biz.newdaily.co.kr, biz.chosun.com, newsis.com 등에서 보도되었으며, 달러, 24시간, 현물환 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "KDI, 성장률 전망 상향 예고…가계부채·연체율 '경고등' 켜지나",
-          "source": "newsroad.co.kr",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62943",
-          "description": "7월에도 대규모 차익 실현이 이어졌는지, 아니면 국내 증시 상승과 환율 흐름에 힘입어 매도세가 진정됐는지가 향후 증시와 외환시장에 적잖은 영향을 줄 전망이다. 성장률 전망 상향 기대와 함께 가계부채, 연체율...",
-          "pubDate": "Sun, 16 Aug 2026 07:20:00 +0900"
+          "title": "24시간 현물환 시대 … 밤사이 원화값 쥐락펴락하던 NDF 힘 빠지나",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400201.html",
+          "description": "외환시장 폭과 깊이가 커지면 특정 수급에 환율이 과도하게 흔들릴 가능성을 낮출 수 있지만, 반대로 국내 금융시장과 국제 금융시장의 연계성이 높아지면서 글로벌 금융위기 등 충격이 발생했을 때 자금 유출입이 확대돼...",
+          "pubDate": "Mon, 17 Aug 2026 08:00:00 +0900"
         },
         {
-          "title": "금리인상 늦추는 美·빨라진 日…환율 1400원 초반 박스권[주간외환전망...",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=01128326645547976",
-          "description": "오는 21일 문지성 재정경제부 국제경제관리관과 미무라 아쓰시 일본 재무성 재무관의 회담도 외환시장의 관심사다. 국내에서는 8월 1~20일 수출과 월말 법인세 중간예납에 따른 수급 개선이 환율 하방을 지지할 것으로...",
-          "pubDate": "Sun, 16 Aug 2026 07:02:00 +0900"
+          "title": "[주간증시전망] 물가 우려 덜었지만… FOMC 의사록·국채 입찰 변수",
+          "source": "biz.chosun.com",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/08/17/3FSP7M6TTJBGRDMJDC5BVYHL4A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "description": "외환시장에서는 원·달러 환율의 하방 지지력 확인이 이뤄질 전망이다. 최근 원·달러 환율은 외국인 매도세 약화, SK하이닉스 미국주식예탁증서(ADR) 자금 유입 등으로 1417원대까지 낮아졌다. 하지만 증권업계에서는 원...",
+          "pubDate": "Mon, 17 Aug 2026 06:01:00 +0900"
         },
         {
-          "title": "[다음주 환율전망]1400원선 향해 완만한 하락 전망…美 연준·BOJ '엇갈린...",
-          "source": "goodkyung.com",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=290305",
-          "description": "14일 서울 외환 시장에서 원·���러 환율은 전 거래일 주간거래 종가(오후 3시 30분) 대비 1.1원 내린 1418.3원에 마감했다. 이날 원·달러 환율은 오전 9시30분 기준 1417.80원에 거래됐다. 전날 주간거래 종가인 1419.40원보다 1....",
-          "pubDate": "Sun, 16 Aug 2026 07:00:00 +0900"
+          "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260814_0003749956",
+          "description": "한국 경제의 기초 체력이 뒷받침하는 상황에서 국내 외환시장의 수급 개선이 이뤄지며 최근 환율은 크게 하락했다. SK하이닉스가 ADR 상장으로 조달한 달러를 원화로 바꾸는 과정에서 환율에 상당한 하락 압력이 가해진...",
+          "pubDate": "Mon, 17 Aug 2026 06:00:00 +0900"
         },
         {
-          "title": "외환시장 개입한 미 재무부...엔화가 아닌 미 국채를 구했다",
-          "source": "mt.co.kr",
-          "url": "https://www.mt.co.kr/world/2026/08/16/2026081516404755179",
-          "description": "[선데이 모닝 인사이트]에서는 미국의 이번 엔화 매수 개입을 환율시장 이벤트인 동시에 배경에 놓인 통상정책, 달러자금 수요, 일본의 외환보유액 운용, 미국 장기금리까지 연결해 분석했다. 돌발 개입이 아니었다......",
-          "pubDate": "Sun, 16 Aug 2026 06:00:00 +0900"
+          "title": "[뉴욕증시 주간전망] AI 전력난·달러 딜레마 속 월마트·바이두 실적 주...",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202608170546151000e250e8e188_1",
+          "description": "한편, 외환시장에서는 미국 달러화가 유가 급등과 연준의 완화적 기조 사이에서 딜레마에 직면했다.... 여기에 미 재무부의 환율 관리 기조까지 맞물리며 향후 통화정책과 유가 흐름에 따른 달러화 변동성이 한층...",
+          "pubDate": "Mon, 17 Aug 2026 05:50:00 +0900"
         },
         {
-          "title": "줄줄이 마이너스인데…\"거꾸로 넣었더니\" 나홀로 웃은 정체 [투자톡]",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/2026081421746",
-          "description": "엔·달러 환율 상승은 달러 대비 엔화 가치 하락을 의미한다. 박상현 iM증권 연구원은 \"미·일 양국의 엔 약세 방어 의지를 감안하면 추가적으로 외환시장 개입에 나설 가능성이 크다\"며 \"이미 외환시장 (개입)을...",
-          "pubDate": "Sat, 15 Aug 2026 21:15:00 +0900"
+          "title": "달러·엔 160엔 돌파 땐 신뢰 추락…165엔 간다",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=2026081621550889489a1f309431_1",
+          "description": "결국 160엔은 단순한 환율 수준을 넘어 일본 외환정책에 대한 시장의 신뢰를 시험하는 경계선으로 부상하고 있다. 160엔을 넘어선 뒤 당국이 어떻게 대응하느냐에 따라 엔화가 다시 강세로 돌아설지, 아니면 달러당...",
+          "pubDate": "Mon, 17 Aug 2026 03:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "8월 16일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. wowtv.co.kr, tokenpost.kr, danbinews.com 등에서 보도되었으며, 80조나, 팔았는데, 되레 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 17일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. munhwa.com, theguru.co.kr, news1.kr 등에서 보도되었으며, 다시, 11, 지금은 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "\"80조나 팔았는데 되레 올랐다\"…외국인 지분율에 무슨 일 [B급기자의 B...",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608140663&t=NN",
-          "description": "AI 투자 회의론과 미국 채권 금리 상승 등 부정적인 내러티브가 완전히 걷히지 않았기 때문이다. 수급적인 족쇄도 일부 존재한다. 한국에 투자하는 대표 ETF인 'EWY'의 지수방법론(MSCI KOREA 25/50)에 따르면 △단일 종목...",
-          "pubDate": "Sun, 16 Aug 2026 06:00:00 +0900"
+          "title": "“금 지금은 괜찮을까?” 개미들, 4개월만에 다시 금 ‘사자’…추세 전...",
+          "source": "munhwa.com",
+          "url": "https://www.munhwa.com/article/11609865?ref=naver",
+          "description": "금은 이자나 배당이 없는 자산이어서 금리가 높을 때는 예금·채권에 밀리지만, 금리 인상 기조가 꺾이면 자금이 다시 유입되는 경향이 있다. 지난 13일 기준 국제 금 선물 가격은 온스당 4420.40달러로 지난달 말(4049....",
+          "pubDate": "Mon, 17 Aug 2026 07:35:00 +0900"
         },
         {
-          "title": "초단기채로 간 미국 자금, 7월 128억달러 유입",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/391432",
-          "description": "듀레이션은 금리 변화에 대한 채권 가격 민감도를 뜻한다. 만기가 길수록 금리 상승기에 가격 하락 폭이 커질 수 있어, 장기채는 통상 현금성 자산보다 높은 수익률을 기대하는 대신 더 큰 금리 위험을 안는다. 장기...",
-          "pubDate": "Sat, 15 Aug 2026 21:40:00 +0900"
+          "title": "BAT, 15억弗 규모 달러채 발행...기존 채무 차환 목적",
+          "source": "theguru.co.kr",
+          "url": "https://www.theguru.co.kr/news/article.html?no=105721",
+          "description": "이번 달러채는 △2033년 만기·표면금리 5.3% 채권 7억5000만 달러 △2036년 만기·표면금리 5.55% 채권 7억5000만 달러 등 두 개의 트랜치(단계별 분할 투자)로 나뉘어 발행됐다. 해당 채권은 모회사인 BAT를 비롯해 BAT...",
+          "pubDate": "Mon, 17 Aug 2026 07:02:00 +0900"
         },
         {
-          "title": "채권자경단",
-          "source": "danbinews.com",
-          "url": "https://www.danbinews.com/news/articleView.html?idxno=33538",
-          "description": "정부의 재정지출 확대로 인플레이션, 재정 적자 등의 우려가 발생할 때, 채권을 팔아 장기금리를 끌어올리는 시장 참여자들을 비유적으로 칭하는 표현이다. 특정 조직이 아니라, 국채 보유자들의 집단행동을 일컫는다....",
-          "pubDate": "Sat, 15 Aug 2026 20:36:00 +0900"
+          "title": "\"이제 다시 금 사야 하나\"…금값 한 달 만에 11% 반등",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/finance/general-stock/6260648",
+          "description": "올해 초에는 채권금리 상승과 달러 강세가 겹친 데다, 기준금리 인상 전망까지 나오면서 안전자산 수요가 미국채·달러로 이동해 금값이 급락했다. 하지만 당초 증가할 것으로 예상됐던 미국의 7월 비농업 부문...",
+          "pubDate": "Mon, 17 Aug 2026 06:00:00 +0900"
         },
         {
-          "title": "[김남현의 채권썰] 왕복달리기, 한은 신임 부총재 관심",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2615004",
-          "description": "좀 더 길게 보면 지난달말 연고점을 기록했던 채권금리가 이달초 하락 이후 다시 되돌림하는 왕복달리기 흐름이다. 다가오는 한주도 이같은 박스권 속에서 등락을 이어갈 것으로 본다. 다만, 연일 사상 최고치를...",
-          "pubDate": "Sat, 15 Aug 2026 19:42:00 +0900"
+          "title": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
+          "source": "seoul.co.kr",
+          "url": "https://www.seoul.co.kr/news/economy/finance/2026/08/17/20260817031004?wlog_tag3=naver",
+          "description": "외국인 자금이 미국으로 이동하면 국내 채권금리가 올라 기업과 가계의 자금조달 부담이 커지고, 증시에서는 주가를 끌어내리는 요인이 된다. 자금 이탈로 원달러 환율까지 오르면 수입물가 상승을 통해 국내 물가를...",
+          "pubDate": "Mon, 17 Aug 2026 05:04:00 +0900"
         },
         {
-          "title": "[주末머니]“브라질 채권, 지금은 달러로 이자 챙겨라…헤알화는 선거 ...",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026081408444700250",
-          "description": "전 연구원은 \"재정 충격에 따른 채권금리 급등과 시장 혼란을 기억하는 투자자들은 룰라 대통령의 당선을 경계할 것으로 보인다\"며 \"4분기 채권시장 내 변동성 확대가 불가피할 것\"으로 내다봤다. 이에 따라 지금은...",
-          "pubDate": "Sat, 15 Aug 2026 09:24:00 +0900"
+          "title": "워시 향한 불신 수익률 곡선을 일으켜 세웠다",
+          "source": "hani.co.kr",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1273179.html",
+          "description": "수익률 곡선은 채권 금리를 만기별로 구분해 짧은 만기부터 긴 만기까지 나열해 연결한 곡선이다. 금리의 기간구조라고도 일컬어지는 수익률 곡선은 그 자체로 자금 운용에서 중요하게 활용되나 경기 여건을 예측하는...",
+          "pubDate": "Mon, 17 Aug 2026 05:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "8월 16일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news1.kr, kfenews.co.kr, mdtoday.co.kr 등에서 보도되었으며, KDB생명, 선정, 주인 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 17일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. asiatime.co.kr, etnews.com, news1.kr 등에서 보도되었으며, 한화생명, KDB생명, 주인 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "공개매각 앞둔 롯데손보…'유력 원매자' 한투 이탈에 '비상'",
+          "source": "asiatime.co.kr",
+          "url": "https://www.asiatime.co.kr/article/20260814500270",
+          "description": "앞서 본입찰에는 한투금융과 흥국생명, 한화생명이 참여했지만 한투와 흥국생명이 막판 경쟁을 벌이다... 롯데손보의 올해 1분기말 지급여력(K-ICS·킥스) 비율은 164.4%로 금융당국 권고치인 130%를 웃돌고 있지만, 기본자본...",
+          "pubDate": "Sun, 16 Aug 2026 21:00:00 +0900"
+        },
+        {
+          "title": "한화생명·KB손보 이어…교보생명, 'K-ICS 내부모형' 도입 검토",
+          "source": "etnews.com",
+          "url": "https://www.etnews.com/20260816000023",
+          "description": "교보생명이 지급여력제도(K-ICS·킥스) 요구자본 산출에 회사 자체 위험 특성을 반영하는 내부모형 도입 검토에 나섰다. 지급여력제도는 보험사의 보험금 지급능력을 평가하는 건전성 제도를 말한다. 한화생명과...",
+          "pubDate": "Sun, 16 Aug 2026 10:17:00 +0900"
+        },
         {
           "title": "6번 퇴짜맞던 KDB생명 '반전'…1조 수혈에 새 주인 찾기 눈앞",
           "source": "news1.kr",
           "url": "https://www.news1.kr/finance/insurance-card/6259176",
-          "description": "KDB생명의 정상화 작업이 끝나는 것은 아니다. 경과조치를 제외한 지급여력(K-ICS·킥스)비율이 여전히... 앞서 진행된 KDB생명 매각 본입찰에는 한국투자금융을 비롯해 흥국생명과 한화생명 등 3개사가 참여했다....",
+          "description": "KDB생명의 정상화 작업이 끝나는 것은 아니다. 경과조치를 제외한 지급여력(K-ICS·킥���)비율이 여전히... 앞서 진행된 KDB생명 매각 본입찰에는 한국투자금융을 비롯해 흥국생명과 한화생명 등 3개사가 참여했다....",
           "pubDate": "Fri, 14 Aug 2026 16:56:00 +0900"
         },
         {
@@ -105,63 +119,49 @@
           "title": "KDB생명, 7수 끝에 새 주인 찾나…한투금융 우협 선정",
           "source": "mdtoday.co.kr",
           "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=608473",
-          "description": "지난 7일 진행된 매각 본입찰에는 한화생명, 흥국생명, 한국투자금융지주 ��� 3곳이 참여해 경쟁을 벌였다.... 올해 1분기 말 기준 KDB생명 지급여력비율(K-ICS·킥스)은 경과조치 적용 전 74.5%에 머물고 있다. 이처럼 인수...",
+          "description": "지난 7일 진행된 매각 본입찰에는 한화생명, 흥국생명, 한국투자금융지주 등 3곳이 참여해 경쟁을 벌였다.... 올해 1분기 말 기준 KDB생명 지급여력비율(K-ICS·킥스)은 경과조치 적용 전 74.5%에 머물고 있다. 이처럼 인수...",
           "pubDate": "Fri, 14 Aug 2026 10:48:00 +0900"
-        },
-        {
-          "title": "[이슈체크] 한국금융지주, KDB생명 품나...우선협상대상자 선정",
-          "source": "tfmedia.co.kr",
-          "url": "https://www.tfmedia.co.kr/news/article.html?no=206470",
-          "description": "앞서 지난 7일 치러진 본입찰에는 한국금융지주를 비롯해 흥국생명, 한화생명 등 3개사가... 원으로 생명보험 업계 14위 규모다. 자기자본은 4091억 원이며, 지급여력비율(K-ICS·킥스)은 경과조치 적용 기준 205.7%로...",
-          "pubDate": "Fri, 14 Aug 2026 05:54:00 +0900"
-        },
-        {
-          "title": "한국금융지주, KDB생명 우선협상대상자로 선정",
-          "source": "consumernews.co.kr",
-          "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=761494",
-          "description": "올해 일곱번째 매각 시도에서는 한국금융지주 이외에 한화생명, 흥국생명 등이 최종인수제안서를... 올해 1분기 KDB생명의 경과조치 전 기준 킥스(K-ICS) 비율은 74.5%, 기본자본 킥스 비율은 -25.2%에 그친다....",
-          "pubDate": "Thu, 13 Aug 2026 21:32:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "8월 16일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. ebn.co.kr, wowtv.co.kr, digitaltoday.co.kr 등에서 보도되었으며, 삼성전자, SK하이닉스, 반등에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 17일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, news.dealsitetv.com, nocutnews.co.kr 등에서 보도되었으며, 과학고, 1858명, 선발 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전자·SK하이닉스 반등에 '빚투'도 증가…신용잔고 10조원 육박",
-          "source": "ebn.co.kr",
-          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1720567",
-          "description": "삼성전자의 신용잔고는 올해 초 1조7197억원에서 AI 반도체 투자 열기에 힘입어 꾸준히 증가했다. 지난달 9일에는 5조5353억원까지 확대됐지만 이후 반도체주 조정이 이어지면서 감소세로 돌아섰고, 지난 3일에는...",
-          "pubDate": "Sun, 16 Aug 2026 08:20:00 +0900"
+          "title": "전국 과학고 1858명 선발 '역대 최대'",
+          "source": "fnnews.com",
+          "url": "http://www.fnnews.com/news/202608170604519286",
+          "description": "카이스트는 2023학년도 삼성전자 반도체 계약학과 개설 이후 과학고 출신 진학자 수가 전반적인 증가세를 보이며 2026학년도에 최고치를 나타냈다. 앞서 원서접수를 마감한 2027학년도 전국 7개 영재학교 경쟁률도 6....",
+          "pubDate": "Mon, 17 Aug 2026 08:10:00 +0900"
         },
         {
-          "title": "삼전 제친 '신의 직장'…상반기 평균 급여 7,150만원",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608160035&t=NN",
-          "description": "은행원 평균 급여는 반도체 수출 호조로 역대급 실적을 낸 삼성전자(6,300만원)보다 850만원 많았지만, 자사주 주가 상승 등으로 급여가 크게 뛴 SK하이닉스(1억 4,400만원)에는 미치지 못했다. 희망퇴직한 직원...",
-          "pubDate": "Sun, 16 Aug 2026 08:13:00 +0900"
+          "title": "LH, 반도체 산단 속도전…글로벌 선점 박차",
+          "source": "news.dealsitetv.com",
+          "url": "https://news.dealsitetv.com/articles/174806",
+          "description": "삼성전자와 SK하이닉스의 대규모 투자를 끌어내 수도권에 이은 제2의 반도체 생산기지로 거듭날 예정이다. 특히 해당 부지는 대부분 국유지여서 부지 확보 및 보상 등 후속 절차가 단기간에 진행될 것으로 기대된다....",
+          "pubDate": "Mon, 17 Aug 2026 08:02:00 +0900"
         },
         {
-          "title": "[증시전망] 코스피 7000선 눈앞...외국인 귀환·미 금리 흐름 주목",
-          "source": "digitaltoday.co.kr",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693485",
-          "description": "반도체 주도력이 살아나고 비반도체로도 상승세가 확산되는 가��데 외국인 매수 지속 여부와 미국... 김종민 삼성증권 수석연구위원은 \"금리가 점차적으로 하락하지 않고 버티는 형국이나 현 상황에서 극단적인 금리...",
-          "pubDate": "Sun, 16 Aug 2026 08:10:00 +0900"
+          "title": "과학고 역대 최대 1858명 선발…최상위권 '이공계냐 의대냐'",
+          "source": "nocutnews.co.kr",
+          "url": "https://www.nocutnews.co.kr/news/6563248?utm_source=naver&utm_medium=article&utm_campaign=20260817080103",
+          "description": "종로학원은 2023학년도 KAIST에 삼성전자 반도체 계약학과가 개설되는 등 이공계 인재 육성정책이 영향을 미친 것으�� 분석했다. 2026학년도 전국 20개 과학고 평균 경쟁률은 3.41대 1이었다. 최근 경쟁률은...",
+          "pubDate": "Mon, 17 Aug 2026 08:02:00 +0900"
         },
         {
-          "title": "美·이란 협상 지켜보며 '7천피' 회복 타진 [주간전망]",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/2026081534856",
-          "description": "김종민 삼성증권 수석연구원은 \"주요 경제 지표를 통해 물가 둔화가 확인돼 긴축 경계감이 크게 완화됐다... 김 연구원은 \"국내 증시에선 '반도체 투톱'에 대한 극단적 쏠림이 해소됐고, 외국인의 순매수 유입이 재개돼...",
-          "pubDate": "Sun, 16 Aug 2026 08:01:00 +0900"
+          "title": "내년 과학고 1858명 뽑는다…졸업생 진학 1위는 KAIST",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260814_0003750248",
+          "description": "KAIST에 삼성전자 반도체계약학과가 개설되면서 과학고 출신 진학자 수가 늘어난 것으로 풀이된다. 연도별로는 2021학년도 383명, 2022학년도 397명, 2023학년도 406명으로 처음 400명대를 넘어섰고, 2024학년도 412명...",
+          "pubDate": "Mon, 17 Aug 2026 08:00:00 +0900"
         },
         {
-          "title": "AI·로봇·우주로 바뀌는 영남…대기업 312조 투자 시동",
-          "source": "dailian.co.kr",
-          "url": "https://www.dailian.co.kr/news/view/1678506/?sc=Naver",
-          "description": "울산 AI 데이터센터를 시작으로 AI와 반도체, 에너지 인프라를 연결해 대규모 AI 산업 생태계를 구축한다는 구상이다. 삼성은 약 60조원을 투입한다. 구미에 19조원을 들여 휴머노이드 로봇 양산 체계와 AI 데이터센터를...",
-          "pubDate": "Sun, 16 Aug 2026 08:00:00 +0900"
+          "title": "[김성재 칼럼] 대규모 주주환원이 언제나 기업가치에 긍정적일까?",
+          "source": "womaneconomy.co.kr",
+          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257361",
+          "description": "이는 삼성전자를 비롯한 대부분의 우량주가 제공하는 2%대 배당수익률보다 현저히 낮다. 이와 같은 여론이... 낸드(NAND) 플래시를 비롯한 데이터 저장관련 반도체 부문에서 경쟁 중인 샌디스크(SNDK)가 140억 달러의 추가...",
+          "pubDate": "Mon, 17 Aug 2026 08:00:00 +0900"
         }
       ]
     }

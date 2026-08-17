@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-08-16T23:21:06.136Z",
+  "updatedAt": "2026-08-17T23:24:23.739Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "8월 17일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. biz.newdaily.co.kr, biz.chosun.com, newsis.com 등에서 보도되었으며, 달러, 24시간, 현물환 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 18일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. the-biz.co.kr, news.einfomax.co.kr, namdonews.com 등에서 보도되었으며, 증시, 달러, 코스피 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "24시간 현물환 시대 … 밤사이 원화값 쥐락펴락하던 NDF 힘 빠지나",
-          "source": "biz.newdaily.co.kr",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400201.html",
-          "description": "외환시장 폭과 깊이가 커지면 특정 수급에 환율이 과도하게 흔들릴 가능성을 낮출 수 있지만, 반대로 국내 금융시장과 국제 금융시장의 연계성이 높아지면서 글로벌 금융위기 등 충격이 발생했을 때 자금 유출입이 확대돼...",
-          "pubDate": "Mon, 17 Aug 2026 08:00:00 +0900"
+          "title": "중동 불확실성에 달러 실수요 가세… 원/달러 1410원대 후반 공방",
+          "source": "the-biz.co.kr",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726326",
+          "description": "서울 외환시장에서 18일 원/달러 환율은 중동발 지정학적 불확실성 경계와 달러 실수요 저가매수 유입에 1410원대 후반을 중심으로 상승 압력을 받을 전망이다. 다만 외국인의 국내 증시 순매수에 따른 역외 커스터디...",
+          "pubDate": "Tue, 18 Aug 2026 08:16:00 +0900"
         },
         {
-          "title": "[주간증시전망] 물가 우려 덜었지만… FOMC 의사록·국채 입찰 변수",
-          "source": "biz.chosun.com",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/08/17/3FSP7M6TTJBGRDMJDC5BVYHL4A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "description": "외환시장에서는 원·달러 환율의 하방 지지력 확인이 이뤄질 전망이다. 최근 원·달러 환율은 외국인 매도세 약화, SK하이닉스 미국주식예탁증서(ADR) 자금 유입 등으로 1417원대까지 낮아졌다. 하지만 증권업계에서는 원...",
-          "pubDate": "Mon, 17 Aug 2026 06:01:00 +0900"
+          "title": "[뉴욕마켓워치] 안 멈추는 장기금리…주식·채권·달러 이틀째 '트리플...",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430443",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 159.463엔으로, 전장 뉴욕장 마감 가격 159.363엔보다 0.100엔(0.063%) 상승했다. 터틀 캐피털 매니지먼트의 매슈 터틀...",
+          "pubDate": "Tue, 18 Aug 2026 08:12:00 +0900"
         },
         {
-          "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
+          "title": "[오늘증시]코스피 7000선 다시 넘나…美증시 하락에도 반도체는 '질주'",
+          "source": "namdonews.com",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=920248",
+          "description": "MSCI 한국 상장지수펀드(ETF)가 2.98% 올랐고, 서울 외환시장에서 달러·원 환율은 17일 야간시장 기준 1천416.20원으로 하락했다. 서상영 미래에셋증권 연구원은 \"앤트로픽이 메모리 반도체 강세를 이끈 직접적 계기...",
+          "pubDate": "Tue, 18 Aug 2026 08:06:00 +0900"
+        },
+        {
+          "title": "[오늘의 증시]美증시 하락 속 반도체 강세…코스피, 7000선 안착 시험대",
           "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749956",
-          "description": "한국 경제의 기초 체력이 뒷받침하는 상황에서 국내 외환시장의 수급 개선이 이뤄지며 최근 환율은 크게 하락했다. SK하이닉스가 ADR 상장으로 조달한 달러를 원화로 바꾸는 과정에서 환율에 상당한 하락 압력이 가해진...",
-          "pubDate": "Mon, 17 Aug 2026 06:00:00 +0900"
+          "url": "https://www.newsis.com/view/NISX20260818_0003751783",
+          "description": "서울 외환시장에서 달러·원 환율은 지난 14일 1418.30원에 마감했고, 지난 17일 야간시장에서는 1416.20원으로 낮아졌다. 서상영 미래에셋증권 연구원은 \"메모리 반도체 강세의 직접적인 촉매는 앤트로픽\"이라며 \"AI...",
+          "pubDate": "Tue, 18 Aug 2026 07:45:00 +0900"
         },
         {
-          "title": "[뉴욕증시 주간전망] AI 전력난·달러 딜레마 속 월마트·바이두 실적 주...",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202608170546151000e250e8e188_1",
-          "description": "한편, 외환시장에서는 미국 달러화가 유가 급등과 연준의 완화적 기조 사이에서 딜레마에 직면했다.... 여기에 미 재무부의 환율 관리 기조까지 맞물리며 향후 통화정책과 유가 흐름에 따른 달러화 변동성이 한층...",
-          "pubDate": "Mon, 17 Aug 2026 05:50:00 +0900"
-        },
-        {
-          "title": "달러·엔 160엔 돌파 땐 신뢰 추락…165엔 간다",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=2026081621550889489a1f309431_1",
-          "description": "결국 160엔은 단순한 환율 수준을 넘어 일본 외환정책에 대한 시장의 신뢰를 시험하는 경계선으로 부상하고 있다. 160엔을 넘어선 뒤 당국이 어떻게 대응하느냐에 따라 엔화가 다시 강세로 돌아설지, 아니면 달러당...",
-          "pubDate": "Mon, 17 Aug 2026 03:02:00 +0900"
+          "title": "美 증시, 미·이란 갈등 지속·유가 급등에 하락 마감-[글로벌 마감 시황...",
+          "source": "wowtv.co.kr",
+          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608180385&t=NN",
+          "description": "(환율) 이번엔 외환시장으로 가보시죠. 달러는 지난주 미국의 소매판매가 예상 밖으로 급감하며 약세 압력을 받았는데요. 부진한 소매판매 데이터가 발표되자, 연준이 9월에 금리인상을 단행하지 않을 거란 시장의...",
+          "pubDate": "Tue, 18 Aug 2026 07:27:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "8월 17일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. munhwa.com, theguru.co.kr, news1.kr 등에서 보도되었으며, 다시, 11, 지금은 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 18일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. newsroad.co.kr, biz.sbs.co.kr, newspim.com 등에서 보도되었으며, 하락, 뉴욕증시, 국채금리 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "“금 지금은 괜찮을까?” 개미들, 4개월만에 다시 금 ‘사자’…추세 전...",
-          "source": "munhwa.com",
-          "url": "https://www.munhwa.com/article/11609865?ref=naver",
-          "description": "금은 이자나 배당이 없는 자산이어서 금리가 높을 때는 예금·채권에 밀리지만, 금리 인상 기조가 꺾이면 자금이 다시 유입되는 경향이 있다. 지난 13일 기준 국제 금 선물 가격은 온스당 4420.40달러로 지난달 말(4049....",
-          "pubDate": "Mon, 17 Aug 2026 07:35:00 +0900"
+          "title": "국제유가·국채금리 동반 급등에 뉴욕증시 하락…AI·반도체주는 선방",
+          "source": "newsroad.co.kr",
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=62975",
+          "description": "채권 금리의 기준 역할을 하는 30년 만기 미 국채 금리는 5.31%까지 치솟아 2007년 이후 19년 만의 최고 수준을 기록했다. 10년 만기 미 국채 금리도 3bp(1bp=0.01%포인트) 상승한 4.73%를 나타냈다. 금리 급등은 주식의 상대...",
+          "pubDate": "Tue, 18 Aug 2026 08:14:00 +0900"
         },
         {
-          "title": "BAT, 15억弗 규모 달러채 발행...기존 채무 차환 목적",
-          "source": "theguru.co.kr",
-          "url": "https://www.theguru.co.kr/news/article.html?no=105721",
-          "description": "이번 달러채는 △2033년 만기·표면금리 5.3% 채권 7억5000만 달러 △2036년 만기·표면금리 5.55% 채권 7억5000만 달러 등 두 개의 트랜치(단계별 분할 투자)로 나뉘어 발행됐다. 해당 채권은 모회사인 BAT를 비롯해 BAT...",
-          "pubDate": "Mon, 17 Aug 2026 07:02:00 +0900"
+          "title": "[굿모닝 마켓] 뉴욕 증시, 협상 난항·유가 상승에 동반 하락 마감",
+          "source": "biz.sbs.co.kr",
+          "url": "https://biz.sbs.co.kr/article_hub/20000329116?division=NAVER",
+          "description": "오늘 시장이 특히 주목했던 것은 채권 ���리였습니다. 국채 금리에 가장 큰 영향을 주고 있는 것은 미국의 재정적자고요. 여기에 AI 투자 붐에 따른 회사채 발행 증가까지 겹치면서 장기물 금리 위주로 매도세가 이어지고...",
+          "pubDate": "Tue, 18 Aug 2026 08:11:00 +0900"
         },
         {
-          "title": "\"이제 다시 금 사야 하나\"…금값 한 달 만에 11% 반등",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/general-stock/6260648",
-          "description": "올해 초에는 채권금리 상승과 달러 강세가 겹친 데다, 기준금리 인상 전망까지 나오면서 안전자산 수요가 미국채·달러로 이동해 금값이 급락했다. 하지만 당초 증가할 것으로 예상됐던 미국의 7월 비농업 부문...",
-          "pubDate": "Mon, 17 Aug 2026 06:00:00 +0900"
+          "title": "[미국 특징주] MS 임차 데이터센터 채권, 정크급 수익률에 수요 몰려",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260818000040",
+          "description": "마이크로소프트 로고 [사진=블룸버그통신] 해당 5년 만기 채권은 표면금리 6%대 후반 수준에서 제시되고 있다. 할인 발행을 통해 수익률은 7%대 초중반까지 높아질 것으로 예상된다고 소식통이 전했다. 해당 채권은...",
+          "pubDate": "Tue, 18 Aug 2026 08:07:00 +0900"
         },
         {
-          "title": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
-          "source": "seoul.co.kr",
-          "url": "https://www.seoul.co.kr/news/economy/finance/2026/08/17/20260817031004?wlog_tag3=naver",
-          "description": "외국인 자금이 미국으로 이동하면 국내 채권금리가 올라 기업과 가계의 자금조달 부담이 커지고, 증시에서는 주가를 끌어내리는 요인이 된다. 자금 이탈로 원달러 환율까지 오르면 수입물가 상승을 통해 국내 물가를...",
-          "pubDate": "Mon, 17 Aug 2026 05:04:00 +0900"
+          "title": "미·이란 휴전 협상 시한 종료…중동 긴장에 뉴욕증시 하락[뉴스새벽배...",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/news/newspath.asp?newsid=02574806645548632",
+          "description": "채권 금리의 벤치마크 역할을 하는 미 30년 만기 국채 금리는 5.31%로 2007년 이후 19년 만에 최고 수준으로 치솟았고, 10년 만기 미 국채 금리도 3bp(1bp=0.01%포인트) 오른 4.73%를 나타내 -한편 원유 공급 차질 우려 속에...",
+          "pubDate": "Tue, 18 Aug 2026 08:00:00 +0900"
         },
         {
-          "title": "워시 향한 불신 수익률 곡선을 일으켜 세웠다",
-          "source": "hani.co.kr",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1273179.html",
-          "description": "수익률 곡선은 채권 금리를 만기별로 구분해 짧은 만기부터 긴 만기까지 나열해 연결한 곡선이다. 금리의 기간구조라고도 일컬어지는 수익률 곡선은 그 자체로 자금 운용에서 중요하게 활용되나 경기 여건을 예측하는...",
-          "pubDate": "Mon, 17 Aug 2026 05:02:00 +0900"
+          "title": "美30년물 국채금리, 19년 만에 최고...뉴욕증시, 일제히 하락[데일리국...",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20080178?ref=naver",
+          "description": "채권 금리의 벤치마크 역할을 하는 미 30년 만기 국채 금리는 5.31%로 2007년 이후 19년 만에 최고 수준으로 치솟았다. 10년 만기 미 국채 금리도 3bp(1bp=0.01%포인트) 오른 4.73%를 나타냈다. 다만 인공지능(AI) 관련...",
+          "pubDate": "Tue, 18 Aug 2026 07:47:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "8월 17일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. asiatime.co.kr, etnews.com, news1.kr 등에서 보도되었으며, 한화생명, KDB생명, 주인 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 18일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. asiatime.co.kr, etnews.com, news1.kr 등에서 보도되었으며, 한화생명, KDB생명, 주인 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "공개매각 앞둔 롯데손보…'유력 원매자' 한투 이탈에 '비상'",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "8월 17일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, news.dealsitetv.com, nocutnews.co.kr 등에서 보도되었으며, 과학고, 1858명, 선발 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 18일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. ajunews.com, viva100.com, mbn.co.kr 등에서 보도되었으며, 15, NH, SK스퀘어 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "전국 과학고 1858명 선발 '역대 최대'",
+          "title": "NH證 \"SK스퀘어, SK하이닉스 주가 조정 반영…목표가↓\"",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260818081205281",
+          "description": "향후 삼성전자와 SK하이닉스의 주주환원 정책이 공개되면 반도체 업종 전반의 투자심리가 회복되며 SK스퀘어의 주가 반등으로 이어질 것으로 분석했다. 안 연구원은 \"지난 주가 상승 국면에서 SK스퀘어가...",
+          "pubDate": "Tue, 18 Aug 2026 08:22:00 +0900"
+        },
+        {
+          "title": "대기업 신규채용 15.3% 감소…50세 이상 고용 비중이 30세 이하 첫 추월",
+          "source": "viva100.com",
+          "url": "https://www.viva100.com/article/20260818500039",
+          "description": "전반적인 신규 채용 위축 속에서도 반도체, 바이오, 방산 등 호황을 맞은 성장 산업에서는 청년층... 7% 증가했다. 삼성바이오로직스는 205명에서 484명으로 136.1% 늘어난 것으로 집계됐다.",
+          "pubDate": "Tue, 18 Aug 2026 08:22:00 +0900"
+        },
+        {
+          "title": "롤러코스피 쓴맛 본 개미들, 코스닥으로 미국장으로",
+          "source": "mbn.co.kr",
+          "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213019",
+          "description": "삼성전자나 SK하이닉스 같은 대형 반도체주까지 급등락을 거듭하자 고점에 물린 개미들이 잇따라 고통을 호소하고 있는 겁니다. ▶ 스탠딩 : 장동건 / ��자 - \"과도한 등락을 막는 안전장치인 사이드카가 지난 6월...",
+          "pubDate": "Tue, 18 Aug 2026 08:21:00 +0900"
+        },
+        {
+          "title": "'7천피' 코앞 코스피, 미 금리·유가 악재 뚫고 '반도체 랠리' 이어갈까",
+          "source": "jnilbo.com",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000057376",
+          "description": "또 메모리 반도체 업체 샌디스크가 긍정적인 실적 전망을 내놓으면서 13.7% 급등했고 마이크론 테크놀로지도 4.2% 상승했다. 이에 삼성전자와 SK하이닉스가 각각 2.43%, 3.26% 올랐다. 두 종목 모두 4거래일 연속...",
+          "pubDate": "Tue, 18 Aug 2026 08:21:00 +0900"
+        },
+        {
+          "title": "무디스 \"韓성장률 3.5%로 상향…\"삼전·하이닉스 대체재 없다\"",
           "source": "fnnews.com",
-          "url": "http://www.fnnews.com/news/202608170604519286",
-          "description": "카이스트는 2023학년도 삼성전자 반도체 계약학과 개설 이후 과학고 출신 진학자 수가 전반적인 증가세를 보이며 2026학년도에 최고치를 나타냈다. 앞서 원서접수를 마감한 2027학년도 전국 7개 영재학교 경쟁률도 6....",
-          "pubDate": "Mon, 17 Aug 2026 08:10:00 +0900"
-        },
-        {
-          "title": "LH, 반도체 산단 속도전…글로벌 선점 박차",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/174806",
-          "description": "삼성전자와 SK하이닉스의 대규모 투자를 끌어내 수도권에 이은 제2의 반도체 생산기지로 거듭날 예정이다. 특히 해당 부지는 대부분 국유지여서 부지 확보 및 보상 등 후속 절차가 단기간에 진행될 것으로 기대된다....",
-          "pubDate": "Mon, 17 Aug 2026 08:02:00 +0900"
-        },
-        {
-          "title": "과학고 역대 최대 1858명 선발…최상위권 '이공계냐 의대냐'",
-          "source": "nocutnews.co.kr",
-          "url": "https://www.nocutnews.co.kr/news/6563248?utm_source=naver&utm_medium=article&utm_campaign=20260817080103",
-          "description": "종로학원은 2023학년도 KAIST에 삼성전자 반도체 계약학과가 개설되는 등 이공계 인재 육성정책이 영향을 미친 것으�� 분석했다. 2026학년도 전국 20개 과학고 평균 경쟁률은 3.41대 1이었다. 최근 경쟁률은...",
-          "pubDate": "Mon, 17 Aug 2026 08:02:00 +0900"
-        },
-        {
-          "title": "내년 과학고 1858명 뽑는다…졸업생 진학 1위는 KAIST",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20260814_0003750248",
-          "description": "KAIST에 삼성전자 반도체계약학과가 개설되면서 과학고 출신 진학자 수가 늘어난 것으로 풀이된다. 연도별로는 2021학년도 383명, 2022학년도 397명, 2023학년도 406명으로 처음 400명대를 넘어섰고, 2024학년도 412명...",
-          "pubDate": "Mon, 17 Aug 2026 08:00:00 +0900"
-        },
-        {
-          "title": "[김성재 칼럼] 대규모 주주환원이 언제나 기업가치에 긍정적일까?",
-          "source": "womaneconomy.co.kr",
-          "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257361",
-          "description": "이는 삼성전자를 비롯한 대부분의 우량주가 제공하는 2%대 배당수익률보다 현저히 낮다. 이와 같은 여론이... 낸드(NAND) 플래시를 비롯한 데이터 저장관련 반도체 부문에서 경쟁 중인 샌디스크(SNDK)가 140억 달러의 추가...",
-          "pubDate": "Mon, 17 Aug 2026 08:00:00 +0900"
+          "url": "http://www.fnnews.com/news/202608180812155280",
+          "description": "AI 데이터센터 투자 확대가 고대역폭메모리(HBM)를 비롯한 고성능 메모리 수요를 끌어올리는 상황에서 삼성전자와 SK하이닉스가 구축한 공급 경쟁력이 단기간에 흔들리기 어렵다고 본 것이다. 반도체 호황의 수명도...",
+          "pubDate": "Tue, 18 Aug 2026 08:18:00 +0900"
         }
       ]
     }

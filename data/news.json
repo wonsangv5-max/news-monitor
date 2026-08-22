@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-08-21T23:25:50.294Z",
+  "updatedAt": "2026-08-22T23:22:35.929Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "8월 22일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, economist.co.kr, biz.heraldcorp.com 등에서 보도되었으며, 달러, 다음주, 뉴욕마켓워치 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 23일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. biz.newdaily.co.kr, sidae.com, tfmedia.co.kr 등에서 보도되었으며, 환율, 1300원대, 달러 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[뉴욕마켓워치] 베선트가 촉발한 비트코인·금 랠리…주식↑채권·달러...",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431323",
-          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.003엔으로, 전장 뉴욕장 마감 가격 159.118엔보다 0.115엔(0.072%) 하락했다. 주요 6개 통화에 대한...",
-          "pubDate": "Sat, 22 Aug 2026 08:20:00 +0900"
+          "title": "백투백이냐 숨고르기냐 … 기로에 선 한은 8월 금통위",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100200.html",
+          "description": "무엇보다 원·달러 환율이 최근 1380원대까지 하락하면서 원화 약세에 따른 수입물가 상승과 외환시장 불안에 대응하기 위한 추가 금리 인상의 필요성이 크게 낮아졌다. 한때 1560원대에 육박했던 환율이 빠르게 내려온...",
+          "pubDate": "Sun, 23 Aug 2026 08:00:00 +0900"
         },
         {
-          "title": "주가는 뛰는데 원화는 왜 약할까…달라진 ‘코리아 디스카운트’의 얼...",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202608190013",
-          "description": "더 나아가 국내 주식시장의 랠리에도 불구하고, 국내 투자자들의 해외 주식 매수가 상반기에만 485억6000만달러에 이른 것도 환율 상승 요인으로 작용했다. 결국 주식시장과 외환시장을 움직이는 힘이 달라진 셈이다....",
-          "pubDate": "Sat, 22 Aug 2026 08:01:00 +0900"
+          "title": "환율 1300원대 진입…\"단기적 하락 모멘텀\"",
+          "source": "sidae.com",
+          "url": "https://www.sidae.com/article/2026082114083873993",
+          "description": "21일 서울 외환시장에서 원/달러 환율은 1380원대에서 등락하고 있다. 지난 19일에는 주간 거래 종가 기준 1388.49원까지 떨어지며 1400원선을 밑돌았다. 원/달러 환율이 1400원 아래로 내려온 것은 지난해 9월 이후 약 11개월...",
+          "pubDate": "Sun, 23 Aug 2026 08:00:00 +0900"
         },
         {
-          "title": "중소기업들 ‘빚 못갚는 비율’ 10년來 최고, 수출 채산성 문제도 ‘경...",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10848478?ref=naver",
-          "description": "지난 21일 서울 외환시장에서 원·달러 환율은 전 거래일보다 6.1원 내린 1386.5원으로 주간 거래를 마쳤다. 지난해 9월 17일 이후 약 11개월 만에 가장 낮은 수준이다. 지난 6월만 해도 월중 평균 환율이 1520원을...",
-          "pubDate": "Sat, 22 Aug 2026 08:01:00 +0900"
+          "title": "금융연 \"美日외환개입에 엔캐리 청산 우려…모니터링 필요\"",
+          "source": "tfmedia.co.kr",
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=206648",
+          "description": "\"日 금리 인상·엔화 강세…대규모 청산 가능성은 제한적\"  미·일 외환시장 개입으로 엔화 약세 기대가... 보고서에 따르면 엔화가 강세를 보이면 원화와 엔화의 동조화에 따라 원/달러 환율 상방압력이 완화될 수 있다....",
+          "pubDate": "Sun, 23 Aug 2026 07:10:00 +0900"
         },
         {
-          "title": "[뉴욕환시] 달러, 국채금리·유가 상승에도 약보합…바이백 여파 지속",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431308",
-          "description": "달러인덱스 장중 흐름[출처: 연합인포맥스] 연합인포맥스(화면번호 6411)에 따르면 21일 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.003엔으로, 전장 뉴욕장 마감 가격 159.118엔보다 0.115엔(0....",
-          "pubDate": "Sat, 22 Aug 2026 07:20:00 +0900"
+          "title": "1400원대 깨진 원/달러 환율, 삼성·LG 부품사 하반기 실적 악재에 더 노...",
+          "source": "businesspost.co.kr",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445313",
+          "description": "23일 서울 외환시장에 따르면 원/달러 환율은 21일 한때 1380.5원까지 떨어지며 2025년 9월 말 이후 약 11개월 만에 1300원대에서 움직이고 있다. 미국 중앙은행(Fed)이 오는 9월 기준금리를 인상하지 않을 가능성이 높다는...",
+          "pubDate": "Sun, 23 Aug 2026 06:02:00 +0900"
         },
         {
-          "title": "[다음주 환율전망] 1380원대까지 내려온 환율…다음주 '잭슨홀'이 방향...",
-          "source": "goodkyung.com",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=290517",
-          "description": "외환시장에서는 최근 환율이 단기간에 1300원대 후반까지 내려온 만큼 추가 하락 속도는 이전보다 완만해질 가능성에도 무게를 둔다. 1400원 아래에서 대기 중인 결제수요가 하단을 지지하는 상황에서 미국 국채금리와...",
-          "pubDate": "Sat, 22 Aug 2026 07:00:00 +0900"
+          "title": "1300원대 내려온 원·달러 환율…저점 더 낮출까[주간외환전망]",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01088966645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "description": "원·달러 환율이 1300원대에 진입한 가운데, 다음주에는 1400원선을 중심으로 등락을 이어갈 것으로 보인다.... 주요 6개 통화에 대한 달러 가치를 반영하는 달러인덱스(DXY)는 21일 뉴욕외환시장에서 0.05% 하락한 98.83을...",
+          "pubDate": "Sun, 23 Aug 2026 06:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "8월 22일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. tokenpost.kr, sateconomy.co.kr, mediapen.com 등에서 보도되었으며, 증시, 18, 10년물 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 23일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. g-enews.com, kbmaeil.com, it.chosun.com 등에서 보도되었으며, 재무부, 바이백, 개입 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "미 10년물 4.5% 넘자 증시 압박 전망",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/395430",
-          "description": "미국 장기금리는 글로벌 달러 자금의 기준선이고, 국내 금융시장도 채권금리와 환율, 위험자산 선호를 함께 반영한다. 앞서 본지도 [비트코인과 금이 미국 채권시장과 달러 흐름을 함께 반영한 움직임](https://www....",
-          "pubDate": "Sat, 22 Aug 2026 08:20:00 +0900"
+          "title": "미 재무부 바이백 개입 무색 '국채 안정화 실패' 신호",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=2026082307450836242bd56fbc3c_1",
+          "description": "야후파이낸스 등이 인용한 국제 금융시장 전문가들은 오는 9월 9일 이후 실제 바이백 낙찰 결과가 나오기 전까지 인플레이션 지표와 대규모 회사채 발행 규모가 채권 금리의 향방을 가를 주요 변수가 될 것으로 내다보고...",
+          "pubDate": "Sun, 23 Aug 2026 07:50:00 +0900"
         },
         {
-          "title": "27일 금통위, 가계부채·은행 실적도 나온다",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/395431",
-          "description": "기준금리 결정뿐 아니라 물가, 성장, 금융안정 상황을 함께 검토하기 때문에 채권금리와 대출금리, 원화 유동성 판단의 기준점으로 활용된다. 이번 주간 일정은 기준금리 결정, 성장률·물가 전망, 가계부채 통계를 한...",
-          "pubDate": "Sat, 22 Aug 2026 08:20:00 +0900"
+          "title": "이번주 뉴욕증시 ‘3대 분수령’…엔비디아·PCE·워시 잭슨홀",
+          "source": "kbmaeil.com",
+          "url": "https://www.kbmaeil.com/article/20260823500019",
+          "description": "장기 채권시장이 스스로 금리를 끌어올리고 있기 때문에 연준이 서둘러 정책금리를 인상할 필요성이 줄어든다는 시각이다. 그러나 베선트 장관이 국채 바이백을 확대해 장기금리를 인위적으로 낮추는 방향으로...",
+          "pubDate": "Sun, 23 Aug 2026 07:48:00 +0900"
         },
         {
-          "title": "NH농협손해보험, 순익 18% 줄었지만 보험손익 8배…'본업 체력' 달라졌다",
-          "source": "sateconomy.co.kr",
-          "url": "http://sateconomy.co.kr/news/view/1065567487135122",
-          "description": "금리 상승에 따른 채권 평가손익 감소와 지난해 채권 교체매매에 따른 기저효과가 영향을 미쳤다. 반대로 보험손익은 95억원에서 805억원으로 늘었다. 1년 사이 8배를 넘어섰다. 보험금 예실차가 개선되고 신계약이...",
-          "pubDate": "Sat, 22 Aug 2026 08:02:00 +0900"
+          "title": "고금리에도 빛나는 金… 금ETF 수익률도 '쑥'",
+          "source": "it.chosun.com",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168599",
+          "description": "금은 이자를 지급하지 않는 자산이어서 금리가 상승하면 채권 등 이자 자산의 상대적인 투자 매력이 높아지기 때문이다. 그러나 최근에는 장기금리 상승의 배경에 있는 미국 재정 부담과 국채 공급 확대 우려가...",
+          "pubDate": "Sun, 23 Aug 2026 07:00:00 +0900"
         },
         {
-          "title": "[美증시 특징주] 희토류업체 주가 불기둥…원자재 가격급등 '모멘텀'",
-          "source": "mediapen.com",
-          "url": "https://www.mediapen.com/news/view/1118176",
-          "description": "특히 최근 미국 재무부가 장기국채 금리 급등(채권가격 급락)에 대한 대책으로 국채 바이백 규모를 최소 2배 이상 확대한다고 발표하면서 미 달러화 인덱스가 급락했다. 달러 가치가 떨어지면서 달러로 거래되는 구리...",
-          "pubDate": "Sat, 22 Aug 2026 07:28:00 +0900"
+          "title": "삼성전자·SK하이닉스↑ 알테오젠·에코프로↓ 코스피 웃고 코스닥 울었...",
+          "source": "cbci.co.kr",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=600149",
+          "description": "특히 최근 국내 증시의 하루 변동폭이 크게 확대된 상황인 만큼 미국 경제지표 발표를 전후한 해외 증시와 채권금리 등의 움직임도 주목할 대목이다. 매도 사이드카와 매수 사이드카가 교차한 한 주를 지나 코스피는...",
+          "pubDate": "Sun, 23 Aug 2026 07:00:00 +0900"
         },
         {
-          "title": "美 국채금리 상승에도 뉴욕증시 반등…서비스업 호조에 저가 매수",
-          "source": "newsian.co.kr",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=94068",
-          "description": "다만 채권시장에서는 금리 상승세가 이어졌다. 스콧 베선트 미국 재무부 장관이 국채 바이백 확대 가능성을 언급했지만 재정적자와 인플레이션에 대한 우려가 지속됐다. 30년물 국채금리는 1bp 오른 5.28...",
-          "pubDate": "Sat, 22 Aug 2026 07:20:00 +0900"
+          "title": "미 국채금리 상승 '나비효과'…모기지부터 주식까지 압박",
+          "source": "thefairnews.co.kr",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85839",
+          "description": "국채를 비롯한 채권과 고금리 저축상품에서 얻을 수 있는 이자 수익이 증가하기 때문이다. 주식과 금, 가상자산 등에는 부담 요인으로 작용할 수 있다. 안전자산으로 평가받는 미국 국채가 높은 수익률을 제공할 경우...",
+          "pubDate": "Sun, 23 Aug 2026 06:48:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "8월 22일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. lkp.news, ftoday.co.kr, ekoreanews.co.kr 등에서 보도되었으며, 삼성생명, 투자손익으로, 상반기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 23일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. lkp.news, ftoday.co.kr, ekoreanews.co.kr 등에서 보도되었으며, 삼성생명, 투자손익으로, 상반기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "삼성생명, 투자손익으로 상반기 실적 방어... 하반기 전략은?",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "8월 22일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. yna.co.kr, slist.kr, pointe.co.kr 등에서 보도되었으며, 본격화, 삼전닉스, 앤트로픽 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 23일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. tokenpost.kr, dailian.co.kr, economist.co.kr 등에서 보도되었으며, 40조, 자사주, 매입 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "앤트로픽, 구글 출신 반도체 전문가 영입…자체 칩 개발 본격화",
-          "source": "yna.co.kr",
-          "url": "https://www.yna.co.kr/view/AKR20260822016000091?input=1195m",
-          "description": "앤트로픽은 지난 6월 오픈AI의 맞춤형 칩 초기 구성원이었던 클라이브 찬을 영입했고, 삼성전자의 파운드리(반도체 수탁생산) 사업부와도 협의하고 있는 것으로 알려졌다. 다만 앤트로픽은 자체 칩 개발을...",
-          "pubDate": "Sat, 22 Aug 2026 08:21:00 +0900"
+          "title": "40조 자사주 매입, 세수 800억원 단순계산",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/policy/395824",
+          "description": "당시 쟁점이 반도체 호황기 기업의 자본 배분이었다면, 이번에는 같은 주주환원이 정부 세입 구조에도 연결된다는 점이 부각됐다. SK하이닉스의 자사주 취득은 11월 19일까지, 삼성전자의 자사주 취득은 11월 21일까지...",
+          "pubDate": "Sun, 23 Aug 2026 08:02:00 +0900"
         },
         {
-          "title": "서학개미, '삼전닉스' 라운드힐 ETF 한주간 1천억 샀다",
-          "source": "slist.kr",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=760486",
-          "description": "라운드힐 메모리는 삼성전자, SK하이닉스, 마이크론 등 메모리 반도체 기업에 집중적으로 투자하는 미국 상장 액티브 ETF다. 한동안 주춤하던 반도체 기업의 주가가 최근 국내외 증시에서 회복세를...",
-          "pubDate": "Sat, 22 Aug 2026 08:20:00 +0900"
+          "title": "삼전닉스 채권 혼합형 줄등장…ETF 3종목 신규 상장",
+          "source": "dailian.co.kr",
+          "url": "https://www.dailian.co.kr/news/view/1680972/?sc=Naver",
+          "description": "한국투자신탁운용의 ‘ACE 삼성전자SK하이닉스플러스채권혼합50’은 삼성전자·SK하이닉스에 각 20%, 인공지능(AI) 반도체 관련 추가 1종목에 10% 비중을 부여한다. 나머지 50%는 국고 통안채에 투자하는 채권 혼합형...",
+          "pubDate": "Sun, 23 Aug 2026 08:01:00 +0900"
         },
         {
-          "title": "[오늘 일본은] 日 쌀값 5㎏ 3191엔…2주 만에 하락",
-          "source": "pointe.co.kr",
-          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=83420",
-          "description": "특히 삼성전자가 올해 110조원 규모의 주주환원 계획을 발표하면서 전날 SK하이닉스의 40조원 규모 자사주 취득·소각 계획에 ��어 반도체 대형주로 매수세가 집중됐다. 기관은 유가증권시장에서 약 2487억원을...",
-          "pubDate": "Sat, 22 Aug 2026 08:14:00 +0900"
+          "title": "'공장만 지으면 끝?'...메가특구 성패 '소부장·인력'에 달려",
+          "source": "economist.co.kr",
+          "url": "https://economist.co.kr/article/view/ecn202608180046",
+          "description": "정부가 반도체를 비롯한 첨단산업의 지방 거점 구축에 속도를 내면서 소재·부품·장비(소부장)와 협력업체들의 셈법도 복잡해지고 있다. 삼성전자·SK하이닉스 등 대기업의 대규모 투자가 지방에서 이뤄지더라도 이들과...",
+          "pubDate": "Sun, 23 Aug 2026 08:01:00 +0900"
         },
         {
-          "title": "아파트 경비부터 제철소까지…IT서비스업계 ‘피지컬 AI’ 본격화",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202608210108",
-          "description": "포스코DX는 이달 국산 AI 반도체인 신경망 처리 자치(NPU)를 활용한 산업현장용 비정형 데이터 분석 플랫폼을... ◇ 삼성SDS, 로봇까지 품는다…‘피지컬 AI’ 사업 본격화 삼성SDS도 피지컬 AI를 차세대 사업 영역으로...",
-          "pubDate": "Sat, 22 Aug 2026 08:02:00 +0900"
+          "title": "[주간금융이슈] 한은, 금리 또 인상할까…27일 통화정책방향 회의 관심",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260821000673",
+          "description": "반면 김지만 삼성증권 연구원은 \"추가 인상 시점을 10월로 보는 기존 전망을 유지한다\"며 \"환율 하락과... 예상되는 반도체 사이클 속 한국은행의 기준금리 종착지가 어디일지\"라며 \"이번 금통위 회의에서 공개될 2027년...",
+          "pubDate": "Sun, 23 Aug 2026 08:00:00 +0900"
         },
         {
-          "title": "쏠림 심화하는 코스피…'삼전닉스 베팅' 상품은 계속",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202608210113",
-          "description": "국내 증시에서 반도체 대형주 쏠림 현상이 다시 커지는 가운데, 삼성전자·SK하이닉스(삼전닉스)의 주주환원 수혜에 베팅하는 금융상품까지 등장했다. 완화되는 흐름을 보이던 두 종목의 코스피 시가총액 비중은...",
-          "pubDate": "Sat, 22 Aug 2026 08:02:00 +0900"
+          "title": "[인터뷰] '최고민수' 박민수 \"코스피 1만 간다, 지금은 반도체의 시간\"",
+          "source": "weekly.chosun.com",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=54523",
+          "description": "엔비디아의 고성능 AI 서버와 중앙처리장치(CPU) 및 그래픽처리장치(GPU) 수요가 쏠리는 만큼 여기에 고대역폭메모리(HBM) 등을 제조·공급하는 삼성전자와 SK하이닉스의 반도체 수요도 폭증하는 구조다. \"미국도, 한국도...",
+          "pubDate": "Sun, 23 Aug 2026 08:00:00 +0900"
         }
       ]
     }

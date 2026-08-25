@@ -1,97 +1,111 @@
 {
-  "updatedAt": "2026-08-24T23:23:50.646Z",
+  "updatedAt": "2026-08-25T23:26:03.030Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "8월 25일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, hankyung.com, magazine.hankyung.com 등에서 보도되었으며, 달러, 환율, 이란 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 26일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. the-biz.co.kr, news.einfomax.co.kr, bigtanews.co.kr 등에서 보도되었으며, 달러, 이란, 유가 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[뉴욕마켓워치] 반도체주 덮친 AI 비용 우려…달러↑주식·채권 혼조",
+          "title": "유가·금리 함께 내렸다… 원/달러, 월말 네고 업고 1370원대 노크",
+          "source": "the-biz.co.kr",
+          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=726813",
+          "description": "서울 외환시장에서 26일 원/달러 환율은 중동발 지정학적 불확실성 완화와 글로벌 달러 약세를 반영해 1370원대 진입을 시도할 전망이다. 국제유가와 미국 국채금리가 동반 하락한 가운데 월말 수출업체의 네고(달러 매도)...",
+          "pubDate": "Wed, 26 Aug 2026 08:16:00 +0900"
+        },
+        {
+          "title": "[외환] 증시 호조·이란 긴장 완화 조짐에 1,380원대 초반대로",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431572",
-          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 159.164엔으로, 전장 뉴욕장 마감가 159.003엔 대비 0.161엔(0.101%) 상승했다. 달러-엔은 뉴욕 장중 대체로 159엔...",
-          "pubDate": "Tue, 25 Aug 2026 08:10:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431780",
+          "description": "26일 외환시장에서 달러-원 환율은 오전 6시 현재 전일 서울장 종가(1,386.10원) 대비 3.40원 하락한 1,382.70원에 거래됐다. 24시간 전인 전일 오전 6시 종가(1,383.20원) 대비로는 0.50원 내렸다. 달러-원 환율은 전일...",
+          "pubDate": "Wed, 26 Aug 2026 08:12:00 +0900"
         },
         {
-          "title": "환율 13달 만에 최저…환헤지·환노출 ETF 투자자 '희비' [분석+]",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/2026082492446",
-          "description": "서울외환시장에서 전날 원·달러 환율은 전 거래일 대비 4.1원 하락한 1382.4원에 주간거래를 마쳤다. 이는 주간거래 종가 기준 지난해 7월30일(1383.1원) 이후 가장 낮은 수준이다. 이 같은 기조가...",
-          "pubDate": "Tue, 25 Aug 2026 08:01:00 +0900"
-        },
-        {
-          "title": "1600원 바라보던 환율,1300원대로 떨어진 3가지 이유",
-          "source": "magazine.hankyung.com",
-          "url": "https://magazine.hankyung.com/business/article/202608201560b",
-          "description": "8월 19일 서울외환시장에 따르면 원·달러 환율은 전 거래일보다 1.70원 오른 1413.5원에 개장했지��� 곧바로 하락 전환해 낮 12시 2분쯤 1399.0원까지 떨어졌다. 외환위기와 글로벌 금융위기 이후 가장 높게 치솟았던 환율이...",
-          "pubDate": "Tue, 25 Aug 2026 07:59:00 +0900"
-        },
-        {
-          "title": "중국 동참 없이는 놀랍지도 않은 ‘이란 왕따’ [트럼프 스톡커]",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20082817?ref=naver",
-          "description": "24일 비공식 외환시장이 개장하자마자 이란 리알화는 달러당 202만 리알까지 떨어지며 사상 최저치를 경신했다. 이란 중앙은행이 고시한 공식 환율은 달러당 약 150만 리알 수준이지만, 대부분의 국민들은 비공식 시장의...",
-          "pubDate": "Tue, 25 Aug 2026 07:57:00 +0900"
-        },
-        {
-          "title": "[뉴욕환시] 달러 상승…'美와 관세전쟁' 加달러 급락 속 이란 고립 작전",
+          "title": "[뉴욕마켓워치] 美·이란, 설마 '깜짝' 합의하나…주식·채권↑달러↓",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431569",
-          "description": "연합인포맥스(화면번호 6411)에 따르면 24일 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.164엔으로, 전장 뉴욕장 마감가 159.003엔 대비 0.161엔(0.101%) 상승했다. 달러-엔은 뉴욕 장중 대체로...",
-          "pubDate": "Tue, 25 Aug 2026 07:56:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431770",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 25일 ���후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.143엔으로, 전장 뉴욕장 마감가 159.164엔 대비 0.021엔(0.013%) 하락했다. 달러-엔은 유럽...",
+          "pubDate": "Wed, 26 Aug 2026 07:56:00 +0900"
+        },
+        {
+          "title": "[뉴욕환시] 달러 하락…美·이란 긴장 완화 조짐 속 막판 '합의설'",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431769",
+          "description": "연합인포맥스(화면번호 6411)에 따르면 25일 오후 4시 현재(이하 미 동부시각) 뉴욕 외환시장에서 달러-엔 환율은 159.143엔으로, 전장 뉴욕장 마감가 159.164엔 대비 0.021엔(0.013%) 하락했다. 달러-엔은 유럽 장중 159.5엔...",
+          "pubDate": "Wed, 26 Aug 2026 07:46:00 +0900"
+        },
+        {
+          "title": "[데일리 머니마켓] 유가·금리 급락에 기술주 반등",
+          "source": "bigtanews.co.kr",
+          "url": "https://www.bigtanews.co.kr/article/view/big202608260002",
+          "description": "◆외환시장 달러인덱스는 약 98.96으로 보합세를 기록했다. 미국 국채금리가 하락했음에도 불구하고 시장이 이란 제재와 PCE 물가, 잭슨홀 연설을 앞두고 방향성 베팅을 줄였기 때문이다. 유로/달러 환율은 1....",
+          "pubDate": "Wed, 26 Aug 2026 07:26:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "8월 25일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. joseilbo.com, kpenews.com, wowtv.co.kr 등에서 보도되었으며, 뉴욕증시, 마감, 기술주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 26일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. biz.sbs.co.kr, news.einfomax.co.kr, youthdaily.co.kr 등에서 보도되었으며, 고금리에, 엇갈린, 희비 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "뉴욕증시, 반도체주 약세에 혼조 마감... 나스닥 0.76%↓",
-          "source": "joseilbo.com",
-          "url": "http://www.joseilbo.com/news/news_read.php?uid=574397&class=53&grp=",
-          "description": "채권시장에서는 장기물 금리가 하락했다. 미국 재무부가 장기 국채를 다시 사들이는 바이백 과정에서 재무부 일반계정(TGA)을 활용하는 방안을 검토하고 있다는 소식이 전해진 영향이다. 통상 국채금리 하락은...",
-          "pubDate": "Tue, 25 Aug 2026 08:21:00 +0900"
+          "title": "고금리에 엇갈린 희비…보험주 오르고 증권주 내리고",
+          "source": "biz.sbs.co.kr",
+          "url": "https://biz.sbs.co.kr/article_hub/20000330775?division=NAVER",
+          "description": "통상 보험사는 운용 자산의 상당 부분을 국공채 등 채권에 투자해 금리가 오르면 이자 수익이 증가합니다. 그러나 증권사는 금리가 오르면 자금이 위험 자산인 주식 대신 은행이나 채권으로 이동하기 때문에 주요...",
+          "pubDate": "Wed, 26 Aug 2026 08:23:00 +0900"
         },
         {
-          "title": "미래에셋운용, 메모리 성장성에 달러 분산 더한다..美국채 혼합 ETF 상장",
-          "source": "kpenews.com",
-          "url": "https://kpenews.com/View.aspx?No=4197617",
-          "description": "미국 기준금리가 한국보다 높은 수준을 유지하고 있는 만큼 상대적으로 높은 국채 이자수익을 확보하면서 잔존만기 1년 이하 채권을 편입해 금리 변화에 따른 채권 가격 변동성은 낮추는 구조다. 퇴직연금 계좌에서...",
-          "pubDate": "Tue, 25 Aug 2026 07:48:00 +0900"
+          "title": "수출입은행, 6.25억 카우리본드 발행…뉴질랜드로 넓힌 KP 이정표",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431781",
+          "description": "트랜치(tranche)는 5년 고정금리부채권(FXD)이다. 가산금리(스프레드)는 BKBM 미드스와프(MS)에 44bp를 더했다. 최초제시금리(IPG, 이니셜 가이던스)는 43~45bp 수준이었다. 수은은 당초 5억뉴질랜드달러 규모의 조달을 목표로...",
+          "pubDate": "Wed, 26 Aug 2026 08:20:00 +0900"
         },
         {
-          "title": "TGA가 재무부의 비상금이라는 착각...기술주에 드리운 그림자 [마켓무버...",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608250303&t=NN",
-          "description": "최근 채권 금리가 급등한 후 S&P 500 지수 구성 종목 중 10년물 ���채 금리보다 높은 배당수익률을 제공하는 기업이 4%에 불과하다는 게 네드데이비스의 지적입니다. 물론 이것은 채권시장의 매력도가 개선되고 있어서...",
-          "pubDate": "Tue, 25 Aug 2026 07:45:00 +0900"
+          "title": "500억 회사채 \"반쪽 흥행\"…롯데건설, 고금리 발행·증액 무산 '암운'",
+          "source": "youthdaily.co.kr",
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=225626",
+          "description": "이에 1년물 금리는 민간채권평���사 4곳이 평가한 민평금리보다 30bp 높게 확정됐다. 1.5년물(제156-2회)은 민평 수준(0bp)에 맞췄지만, 해당 가격대 주문이 모집액과 같은 200억원에 그치며 최대 1천억원까지 열어뒀던...",
+          "pubDate": "Wed, 26 Aug 2026 08:02:00 +0900"
         },
         {
-          "title": "[3분증시] 뉴욕증시, 혼조세 마감…기술주 약세",
-          "source": "yonhapnewstv.co.kr",
-          "url": "http://www.yonhapnewstv.co.kr/news/MYH20260825074159y7y",
-          "description": "채권 금리에 대한 부담이 줄어들면서 우리 증시가 반등할 여지도 있는데요. 반도체 관련 매물이 쏟아진 미국 증시 분위기를 어느 정도 극복할 수 있을지 지켜봐야겠습니다.",
-          "pubDate": "Tue, 25 Aug 2026 07:43:00 +0900"
+          "title": "고금리에 희비 엇갈린 금융주…보험 오르고 증권 내리고",
+          "source": "yna.co.kr",
+          "url": "https://www.yna.co.kr/view/AKR20260825152900008?input=1195m",
+          "description": "통상 보험사는 운용 자산의 상당 부분을 국공채 등 채권에 투자해 금리가 오르면 이자 수익이 증가한다. 그러나 증권사는 금리가 오르면 자금이 위험 자산인 주식 대신 은행이나 채권으로 이동하기 때문에 주요...",
+          "pubDate": "Wed, 26 Aug 2026 08:00:00 +0900"
         },
         {
-          "title": "‘AI 규제 경고등’ 기술주 매도세 확산…엔비디아 7일 연속 내리막 [투...",
+          "title": "美 소비자신뢰 7개월 최저…이란전쟁 장기화에 ‘인플레 불안’ 다시 고...",
           "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10850693?ref=naver",
-          "description": "미 채권금리는 재무부가 바이백(재매입)을 위해 1조달러(한화 약 1383조원)에 육박하는 일반계정(TGA)을 활용할 수 있다는 보도에 하락했다. 미 30년물 국채 금리는 4bp(1bp=0.01%포인트) 이상 하락해 5.23%, 10년 만기물은...",
-          "pubDate": "Tue, 25 Aug 2026 07:32:00 +0900"
+          "url": "https://biz.heraldcorp.com/article/10852042?ref=naver",
+          "description": "장기물 수요를 보강해 채권 가격 하락과 금리 상승 압력을 완화하려는 것이다. 그러나 전쟁발 고유가가 인플레이션 우려를 다시 키울 경우 이 같은 정책의 효과가 제한될 수 있다. 물가가 더 오를 것이라는 전망이...",
+          "pubDate": "Wed, 26 Aug 2026 07:05:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "8월 25일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. greened.kr, ekoreanews.co.kr, sisajournal.com 등에서 보도되었으며, 한국투자금융지주, KDB생명, 167 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 26일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. investchosun.com, topdaily.kr, greened.kr 등에서 보도되었으며, 배당, 한화생명, 167 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "[Invest]'배당' 당근 뒤 '사업비' 채찍…해약준비금 개편 두고 한화생명...",
+          "source": "investchosun.com",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/08/25/2026082580190.html",
+          "description": "기본자본 킥스 비율 역시 58%로 규제선(50%)에 바짝 다가섰다. 한화생명은 실적발표 컨퍼런스콜을 통해 해약준비금 제도 개선 시 배당 재원을 확보할 수 있다는 입장을 밝힌 바 있다.올해 손보사 중 가장 가파른 순익...",
+          "pubDate": "Wed, 26 Aug 2026 07:02:00 +0900"
+        },
+        {
+          "title": "벌어도 배당 못해…밸류업 발목 잡는 ‘해약환급금준비금’",
+          "source": "topdaily.kr",
+          "url": "https://www.topdaily.kr/articles/111615",
+          "description": "신계약 증가 속도가 기준 킥스비율 완화 속도를 앞지르면서 실질적인 배당 여력 개선으로 이어지지 못하고 있는 것이다. 한화생명은 제도 도입 이후 배당을 중단했고, 현대해상도 지난해 배당을 실시하지 못했다....",
+          "pubDate": "Tue, 25 Aug 2026 08:30:00 +0900"
+        },
         {
           "title": "한화생명 K-ICS 167%… 9분기 만의 최고치 \"자본건전성 회복세\"",
           "source": "greened.kr",
           "url": "https://www.greened.kr/news/articleView.html?idxno=348301",
-          "description": "24일 <녹색경제신문> 취재를 종합하면, 올해 2분기 말 한화생명의 킥스비율은 167.0%(잠정)로 2024년 1분기(173.1%) 이후 9개 분기 만의 최고치를 기록했다. FY24~1H26 실적발표(IR) 자료와 팩트시트의 3개년 분기 시계열을...",
+          "description": "24일 <녹색경제신문> 취재를 종합하면, 올해 2분기 말 한화생��의 킥스비율은 167.0%(잠정)로 2024년 1분기(173.1%) 이후 9개 분기 만의 최고치를 기록했다. FY24~1H26 실적발표(IR) 자료와 팩트시트의 3개년 분기 시계열을...",
           "pubDate": "Mon, 24 Aug 2026 18:02:00 +0900"
         },
         {
@@ -105,63 +119,49 @@
           "title": "'보험'까지 품는 한국투자금융…미래에셋과 '종합금융 전쟁' 불붙는다",
           "source": "sisajournal.com",
           "url": "https://www.sisajournal.com/news/articleView.html?idxno=384079",
-          "description": "한국투자금융은 최근 KDB생명 인수 본입찰에서 한화���명, 흥국생명 등 기존 보험사들을 제치고... 금융 당국은 2023년부터 도입된 보험사의 재무 건전성 지표인 신지급여력제도(K-ICS, 킥스)에서 130% 이상을 권고하고 있다....",
+          "description": "한국투자금융은 최근 KDB생명 인수 본입찰에서 한화생명, 흥국생명 등 기존 보험사들을 제치고... 금융 당국은 2023년부터 도입된 보험사의 재무 건전성 지표인 신지급여력제도(K-ICS, 킥스)에서 130% 이상을 권고하고 있다....",
           "pubDate": "Mon, 24 Aug 2026 09:00:00 +0900"
-        },
-        {
-          "title": "해약준비금 엎친 데 콜옵션 덮친 교보생명, 기본자본 '속앓이'",
-          "source": "kbanker.co.kr",
-          "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=225728",
-          "description": "한화생명과 신한라이프 등 경쟁사에 비해 뒤늦게 발생했으나 증가세는 가장 가파르다. 당시 적립액은... 관련해 신지급여력제도(K-ICS·킥스)상 해약환급금준비금은 이익잉여금에 한해 기본자본으로 적립할 수 있다....",
-          "pubDate": "Mon, 24 Aug 2026 06:06:00 +0900"
-        },
-        {
-          "title": "KDB생명 우협 한국투자금융지주 선정 배경은…지원금 규모·태광 대비 높...",
-          "source": "fntimes.com",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026082317483892638a55064dd1_18",
-          "description": "KDB생명 킥스비율은 경과조치 후 기준 186.1%, 경과조치 전 기준은 74.5%다. 내년 시행될 기본자본킥스비율로는... 교보생명, 한화생명이 적극적으로 입찰에 응하지 않아 사실상 한투와 태광 2파전이었다는 전언이다....",
-          "pubDate": "Sun, 23 Aug 2026 18:12:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "8월 25일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. dt.co.kr, kbmaeil.com, pennmike.com 등에서 보도되었으며, 삼성전자, 약세, SK하이닉스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "8월 26일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. kwnews.co.kr, welfarenews.net, kbmaeil.com 등에서 보도되었으며, 반도체, 반등, 엔비디아 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[속보] 엔비디아, 삼성파운드리 위탁 추론가속기 양산 돌입…“고객사...",
-          "source": "dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12079963?ref=naver",
-          "description": "엔비디아는 그록3 LPX를 전량 삼성전자 파운드리(반도체 수탁생산) 사업부를 통해 양산하고 있다. 엔비디아는 ‘베라 루빈’ AI 시스템의 다른 핵심 제품인 에이전트 전용 중앙처리장치(CPU) ‘베라’의 고객사도...",
-          "pubDate": "Tue, 25 Aug 2026 08:21:00 +0900"
+          "title": "TV하이라이트-8월27일",
+          "source": "kwnews.co.kr",
+          "url": "https://www.kwnews.co.kr/article/20260825501895",
+          "description": "끼고 반도체 업계 부부가 지은 9억 원대 단독주택이 등장한다. 동탄1신도시에서는 셔틀과 숲, 운동 시설을 두루 갖춘 5억 원대 신혼집과 삼성전자 화성캠퍼스까지 걸어서 5분 거리인 전망 좋은 펜트하우스를 만난다. ▣KBS...",
+          "pubDate": "Wed, 26 Aug 2026 08:22:00 +0900"
         },
         {
-          "title": "삼성전자 8.7% 급락한 코스피…저가매수 시험대",
+          "title": "호남권 반도체 클러스터 범시민추진위 출범…\"320만 시민 역량 결집\"",
+          "source": "welfarenews.net",
+          "url": "https://www.welfarenews.net/news/articleView.html?idxno=210188",
+          "description": "이날 특별강연에 나선 정은승 전 삼성전자 DS부문 CTO(사장)는 호남이 갖춘 전력과 용수, 인재 등 산업 여건을 설명하며 생산·에너지·소부장을 연계한 '반도체 트라이앵글' 구축 필요성을 제시했다. 추진위 출범을 계기로...",
+          "pubDate": "Wed, 26 Aug 2026 08:22:00 +0900"
+        },
+        {
+          "title": "美 반도체 훈풍에 코스피 추가 반등 시동…엔비디아 실적 ‘분수령’",
           "source": "kbmaeil.com",
-          "url": "https://www.kbmaeil.com/article/20260825500052",
-          "description": "지수 급락은 시가총액 비중이 큰 반도체주와 삼성그룹주가 주도했다. 삼성전자는 8.70%, SK하이닉스는 3.41% 하락했다. 삼성전자우(-8.55%)와 삼성생명(-13.09%), 삼성물산(-7.84%), 삼성증권(-5.87%)도 동반 약세를 보였다....",
-          "pubDate": "Tue, 25 Aug 2026 08:20:00 +0900"
+          "url": "https://www.kbmaeil.com/article/20260826500020",
+          "description": "삼성전자의 임직원 주식보상 목적 자사주 매입과 SK하이닉스의 자사주 소각을 위한 매입이 수급에 반��된 것으로 분석된다. 한지영 키움증권 연구원은 “미국 국채금리 하락과 필라델피아 반도체지수 강세 등...",
+          "pubDate": "Wed, 26 Aug 2026 08:16:00 +0900"
         },
         {
-          "title": "로이터도 조명한 韓증시 '롤러코스피'…두 달 새 30% 급락·개미 손실 눈...",
-          "source": "pennmike.com",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=126326",
-          "description": "AI 반도체 투자 열풍 속 삼성전자와 SK하이닉스 주가가 급등하��서 개인 자금이 증시로 몰린 가운데 정부의 투자상품 규제 완화도 맞물렸다. 금융당국은 삼성전자와 SK하이닉스를 기초자산으로 하는 단일종목...",
-          "pubDate": "Tue, 25 Aug 2026 08:20:00 +0900"
+          "title": "엔비디아 '그록3' 양산…삼성 파운드리 반등 신호",
+          "source": "hansbiz.co.kr",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859589",
+          "description": "AI 반도체 수요가 GPU를 넘어 추론 전용 칩으로 다변화되는 흐름도 삼성전자에는 새로운 수주 기회가 될 수 있다는 분석이다. ▲대형 고객 잇단 확보…파운드리 적자 탈출 관심 삼성전자 파운드리는 최근 4나노 등 선단...",
+          "pubDate": "Wed, 26 Aug 2026 08:16:00 +0900"
         },
         {
-          "title": "美 반도체 약세…삼성전자·SK하이닉스 프리마켓 2% 하락",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/general-stock/6268213",
-          "description": "간밤 미국 뉴욕 증시에서는 삼성전자 급락 여파 등으로 인공지능(AI) 반도체주가 동반 약세를 보였다. 엔비디아(-2.91%)는 실적 발표 전 높아진 기대치 부담과 메모리 원가 상승에 따른 서버 가격 인상 가능성...",
-          "pubDate": "Tue, 25 Aug 2026 08:19:00 +0900"
-        },
-        {
-          "title": "삼성전자·SK하이닉스 프리마켓 2%대 약세…美 반도체주 하락 여파",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20082819?ref=naver",
-          "description": "SK스퀘어(-3.90%)와 삼성전기(-2.43%) 등 반도체 관련 종목도 동반 약세다. 간밤 뉴욕 증시에서는 대형 기술주와 반도체주를 중심으로 차익 실현 매물이 출회됐다. 다우존스30산업평균지수는 0.3% 상승했지만...",
-          "pubDate": "Tue, 25 Aug 2026 08:18:00 +0900"
+          "title": "[모닝 리포트] \"금리 하락에 국내증시 상승 전망…회복 탄력성 주목\"",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260826000047",
+          "description": "삼성전자와 SK하이닉스 등 대형 반도체뿐 아니라 반도체 소재·부품·장비주도 강한 반등 탄력을 보였다. 한 연구원은 \"여전히 국내 증시 반등의 연속성에 의구심이 드는 구간이지만, 증시 내부의 회복 탄력성이...",
+          "pubDate": "Wed, 26 Aug 2026 08:14:00 +0900"
         }
       ]
     }

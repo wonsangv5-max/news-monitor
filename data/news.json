@@ -1,92 +1,99 @@
 {
-  "updatedAt": "2026-09-06T00:41:27.493Z",
+  "updatedAt": "2026-09-07T00:44:46.313Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "9월 6일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. biz.chosun.com, wowtv.co.kr, etoday.co.kr 등에서 보도되었으며, 환율, 달러, 달러예금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 7일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. pressian.com, fntoday.co.kr, cstimes.com 등에서 보도되었으며, 환율, 달러, 증시 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "환율 1300원대로 내려앉자…기업 달러 매집 러시",
-          "source": "biz.chosun.com",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/09/06/QPVWGDLCQJF4VETDV7VXVCFQ74/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "description": "6일 금융권 집계에 따르면 지난 4일 밤 서울외환시장에서 원·달러 환율은 1345.0원을 기록했다. 2024년 10월 초 이후 가장 낮은 수치로, 7월 1일 찍었던 연고점 1599.2원과 비교하면 두 달여 만에 254원 이상 하락한...",
-          "pubDate": "Sun, 06 Sep 2026 09:40:00 +0900"
+          "title": "[속보] 원·달러 환율 1330원대로 하락…1년 11개월 만 최저",
+          "source": "pressian.com",
+          "url": "https://www.pressian.com/pages/articles/2026090709414902398?utm_source=naver&utm_medium=search",
+          "description": "원·달러 환율이 장중 1330원 대까지 하락했다. 외환시장에 따르면 7일 오전 9시 40분 현재 달러는 1338.50원에 거래되고 있다.",
+          "pubDate": "Mon, 07 Sep 2026 09:42:00 +0900"
         },
         {
-          "title": "항공주 웃고 車는 울상…환율 하락에 '희비'",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609060047&t=NN",
-          "description": "6일 금융투자업계에 따르면 4일 오후 3시 30분 기준 서울 외환시장에서 달러 대비 원화 환율은 전날보다 8.9원 내린 1,350.4원으로 집계됐다. 지난 6월 말 주간거래 종가(1,549.4원)와 비교하면 13% 급락한 수치다. 연초 1...",
-          "pubDate": "Sun, 06 Sep 2026 09:34:00 +0900"
+          "title": "1,560원 찌르던 환율 1,350원 붕괴… 증시 판도 싹 바꿨다",
+          "source": "fntoday.co.kr",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=392253",
+          "description": "6일 금융투자업계에 따르면 지난 4일 서울 외환시장에서 달러 대비 원화 환율은 전장보다 8.9원 내린 1,350.4원에 거래를 마쳤다. 장중 한때 1,340원대까지 내려앉으며 1년 2개월 만에 최저치를 기록했다. 지난 6월 말...",
+          "pubDate": "Mon, 07 Sep 2026 09:40:00 +0900"
         },
         {
-          "title": "원·달러 환율 23개월 만에 최저…달러예금 사상 최대",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2622251",
-          "description": "4일 서울 외환시장에서 원·달러 환율은 야간 거래 중 1345.0원까지 떨어졌다. 2024년 10월 8일 장중 1344.6원을 기록한 이후 가장 낮은 수준이다. 7월 1일 장중 고점인 1599.2원과 비교하면 두 달여 만에 254.2원...",
-          "pubDate": "Sun, 06 Sep 2026 09:22:00 +0900"
+          "title": "환율 1,345원까지 떨어지자… 달러 매수, 매도보다 3배 몰렸다",
+          "source": "fntoday.co.kr",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=392255",
+          "description": "6일 금융권에 따르면 서울외환시장에서 원·달러 환율은 지난 4일 장중 1,345.0원까지 밀려났다. 이는 2024년 10월 8일(장중 저가 1,344.6원) 이후 ��� 2년 만에 가장 낮은 수준이다. 지난 7월 1일 기록했던 연중 최고치(1,599....",
+          "pubDate": "Mon, 07 Sep 2026 09:40:00 +0900"
         },
         {
-          "title": "‘싸진 달러’에 기업들 저점매수…5대 은행 달러예금 ‘사상 최대’",
-          "source": "viva100.com",
-          "url": "https://www.viva100.com/article/20260906500101",
-          "description": "6일 금융권에 따르면 서울외환시장에서 원·달러 환율은 지난 4일 오후 10시30분께 1345.0원에 거래됐다. 2024년 10월 8일 장중 저가 1344.6원 이후 가장 낮은 수준이다. 지난 7월 1일 고점인 1599.2원과 비교하면 두 달여...",
-          "pubDate": "Sun, 06 Sep 2026 09:16:00 +0900"
+          "title": "코스피, 3%대 급등...6900선 회복",
+          "source": "cstimes.com",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=719581",
+          "description": "미국 금리 동결 기대와 반도체 강세에, 코스닥은 상장폐지 기준 유예에 큰 폭으로 상승했다\"고 말했다. 한편 서울 외환시장에서 원/달러 환율은 전 거래일 대비 3.40원(0.25%) 내린 1346.10원에 거래 중이다.",
+          "pubDate": "Mon, 07 Sep 2026 09:34:00 +0900"
         },
         {
-          "title": "\"지금이 기회\" 원·달러 환율 뚝 떨어지자…은행 달러예금 '쑥'",
-          "source": "dailian.co.kr",
-          "url": "https://www.dailian.co.kr/news/view/1686896/?sc=Naver",
-          "description": "6일 금융권에 따르면 서울 외환시장에서 원·달러 환율은 지난 4일 오후 10시 30분께 1345.0원에 거래됐다. 이는 지난 2024년 10월 8일 1344.6원 이후 가장 낮은 수준이다. 환율이 하락세를 이어가자 은행의 달러예금...",
-          "pubDate": "Sun, 06 Sep 2026 08:58:00 +0900"
+          "title": "[국내증시 개장시황] 국내 증시 강세 마감, 코스피 3.21% 상승",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/market/403575",
+          "description": "서울 외환시장에서 원·달러 환율은 전 거래일보다 9.00원 하락한 1,340.50원에 거래되고 있다. 금시세닷컴에 따르면 국제 금 가격은 63.30달러 하락한 4,476.60달러/트로이온스, 국내 금 가격은 1,312.84원...",
+          "pubDate": "Mon, 07 Sep 2026 09:32:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "9월 6일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. edaily.co.kr, bloter.net, newsroad.co.kr 등에서 보도되었으며, 수익률, 하락장, 뚫은 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 7일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. greened.kr, ajunews.com, yna.co.kr 등에서 보도되었으며, 코스피, 반도체, 랠리에 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "수익률 5% '쑥~'…하락장 뚫은 ETF TOP5 뭔가 봤더니[펀드와치]",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01226726645577496&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "description": "기준금리 인상에 따라 채권금리(시장금리)가 올랐고, 이로 인해 기존 채권가격이 하락한 데 따른 것이다. 유형별로는 우량채권 펀드가 -0.99%, 중기채권 펀드가 -0.58%, 일반채권 펀드가 -0.40% 하락했다. 반면...",
-          "pubDate": "Sun, 06 Sep 2026 09:02:00 +0900"
+          "title": "코스피, 반도체 랠리에 3%대 급등...6900선 회복",
+          "source": "greened.kr",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349349",
+          "description": "채권시장에서도 금리가 상승했다. 미 동부시간 오후 3시 기준 2년 만기 국채금리는 전 거래일보다 4.7bp(1bp=0.01%포인트) 오른 4.379%를 기록했다. 10년 만기 국채금리는 2.2bp 상승한 4.783%로 집계됐다. 다만 뉴욕증시...",
+          "pubDate": "Mon, 07 Sep 2026 09:29:00 +0900"
         },
         {
-          "title": "[자금조달 프리뷰] 하나·대신·DB證 공모채…IPO 5곳 '러시'",
-          "source": "bloter.net",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672796",
-          "description": "앞서 우리금융F&I는 희망 밴드로 개별 민간채권평가사 평균인 민평금리 기준 ±30bp(1bp=0.01%p)의 금리를 제시했는데, 1년6개월물과 2년물이 개별민평 대비 -3bp, 3년물이 -10bp 수준에서 결정됐다. 하나증권은 이달...",
-          "pubDate": "Sun, 06 Sep 2026 09:00:00 +0900"
+          "title": "中은행들, 달러 예금 끌어모아 美 국채 사들이는 이유",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260907091956940",
+          "description": "중국에서는 내수 부진과 물가 상승 둔화로 국채 금리가 하락하면서 채권시장으로 자금이 몰리고 있다. 은행들이 달러를 해외의 미 국채에 투자하면 이 같은 국내 채권시장 쏠림을 일부 완화할 수 있다는 것이다. 다만...",
+          "pubDate": "Mon, 07 Sep 2026 09:28:00 +0900"
         },
         {
-          "title": "연준의 선택 가를 '운명의 물가주'…CPI·PPI에 쏠린 월가의 눈",
-          "source": "newsroad.co.kr",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=63856",
-          "description": "인플레이션이 예상보다 뜨겁게 나오면 채권시장은 국채금리 추가 상승으로 연준에 '경고음'을 보낼 수 있다. 연준이 물가 재가열 신호를 외면할 경우 10년물 금리의 5% 재돌파 가능성도 배제할 수 없다. 앤서니...",
-          "pubDate": "Sun, 06 Sep 2026 08:48:00 +0900"
+          "title": "[조용성의 현실중국] 시진핑 방미 동행할 중국의 기업인들",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260907085737826",
+          "description": "미국 국채 금리가 상승한 데다 중국 내 채권금리가 낮아지면서 달러자산의 투자 매력이 높아졌기 때문이다. 따라서 시 주석의 '미국 구매 사절단'에는 중국은행, 중국공상은행(中國工商銀行·ICBC) 같은 대형 국유은행...",
+          "pubDate": "Mon, 07 Sep 2026 09:22:00 +0900"
         },
         {
-          "title": "“회사채 고금리 매력에 수요 회복”…NH證·대한항공 수요예측",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01180806645577496&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "description": "이어 “전쟁 긴장감 고조와 유가 상승, 국내 재정정책 등 대내외 비우호적인 환경 속에서도 전주에 이어 고금리 채권에 대한 수요가 조금씩 회복되고 있다”고 덧붙였다.",
-          "pubDate": "Sun, 06 Sep 2026 08:03:00 +0900"
+          "title": "韓 국고채 금리 고점 다가온다…SG \"3년물 4.05% 도달시 매수\"",
+          "source": "yna.co.kr",
+          "url": "https://www.yna.co.kr/view/AKR20260907034500008?input=1195m",
+          "description": "글로벌 투자은행(IB) 소시에테제네랄(SG)은 미국발 고금리 장기화 우려와 유가 상승 등으로 국내 채권 금리가 오름세를 보이는 가운데, 금리가 특정 고점에 도달하면 이를 역이용해 적극적으로 채권을 매수해야...",
+          "pubDate": "Mon, 07 Sep 2026 09:22:00 +0900"
         },
         {
-          "title": "30년물 5%대 미 국채금리, 원화·금리 압박",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/economy/403135",
-          "description": "금리가 오르면 기존 채권 가격은 내려가고, 기업의 미래 현금흐름을 현재가치로 환산할 때 쓰는 할인율도 높아진다. 성장 기대를 앞세운 자산일수록 이런 변화에 민감하게 반응한다. 한국 시장의 연결고리는 환율과...",
-          "pubDate": "Sun, 06 Sep 2026 07:44:00 +0900"
+          "title": "“11일 美 CPI에 달렸다”…채권시장 ‘삼중 변수’",
+          "source": "wowtv.co.kr",
+          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609070055&t=NN",
+          "description": "채권시장의 금리 하락이 쉽지 않은 환경이 이어지고 있다. 8월 미국 고용 서프라이즈와 유가 상승, 국내 예산안 수급 불안이 겹치면서 변동성이 높아지고 있다는 분석이 나왔다. 7일 메리츠증권에 따르면 8월...",
+          "pubDate": "Mon, 07 Sep 2026 09:17:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "9월 6일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. megaeconomy.co.kr, sedaily.com, g-enews.com 등에서 보도되었으며, 보험주, 금리, 합병 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 7일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, megaeconomy.co.kr, sedaily.com 등에서 보도되었으며, 보험사, 금리, 보험주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "[보험사 이모저모] 외국계 보험사, 언제든 '헤어질 결심'",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433657",
+          "description": "IFRS17 도입 이후 국내 토종 중소형사들이 지급여력비율(K-ICS·킥스) 방어에 어려움을 겪는 것과 달리... 한화생명은 지난해 인도네시아 재계 6위 리포그룹이 보유한 노부은행 지분 40%를 확보한 데 이어 미국 증권사...",
+          "pubDate": "Mon, 07 Sep 2026 08:44:00 +0900"
+        },
         {
           "title": "‘고금리=호재’ 공식 정말 맞나…금리 전망 따라 움직인 보험주",
           "source": "megaeconomy.co.kr",
@@ -105,7 +112,7 @@
           "title": "좁아진 안방시장…M&A·합병·증자로 새판",
           "source": "sedaily.com",
           "url": "https://www.sedaily.com/article/20086955?ref=naver",
-          "description": "한화생명은 지난해 인도네시아 노부은행과 미국 증권사 벨로시티 지분 인수를 마쳤고 DB손해보험�� 올 5월... 내년 기본자본 지급여력비율(K-ICS·킥스) 50% 기준 도입을 앞두고 증자와 이익 축적으로 자본을 보강할...",
+          "description": "한화생명은 지난해 인도네시아 노부은행과 미국 증권사 벨로시티 지분 인수를 마쳤고 DB손해보험은 올 5월... 내년 기본자본 지급여력비율(K-ICS·킥스) 50% 기준 도입을 앞두고 증자와 이익 축적으로 자본을 보강할...",
           "pubDate": "Thu, 03 Sep 2026 18:07:00 +0900"
         },
         {
@@ -114,54 +121,47 @@
           "url": "https://www.g-enews.com/view.php?ud=20260903095153101544093b5d4e_1",
           "description": "3일 한국거래소에 따르면 오전 9시 55분 기준 한화생명은 전 거래일보다 12.65% 오른 6500원에 거래되고 있다.... 제이피 모건은 이날 DB손해보험을 제외한 보험사들의 올해 2분기 신지급여력제도(K-ICS·킥스) 비율이 전...",
           "pubDate": "Thu, 03 Sep 2026 10:06:00 +0900"
-        },
-        {
-          "title": "금리상승·주주환원 '보험주 강세'…한화생명 7%·DB손보 6%↑[핫종목]",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/market-exr/6278543",
-          "description": "3일 오전 9시 34분 기준 한화생명(088350)은 전 거래일보다 410원(7.11%) 오른 6180원에 거래되고 있다.... 제이피 모건은 이날 보고서에서 DB손해보험을 제외한 보험사들의 올해 2분기 신지급여력제도(K-ICS·킥스)...",
-          "pubDate": "Thu, 03 Sep 2026 09:50:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "9월 6일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. econovill.com, straightnews.co.kr, wowtv.co.kr 등에서 보도되었으며, 물가, 국채금리, 동시만기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 7일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. bloter.net, dailian.co.kr, econonews.co.kr 등에서 보도되었으며, 것인가, 반도체, 삼전닉스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "美 물가·국채금리·동시만기 주목…코스피 반등 이어갈까?",
-          "source": "econovill.com",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=749979",
-          "description": "국내에서도 삼성전자와 SK하이닉스가 반등을 이끌 수 있다는 기대가 나온다. 특히 두 회사의 자사주 매입은 외국인 매도세가 이어지는 상황에서 수급상 버팀목 역할을 할 것으로 예상된다. 다만 반도체주가 단기간에...",
-          "pubDate": "Sun, 06 Sep 2026 09:26:00 +0900"
+          "title": "[데스크시각] '스펙 권력의 종말' 키울 것인가 쇼핑할 것인가",
+          "source": "bloter.net",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672820",
+          "description": "지원자가 보유한 AI 활용 역량과 반도체 공정·설계 직무 전문성을 집중적으로 확인하는 신규 서식을... 현대차와 삼성의 '실무 검증' 무게추 수시 채용 체제를 정착시킨 현대자동차 역시 채용 과정에서 직무 역량 검증에...",
+          "pubDate": "Mon, 07 Sep 2026 09:43:00 +0900"
         },
         {
-          "title": "삼성·SK하이닉스가 끌었다…한국 브랜드 가치 480조",
-          "source": "straightnews.co.kr",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=310494",
-          "description": "[사진=연합뉴스] 삼성전자와 SK하이닉스가 인공지능(AI) 인프라 확산에 따른 반도�� 수요 증가를 바탕으로 브랜드 가치를 높이면서 올해 한국 기업들의 브랜드 가치 성장을 이끌었다. 여기에 방산과 금융 분야...",
-          "pubDate": "Sun, 06 Sep 2026 09:26:00 +0900"
+          "title": "美 반도체 훈풍에 삼전닉스 ‘쑥’…코스피 6900선 회복 [시황]",
+          "source": "dailian.co.kr",
+          "url": "https://www.dailian.co.kr/news/view/1687085/?sc=Naver",
+          "description": "특히 삼성전자(4.31%)·삼성전자우(2.87%)와 SK하이닉스(5.77%) 의 강세가 부각된다. 지난주 마지막 거래일인 4일(현지시간) 미국 뉴욕증시에서 필라델피아 반도체 지수가 3.38% 상승하고, 주요 메모리 반도체주인...",
+          "pubDate": "Mon, 07 Sep 2026 09:42:00 +0900"
         },
         {
-          "title": "닿을 듯 말듯 '7천피' 美 물가에 쏠리는 시선…\"삼전닉스 자사주 매입 버...",
-          "source": "wowtv.co.kr",
-          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609060045&t=NN",
-          "description": "이런 하방 압력에도 코스피 하단을 지탱하는 것은 '반도체 벼투톱'의 자사주 매입이라는 분석이다. 삼성전자와 SK하이닉스는 오는 11월 중순까지 합산 약 55조원어치의 자사주를 취득할 계획인데, 지난달 20일 이후...",
-          "pubDate": "Sun, 06 Sep 2026 09:22:00 +0900"
+          "title": "삼성전자·SK하이닉스 동반 강세…美 반도체주 상승·메모리 기대감",
+          "source": "econonews.co.kr",
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=443963",
+          "description": "삼성전자와 SK하이닉스가 장중 동반 강세를 보이�� 있다. 미국 증시에서 메모리반도체 관련주가 급등한 데다 인공지능(AI) 확산에 따른 메모리 수요 증가 기대감이 투자심리를 끌어올린 것으로 보인다. 7일...",
+          "pubDate": "Mon, 07 Sep 2026 09:42:00 +0900"
         },
         {
-          "title": "아산 ‘AI 모빌리티 콤플렉스’ 첫 관문 통과…9990억 투입",
-          "source": "asiatoday.co.kr",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260906010001894",
-          "description": "아산은 현대, 삼성 등 글로벌 대기업과 관련 협력업체가 집적돼 있고, 차량용 반도체와 자율주행 등 미래 모빌리티 산업 기반을 갖추고 있어 인공지능(AI) 모빌리티 융·복합산업 실증의 최적지로 평가받고 있다....",
-          "pubDate": "Sun, 06 Sep 2026 09:18:00 +0900"
+          "title": "“삼전닉스 메모리 재고 10일 미만까지 떨어져…내년 물량 고갈 초유 사...",
+          "source": "chosun.com",
+          "url": "https://www.chosun.com/economy/money/2026/09/07/L2JVDIUBLZE5ZFXNHGZU2VY26I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "description": "양사를 반도체 업종 최선호주로 유지한다”고 강조했다. 이날 오전 삼성전자와 SK하이닉스는 각각 4%대, 5%대 급등 중이다. 오픈AI의 차세대 모델 ‘GPT-6 아스트라’ 공개 이후 미국 반도체주가 급등하며 국내...",
+          "pubDate": "Mon, 07 Sep 2026 09:42:00 +0900"
         },
         {
-          "title": "반도체 기업 229곳 송도로…인천시 산업전시회 역대 최대 판 키운다",
-          "source": "viva100.com",
-          "url": "https://www.viva100.com/article/20260906500092",
-          "description": "올해 23회째를 맞는 이번 산업전은 인천시와 한국PCB반도체패키징산업협회가 공동 주최하고 인천관광공사와 케이와이아이엑스포가 주관한다. 특히 올해 행사는 규모부터 역대급이다. LG이노텍과 삼성전기를 비롯해...",
-          "pubDate": "Sun, 06 Sep 2026 09:16:00 +0900"
+          "title": "[정구민의 톺아보기] IFA 2026, K-AI 반도체 응용 제품 전시와 시사점",
+          "source": "inews24.com",
+          "url": "http://www.inews24.com/view/2002538",
+          "description": "올해 독일 베를린에서 열린 IFA 2026에서는 우리나라 AI 반도체를 기반으로 한 다양한 응용 제품들이... 퓨리오사AI는 삼성 클라우드 플랫폼에 공급 중인 레니게이드(RNGD) 프로세서를 전시했다. NPUaaS(NPU as a Service)를...",
+          "pubDate": "Mon, 07 Sep 2026 09:42:00 +0900"
         }
       ]
     }

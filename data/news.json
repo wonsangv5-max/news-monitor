@@ -1,92 +1,113 @@
 {
-  "updatedAt": "2026-09-18T01:05:43.367Z",
+  "updatedAt": "2026-09-19T01:01:00.362Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "9월 18일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news2day.co.kr, wolyo.co.kr, ntoday.co.kr 등에서 보도되었으며, 코스피, 환율, 유가 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 19일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. gokorea.kr, tfmedia.co.kr, view.asiae.co.kr 등에서 보도되었으며, 엔화, 25, 37 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "환율, 1380원 안팎서 등락…유가·美 국채금리 하락에 상승세 주춤",
-          "source": "news2day.co.kr",
-          "url": "https://www.news2day.co.kr/article/20260918500039",
-          "description": "18일 서울 외환시장에 따르면 원·달러 환율은 이날 오전 9시 20분 기준 1381.90원에 거래되고 있다. 전일 1380원대까지 치솟은 뒤 이날 장 초반에는 소폭 등락을 거듭하고 있다. 달러화도 전일 강세 이후 숨 고르기에...",
-          "pubDate": "Fri, 18 Sep 2026 10:04:00 +0900"
+          "title": "일본은행의 역사적 금리 인상, 엔화 약세와 물가 상승의 향후 전망은?",
+          "source": "gokorea.kr",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=879104",
+          "description": "정책 발표 후 도쿄 외환시장에서는 엔/달러 환율이 한때 157엔대까지 상승했다. 이는 지난 3일 이후 약 2주 만의 최고치이다. 우에다 총재는 물가 목표 달성을 위해 금리 인상을 계속할 것이며, 인상 폭 확대 가능성도...",
+          "pubDate": "Sat, 19 Sep 2026 09:22:00 +0900"
         },
         {
-          "title": "코스피 2%대 상승 출발…가온전선 23% 급등에 VI 발동",
-          "source": "wolyo.co.kr",
-          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=317999",
-          "description": "한편, 이날 코스닥지수는 전장보다 1.28% 오른 832.72, 원·달러 환율은 서울 외환시장에서 전 거래일보다 0.05% 오른 1382.2원으로 출발했다. [주의] 본 기사는 투자판단의 참고용이며, 이를 근거로 한 투자손실에 대한...",
-          "pubDate": "Fri, 18 Sep 2026 10:02:00 +0900"
+          "title": "일본은행, 3개월만에 또 금리인상…1.0%→1.25%로 31년만에 최고",
+          "source": "tfmedia.co.kr",
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=207328",
+          "description": "이날 정책 금리 인상이 발표된 이후 도쿄 외환시장에서는 엔/달러 환율이 한 때 달러당 157엔대까지 올랐다. 엔/달러 환율이 달러당 157엔대까지 오른 것은 지난 3일 이후 약 2주 만이다. 우에다 총재는 이날 오후 열린...",
+          "pubDate": "Sat, 19 Sep 2026 09:10:00 +0900"
         },
         {
-          "title": "[마켓펄스] \"금리·유가 안정에 투심 회복\"...코스피 2% 강세",
-          "source": "ntoday.co.kr",
-          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129507",
-          "description": "28%) 오른 832.72에 거래를 시작했다. 개인은 28억원 순매도 중이고, 외국인과 기관은 각각 41억원, 9억원 순매수하�� 있다. 한편 서울 외환시장에서 달러·원 환율은 전 거래일보다 0.70원 오른 1382.20원에 장을 열었다.",
-          "pubDate": "Fri, 18 Sep 2026 10:00:00 +0900"
+          "title": "뉴욕증시, 美 국채금리 상승에도 반도체주 강세",
+          "source": "view.asiae.co.kr",
+          "url": "https://view.asiae.co.kr/article/2026091909094544559",
+          "description": "외환시장에서는 달러 강세가 두드러졌다. 주요 6개 통화 대비 달러 가치를 나타내는 달러인덱스는 100.... 엔·달러 환율은 한때 달러당 158.05엔까지 올라 2주 만에 가장 높은 수준을 나타냈다.",
+          "pubDate": "Sat, 19 Sep 2026 09:09:00 +0900"
         },
         {
-          "title": "[마감시황]코스피, 반도체 강세에 6717.97 마감…하루 만에 반등",
-          "source": "seoul.co.kr",
-          "url": "https://www.seoul.co.kr/news/economy/securities/2026/09/18/20260918500054?wlog_tag3=naver",
-          "description": "서울외환시장에서 원·달러 환율은 오후 3시 30분 기준 1368.6원으로 전날 주간 종가 대비 9.2원 상승했다. 환율 흐름 속에 원화 가치 상승 국면에서 수출 비중이 높은 음식료주가 상대적으로 부진한...",
-          "pubDate": "Fri, 18 Sep 2026 09:55:00 +0900"
+          "title": "BOJ보다 무서운 실버위크…'레이트 체크'까지, 엔화 개입 경계 고조",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435747",
+          "description": "레이트 체크는 외환당국이 시장 참가자들에게 거래 가능한 환율 수준을 확인하는 절차로 실제 시장 개입에 앞선 사전 단계로 받아들여지기도 한다. 소식이 전해지자 달러-엔 환율은 장중 고점에서 1엔 이상 급락했다....",
+          "pubDate": "Sat, 19 Sep 2026 09:08:00 +0900"
         },
         {
-          "title": "[위클리오늘] 코스피 6800선 급등 출발···환율 1380원대",
-          "source": "weeklytoday.com",
-          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=795063",
-          "description": "이날 오전 서울 외환시장에서 원·달러 환율은 1380원대 초반을 나타냈다. 17일(현지시각) 뉴욕증시는 일제히 상승했다. 다우존스30산업평균지수는 전장보다 316.14포인트(0.61%) 오른 5만1778.04에 마감했다....",
-          "pubDate": "Fri, 18 Sep 2026 09:48:00 +0900"
+          "title": "[오늘 일본은] 요미우리, \"이재명 지지율 37%\" 보도…\"전임 정부 실책 따...",
+          "source": "pointe.co.kr",
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=84978",
+          "description": "위해 외환시장 개입의 사전 단계로 여겨지는 '레이트 체크'에 나섰다. NHK와 외환시장 등에 따르면... 이에 달러·엔 환율은 한때 달러당 158.05엔까지 상승하며 엔화 가치가 급락했다. 이는 �� 2주 만에 가장 낮은...",
+          "pubDate": "Sat, 19 Sep 2026 09:04:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "9월 18일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. edaily.co.kr, sedaily.com, imaeil.com 등에서 보도되었으며, 금리, 비상, 증시 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 19일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. bntnews.co.kr, news.einfomax.co.kr, newsroad.co.kr 등에서 보도되었으며, 상승, 금시세, 금값 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "‘영업익 180억 흑전 목표’ 상상인證…FICC가 실적 개선 견인",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02876566645581432&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "description": "지난해 상당수 중소형 증권사 채권 부서가 시장금리 상승으로 손실을 낸 가운데 월간 기준 흑자를 이어갔다는 설명이다. 회사의 경영 안정화도 실적 개선을 뒷받침했다. 주원 상상인증권 대표는 2024년 10월 취임 이후...",
-          "pubDate": "Fri, 18 Sep 2026 10:02:00 +0900"
+          "title": "금시세(금값)",
+          "source": "bntnews.co.kr",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202609180251",
+          "description": "그러나 주요 6개 통화 대비 달러 가치를 반영하는 달러인덱스(DXY)가 약 100.2~100.5 수준에서 움직이며 최근 7주 만에 가장 높은 수준에 근접한 가운데서도, 에너지 시장발 호재가 채권금리를 끌어내리며 금값의 반등...",
+          "pubDate": "Sat, 19 Sep 2026 09:28:00 +0900"
         },
         {
-          "title": "미 금리 인상에 한미 금리차 확대…채권·달러채 발행 기업 비상",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20092487?ref=naver",
-          "description": "■ 환율·채권금리 동반 급등: 연준이 3년 2개월 만에 기준금리를 0.25%포인트 인상하면서 원·달러 환율이 하루새 13.6원 치솟아 1382.2원에 마감했다. 국고채 3년물이 4%를 돌파하고 AA-급 회사채 금리가 4.716%로 2023년...",
-          "pubDate": "Fri, 18 Sep 2026 10:01:00 +0900"
+          "title": "\"추석 계절요인에 단기 국채발행까지…단기금리 상승 가능성\"",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435748",
+          "description": "또 CD 금리가 빠르게 상승할 경우 단기 채권 금리에도 불리한 상황이 된다고 지적했다. 그는 \"연내 추가 금리인상이 단행되는 만큼 MMF 자금이 요구하는 금리 수준은 더 높아질 수 있다\"면서 \"추석 이후 단기자금 시장이...",
+          "pubDate": "Sat, 19 Sep 2026 09:22:00 +0900"
         },
         {
-          "title": "유가·고금리 겹친 국내 증시…'박스피' 장기화 우려",
-          "source": "imaeil.com",
-          "url": "https://www.imaeil.com/page/view/2026091809444214858",
-          "description": "��복됐다는 의미이자 장기채권 금리가 상대적으로 안정적인 이유\"라고 분석했다. 이재원 유안타증권 연구원은 \"상승의 지속성을 결정할 것은 유가와 시장금리 안정과 그에 맞춰 돌아올 외국인 수급\"이라고 말했다.",
-          "pubDate": "Fri, 18 Sep 2026 09:58:00 +0900"
+          "title": "국채금리 5% 재돌파에도 'AI 랠리'…뉴욕증시, 반도체주에 지수 방어",
+          "source": "newsroad.co.kr",
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=64613",
+          "description": "연준의 추가 금리 인상 가능성이 커지면서 채권 매도·금리 상승 압력이 동시에 강화된 것이다. 금리선물 시장에서는 연준이 다음 달 열리는 연방공개시장위원회(FOMC)에서 기준금리를 0.25%포인트 추가 인상할...",
+          "pubDate": "Sat, 19 Sep 2026 08:44:00 +0900"
         },
         {
-          "title": "야데니 \"증시 8400 도달, 올해 말보다 내년 중반 가능성\"",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/409987",
-          "description": "야데니 대표는 헤지펀드들이 일본에서 낮은 금리로 엔화를 빌린 뒤 다른 통화로 바꿔 세계 각국의 국채와 자산을 매입해 왔다며, 전 세계 채권금리가 함께 오른 것은 이 거래가 상당 부분 풀리고 있다는 신호일 수...",
-          "pubDate": "Fri, 18 Sep 2026 09:56:00 +0900"
+          "title": "미국증시, 10년물 5% 재접근에도 반도체 강세…나스닥 0.4% 상승",
+          "source": "topstarnews.net",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16199308",
+          "description": "연준의 금리 인상 이후 높아진 채권금리 부담은 이어졌지만 WTI가 3거래일 연속 하락했고 변동성지수도 낮아졌다. SK하이닉스 ADR과 엔비디아·마이크론이 함께 상승하면서 국내 반도체 투자자에게는 상대적으로...",
+          "pubDate": "Sat, 19 Sep 2026 08:18:00 +0900"
         },
         {
-          "title": "골드만삭스 \"10월 금리 또 오른다\"...비트코인(BTC) 비상",
-          "source": "coinreaders.com",
-          "url": "http://coinreaders.com/258985",
-          "description": "-연준의 매파적 점도표와 워시 의장의 높은 물가 경고 발언이 추가 긴축 베팅에 불을 지폈다. -달러 강세와 채권 금리 상승 속에 비트코인은 7만 6,000달러 선에서 단기 유동성 압박을 소화하고 있다.",
-          "pubDate": "Fri, 18 Sep 2026 09:52:00 +0900"
+          "title": "안전자산 채권 ETF도 수익률 '파란불'… \"매수는 OO 이후에\"",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/stock/2026/09/19/2026091816370071531",
+          "description": "채권가격은 채권금리와 반대 방향으로 움직여 금리가 오르면 가격은 내려간다. 이에 따라 금리 상승 구간에서는 장기물일수록 수익성이 악화한다는 특징이 있다. 상대적으로 낮은 금리에 묶이는 기간이 긴 만큼...",
+          "pubDate": "Sat, 19 Sep 2026 08:15:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "9월 18일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. weekly.hankooki.com, g-enews.com, economist.co.kr 등에서 보도되었으며, 보험사, 215, 저성장 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 19일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. biz.chosun.com, biz.newdaily.co.kr, ekn.kr 등에서 보도되었으며, 보험사, 벌어도, 배당 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "돈 벌어도 배당 못 해… 보험사 발목 잡은 ‘해약 환급금 준비금’",
+          "source": "biz.chosun.com",
+          "url": "https://biz.chosun.com/stock/finance/2026/09/19/NUCYX2ZO4NDSXHVYRFM5RFJRCA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "description": "한화생명은 2023년 결산 때 주당 150원을 배당했지만 2024·2025년 결산에서는 연속 무배당을 결정했다.... 2024년에는 지급 여력 비율인 킥스(K-ICS)가 경과 조치 적용 전 기준 200% 이상인 보험사에 준비금을 기존 산출액의...",
+          "pubDate": "Sat, 19 Sep 2026 06:02:00 +0900"
+        },
+        {
+          "title": "캐롯·라이프플래닛 떠난 디지털보험사 생존게임 … 카카오페이손보, 장...",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800137.html",
+          "description": "(K-ICS·킥스) 도입 이후 자본 관리의 중요성이 커진 점도 영향을 미쳤다. 교보라이프플래닛에 앞서 캐롯손보도 2019년 출범 이후 적자를 이어오다 지난해 10월 모회사인 한화손해보험에 흡수합병됐다. 반면...",
+          "pubDate": "Fri, 18 Sep 2026 11:56:00 +0900"
+        },
+        {
+          "title": "“60조·72조 쌓았는데”...보험사 CSM의 ‘진짜 성적표’는 따로 있다",
+          "source": "ekn.kr",
+          "url": "https://www.ekn.kr/web/view.php?key=20260918028376299",
+          "description": "CSM�� 기반으로 이익잉여금을 축적하면 내년부터 시행되는 신지급여력제도(K-ICS·킥스) 비율을 높이는... 이 수석연구원은 한화생명·NH농협·동양생명·하나·푸본현대생명과 IBK연금보험, NH농협손해보험...",
+          "pubDate": "Fri, 18 Sep 2026 10:28:00 +0900"
+        },
         {
           "title": "저성장 벽 넘는 보험사…'M&A·해외 진출·자본 확충' 새 활로",
           "source": "weekly.hankooki.com",
@@ -100,68 +121,47 @@
           "url": "https://www.g-enews.com/view.php?ud=202609171620548798a6e8311f64_1",
           "description": "교보생명은 교보라이프플래닛을 흡수합병하기로 결정, 내년 4월까지 관련 작업을 마무리하기로 했다.... 안정적인 킥스 비율 관리에 어려움이 있을 수 있다는 판단이 작용한 것으로 파악된다. 한화손해보험도...",
           "pubDate": "Thu, 17 Sep 2026 17:42:00 +0900"
-        },
-        {
-          "title": "CSM 쌓아도 안심 못한다…생보 6곳·손보 2곳 신용도 모니터링",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202609170050",
-          "description": "생보사에서는 ▲NH농협생명 ▲동양생명 ▲하나���명 ▲한화생명 ▲푸본현대생명 ▲IBK연금보험... 올해 6월 말 기준 분석 대상 보험사 모두 경과조치 적용 후 지급여력(K-ICS·킥스) 비율이 금융당국 권고 수준인 130%를...",
-          "pubDate": "Thu, 17 Sep 2026 16:20:00 +0900"
-        },
-        {
-          "title": "보험사 킥스비율 평균 215%인데…개별사 지급여력은 '온도차'",
-          "source": "wikileaks-kr.org",
-          "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192156",
-          "description": "0%, 카디프생명 196.5% 등이 평균 아래에 머물렀다. 손보업계에서도 DB손보 204.4%, 현대해상 209.0%, KB손보 187.5%, 한화손보 227.9%, 롯데손보 161.9%, 흥국화재 201.4%, 하나손보 152.1%, 신한EZ손보 228.7%, 카카오페이손보...",
-          "pubDate": "Thu, 17 Sep 2026 15:48:00 +0900"
-        },
-        {
-          "title": "교보라플 13년 만에 흡수…디지털보험 '성장 공식' 달라진다",
-          "source": "econovill.com",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=751105",
-          "description": "삼성생명과 한화생명의 전략이 결과적으로 효율적인 선택으로 부각되고 있다. 반면 손해보험에서는... 신지급여력제도(K-ICS·킥스)에 따른 자본관리 부담도 있다. 올해 상반기 라이프플래닛의 킥스비율은 162.97%로...",
-          "pubDate": "Thu, 17 Sep 2026 15:16:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "9월 18일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. kfenews.co.kr, news.dealsitetv.com, beyondpost.co.kr 등에서 보도되었으며, 2026, 머니쇼, 코스피 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 19일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. g-enews.com, hankyung.com, mediapen.com 등에서 보도되었으며, AI, 반도체, 화웨이 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피, 6870선 강세…반도체주가 상승 주도",
-          "source": "kfenews.co.kr",
-          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664855",
-          "description": "사진=한국금융경제신문 한국금융경제신문=박상민 기자 | 코스피가 18일 미국 반도체주 강세에 힘입어... 삼성전자(2.87%), SK하이닉스(4.64%), SK스퀘어(3.57%), 삼성전자우(2.17%), 삼성전기(5.34%), 현대차(1.38...",
-          "pubDate": "Fri, 18 Sep 2026 10:04:00 +0900"
+          "title": "화웨이 \"中 AI 속도 올려야\"…AI 칩 생산 병목이 K메모리 수주 발목",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202609182035036624fda4f5ab74_1",
+          "description": "이에 따라 삼성전자와 SK하이닉스 등 한국 반도체 기업의 중국에 대한 메모리 출하 유동성이 확대되는 모습이다. 단기로는 6개월 안에 화웨이의 AI 칩 생산 병목이 지속될 경우, 한국 반도체 기업의 대중국 서버용 메모리...",
+          "pubDate": "Sat, 19 Sep 2026 09:52:00 +0900"
         },
         {
-          "title": "[2026 머니쇼] \"K증시, 랠리는 계속된다\"…매크로 이기는 '반도체·바이...",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/176144",
-          "description": "특히 국내 증시 재평가를 이끌고 있는 반도체 산업과 AI(인공지능) 혁신, K-바이오 산업의 미래를 중점적으로... 황금맥 전문가 역시 \"7월부터 외국인 선물 순매수가 이어지고 있고 그 속도도 매우 빠르다\"며 \"삼성전자와...",
-          "pubDate": "Fri, 18 Sep 2026 10:02:00 +0900"
+          "title": "삼성 뛰어든 '3100억 투자' 정체는…AI 뒤흔들 '파격 계획' [강경주의 테...",
+          "source": "hankyung.com",
+          "url": "https://www.hankyung.com/article/2026091839056",
+          "description": "데데 골드슈미트 삼성전자 부사장 겸 삼성반도체혁신센터장은 유클리드가 지난 15일 공개한 투자 발표문에서 \"AI의 다음 단계는 모델 혁신뿐 아니라 인프라의 효율성과 확장성에 의해 결정될 것\"이라며 \"유클리드는 AI...",
+          "pubDate": "Sat, 19 Sep 2026 09:31:00 +0900"
         },
         {
-          "title": "코스피, 美 금리·유가 진정에 2%대 급등…6800선 회복",
-          "source": "beyondpost.co.kr",
-          "url": "http://www.beyondpost.co.kr/view.php?ud=202609180959347670be44c0aacd_30",
-          "description": "삼성전자(2.77%), SK하이닉스(4.41%), 삼성전자우(1.81%), SK스퀘어(3.37%), 삼성전기(4.59%), LG에너지솔루션(0.68... 속 반도체를 중심으로 한 미국 증시의 반등, 코스피 야간선물의 강세 속 장중 일본은행(BOJ) 회의를...",
-          "pubDate": "Fri, 18 Sep 2026 10:02:00 +0900"
+          "title": "7거래일간 14조원 던진 외국인…반도체 비우고 정유·금융 담았다",
+          "source": "mediapen.com",
+          "url": "https://www.mediapen.com/news/view/1124684",
+          "description": "삼성전자와 SK하이닉스 등 반도체 대형주에 매도세가 집중된 반면 정유·금융·방산 등 일부 종목에는 매수세가 유입됐다. 외국인은 18일에는 순매수로 돌아서며 7거래일 연속 매도 행진을 끝냈다. 외국인 투자자가...",
+          "pubDate": "Sat, 19 Sep 2026 09:30:00 +0900"
         },
         {
-          "title": "[2026 머니쇼] 황금맥 전문가 “기업이익·주주환원 확대…증시 추가상...",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/176141",
-          "description": "그는 “금리가 올라도 기업 성장률이 금리를 앞서면 주가는 상승한다”며 “지금도 반도체가 됐든 변압기가 됐든 같이 올라갈 수 있는 여력이 충분하다”고 말했다. 향후 국내 증시의 방향을 가를 주요 변수로는 삼성전자...",
-          "pubDate": "Fri, 18 Sep 2026 10:02:00 +0900"
+          "title": "이익률 1위 뺏긴 K-반도체, 중·미 협공에 '샌드위치' 위기",
+          "source": "economist.co.kr",
+          "url": "https://economist.co.kr/article/view/ecn202609190001",
+          "description": "중국의 범용 D램 공세와 미국의 고대역폭 메모리(HBM) 대규모 투자가 동시에 가해지면서, 삼성전자와 SK하이닉스 등 K-반도체가 양쪽에서 압박을 받는 샌드위치 신세로 내몰리고 있다. 수익성 지표에서부터 이상...",
+          "pubDate": "Sat, 19 Sep 2026 09:27:00 +0900"
         },
         {
-          "title": "[2026 머니쇼] 염승환 LS증권 이사 \"골드러시에 곡괭이 판다…한국 수혜...",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/176142",
-          "description": "AI 데이터센터 확대에 따라 삼성전자와 SK하이닉스 등 반도체뿐 아니라 변압기·전선·에너지저장장치(ESS) 등 전력 인프라의 중요성이 커질 수 있다는 관측이다. 원전과 데이터센터 건설 확대에 따른 건설업을 비롯��...",
-          "pubDate": "Fri, 18 Sep 2026 10:02:00 +0900"
+          "title": "용인시, 문화경영대상 수상…지방자치 동반성장 정책 인정받아",
+          "source": "gukjenews.com",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3700532",
+          "description": "시는 삼성전자와 SK하이닉스 등 세계 반도체산업을 선도하는 기업들과 함께 첨단 미래산업의 경쟁력을 높이는 동반성장 모델을 실현하고 있다. 이상일 시장은 용인특례시가 세계 최대 규모의 반도체 생태계를 구축한...",
+          "pubDate": "Sat, 19 Sep 2026 09:22:00 +0900"
         }
       ]
     }

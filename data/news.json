@@ -1,97 +1,111 @@
 {
-  "updatedAt": "2026-09-20T00:46:51.110Z",
+  "updatedAt": "2026-09-21T00:54:17.303Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "9월 20일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. sidae.com, tokenpost.kr, g-enews.com 등에서 보도되었으며, 환율, 1400원, 77 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 21일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ziksir.com, ytn.co.kr, mt.co.kr 등에서 보도되었으며, 코스피, 환율, 달러 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "원/달러 환율 1380원대…상단 1400원 경계",
-          "source": "sidae.com",
-          "url": "https://www.sidae.com/article/2026091815052956048",
-          "description": "18일 서울 외환시장에서 원/달러 환율은 전 거래일 주간 거래 종가보다 1.1원 오른 1383.3원에 마감했다. 전날 13.6원(0.99%) 급등한 데 이어 이틀 연속 올랐지만 상승 속도는 하루 만에 잦아들었다. 종가가 1380원대에 머문...",
-          "pubDate": "Sun, 20 Sep 2026 09:00:00 +0900"
+          "title": "환율, 1380원대 중반서 오름세…달러 강세 압력 지속",
+          "source": "ziksir.com",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=147040",
+          "description": "21일 서울 외환시장에 따르면 원·달러 환율은 이날 오전 9시 20분 기준 1386.50원에 거래되고 있다. 지난 18일 주간거래 종가인 1383.30원보다 3.20원 높은 수준이다. 최근 환율 상승에는 미국과 일본의 통화정책 결정 이후...",
+          "pubDate": "Mon, 21 Sep 2026 09:50:00 +0900"
         },
         {
-          "title": "니어 인텐트 TVL 1억6905만달러, 30일 77.2% 증가",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/410929",
-          "description": "9월 16일 서울 외환시장 종가인 달러당 1368.6원을 적용하면 1억6905만달러는 약 2314억원이다. 달러·원 환율은 당시 국내 보도를 기준으로 환산했다. 자금은 니어프로토콜 네트워크에 가장 많이 예치됐다. 니어...",
-          "pubDate": "Sun, 20 Sep 2026 08:50:00 +0900"
+          "title": "코스피 상승 출발...원·달러 환율 1,380원 후반",
+          "source": "ytn.co.kr",
+          "url": "https://www.ytn.co.kr/_ln/0102_202609210948405680",
+          "description": "서울외환시장에서 원·달러환율은 오전 9시 기준 1,387.3원을 기록하며 1,380원대 후반 선에서 거래를 이어가고 있습니다. 지난주 환율은 미 기준금리 인상에 따라 달러화가 강세를 보이면서 두 달 동안 이어진 하락세를...",
+          "pubDate": "Mon, 21 Sep 2026 09:48:00 +0900"
         },
         {
-          "title": "금리 올려도 털린 엔화… 160엔 공포에 엔캐리 대탈출?",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202609200830556239e7e8286d56_1",
-          "description": "통화긴축 가속화 선언에도 외환시장에서 엔화 환율은 달러당 157.33엔까지 밀려나며 요동쳤다. 정책위원 9명 가운데 아사다 도이치로 ���원과 사토 아야노 위원 등 2명이 반대표를 던지면서 추가 인상 속도가 완만할...",
-          "pubDate": "Sun, 20 Sep 2026 08:32:00 +0900"
+          "title": "글로벌 금리상승 부담에도 코스피 1%대↑… 27만전자도 회복",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/stock/2026/09/21/2026092109031993104",
+          "description": "에코프로와 에코프로비엠, 레인보우로보틱스는 1%대 하락세다. 이날 오전 9시 서울 외환시장에서 원/달러 환율은 전 거래일 대비 0.3원 오른 1385.8원에 거래 중이다.",
+          "pubDate": "Mon, 21 Sep 2026 09:46:00 +0900"
         },
         {
-          "title": "매파 FOMC에도 버틴 코스피…외국인 돌아오며 6900선 눈앞 [선데이 머니...",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20092933?ref=naver",
-          "description": "원·달러 환율은 수입 업체의 결제 수요가 유입되면서 18일까지 5거래일 연속 상승했습니다. 일본은행(BOJ)이 기준금리를 1.25%로 인상한 점도 글로벌 외환시장의 변동성을 키울 수 있는 요인입니다. 다음 주 국내 증시는...",
-          "pubDate": "Sun, 20 Sep 2026 07:00:00 +0900"
+          "title": "[노현우의 채권분석] 트릴레마 운명 속 '최악의 수'",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435864",
+          "description": "외환시장의 트릴레마(삼중고)를 고려하면 이후 이어진 일본 정책당국 움직임도 이해가 간다. 트릴레마는 자본자유화, 독립적 통화정책, 환율안정(고정환율제)을 동시에 달성하기 어렵다는 이론이다. 변동환율제를...",
+          "pubDate": "Mon, 21 Sep 2026 09:46:00 +0900"
         },
         {
-          "title": "50원 뛴 환율, 1400원 넘어설까…\"연말 1420원\" vs \"추세 전환 일러\"",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/economy/trend/6295890",
-          "description": "7일 동안 47.2원 '껑충'…FOMC·중동전쟁 등 대외 악재 탓 20일 서울 외환시장에 따르면 달러·원 환율은 18일 전날보다 1.1원 오른 1383.3원에 주간 거래를 마쳤다. 지난 9일부터 7거래일 연속 상승했다. 장중에는 1387.1원까지...",
-          "pubDate": "Sun, 20 Sep 2026 06:50:00 +0900"
+          "title": "코스피, 장중 7000선 회복 후 반납…삼성전자 3%대 강세",
+          "source": "newsian.co.kr",
+          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=95727",
+          "description": "서울 외환시장에서 오전 9시20분 기준 원·달러 환율은 1386.00원을 나타냈다. 이번 주 시장의 관심은 미국 주요 경제지표로 이동할 전망이다. 오는 23일에는 미국의 9월 스탠더드앤드푸어스(S&P) 글로벌 제조업...",
+          "pubDate": "Mon, 21 Sep 2026 09:44:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "9월 20일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. view.asiae.co.kr, thepublic.kr, bntnews.co.kr 등에서 보도되었으며, AI, 금리, 뒤늦은 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 21일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. ajunews.com, news.sbs.co.kr, chosun.com 등에서 보도되었으며, 국채, 국제금융리포트, 트럼프 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "'뒤늦은 긴축' 나선 연준…AI 랠리의 시험대[주末머니]",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026091808582266777",
-          "description": "미국과 이란의 전쟁을 둘러싼 불확실성이 커 주식과 채권이 금리 경로보다 유가 움직임에 더 크게 연동되고 있다는 판단이다. 유가 상승이 이어지면 기업의 비용 부담과 소비자의 지출 압박이 커지고, 물가를 낮추려는...",
-          "pubDate": "Sun, 20 Sep 2026 09:35:00 +0900"
+          "title": "[국제금융리포트] 트럼프, 이란 대응 '결정 단계'…유가 100달러·美국채...",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260921083306638",
+          "description": "연방준비제도(Fed·연준)의 추가 금리 인상 가능성과 국제유가 상승에 따른 인플레이션 우려가 채권금리를 끌어올렸다. 달러화 가치도 강세를 나타냈다. 주요 6개국 통화 대비 달러 가치를 나타내는 달러인덱스는 한...",
+          "pubDate": "Mon, 21 Sep 2026 09:06:00 +0900"
         },
         {
-          "title": "집값 따라 대출 키웠더니 금리까지 '껑충'...차주 부담 커진다",
-          "source": "thepublic.kr",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=319411",
-          "description": "시장금리가 오르면 신규 대출금리에도 반영되는 만큼 기준금리뿐 아니라 채권시장 움직임도 주담대 금리의 변수다. 은행채 5년물 금리는 상승세다. 금융투자협회에 따르면 지난 17일 은행채 5년물(AAA) 금리는 연 4.552...",
-          "pubDate": "Sun, 20 Sep 2026 09:06:00 +0900"
+          "title": "인플레 시대, 결국 돈은 어디로 갈까…이제부터 '돈의 이동'이 빨라지는...",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008760720&plink=ORI&cooper=NAVER",
+          "description": "특정 만기 채권의 금리가 4.5%에서 다 사. 무제한으로 들어가는 거거든요. 그럼 거기 딱 금리가 안 오르게 막는 거잖아요. 이 정도부터가 강력한 비전통적인 통화 정책의 일환으로 볼 수 있고요. 양적완화는 '미국 국채...",
+          "pubDate": "Mon, 21 Sep 2026 09:00:00 +0900"
         },
         {
-          "title": "금시세(금값)",
-          "source": "bntnews.co.kr",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202609200006",
-          "description": "미국 연방준비제도(Fed)가 기준금리를 연 3.75~4.00%로 0.25%포인트 인상한 데 이어 일본까지 긴축 대열에 가세하면서, ��요국 중앙은행들의 통화 긴축 정책이 전 세계 채권금리를 밀어 올리고 글로벌 유동성을...",
-          "pubDate": "Sun, 20 Sep 2026 09:04:00 +0900"
+          "title": "지금은 美국채 투자할 시간… 5% 수익률에 월가가 다시 채권을 보는 이...",
+          "source": "chosun.com",
+          "url": "https://www.chosun.com/economy/money/2026/09/21/A7IQBZO67BBKJGV4PN5I7WR3BY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "description": "채권 가격과 금리는 반대로 움직이는 만큼 그동안 채권을 보유해 온 투자자에게는 악재였다. 하지만 지금 처음 채권을 사는 투자자의 처지는 다르다. 10년물을 5% 수준에서 매입해 만기까지 보유한다면 시장 금리가 그...",
+          "pubDate": "Mon, 21 Sep 2026 08:54:00 +0900"
         },
         {
-          "title": "찬바람 불면 배당주?…채권ㆍ예금 금리 상승에 인기 '주춤'",
-          "source": "metroseoul.co.kr",
-          "url": "http://www.metroseoul.co.kr/article/20260920500014",
-          "description": "채권금리가 오르면서 3년 국고채 연평균 수익률은 코스피 배당수익률을 웃돈다. 지난해 코스피 예상 배당수익률은 2.63%인데 비해 국고채 금리의 연평균 수익률은 3.55% 수준으로 1%포인트 가까이 차이가 난다. 여기에...",
-          "pubDate": "Sun, 20 Sep 2026 08:36:00 +0900"
+          "title": "“거래대금 138조→56조”…신한證, 5대 증권사 목표가 줄줄이↓[줍줍리...",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20093241?ref=naver",
+          "description": "금리 상승으로 채권 운용 손익도 악화할 가능성이 커졌다. 이에 3분기 순이익은 시장 기대를 큰 폭으로 밑돌 것으로 봤다. 미래에셋증권의 지배주주순이익 추정치는 161억 원으로 컨센서스 1815억 원보다 91.1...",
+          "pubDate": "Mon, 21 Sep 2026 08:52:00 +0900"
         },
         {
-          "title": "\"금리 뛰었는데 주식이 더 낫다?\"…그 동안의 투자 공식 바꾼 AI[주末머...",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026091801035659378",
-          "description": "장기금리가 뛰는데도 채권보다 주식의 투자 매력이 더 높다는 분석이 나왔다. 과거에는 주가가 내려갈 때 채권 가격이 오르며 손실을 줄여주는 경우가 많았지만, 최근에는 주식과 채권 가격이 함께 움직이는 일이...",
-          "pubDate": "Sun, 20 Sep 2026 08:09:00 +0900"
+          "title": "[모닝 리포트] \"미 국채 금리 5%대, 캐리 관점에서 매수 검토\"",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20260921000089",
+          "description": "이번 주 국내 채권시장은 단기금리 움직임에 관심이 쏠릴 전망이다. 한화투자증���은 국고채 3년물 금리를 3.95~4.08%, 10년물을 4.43~4.55%로 예상했다. 연준의 추가 긴축 가능성이 부각되면서 단기금리가 상대적으로 높은...",
+          "pubDate": "Mon, 21 Sep 2026 08:27:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "9월 20일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ceoscoredaily.com, biz.chosun.com, biz.newdaily.co.kr 등에서 보도되었으며, 보험사, 운용자산, 1년 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 21일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. investchosun.com, insnews.co.kr, ceoscoredaily.com 등에서 보도되었으며, 보험사, Invest, 소수 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "[Invest]소수 지분부터 '학습형 지분투자'…해외 M&A 나선 보험사들, 셈...",
+          "source": "investchosun.com",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/09/18/2026091880163.html",
+          "description": "한화생명은 인도네시아 노부은행(40%)과 미국 증권사 벨로시티 클리어링(지분 75%) 지분을 인수하며 비보험... 그러나 대형 딜 집행 시 가용자본 차감과 요구자본 증가 등으로 킥스(지급여력) 비율이 급락하는 자본 부담이...",
+          "pubDate": "Mon, 21 Sep 2026 07:02:00 +0900"
+        },
+        {
+          "title": "보험사 신용도, CSM 규모보다 '질'… 자본관리능력도 변수",
+          "source": "insnews.co.kr",
+          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92873",
+          "description": "최근 금리 상승과 자산·부채관리(ALM) 강화로 업권 전반의 지급여력(K-ICS·킥스)비율은 개선됐고 경과조치... 6개사인 한화·농협·동양·IBK·하나·푸본과 손보 2개사인 농협·흥국이 포함됐다. 이 가운데 푸본현대생명...",
+          "pubDate": "Mon, 21 Sep 2026 00:02:00 +0900"
+        },
         {
           "title": "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓",
           "source": "ceoscoredaily.com",
           "url": "https://www.ceoscoredaily.com/page/view/2026091422515553871",
-          "description": "이어 △한화생명 3조2256억원(107조701억원→104조6445억원) △NH농협생명 2조8225억원(52조7740억원... 8%) △라이나생명 745억원(5조9436억원→6조181억원, +1.3%) 등 3개사로 나타났다. ◇ 킥스·금리 이중고에 운용환경 급변...",
+          "description": "이어 △한화생명 3조2256억��(107조701억원→104조6445억원) △NH농협생명 2조8225억원(52조7740억원... 8%) △라이나생명 745억원(5조9436억원→6조181억원, +1.3%) 등 3개사로 나타났다. ◇ 킥스·금리 이중고에 운용환경 급변...",
           "pubDate": "Sun, 20 Sep 2026 07:02:00 +0900"
         },
         {
@@ -105,63 +119,49 @@
           "title": "캐롯·라이프플래닛 떠난 디지털보험사 생존게임 … 카카오페이손보, 장...",
           "source": "biz.newdaily.co.kr",
           "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800137.html",
-          "description": "(K-ICS·킥스) 도입 이후 자본 관리의 중요성이 커진 점도 영향을 미쳤다. 교보라이프플래닛에 앞서 캐롯손보도 2019년 출범 이후 적자를 이어오다 지난해 10월 모회사인 한화손해보험에 흡수합병됐다. 반면...",
+          "description": "(K-ICS·킥스) 도입 이후 자본 관리의 중요��이 커진 점도 영향을 미쳤다. 교보라이프플래닛에 앞서 캐롯손보도 2019년 출범 이후 적자를 이어오다 지난해 10월 모회사인 한화손해보험에 흡수합병됐다. 반면...",
           "pubDate": "Fri, 18 Sep 2026 11:56:00 +0900"
-        },
-        {
-          "title": "“60조·72조 쌓았는데”...보험사 CSM의 ‘진짜 성적표’는 따로 있다",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20260918028376299",
-          "description": "CSM을 기반으로 이익잉여금을 축적하면 내년부터 시행되는 신지급여력제도(K-ICS·킥스) 비율을 높이는... 이 수석연구원은 한화생명·NH농협·동양생명·하나·푸본현대생명과 IBK연금보험, NH농협손해보험...",
-          "pubDate": "Fri, 18 Sep 2026 10:28:00 +0900"
-        },
-        {
-          "title": "저성장 벽 넘는 보험사…'M&A·해외 진출·자본 확충' 새 활로",
-          "source": "weekly.hankooki.com",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7183628",
-          "description": "엎친 데 덮친 격으로 내년 기본자금 신지급여력제도(K-ICS·킥스) 비율이 도입됨에 따라 국내 보험사들은... 사진=각 사 ◇ 삼성家 보험 형제, 선진국 진출 속도…한화생명 인니 '공략' 대형 보험사들은 해외 진출에 속도를...",
-          "pubDate": "Fri, 18 Sep 2026 07:30:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "9월 20일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. hansbiz.co.kr, mediafine.co.kr, etoday.co.kr 등에서 보도되었으며, 자사주, 매입, 수급 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 21일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. hankyung.com, kfenews.co.kr, srtimes.kr 등에서 보도되었으며, 코스피, 장중, 7000선 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼전·닉스 자사주 매입 빨라졌다…수급 공백 우려",
-          "source": "hansbiz.co.kr",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=866847",
-          "description": "반도체 업종의 실적이 외국인 수급을 좌우할 변수로 꼽힌다. 내달부터 상장사 3분기 실적 발표가 시작되는 가운데 삼성전자와 SK하이닉스의 실적 방향을 가늠할 수 있는 마이크론테크놀로지의 실적 발표도 추석 연휴...",
-          "pubDate": "Sun, 20 Sep 2026 09:42:00 +0900"
+          "title": "AI·반도체 경쟁에 달라진 대기업 이사회…‘공대 교수’ 사외이사 뜬다",
+          "source": "hankyung.com",
+          "url": "https://www.hankyung.com/article/202609217402i",
+          "description": "특히 반도체·자동차 등 기술 경쟁이 치열한 대기업에서 이공계 교수 선호가 두드러졌다. 삼성전자는 교수 출신 사외이사 3명을 모두 이공계 교수로 채웠다. SK하이닉스도 교수 출신 사외이사 3명 가운데 2명을...",
+          "pubDate": "Mon, 21 Sep 2026 09:52:00 +0900"
         },
         {
-          "title": "삼성전자·SK하이닉스 자사주 매입 조기 종료 전망, 증시 수급 주목",
-          "source": "mediafine.co.kr",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=90296",
-          "description": "반면 다음 달 시작되는 3분기 실적 시즌에서 반도체 기업들이 견조한 성적을 내놓을 경우 외국인 자금 유입 가능성도 있다. 추석 연휴 이후 예정된 마이크론 테크놀로지의 실적 발표와 함께 삼성전자·SK하이닉스의...",
-          "pubDate": "Sun, 20 Sep 2026 09:38:00 +0900"
+          "title": "코스피, 장중 7000선 돌파…삼성전자 3%대 강세",
+          "source": "kfenews.co.kr",
+          "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=664977",
+          "description": "사진=한국금융경제신문 한국금융경제신문=박상민 기자 | 코스피가 21일 반도체 대형주 강세에 힘입어... 시가총액 상위 종목 중 삼성전자(3.45%), SK하이닉스(0.27%), SK스퀘어(1.02%), 삼성전자우(4.54%), 삼성전기(1....",
+          "pubDate": "Mon, 21 Sep 2026 09:52:00 +0900"
         },
         {
-          "title": "35조 '삼전닉스' 자사주 매입 끝나간다…증시 수급 공백 우려",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2627561",
-          "description": "반도체를 비롯한 주요 기업들이 견조한 실적을 내놓을 경우 외국인 수급이 개선될 가능성이 있다. 삼성전자와 SK하이닉스 실적의 가늠자로 꼽히는 마이크론 테크놀로지의 실적 발표도 추석 연휴 이후 예정돼 있다....",
-          "pubDate": "Sun, 20 Sep 2026 09:38:00 +0900"
+          "title": "코스피, 장중 7000선 회복…삼성전자·SK하이닉스 동반 강세",
+          "source": "srtimes.kr",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=212963",
+          "description": "지난주 미국 반도체주 강세에 힘입어 삼성전자와 SK하이닉스가 동반 상승하면서 ���수 상승을 이끌었다. 이날 코스피는 전 거래일보다 44.11포인트(0.64%) 오른 6938.34로 출발한 뒤 상승 폭을 키웠다. 장중...",
+          "pubDate": "Mon, 21 Sep 2026 09:52:00 +0900"
         },
         {
-          "title": "코스피 주춤하자 다시 해외로…하반기 해외형 ETF 비중 40%",
-          "source": "dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12084875?ref=naver",
-          "description": "신규 상품은 미국 인공지능(AI)과 반도체 등 성장 산업에 집중되고 있다. NH-아문디자산운용은 지난 15일 미국 에이전틱 AI 관련 기업에 투자하는 ‘HANARO 미국에이전틱AI TOP2+ ETF’를 상장했고, 삼성자산운용...",
-          "pubDate": "Sun, 20 Sep 2026 09:35:00 +0900"
+          "title": "반도체 검사 장비 전문 엠아이티, 코스닥 입성 시동…상장예비심사 청구",
+          "source": "widedaily.com",
+          "url": "https://www.widedaily.com/news/articleView.html?idxno=301311",
+          "description": "반도체 검사 및 계측 장비 전문기업인 엠아이티가 코스닥 시장 입성을 위한 본격적인 절차에 돌입했다.... 이번 상장의 대표 주관사 업무는 삼성증권이 맡아 진행한다. 지난 2017년 첫발을 내디딘 엠아이티는 웨이퍼를...",
+          "pubDate": "Mon, 21 Sep 2026 09:52:00 +0900"
         },
         {
-          "title": "프리미엄 넘어 대중화로… 삼성, 폴더블 저변 넓힌다",
-          "source": "mediapen.com",
-          "url": "https://www.mediapen.com/news/view/1124801",
-          "description": "삼성전자는 메모리 반도체를 직접 생산하고 삼성디스플레이를 통해 OLED 패널 경쟁력도 확보하고 있다. 스마트폰과 핵심 부품에서 글로벌 사업을 함께 운영하고 있어 부품 시장 변화에 대응할 수 있는 폭도 넓다....",
-          "pubDate": "Sun, 20 Sep 2026 09:34:00 +0900"
+          "title": "[개장시황] \"장중 7000선 회복\"…코스피, 추석 앞두고 강세",
+          "source": "joongangenews.com",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=549504",
+          "description": "유가증권시장에서 대장주 삼성전자는 약 3% 강세다. 우선주인 삼성전자우도 4% 넘게 오르고 있다. 반면... 지난 주말 미 증시는 메모리 가격 상승 전망에 따른 반도체주 실적 기대감에도 주요 지수가 혼조세를...",
+          "pubDate": "Mon, 21 Sep 2026 09:52:00 +0900"
         }
       ]
     }

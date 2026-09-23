@@ -1,92 +1,99 @@
 {
-  "updatedAt": "2026-09-22T01:28:49.032Z",
+  "updatedAt": "2026-09-23T01:18:42.523Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "9월 22일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. businesspost.co.kr, yonhapnewstv.co.kr, businesskorea.co.kr 등에서 보도되었으며, 코스피, 훈풍에, 강세 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 23일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. wolyo.co.kr, ziksir.com, biz.newdaily.co.kr 등에서 보도되었으며, 코스피, 강세, 출발 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피 미국 증시 훈풍에 장중 1%대 강세 7130선, 코스닥도 1%대 올라",
-          "source": "businesspost.co.kr",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=447784",
-          "description": "47%) 등 8개 종목 주가가 오르고 있다. 이오테크닉스(-1.24%) 주가는 내리고 있다. 알테오젠 주가는 전날과 같은 가격에 거래되고 있다. 이 시각 서울 외환시장에서 원/달러 환율은 1361.06원에 거래되고 있다.",
-          "pubDate": "Tue, 22 Sep 2026 10:22:00 +0900"
+          "title": "한가위 연휴 전날 코스피 강세...7153.99 출발",
+          "source": "wolyo.co.kr",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318217",
+          "description": "02% 상승했다. 한편, 원·달러 환율은 서울 외환시장에서 전 거래일보다 0.11% 내린 1355원으로 출발했다. [주의] 본 기사는 투자판단의 참고용이며, 이를 근거로 한 투자손실에 대한 책임은 없습니다. / 월요신문=",
+          "pubDate": "Wed, 23 Sep 2026 10:06:00 +0900"
         },
         {
-          "title": "코스피, 미 AI 훈풍에 7,100선…반도체 강세",
-          "source": "yonhapnewstv.co.kr",
-          "url": "http://www.yonhapnewstv.co.kr/news/MYH20260922102206f2w",
-          "description": "한편, 서울 외환시장에서 원·달러 환율은 1,360원 중반대를 나타내고 있습니다. 지금까지 하나은행 딜링룸에서 연합뉴스TV 김채영입니다. [현장연결 전천호] #환율 #코스피 #코스닥 #삼성전자 #SK하이닉스 #메타 #인텔 #AMD",
-          "pubDate": "Tue, 22 Sep 2026 10:22:00 +0900"
+          "title": "미·이란 협상 소식에 원화 강세…원·달러 환율 1340원대",
+          "source": "ziksir.com",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=147388",
+          "description": "23일 서울 외환시장에서 미국 달러화 대비 원화 환율은 오전 9시 12분 현재 1349.0원으로 집계됐다. 전 거래일 오후 3시 30분 기준가인 1358.2원보다 9.2원 하락했다. 환율이 장중 1340원대로 내려온 것은 지난 15일 장중 저가...",
+          "pubDate": "Wed, 23 Sep 2026 09:58:00 +0900"
         },
         {
-          "title": "[개장 시황] 코스피, 해외 악재 극복하고 2% 오른 7100대 개장...원/달러...",
-          "source": "businesskorea.co.kr",
-          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277500",
-          "description": "서울 외환시장에서 달러 대 원화 환율은 전 거래일 주간 거래 종가 대비 9.3원 내린 1,371.7원으로 하락 개장했다. 이날 환율 하락은 미 연방준비제도(Fed)의 통화정책 향방을 둘러싼 불확실성이 완화되고, 글로벌...",
-          "pubDate": "Tue, 22 Sep 2026 10:20:00 +0900"
+          "title": "코스피, 유가 하락·美 반도체 상승에 7100선 돌파 … 삼전닉스 2%↑",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/23/2026092300072.html",
+          "description": "서울 외환시장에서 원·달러 환율은 전 거래일 대비 6.20원 오른 1349.30원에 거래 중이다. 간밤 미국 증시는 미국과 이란의 대면 협상 소식에도 3대 주가지수가 엇갈리며 혼조세로 마감했다. 협상 기대감이 하루 전부터...",
+          "pubDate": "Wed, 23 Sep 2026 09:58:00 +0900"
         },
         {
-          "title": "코스피, 2%대 급등하며 7160선 돌파…美 반도체 랠리 효과",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202609220069",
-          "description": "심텍은 14%대 급등했고 ISC도 7%대 뛰었다. 리노공업과 레인보우로보틱스는 각각 2%대, 1%대 상승했다. HLB는 1%대 하락했다. 한편 이날 오전 9시 서울외환시장에서 원달러 환율은 1387.30원을 기록했다.",
-          "pubDate": "Tue, 22 Sep 2026 10:16:00 +0900"
+          "title": "엔화, 일본 시장 개입 경계에 1달러=157엔대 전반 출발",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260923_0003801592",
+          "description": "도쿄 외환시장에서 엔화 환율은 이날 오전 8시 시점에 1달러=157.39엔으로 전장 대비 0.06엔 상승했다. 연휴로 거래가 한산한 가운데 일본은행의 ‘레이트 체크(환율 시세 확인)'을 의식하는 엔 매수, 달러 매도가...",
+          "pubDate": "Wed, 23 Sep 2026 09:56:00 +0900"
         },
         {
-          "title": "메타발 AI 랠리가 삼성전기 6% 급등을 불렀다",
-          "source": "junggi.co.kr",
-          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=37865",
-          "description": "서울 외환시장에서 원·달러 환율은 22일 오전 9시2분 기준 전 거래일보다 0.30원 내린 1374.00원을 기록했다. 환율 하락은 원화 가치가 상승했다는 뜻으로, 달러화로 환산한 국내 주식의 가격 경쟁력이 높아져...",
-          "pubDate": "Tue, 22 Sep 2026 10:10:00 +0900"
+          "title": "[26.9.22 증시 인싸잇] 코스피 7171선까지 치솟다 급락… 7000선은 지켰다",
+          "source": "mediawatch.kr",
+          "url": "https://www.mediawatch.kr/news/article.html?no=261155",
+          "description": "유가 약세와 10년물 금리 하락, 메타의 AI 흥행 소식에 반도체주가 동반 랠리를 펼쳤다”며 거시경제 부담 완화가 증시 반등 탄력을 키웠다고 짚었다 한편 서울외환시장에서 원·달러 환율은 1358.2원에 마감했다.",
+          "pubDate": "Wed, 23 Sep 2026 09:50:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "9월 22일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, woodkorea.co.kr, goodkyung.com 등에서 보도되었으며, 26, 236, 다음 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 23일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, ziksir.com, news2day.co.kr 등에서 보도되었으며, 코스피, 반등, 13 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "\"다음 입찰 한달 넘게 남았는데\"…강한 20년물 두고 채권시장 '왈가왈부...",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436063",
-          "description": "22일 연합인포맥스 채권·금리 시가평가 매트릭스 통합(화면번호 4743)에 따르면 전 거래일 국고채 20년물 금리는 민평 기준 4.484%로 나타났다. 이는 국고채 30년물 금리 대비로는 12.1bp 더 낮은 수준이다. 국고채...",
-          "pubDate": "Tue, 22 Sep 2026 10:24:00 +0900"
+          "title": "고점서 13% 내린 증권주…실적 둔화 속 저평가 매력 부각",
+          "source": "fnnews.com",
+          "url": "https://www.fnnews.com/news/202609230939256822",
+          "description": "채권금리가 오르면 보유 채권의 평가 가치가 떨어져 운용손익에 부담을 준다. 3·4분기 중 코스피가 약 20% 조정받은 점도 주식 관련 운용실적에 부정적인 요인이다. 다만 실적 악화 우려가 주가에 상당 부분...",
+          "pubDate": "Wed, 23 Sep 2026 09:52:00 +0900"
         },
         {
-          "title": "이찬일의 글로벌 경제 브리프 236-1",
-          "source": "woodkorea.co.kr",
-          "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=91503",
-          "description": "유가급등은 물가를 상승시켰고, 채권금리는 물가보다 높아야 수요가 있기 때문이다. 또한, 미국 빅테크 기업들의 AI 투자에 따른 대규모 회사채 발행도 금리상승을 부추기고 있다. 유럽 EUROPE 유로존 인플레 3년 만에...",
-          "pubDate": "Tue, 22 Sep 2026 09:52:00 +0900"
+          "title": "코스피, 장 초반 7100선 돌파…외국인 순매수에 상승폭 확대",
+          "source": "ziksir.com",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=147381",
+          "description": "국제유가와 채권금리가 하락세로 돌아선 가운데 외국인이 순매수에 나서며 지수 상승을 이끌고 있다. 23일 한국거래소에 따르면 코스피는 전 거래일 대비 136.08포인트(p, 1.94%) 상승한 7153.99에 개장했다....",
+          "pubDate": "Wed, 23 Sep 2026 09:20:00 +0900"
         },
         {
-          "title": "금리 오르자 국채 사는 일본인…稅혜택 움직임에 3040도 '매수'",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436054",
-          "description": "눈에 띄는 점은 저금리 환경에서 그동안 자금 순유출을 보였던 정기예금과 국��가 금리 상승으로 채권 가격이 하락했음에도 자금 순유입이 나타난 것이다. 전체적인 가계 금융자산의 추이를 보면 주식과 투자신탁...",
-          "pubDate": "Tue, 22 Sep 2026 09:50:00 +0900"
+          "title": "“코스피 흔들리면 사라…1차 반등 목표 7,600선”<대신證>",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20260923500041",
+          "description": "유가와 채권금리 하락에 힘입어 7,000선을 회복한 가운데 단기 변동성을 비중 확대 기회로 활용해야 한다는 분석이 나왔다. 밸류에이션(가치 평가) 정상화 과정에서 코스피의 1차 반등 목표는 7,600선으로 제시됐다....",
+          "pubDate": "Wed, 23 Sep 2026 09:10:00 +0900"
         },
         {
-          "title": "[뉴욕증시포커스] AI주 랠리에 나스닥 2.26% 급등…종가 기준 사상 최고",
-          "source": "goodkyung.com",
-          "url": "https://www.goodkyung.com/news/articleView.html?idxno=291657",
-          "description": "채권금리 하락은 미래 이익을 현재 가치로 환산하는 할인율을 낮춰 상대적으로 높은 밸류에이션을 적용받는 기술주와 성장주의 투자 매력을 높이는 요인으로 작용한다. 최근 증시 조정으로 밸류에이션 부담이 일부...",
-          "pubDate": "Tue, 22 Sep 2026 09:26:00 +0900"
+          "title": "AI 투자 '돈의 전쟁'…회사채 349조원, GPU 담보까지",
+          "source": "dealsite.co.kr",
+          "url": "https://dealsite.co.kr/articles/169512",
+          "description": "AI기업들은 데이터센터처럼 장기간 사용하는 자산에 투자하기 위해 일반적인3~10년물뿐 아니라20~30년 만기의 장기 회사채 발행도 늘리고 있다.만기가 길수록 금리 변화에 따른 채권 가격 변동폭이 커져 투자자의...",
+          "pubDate": "Wed, 23 Sep 2026 08:52:00 +0900"
         },
         {
-          "title": "금시세(금값)",
-          "source": "bntnews.co.kr",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202609220045",
-          "description": "지난주 연준이 기준금리를 0.25%포인트 인상(연 3.75~4.00%)하면서 촉발된 긴축 충격파가 채권금리 상승에 이어 외환시장으로 옮겨붙으며 금값에 지속적인 하방 압력을 가하고 있다. 외환시장에서는 주요 6개 통화 대비...",
-          "pubDate": "Tue, 22 Sep 2026 09:12:00 +0900"
+          "title": "\"증시 변동성 줄고 소득 기대 커져\" 8월 주춤했던 소비심리 다시 반등",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20260922165517893",
+          "description": "그는 \"향후 우리나라 금리 수준은 어떻게 될지 보는지를 확인하는 항목이기 때문에 기준금리만이 아닌 대출금리, 채권금리, 시장금리 전반을 반영하는 것으로 봐야 한다\"고 말했다. 주택가격전망 CSI는 125로 전월과...",
+          "pubDate": "Wed, 23 Sep 2026 08:38:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "9월 22일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. thebell.co.kr, it.chosun.com, investchosun.com 등에서 보도되었으며, 더벨, Financial, Index 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 23일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ceoscoredaily.com, thebell.co.kr, it.chosun.com 등에서 보도되었으며, 11, 78, 생보사 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "생보사 기타투자비용 11.9조 늘었다…삼성·교보·한화 78% 차지",
+          "source": "ceoscoredaily.com",
+          "url": "https://www.ceoscoredaily.com/page/view/2026091815541404556",
+          "description": "이어 △교보생명 3조5290억원(3조1235억원→6조6525억원) △한화생명 2조1691억원(2조7827억원→4조9517억원)... 신지급여력제도(K-ICS, 킥스)에는 가상자산에 대한 별도의 위험 측정 방식이 마련돼 있지 않다. 이에 업계는...",
+          "pubDate": "Tue, 22 Sep 2026 17:18:00 +0900"
+        },
         {
           "title": "[더벨][Financial Index | 손해보험] 서울보증 K-ICS 1위 지속, NH농협손보...",
           "source": "thebell.co.kr",
@@ -105,7 +112,7 @@
           "title": "[Invest]소수 지분부터 '학습형 지분투자'…해외 M&A 나선 보험사들, 셈...",
           "source": "investchosun.com",
           "url": "https://www.investchosun.com/site/data/html_dir/2026/09/18/2026091880163.html",
-          "description": "���화생명은 인도네시아 노부은행(40%)과 미국 증권사 벨로시티 클리어링(지분 75%) 지분을 인수하며 비보험... 그러나 대형 딜 집행 시 가용자본 차감과 요구자본 증가 등으로 킥스(지급여력) 비율이 급락하는 자본 부담이...",
+          "description": "한화생명은 인도네시아 노부은행(40%)과 미국 증권사 벨로시티 클리어링(지분 75%) 지분을 인수하며 비보험... 그러나 대형 딜 집행 시 가용자본 차감과 요구자본 증가 등으로 킥스(지급여력) 비율이 급락하는 자본 부담이...",
           "pubDate": "Mon, 21 Sep 2026 07:02:00 +0900"
         },
         {
@@ -114,54 +121,47 @@
           "url": "https://www.insnews.co.kr/news/articleView.html?idxno=92873",
           "description": "최근 금리 상승과 자산·부채관리(ALM) 강화로 업권 전반의 지급여력(K-ICS·킥스)비율은 개선됐고 경과조치... 6개사인 한화·농협·동양·IBK·하나·푸본과 손보 2개사인 농협·흥국이 포함됐다. 이 가운데 푸본현대생명...",
           "pubDate": "Mon, 21 Sep 2026 00:02:00 +0900"
-        },
-        {
-          "title": "운용자산 1년 새 97조 불어난 생보업계…삼성생명 빼면 21조↓",
-          "source": "ceoscoredaily.com",
-          "url": "https://www.ceoscoredaily.com/page/view/2026091422515553871",
-          "description": "이어 △한화생명 3조2256억원(107조701억원→104조6445억원) △NH농협생명 2조8225억원(52조7740억원... 8%) △라이나생명 745억원(5조9436억원→6조181억원, +1.3%) 등 3개사로 나타났다. ◇ 킥스·금리 이중고에 운용환경 급변...",
-          "pubDate": "Sun, 20 Sep 2026 07:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "9월 22일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, mk.co.kr, ekn.kr 등에서 보도되었으며, 배당, AI, 삼성전자 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 23일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, biz.newdaily.co.kr, ebn.co.kr 등에서 보도되었으며, 삼성전자, 코스피, 티로보틱스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전자 배당 막차 D-7...이틀째 상승, 30조원 배당 기대",
+          "title": "티로보틱스, 휴머노이드 신사업에 포드에너지 매출 인식까지...성장 본...",
           "source": "fnnews.com",
-          "url": "https://www.fnnews.com/news/202609221001069026",
-          "description": "이준영 유진투자증권 연구원은 \"반도체 투톱의 강세로 코스피가 7거래일 만에 7000선을 회복했다\"며 \"추석 연휴를 앞두고 거래대금이 줄었지만 기관 매수세가 지수를 끌어올렸다\"고 분석했다. 삼성전자에 대해서는...",
-          "pubDate": "Tue, 22 Sep 2026 10:25:00 +0900"
+          "url": "https://www.fnnews.com/news/202609231011051926",
+          "description": "티로보틱스는 산업용 로봇 제조업체로 주력제품은 디스플레이 및 반도체용 진공로봇과 AMR로 구분된다. 주요 고객사는 미국 A사, 삼성디스플레이, LG디스플레이, BOE, 포드 에너지 등이 있다. 이 회사는...",
+          "pubDate": "Wed, 23 Sep 2026 10:17:00 +0900"
         },
         {
-          "title": "이소영 청문보고서 여야 합의 채택…“우려 있지만 역량 갖춰”",
-          "source": "mk.co.kr",
-          "url": "https://www.mk.co.kr/article/12159007",
-          "description": "국민의힘이 호남 반도체 클러스터 투자계획 발표와 관련해 출석을 요구한 이재용 삼성전자 회장과 최태원 SK그룹 회장, 김용범 전 청와대 정책실장, 강훈식 대통령 비서실장은 민주당의 반대로 이번 명단에서 빠졌다....",
-          "pubDate": "Tue, 22 Sep 2026 10:24:00 +0900"
+          "title": "삼성전자, 퀄컴과 AI 폰 메모리 세대교체 앞당긴다 … LPDDR6 첫 검증",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/23/2026092300117.html",
+          "description": "뉴데일리 윤아름 기자 = 삼성전자가 퀄컴의 차세대 모바일 플랫폼에서 저전력 D램 'LPDDR6'의 동작 검증을... LPDDR6에서도 업계 최초 제품 개발과 함께 국제반도체표준협의기구(JEDEC)의 표준화 과정에 참여하고 주요...",
+          "pubDate": "Wed, 23 Sep 2026 10:16:00 +0900"
         },
         {
-          "title": "[LG 구광모의 AI 승부 ①] 엑사원, ‘제조·금융 분야’ 수익사업 시험대",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20260922029527643",
-          "description": "삼성과 SK가 반도체와 데이터센터를 앞세워 AI 투자 경쟁의 주목을 받는 사이, LG��룹도 인공지능(AI)사업을 넓히고 있다. 구광모 LG그룹 회장은 자체 AI 모델 '엑사원'을 중심으로 전자·화학·배터리·통신 등 계열사의...",
-          "pubDate": "Tue, 22 Sep 2026 10:24:00 +0900"
+          "title": "[EBN 데이터센터] 삼성전자 강세 속 코스피 거래 집중...코스닥선 중소...",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725515",
+          "description": "◆거래대금은 대형주와 급등주로 분산 이날 시장의 특���은 코스피에서는 삼성전자와 삼성전자우 등 대형 반도체주에 거래대금이 집중된 반면, 코스닥에서는 와이즈플래닛컴퍼니, 엑스게이트, 원익홀딩스 등...",
+          "pubDate": "Wed, 23 Sep 2026 10:16:00 +0900"
         },
         {
-          "title": "원유철, 국립한경대 특임교수 임용…“평택이 여는 대한민국 미래” 특...",
-          "source": "kgnews.co.kr",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=912687",
-          "description": "그는 이날 강연에서 “평택은 세계 최대 반도체 생산기지인 삼성전자 평택캠퍼스가 위치해 세계 D램 시장의 20%, 대한민국 반도체 수출의 약 25%를 담당하는 대한민국 경제의 심장이자 반도체의 수도”라고 밝혔다. 또...",
-          "pubDate": "Tue, 22 Sep 2026 10:24:00 +0900"
+          "title": "코스피, 美-이란 갈등 완화 기대감에 상승[fn오전시황]",
+          "source": "fnnews.com",
+          "url": "https://www.fnnews.com/news/202609231008513364",
+          "description": "시가총액 상위 종목에서는 대형 반도체주가 강세를 보이고 있다. 삼성전자우(3.78%), SK스퀘어(3.53%) 등을 포함해 삼성전자(2.80%), SK하이닉스(1.52%) 등도 상승 중이다. 반면 방산주는 약세다. 두산에너빌리티(-2.43...",
+          "pubDate": "Wed, 23 Sep 2026 10:15:00 +0900"
         },
         {
-          "title": "AI 데이터센터 투자, 기판 공급망까지 번졌다…대덕전자 LTA·두산 1조 증...",
-          "source": "joongangenews.com",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=549980",
-          "description": "앞서 AI 투자 확대의 직접적인 수혜가 엔비디아 GPU와 삼성전자·SK하이닉스의 HBM 등 첨단 반도체에 집중됐다면 최근에는 이를 탑재하는 패키지기판과 PCB, CCL, 유리섬유 등으로 수요가 단계적으로 확산하고 있다....",
-          "pubDate": "Tue, 22 Sep 2026 10:22:00 +0900"
+          "title": "AI가 회사도 뽑는다…재계 AX 2막 열린다",
+          "source": "hansbiz.co.kr",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=867481",
+          "description": "그동안 AI 경쟁이 데이터센터와 반도체 등 대규모 투자에 집중됐다면 이제는 실제 사업 현장에서 생산성을 얼마나 높일 수 있느냐가 승부처로 옮겨가는 모습이다. 22일 재계에 따르면 삼성·SK·LG는 최근 잇따라 AI...",
+          "pubDate": "Wed, 23 Sep 2026 10:12:00 +0900"
         }
       ]
     }

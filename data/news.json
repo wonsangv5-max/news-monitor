@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-09-24T01:12:36.086Z",
+  "updatedAt": "2026-09-25T01:13:14.733Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "9월 24일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. tokenpost.kr, safetimes.co.kr, newskr.kr 등에서 보도되었으며, 하락, 반도체, 셈법 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 25일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. pointe.co.kr, tokenpost.kr, news.einfomax.co.kr 등에서 보도되었으며, 30년물, 국채금리, 최고 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "WTI 95.92달러로 1.11% 하락…브렌트유도 약세",
+          "title": "[오늘 일본은] 엔화 다시 159엔대…美 30년물 국채금리 22년 만에 최고",
+          "source": "pointe.co.kr",
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=85159",
+          "description": "25일 NHK에 따르면 24일 미국 뉴욕 외환시장에서 엔·달러 환율은 한때 달러당 159엔대까지 상승했다. 엔화 가치가 159엔대로 떨어진 것은 지난 2일 이후 약 3주 만이다. 엔화 약세의 가장 큰 배경은 미국의 추가 금리...",
+          "pubDate": "Fri, 25 Sep 2026 09:50:00 +0900"
+        },
+        {
+          "title": "[국내증시 개장시황] 코스닥 2% 급등, 주요 종목 혼조세",
           "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/economy/413216",
-          "description": "외환시장에서는 달러·위안 환율이 0.01% 올랐고 달러·엔 환율은 0.15% 내렸다. 달러·위안 환율은 6.71176, 달러·엔 환율은 158.066으로 집계됐다. 유럽 증시는 혼조세를 보였다. 유럽50지수는 0.91% 하락해 6294.16을...",
-          "pubDate": "Thu, 24 Sep 2026 10:06:00 +0900"
+          "url": "https://www.tokenpost.kr/news/market/413856",
+          "description": "서울 외환시장에서 원·달러 환율은 전일 대비 2.7원 상승한 1,135.5원에 거래를 시작했다. 국내 금 시장에서는 순금 1돈이 1,000원 내린 273,000원에 거래되고 있으며, 국제 금 시세는 온스당 1,812달러를...",
+          "pubDate": "Fri, 25 Sep 2026 09:32:00 +0900"
         },
         {
-          "title": "[윤석 칼럼] 반도체 호황을 너머 공정한 선진경제로 가는 길",
-          "source": "safetimes.co.kr",
-          "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=245863",
-          "description": "대외적으로 고유가·고금리·고환율이라는 3고의 파고가 밀려오고 있다. 중동의 지정학적 불안은 에너지... 외환시장 안정, 에너지 수입선 다변화, 핵심 원자재 비축도 동시에 추진해야 한다. 1970년대 두 차례 석유위기를...",
-          "pubDate": "Thu, 24 Sep 2026 10:02:00 +0900"
-        },
-        {
-          "title": "미중 정상 24일 백악관 회담…韓 반도체·배터리·철강 셈법 제각각",
-          "source": "newskr.kr",
-          "url": "http://www.newskr.kr/news/articleView.html?idxno=106645",
-          "description": "23일 원·달러 환율은 1358.40원이었다(오후 3시 30분 매매기준율). 변수는 위안화다. 원화는 국제 외환시장��서 위안화의 '프록시(대리) 통화'로 통한다. 위안화는 거래 제약이 많다. 그래서 원화로 중국 리스크를 사고파는...",
-          "pubDate": "Thu, 24 Sep 2026 09:42:00 +0900"
-        },
-        {
-          "title": "[국내증시 개장시황] 코스피 하락, 코스닥 상승 속 혼조세",
+          "title": "[국제금융 브리핑] 미국 30년물 국채금리 5.50% 터치...2004년 이후 최고",
           "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/market/413193",
-          "description": "92%) 서울 외환시장에서 원·달러 환율은 전 거래일보다 5.1원 오른 1447.5원에 거래를 출발했다. 금시세닷컴에 따르면 순금 1돈(24k, 3.75g) 소비자 구매 가격은 4000원 내린 58만8천원이다....",
-          "pubDate": "Thu, 24 Sep 2026 09:32:00 +0900"
+          "url": "https://www.tokenpost.kr/news/economy/413832",
+          "description": "외환시장에서는 달러화가 강세를 보였다. 국제금융센터는 달러화 강세 폭을 0.2%로 요약했으며, 지표상... 뉴욕 원·달러 환율은 1368.9원, 1개월물 NDF 종가는 1368.2원으로 집계됐고 스왑포인트는 -0.3원이었다....",
+          "pubDate": "Fri, 25 Sep 2026 08:32:00 +0900"
         },
         {
-          "title": "연준 '금리' 인상에 복잡해진 한은 '셈법'…11월에 쏠린 시선",
-          "source": "fetv.co.kr",
-          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=310748",
-          "description": "올리면서 환율과 물가 측 부담이 다시 커졌기 때문이다. 다만 10월까지 세 차례 연속 금리를 올릴 경우... 한미 금리차 확대 자체가 한은의 금리 결정을 좌우하는 것은 아니지만 원화 약세와 외환시장 변동성을 키울 수...",
-          "pubDate": "Thu, 24 Sep 2026 09:00:00 +0900"
+          "title": "[뉴욕마켓워치] 美 30년물 금리, 결국 5.5%도 뚫었다…달러↑채권↓주식...",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436455",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 158.886엔으로, 전장 뉴욕장 마감가 158.352엔 대비 0.534엔(0.337%) 상승했다. 달러-엔은 뉴욕 거래 들어 159엔을 두 차례...",
+          "pubDate": "Fri, 25 Sep 2026 08:26:00 +0900"
+        },
+        {
+          "title": "[외환] 달러 강세 지속에 1,360원대 후반 마감…美 10년물 5.2%",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436454",
+          "description": "25일 외환시장에서 달러-원 환율은 오전 6시 현재 전일 서울장 종가(1,366.00원) 대비 3.00원 상승한 1,369.00원에 거래됐다. 달러-원 환율은 런던과 뉴욕장을 거치며 달러화 강세를 반영해 1,370원대 중반까지 고점을...",
+          "pubDate": "Fri, 25 Sep 2026 08:22:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "9월 24일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. kjdaily.com, biz.sbs.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 10년물, 금시세, 금값 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 25일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. kukinews.com, financialpost.co.kr, bntnews.co.kr 등에서 보도되었으며, 금시세, 금값, 30년물 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "금시세(금값) 하락",
-          "source": "kjdaily.com",
-          "url": "http://www.kjdaily.com/article.php?aid=1790211862687593227",
-          "description": "미국 증시도 채권금리 상승의 영향을 받았다. Kitco에 따르면 S&P500지수는 0.8% 하락한 7706.03, 다우존스산업평균지수는 0.7% 떨어진 5만1511.59로 마감했다. 나스닥종합지수도 1.1...",
-          "pubDate": "Thu, 24 Sep 2026 10:06:00 +0900"
+          "title": "美 30년물 금리 22년 만에 최고…글로벌 국 매도 확산",
+          "source": "kukinews.com",
+          "url": "https://www.kukinews.com/article/view/kuk202609250003",
+          "description": "채권 금리와 채권 가격은 반대로 움직여 채권 금리 상승은 가격 하락을 의미한다. 미 국채 시장의 매도세는 전날에 이어 이틀째 이어졌다. 이번 국채 매도세에는 여러 요인이 동시에 작용했다. 국제유가 상승으로...",
+          "pubDate": "Fri, 25 Sep 2026 10:04:00 +0900"
         },
         {
-          "title": "'이제 금리 대세 상승 …美국채 10년물 급등 영향은?",
-          "source": "biz.sbs.co.kr",
-          "url": "https://biz.sbs.co.kr/article_hub/20000336624?division=NAVER",
-          "description": "미국 국채금리 상승은 글로벌 채권금리와 달러 가치, 국제 자금 흐름도 영향을 미칩니다. 한국 시장금리에도 상승 압력으로 작용하고 달러 강세와 위험자산 자금 이동을 통해 국내 금융시장 변동성을 키울 수...",
-          "pubDate": "Thu, 24 Sep 2026 09:36:00 +0900"
+          "title": "'바이백 실망감'에 틀어진 金헤지 전략...그래도 '밝은 투자 전망' 까닭...",
+          "source": "financialpost.co.kr",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=277388",
+          "description": "글로벌 채권 금리가 높은 수준을 이어가는 가운데 투자 방향 설정에서 금이 시선을 모은다. 25일 금융계에 따르면, 근래 중국 중앙은행이 보이는 금 매집 상황 등이 미국 재무부의 바이백(채권 대량 재매집) 등과는 다소...",
+          "pubDate": "Fri, 25 Sep 2026 10:02:00 +0900"
         },
         {
-          "title": "이억원, 추석 연휴도 업무 모드…환율·레버리지 ETF 국감 대비",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436390",
-          "description": "해외 금리를 따라 국내 채권금리까지 오르면 은행의 자금 조달비용이 커지고 이는 주택담보대출과 신용대출 금리에 반영된다. 한국은행도 지난 7월과 8월 기준금리를 잇달아 올려 연 3.00%까지 높였다. 8월 신규 취급액...",
-          "pubDate": "Thu, 24 Sep 2026 09:22:00 +0900"
+          "title": "금시세(금값)",
+          "source": "bntnews.co.kr",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202609250060",
+          "description": "미국의 실물 경제활동과 고용시장이 경기 침체 우려를 무색하게 할 만큼 탄탄한 체력을 과시한 점이 채권금리 폭등을 뒷받침했다. 스탠더드앤드푸어스(S&P) 글로벌이 발표한 9월 종합 구매관리자지수(PMI) 잠정치는 58....",
+          "pubDate": "Fri, 25 Sep 2026 09:56:00 +0900"
         },
         {
-          "title": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량",
-          "source": "yna.co.kr",
-          "url": "https://www.yna.co.kr/view/AKR20260921153900008?input=1195m",
-          "description": "정상회담의 의제가 채권 금리의 핵심 변수인 유가와 맞닿아 있기 때문이다. 미국 워싱턴 백악관에서 열리는 이번 회담에서는 무역 휴전 연장과 인공지능(AI) 규제, 대만 문제와 함께 이란 전쟁 대응이 논의될 것으로...",
-          "pubDate": "Thu, 24 Sep 2026 09:00:00 +0900"
+          "title": "헤지펀드 수익률 누가누가 잘했나",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/stock/2026/09/25/2026092315133617363",
+          "description": "유니스토리 알파 플러스 일반사모투자신탁1호는 채권을 세부 전략으로 활용, 최근 채권 금리 급등 상황에서도 선전했다. 차파트너스 공모주 일반사모투자신탁 1호는 침체된 공모주 시장에서 나홀로 높은...",
+          "pubDate": "Fri, 25 Sep 2026 09:49:00 +0900"
         },
         {
-          "title": "강한 경기·고유가에 美국채금리 '껑충' … 10년물 19년 만에 최고·5년...",
-          "source": "newdaily.co.kr",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/24/2026092400005.html",
-          "description": "23일(현지시간) 미 채권시장에서 글로벌 금리의 벤치마크인 10년 만기 미 국채 금리는 장중 전날보다 0.17%포인트(p)가량 오른 5.13%까지 치솟았다. 2007년 7월 이후 19년여 만에 가장 높은 수준이다. 5년물 국채 금리도 장중...",
-          "pubDate": "Thu, 24 Sep 2026 08:40:00 +0900"
+          "title": "금(금값, 금시세) 9월 25일",
+          "source": "cbci.co.kr",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=609873",
+          "description": "채권금리 상승과 함께 연준의 추가 긴축 가능성에 대한 시장의 시선도 달라지고 있다. 시카고상품거래소(CME) 페드워치에 따르면 연방기금금리 선물시장에서는 연준이 오는 10월 기준금리를 추가로...",
+          "pubDate": "Fri, 25 Sep 2026 09:46:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "9월 24일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. smartbizn.com, ceoscoredaily.com, thebell.co.kr 등에서 보도되었으며, 11, 78, 금리 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 25일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. smartbizn.com, ceoscoredaily.com, thebell.co.kr 등에서 보도되었으며, 11, 78, 금리 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "금리 인상에 힘받는 보험주···자본 개선·주주환원 기대",
@@ -105,7 +105,7 @@
           "title": "[더벨][Financial Index | 손해보험] 서울보증 K-ICS 1위 지속, NH농협손보...",
           "source": "thebell.co.kr",
           "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171537561080108842",
-          "description": "킥스비율)이 1년 사이 엇갈렸다. 절반가량은 지표가 개선됐지만 나머지 절반가량은 악화했다. 생명보험... 7%) △한화손보(227.9%) △카카오페이손보(215.9%) △코리안리(210.7%) △현대해상(209.9%) △DB손보(204.4...",
+          "description": "킥스비율)이 1년 사이 엇갈렸다. 절반가��은 지표가 개선됐지만 나머지 절반가량은 악화했다. 생명보험... 7%) △한화손보(227.9%) △카카오페이손보(215.9%) △코리안리(210.7%) △현대해상(209.9%) △DB손보(204.4...",
           "pubDate": "Tue, 22 Sep 2026 08:28:00 +0900"
         },
         {
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "9월 24일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. economist.co.kr, newsworks.co.kr, sedaily.com 등에서 보도되었으며, 추석, 최대, 2027 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 25일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. shinailbo.co.kr, ebn.co.kr, coinreaders.com 등에서 보도되었으며, 멕시코, 추석, 잊은 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "“30만전자 가나?”…추석 뒤 강했던 증시, 사상 최대 주주환원도 온다",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202609240002",
-          "description": "과거 22차례 추석 연휴 가운데 15차례 코스피가 연휴 직후 상승한 가운데 최근 7거래일 연속 오른 삼성전자... 무역과 관세뿐 아니라 AI·반도체·희토류 등 기술 패권과 공급망 문제가 주요 의제로 거론된다. 연휴...",
-          "pubDate": "Thu, 24 Sep 2026 10:06:00 +0900"
+          "title": "추석 잊은 재계 총수들…멕시코·미국서 'AI·공급망' 승부수",
+          "source": "shinailbo.co.kr",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065756",
+          "description": "삼성전자는 최근 미스트랄 AI에 전략적 투자를 단행하고 반도체 공정에 특화된 AI 모델 공동 개발에 나섰다. 해당 모델은 결함 탐지와 설비 최적화 등 제조 공정에 활용될 예정이다. 최태원 SK그룹 회장은 이날...",
+          "pubDate": "Fri, 25 Sep 2026 10:04:00 +0900"
         },
         {
-          "title": "이재명 대통령 \"한국, 추격경제 넘어 세계경제 선도국가로 도약\"…멕시...",
-          "source": "newsworks.co.kr",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=854806",
-          "description": "있다\"며 반도체와 인공지능(AI), 바이오, 우주항공 등 미래산업에 대한 투자를 강조했다. 행사는 지난해... 국내에서는 존 림 삼성바이오로직스 사장, 유정준 SK그룹 부회장, 성 김 현대자동차그룹 사장, 현신균 LG CNS 사장...",
-          "pubDate": "Thu, 24 Sep 2026 10:02:00 +0900"
+          "title": "中 CXMT 단기간 추격 어려워…삼성·SK 기술력 '2~3세대' 우위",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725649",
+          "description": "벌크는 CXMT가 생산시설을 구축하고 네덜란드 ASML 등으로부터 필요한 반도체 장비를 확보하는 데 제약을 받고 있어 삼성전자와 SK하이닉스, 마이크론과의 격차를 단기간에 좁히기 어려울 것으로 전망했다. 다만...",
+          "pubDate": "Fri, 25 Sep 2026 10:04:00 +0900"
         },
         {
-          "title": "“추석 용돈 굴린다면 반도체·배당에”…5대 운용사 ETF 추천",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20094788?ref=naver",
-          "description": "키워드는 반도체와 배당으로 모아졌다. 삼성자산운용은 글로벌 낸드 메모리 밸류체인에 투자하는 RISE 글로벌AI낸드메모리반도체와 국내 전공정 기업에 투자하는 SOL 반도체전공정을 제시했고...",
-          "pubDate": "Thu, 24 Sep 2026 10:01:00 +0900"
+          "title": "마이크론(MU) 1,000달러 안착...메모리 품귀 딛고 목표가 '1,600달러'",
+          "source": "coinreaders.com",
+          "url": "http://coinreaders.com/260089",
+          "description": "인공지능 가속기용 메모리 반도체 공급 부족과 미중 정상회담 기대감이 맞물리며 마이크론테크놀로지... 여기에 SK하이닉스와 삼성전자 등 경쟁사들이 웨이퍼 생산 능력을 적극적으로 확대하고 있어 공급 부족 현상이...",
+          "pubDate": "Fri, 25 Sep 2026 10:02:00 +0900"
         },
         {
-          "title": "취업 후 재실직 행렬…학자금 유예 30대 최대",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20094791?ref=naver",
-          "description": "추석 용돈 재테크…“반도체·배당 ETF 장기 투자해볼만” 핵심 요약: 국내 5대 자산운용사(삼성·미래·KB·한국투자신탁·신한)가 추석 용돈 재테크 상품으로 반도체와 배당 관련 ETF를 추천했다. AI 확산에 따른...",
-          "pubDate": "Thu, 24 Sep 2026 10:01:00 +0900"
+          "title": "최태원, 멕시코 이어 뉴욕서 코리아소사이어티 갈라 참석 예정… 젠슨 ...",
+          "source": "greened.kr",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=350815",
+          "description": "올해 수상자인 황 CEO는 한미 기술 협력과 AI·반도체 분야 혁신에 기여한 공로를 인정받았다. 최 회장은... 이재용 삼성전자 회장 역시 갈라에 참석해 황 CEO와 만날 것으로 알려졌다는 보도도 잇따르고 있다. 다만 SK와...",
+          "pubDate": "Fri, 25 Sep 2026 10:02:00 +0900"
         },
         {
-          "title": "대기업 총수들 2027 판 짜기 시작…추석에도 경영 전선",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20094793?ref=naver",
-          "description": "이재용 삼성전자 회장은 미국 뉴욕에서 젠슨 황 엔비디아 최고경영자(CEO)와 반도체·AI 사업 확장을 점검하고, 최태원 SK그룹 회장도 같은 행사에서 ‘AI 깐부’ 회동을 재연할 예정이다. 구광모 LG 그룹 회장은...",
-          "pubDate": "Thu, 24 Sep 2026 10:01:00 +0900"
+          "title": "'산업혁명 뛰어넘는 AI혁명 시대' 국회에 맡겨진 숙제[AI룰메이커]",
+          "source": "view.asiae.co.kr",
+          "url": "https://view.asiae.co.kr/article/2026092316153288935",
+          "description": "교수와 삼성전자 임원을 겸직하는 첫 사례가 나왔다고 들었는데 반가운 소식이다. 그래야 우수한 교수와... 고동진 국민의힘 의원은 \"기업이 인재를 확보하고 집중 연구할 수 있는 환경을 만들어줘야 한다\"며 \"AI·반도체...",
+          "pubDate": "Fri, 25 Sep 2026 10:00:00 +0900"
         }
       ]
     }

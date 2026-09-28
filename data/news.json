@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-09-27T01:09:03.677Z",
+  "updatedAt": "2026-09-28T01:27:02.057Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "9월 27일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. joseilbo.com, opinionnews.co.kr, hankyung.com 등에서 보도되었으며, 환율, 1350원대로, 예금보다 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 28일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news2day.co.kr, yonhapnewstv.co.kr, job-post.co.kr 등에서 보도되었으며, 코스피, 연휴, 추석 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "\"예금보다 40배↑\"…코스피200 ETF, 올해 재테크 수익률 1위",
-          "source": "joseilbo.com",
-          "url": "http://www.joseilbo.com/news/news_read.php?uid=576368&class=18&grp=",
-          "description": "외환시장에서는 원화 강세 흐름이 뚜렷했다. 원/달러 환율은 달러당 1466.70원에서 1380.30원으로 4.59% 내렸고 원/엔 환율도 100엔당 922.70원에서 884.33원으로 4.16% 하락했다. 환율 하락은 같은 외화를 사는 데...",
-          "pubDate": "Sun, 27 Sep 2026 09:49:00 +0900"
+          "title": "코스피, 추석 연휴 뒤 코스피 6,980선 후퇴…삼전·하이닉스 동반 하락",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20260928500071",
+          "description": "한편 서울 외환시장에서 원·달러 환율은 전 거래일보다 1.50원 내린 1,357.50원에 거래되고 있다. 지난 주말 뉴욕증시에서는 3대 주요 지수가 일제히 상승했다. 다우존스30산업평균지수는 전장보다 0.93...",
+          "pubDate": "Mon, 28 Sep 2026 10:20:00 +0900"
         },
         {
-          "title": "[이번주 환율] 1390원 위협하던 환율 1350원대로…연휴 뒤 더 내릴까",
-          "source": "opinionnews.co.kr",
-          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144894",
-          "description": "이번주 외환시장에서는 미국과 이란의 후속 협상과 호르무즈 해협 재개방 여부, 국제유가와 엔화 움직임 등이 달러·원 환율의 방향을 가를 것으로 보인다. 연준의 추가 긴축 기대와 저가 매수 수요가 환율 하단을...",
-          "pubDate": "Sun, 27 Sep 2026 09:00:00 +0900"
+          "title": "연휴 뒤 코스피 7,000선 반납…삼전닉스 약세",
+          "source": "yonhapnewstv.co.kr",
+          "url": "http://www.yonhapnewstv.co.kr/news/MYH20260928101714dcZ",
+          "description": "한편, 서울 외환시장에서 원·달러 환율은 1,350원 후반대에서 거래되고 있습니다. 지금까지 하나은행 딜링룸에서 연합뉴스TV 김채영입니다. [현장연결 김태현] #환율 #코스피 #코스닥 #삼성전자 #SK하이닉스",
+          "pubDate": "Mon, 28 Sep 2026 10:18:00 +0900"
         },
         {
-          "title": "트럼프 \"엔저 우려\" 한마디에…일본은행, 10월 연속 금리 올리나 [도쿄나...",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/202609277049i",
-          "description": "일본에 환율 안정을 요구하는 ‘���압’이 강해질 수 있다는 분석이다. 다카이치 사나에 일본 총리는 25일... 일본이 사용할 수 있는 남은 카드는 재무성의 외환시장 개입과 일본은행의 추가 금리 인상이다. 가타야마...",
-          "pubDate": "Sun, 27 Sep 2026 08:32:00 +0900"
+          "title": "원·달러 환율 1358원대…추석 연휴 뒤 1350원대 흐름 이어가",
+          "source": "job-post.co.kr",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=229274",
+          "description": "지난 21일 서울 외환시장에서 원·달러 환율은 1381.0원에 마감했다. 이후 추석 연휴를 앞두고 수출기업들이 원화 자금을 확��하기 위해 보유 달러를 시장에 내놓는 네고 물량이 증가하면서 하락 압력이 커졌다....",
+          "pubDate": "Mon, 28 Sep 2026 10:16:00 +0900"
         },
         {
-          "title": "1380원대 찍더니 다시 아래로…추석 뒤 환율 가를 '달러·엔·네고'",
-          "source": "mt.co.kr",
-          "url": "https://www.mt.co.kr/economy/2026/09/27/2026092212131343310",
-          "description": "다만 엔화가 더 약해질 경우 일본 외환당국의 시장 개입 가능성이 커진다. 일본 당국은 최근 시장 참가자들에게 환율 수준을 묻는 '레이트 체크'에 나선 것으로 알려졌다. 실제 개입 가능성에 대한 경계도 이어지고...",
-          "pubDate": "Sun, 27 Sep 2026 08:00:00 +0900"
+          "title": "엔화, 시장 개입 경계에 1달러=157엔대 중반 상승 출발",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20260928_0003804937",
+          "description": "도쿄 외환시장에서 엔화 환율은 이날 오전 8시30분 시점에 1달러=157.57~157.58엔으로 지난 25일 오후 5시 대비 0.52엔 상승했다. 가타야마 사쓰키(片山さつき) 일본 재무상은 25일 스콧 베선트 미국 재무장관과 온라인...",
+          "pubDate": "Mon, 28 Sep 2026 10:06:00 +0900"
         },
         {
-          "title": "1350원대로 돌아온 환율…미·이란 협상에 주목[주간외환전망]",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01085686645584384&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "description": "지난주 환율, 국제유가 따라 출렁 27일 서울외환시장에 따르면 지난주 마지막 거래일을 1357원에 마쳤다. 국내 금융시장은 추석 연휴로 24일부터 휴장했지만 외환시장은 25일 새벽 6시까지 거래가 이뤄졌다. 지난주 환율은...",
-          "pubDate": "Sun, 27 Sep 2026 06:02:00 +0900"
+          "title": "코스피 7057.86 하락 출발...HLB는 美 신약 허가에 상한가",
+          "source": "wolyo.co.kr",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=318352",
+          "description": "한편, 이날 코스닥지수는 전장보다 0.12% 상승한 845.48, 원·달러 환율은 서울 외환시장에서 전 거래일과 동일한 1357원으로 출발했다. [주의] 본 기사는 투자판단의 참고용이며, 이를 근거로 한 투자손실에 대한...",
+          "pubDate": "Mon, 28 Sep 2026 10:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "9월 27일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. straightnews.co.kr, dt.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 수익률, 1위, 코스피200 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 28일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. imaeil.com, ftoday.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 한투운용, ACE, 머니마켓액티브 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "올해 수익률 1위…7월 급락에도 코스피200 ETF",
-          "source": "straightnews.co.kr",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=311984",
-          "description": "글로벌 통화정책 불확실성이 정점을 통과하고 유가와 채권금리가 안정될 가능성이 있는 데다 수출 모멘텀과 반도체·IT하드웨어·자동차·전력기기·2차전지 등 AI 관련 업종의 실적 개선이 증시를 뒷받침할...",
-          "pubDate": "Sun, 27 Sep 2026 10:06:00 +0900"
+          "title": "[여의도단신] 한국투자신탁운용·한화자산운용·키움투자자산운용",
+          "source": "imaeil.com",
+          "url": "https://www.imaeil.com/page/view/2026092809553159842",
+          "description": "ACE 머니마켓액티브 ETF는 양도성예금증서(CD)나 한국무위험지표금리(KOFR) 등 초단기채권에서 나오는 금리를 일할 계산해 복리로 적용하는 상품이다. 잔존만기 3개월 이하이면서 신용등급이 AA 이상인 채권...",
+          "pubDate": "Mon, 28 Sep 2026 10:24:00 +0900"
         },
         {
-          "title": "반도체 타고 7천피 복귀…마이크론 실적에 랠리 연장 달렸다 [증시전망...",
-          "source": "dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12085890?ref=naver",
-          "description": "다만 채권금리 부담은 여전히 증시의 상단을 제약할 변수다. 미국 연방준비제도(Fed·연준)의 추가 금리 인상 가능성이 남아 있는 상황에서 물가 압력이 다시 강해질 경우 시장금리가 재차 상승할 수 있기 때문이다....",
-          "pubDate": "Sun, 27 Sep 2026 09:49:00 +0900"
+          "title": "한투운용 ACE 머니마켓액티브 ETF, 순자산 1조 돌파",
+          "source": "ftoday.co.kr",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366150",
+          "description": "ACE 머니마켓액티브 ETF는 양도성예금증서(CD)나 한국무위험지표금리(KOFR) 등 초단기채권에서 나오는 금리를 일할 계산해 복리로 적용하는 상품이다. 잔존만기 3개월 이하면서 신용등급이 AA 이상인 채권...",
+          "pubDate": "Mon, 28 Sep 2026 10:24:00 +0900"
         },
         {
-          "title": "[고금리 찬바람] 채권형 공룡펀드 멸종…2조 원 벽도 무너졌다",
+          "title": "미 국채금리 급등에 '高부채 기업' 비상…\"포드·라이브네이션 위험\"",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436564",
-          "description": "채권 가격은 금리와 반대로 움직인다. 금리가 상승하면 채권 가격은 떨어지고, 채권형 펀드 수익률에 마이너스(-)로 작용한다. 코레이트셀렉트단기채는 연초 이후 2.49%, 한국투자크레딧포커스ESG는 0.86%의 수익률을 내는...",
-          "pubDate": "Sun, 27 Sep 2026 09:32:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436651",
+          "description": "맞물리며 채권 금리를 끌어올리고 있다고 분석했다. 미 10년물 국채 금리는 지난주 5.22%까지 오르며 2007년 7월 이후 최고치를 기록했고, 30년물 금리는 5.50%로 22년 만에 최고치를 경신했다. 마이클 칸트로위츠...",
+          "pubDate": "Mon, 28 Sep 2026 10:24:00 +0900"
         },
         {
-          "title": "[고금리 찬바람] 싸늘한 원화채에 한국물로…호황 속 경계감 상당",
+          "title": "맥쿼리 \"美 국채금리 상승, 물가보다 채권 공급 영향 커\"",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436563",
-          "description": "올해 국내 채권시장의 원화 금리 상승세가 지속되자 공공기관들은 금리 경쟁력을 좇아 외화 시장 활용도를 높였다. 다양한 해외 시장으로 투자처를 확대해 조달 안정성을 높이려는 움직임도 영향을 미쳤다. 다만 미국...",
-          "pubDate": "Sun, 27 Sep 2026 09:32:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436647",
+          "description": "위즈먼은 이처럼 늘어난 채권 공급이 금리에 상승 압력을 가하고 있다고 설명했다. 뱅가드에 따르면 알파벳과 아마존, 메타, 마이크로소프트, 오라클의 ���난 7월까지 채권 발행액은 약 1천320억달러에 달했다. 이는 2020...",
+          "pubDate": "Mon, 28 Sep 2026 10:14:00 +0900"
         },
         {
-          "title": "금·비트코인 다 제쳤다…올해 재테크 1위 ‘코스피200 ETF’ 수익률 80%",
-          "source": "dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12085885?ref=naver",
-          "description": "이경민 대신증권 연구원은 “글로벌 통화정책 불확실성이 정점을 통과했고, 미국 중간선거를 앞두고 미국과 이란 간 평화 분위기가 형성되면서 유가와 채권금리가 하향 안정될 전망”이라고 분석했다. 이어...",
-          "pubDate": "Sun, 27 Sep 2026 09:31:00 +0900"
+          "title": "한투운용 'ACE 머니마켓액티브 ETF' 순자산 1조 돌파",
+          "source": "smedaily.co.kr",
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=363768",
+          "description": "ACE 머니마켓액티브 ETF는 양도성예금증서(CD)나 한국무위험지표금리(KOFR) 등 초단기채권에서 나오는 금리를 일할 계산해 복리로 적용하는 상품이다. 잔존만기 3개월 이하이면서 신용등급이 AA 이상인 채권...",
+          "pubDate": "Mon, 28 Sep 2026 10:14:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "9월 27일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, smartbizn.com, ceoscoredaily.com 등에서 보도되었으며, 자본, 11, 78 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 28일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, smartbizn.com, ceoscoredaily.com 등에서 보도되었으며, 자본, 11, 78 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "자본성 증권 발행 '뚝'…다변화된 보험사 자본 관리",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "9월 27일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. newsway.co.kr, etoday.co.kr, rightknow.co.kr 등에서 보도되었으며, 국감, 억대, 성과급이 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "9월 28일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. pinpointnews.co.kr, tokenpost.kr, ebn.co.kr 등에서 보도되었으며, 코스피, 삼성전자, 의료기기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "'억대 성과급이 휴직도 막아'…삼성전자·SK하이닉스, 육아휴직률 나란...",
-          "source": "newsway.co.kr",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026092709483724264",
-          "description": "삼성전자는 지난해 하반기부터 반도체 사업 실적이 빠르게 개선됐다. 올해 영업이익이 350조원을 넘고, 반도체 부문 성과급이 적게는 2억원에서 많게는 6억원을 웃돌 수 있다는 전망도 나온다. 육아휴직률이 낮아진...",
-          "pubDate": "Sun, 27 Sep 2026 10:08:00 +0900"
+          "title": "의료기기 테마에 돈 몰린다…AI 진단·미용기기주 동반 상승",
+          "source": "pinpointnews.co.kr",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490687",
+          "description": "삼성전자는 반도체와 모바일, 가전 등 사업을 중심으로 하고 있어 의료기기 테마와는 직접적인 연관성이 제한적이지만, 이날 증시 전반의 수급 흐름 속에서 약세를 나타내고 있다. 플라즈맵과 랩지노믹스 역시 하락세를...",
+          "pubDate": "Mon, 28 Sep 2026 10:26:00 +0900"
         },
         {
-          "title": "추석 용돈·떡값으로 ETF 사볼까…운용사 추천 상품",
-          "source": "etoday.co.kr",
-          "url": "https://www.etoday.co.kr/news/view/2629088",
-          "description": "‘RISE 글로벌AI낸드메모리반도체’는 삼성전자와 SK하이닉스, 마이크론, 샌디스크 등 낸드 메모리 밸류체인 핵심 기업에 투자한다. AI 활용이 학습에서 추론으로 확대되면서 늘어나는 데이터 저장 수요를 겨냥한다....",
-          "pubDate": "Sun, 27 Sep 2026 10:04:00 +0900"
+          "title": "코스피 1% 하락…삼성전자·SK하이닉스 2%대 약세",
+          "source": "tokenpost.kr",
+          "url": "https://www.tokenpost.kr/news/breaking/414896",
+          "description": "코스피가 1% 하락하고 삼성전자와 SK하이닉스가 각각 2.54%, 2.82% 내렸다는 보도가 나왔다. 중국 매체 블록비트는 코스피와 국내 주요 반도체주가 동반 약세를 보였다고 전했다.",
+          "pubDate": "Mon, 28 Sep 2026 10:26:00 +0900"
         },
         {
-          "title": "최승호 노조위원장 국감 증인 채택…성과급 배분 형평성 질의",
-          "source": "rightknow.co.kr",
-          "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=34823",
-          "description": "국감현장 / 알티케이뉴스 DB 올해 삼성전자 노사 잠정합의안에는 반도체 사업을 맡는 DS부문 사업성과의 10.5%를 재원으로 하는 특별경영성과급 신설이 담겼다. 합의 이후 완제품을 맡는 DX부문과 DS부문 내 일부 사업부...",
-          "pubDate": "Sun, 27 Sep 2026 10:02:00 +0900"
+          "title": "[EBN 데이터센터] 반도체 약세에 코스피 혼조...2차전지·바이오 강세 속...",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1725762",
+          "description": "금융주 가운데 KB금융은 0.12%, 신한지주는 0.64%, 하나금융지주는 0.3%, 삼성생명은 0.17% 상승하며 비교적 안정적인 흐름을 이어갔다. ◆반도체 대형주 조정...전기차·방산·금융이 완충 코스피 시총 상단에서는...",
+          "pubDate": "Mon, 28 Sep 2026 10:26:00 +0900"
         },
         {
-          "title": "LG전자, 엔비디아 AI 데이터센터 냉각 분야 공식 파트너 선정",
-          "source": "4th.kr",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2118703",
-          "description": "AI 서버의 발열량이 커지면서 데이터센터에서는 건물 전체의 열을 식히는 설비와 함께 서버·반도체 칩... 5㎿급 CDU를 선보였고, 이달에는 액체냉각과 공랭을 결합한 CDU를 출시했다 국내에서는 삼성전자가 지난해...",
-          "pubDate": "Sun, 27 Sep 2026 10:00:00 +0900"
+          "title": "동탄1신도시, '낡은 신도시'가 아니라 '좋은 집이 부족한 도시'다",
+          "source": "bizhankook.com",
+          "url": "https://bizhankook.com/articles/dongtan-lacks-quality-housing.html",
+          "description": "삼성전자 화성·기흥 사업장을 중심으로 고소득 반도체 종사자가 두텁다. GTX-A 개통으로 서울 접근성도 개선됐다. 실제 현지에서도 삼성전자 사업장 통근이 편리한 지역을 찾는 문의가 증가하고 있다는 분석이 나온다....",
+          "pubDate": "Mon, 28 Sep 2026 10:26:00 +0900"
         },
         {
-          "title": "'삼전닉스 레버리지' 국감 핵심 쟁점으로…한국투자금융 회장까지 왜 증...",
-          "source": "news.ifm.kr",
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=480235",
-          "description": "국내 대표 반도체주인 삼성전자와 SK하이닉스 주가의 하루 등락률을 두 배로 추종하는 단일종목 레버리지 ETF 및 ETN 상품을 말하는데요. 그런데 국감을 앞두고 정치권과 금융권의 분위기가 심상치 않습니다. 단순히...",
-          "pubDate": "Sun, 27 Sep 2026 10:00:00 +0900"
+          "title": "내부 갈등 속 차기위원장 선출 삼성전자 DX노조, 이재용과 대화 요청 지...",
+          "source": "economist.co.kr",
+          "url": "https://economist.co.kr/article/view/ecn202609280009",
+          "description": "내부 갈등을 겪고 있는 삼성전자의 DX(디바이스경험) 부문 중심의 삼성전자 노동조합 동행(이하 동행노조)가 결국 예정대로 차기 위원장을 선출했다. 반도체 부문(DS)과의 공동교섭 요구를 예고하고 있다. 28일 동��노조에...",
+          "pubDate": "Mon, 28 Sep 2026 10:25:00 +0900"
         }
       ]
     }

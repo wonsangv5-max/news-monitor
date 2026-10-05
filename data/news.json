@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-10-04T02:26:45.571Z",
+  "updatedAt": "2026-10-05T01:42:52.003Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "10월 4일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. sentv.co.kr, econovill.com, straightnews.co.kr 등에서 보도되었으며, 달러, 3분기, 곱버스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 5일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ntoday.co.kr, insnews.co.kr, jibs.co.kr 등에서 보도되었으며, 환율, 유가, 뛰어도 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "3분기 ETF 상슬률 1~3위, ‘달러 곱버스’ 이름 올려",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610040009",
-          "description": "같은 기간 원·달러 환율은 서울 외환시장 주간 거래 종가(오후 3시 30분) 기준 1504.3원에서 1352.8원으로 내려갔다. 지난 9일에는 1,336.10원에 거래를 마치며 서울 정규장 기준 2024년 10월 4일 이후 최저로...",
-          "pubDate": "Sun, 04 Oct 2026 10:46:00 +0900"
+          "title": "유가 뛰어도 경상흑자는 최대…반도체 호황의 두 얼굴",
+          "source": "ntoday.co.kr",
+          "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=129814",
+          "description": "대외수지와 환율에 미칠 영향도 커질 수 있다는 지적이 나온다. 5일 런던 ICE 선물거래소에 따르면... 이어 \"석유 수입은 계속되는 반면 외국인이 우리나라에서 사가는 반도체가 줄어들면 외환시장에서 원화 약세 요인이...",
+          "pubDate": "Mon, 05 Oct 2026 10:06:00 +0900"
         },
         {
-          "title": "3분기 달러 곱버스 일단은 '방긋'…4분기는?",
-          "source": "econovill.com",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=752691",
-          "description": "◆환율 상방 압력 우위…전문가 \"다시 상승 흐름\" 외환시장에서는 원·달러 환율의 상승 압력이 당분간 이어질 수 있다는 전망이 나온다. 한 외환 전문가는 \"글로벌 달러 강세와 외국인 국내 증시 순매도 지속으로 원...",
-          "pubDate": "Sun, 04 Oct 2026 10:36:00 +0900"
+          "title": "우리은행 런던트레이딩센터, 현지 기업과 첫 파생상품 거래… 국내 은행...",
+          "source": "insnews.co.kr",
+          "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93152",
+          "description": "우리은행은 외국인 투자자의 국내 외환·자본시장 접근성을 높이고 글로벌 수익 기반을 다각화하기 위해... 채권 운용 기능을 활용해 외국인 투자자에게 원화 국채 투자와 환헤지(환율 변동 위험 관리)를 결합한 거래를...",
+          "pubDate": "Mon, 05 Oct 2026 10:00:00 +0900"
         },
         {
-          "title": "달러선물인버스ETF 상품들, 수익률 상위권",
-          "source": "straightnews.co.kr",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312499",
-          "description": "서울 외환시장의 원/달러 환율도 주간 거래 종가 기준 1504.3원에서 1352.8원으로 내려갔다. 환율 흐름이 줄곧 한 ���향이었던 것은 아니다. 9월 9일 1336.10원까지 떨어졌던 환율은 같은 달 18일 1383.3원으로 되올랐다....",
-          "pubDate": "Sun, 04 Oct 2026 10:24:00 +0900"
+          "title": "환율·밀값은 내리는데… 추석 끝나자 식품 가격표 올랐다",
+          "source": "jibs.co.kr",
+          "url": "https://www.jibs.co.kr/news/articles/articlesDetail/66157?feed=na",
+          "description": "■ 환율 1,350원대로… 밀 가격은 두 자릿수 하락 지난 2일 서울 외환시장에서 원·달러 환율은 전 거래일보다 7.8원 내린 1,350.6원에 주간 거래를 마쳤습니다. 지난달 14일 1,347.3원 이후 20일 만에 가장 낮은 수준입니다....",
+          "pubDate": "Mon, 05 Oct 2026 10:00:00 +0900"
         },
         {
-          "title": "연준 10월 금리 인상 기대 후퇴…달러-원 1345~1370원 전망",
-          "source": "econovill.com",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=752690",
-          "description": "10월 달러-원 환율은 1,345~1,370원에서 움직일 것으로 전망했다. 4일 금융권에 따르면 하나은행 서정훈 연구위원과 이유정 연구원은 최근 발간한 월간 외환시장 전망 보고서에서 이같이 분석했다. ◆연준 고위 인사 발언에...",
-          "pubDate": "Sun, 04 Oct 2026 10:20:00 +0900"
+          "title": "[이번주 환율] 美 고용 부진에 금리 인상 우려 후퇴…1350원대 환율 향방...",
+          "source": "opinionnews.co.kr",
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145252",
+          "description": "지난달 28일 서울 외환시장에서 달러·원 환율은 오후 3시30분 기준 1365.1원으로 전 거래일 같은 시각보다 7.6원 올랐다. 추석 연휴 기간 미국 10년물 국채금리가 5.22%까지 올라 2007년 이후 최고 수준을 기록하면서 달러...",
+          "pubDate": "Mon, 05 Oct 2026 09:44:00 +0900"
         },
         {
-          "title": "코인 거래 식어도 '달러 코인'은 해외로…스테이블코인 지난해 10조 순유...",
-          "source": "metroseoul.co.kr",
-          "url": "http://www.metroseoul.co.kr/article/20261004500001",
-          "description": "하지만 올해 3월부터 할인 거래가 나타났고, 환율이 1500원 안팎까지 오른 6~7월에는 환율보다 1.4~1.6% 쌌다. 한국은행 국제국 연구진은 지난달 3일 발표한 BOK 이슈노트 '달러 스테이블코인과 외환시장 간 연계성: 글로벌...",
-          "pubDate": "Sun, 04 Oct 2026 10:08:00 +0900"
+          "title": "'트럼프 배당금' 뭇매…고금리·고유가 속 한국증시 '7천피' 안간힘",
+          "source": "breaknews.com",
+          "url": "http://www.breaknews.com/1240973",
+          "description": "서울 외환시장에서 원·달러 환율은 달러인덱스 약세와 반도체 대기업의 달러 매도 물량 유입에 힘입어 7.8원 내린 1,350.6원에 마감했다. 코스피는 외국인 매도세...",
+          "pubDate": "Mon, 05 Oct 2026 09:06:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "10월 4일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. hankyung.com, pinpointnews.co.kr, g-enews.com 등에서 보도되었으며, 금리, 30, 40 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 5일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. cbci.co.kr, khgames.co.kr, magazine.hankyung.com 등에서 보도되었으며, 상승, 금값, 금시세 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "\"月 1200만원 통장에 꽂힌다\"…20억 자산가의 절세 비결",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/202609184186i",
-          "description": "표면금리가 낮은 장기채권도 유용하다. 이자에만 세금이 붙고 매매차익은 비과세이기 때문이다. 표면금리가 1%대인 장기 국채를 할인된 가격에 매수하면 과세표준에 포함되는 금액을 최소화할 수 있다. 국내 주식형...",
-          "pubDate": "Sun, 04 Oct 2026 11:01:00 +0900"
+          "title": "금(금값, 금시세) 10월 5일",
+          "source": "cbci.co.kr",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=612439",
+          "description": "에너지 가격 상승은 각국의 인플레이션을 다시 자극할 수 있고, 이에 따라 주요 중앙은행이 긴축적인 통화정책을 장기간 유지할 경우 채권금리와 달러 가치가 상승하면서 금값에는 부담으로 작용할 수 있다....",
+          "pubDate": "Mon, 05 Oct 2026 10:30:00 +0900"
         },
         {
-          "title": "국채 공급 줄이고 시장 안정 나선다…채권시장 금리 방향 바뀌나",
-          "source": "pinpointnews.co.kr",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492536",
-          "description": "단순히 발행 축소 기대만으로 채권 금리가 지속적으로 하락하기 위해서는 미국 금리와 국내 물가, 환율 등 대외 변수가 안정돼야 한다. 최근 국내 물가 상승률이 둔화 조짐을 보이고 있다는 점은 채권시장에 긍정적이다....",
-          "pubDate": "Sun, 04 Oct 2026 09:14:00 +0900"
+          "title": "비트코인 4분기 상승 관건은 '현물 매수세'",
+          "source": "khgames.co.kr",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308997",
+          "description": "최근 비트코인 선물 연환산 프리미엄은 5.1%로, 미국 단기금리 지표인 SOFR(미국 담보채권 당일금리, 3.88%)보다 1.22%포인트 높지만 지난 9월 21일 비트코인 가격이 급등 시점보다는 크게 낮아진 상태다. 다시 말해, 선물과...",
+          "pubDate": "Mon, 05 Oct 2026 10:14:00 +0900"
         },
         {
-          "title": "세금 더 걷혔는데 국채는 덜 찍는다…금리 하락 신호일까",
-          "source": "pinpointnews.co.kr",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492534",
-          "description": "국채 공급 감소는 다른 조건이 같다면 채권 가격 상승과 금리 하락 요인으로 작용할 수 있다. 정부도 실제 국고채 발행 계획을 줄였다. 재정경제부는 10월 국고채 경쟁입찰 발행 규모를 당초 계획보다 5조원 줄인...",
-          "pubDate": "Sun, 04 Oct 2026 09:06:00 +0900"
+          "title": "미국 주식시장이 하락하지 않는 이유… “변화가 돈이다” [조병문의 M...",
+          "source": "magazine.hankyung.com",
+          "url": "https://magazine.hankyung.com/business/article/202610017941b",
+          "description": "따라서 빅테크 채권이 장기 금리를 더 이상 상승시키지 않을 것으로 예상한다. 결론적으로 지금 고금리는 수급보다 심��(기대인플레이션)에서 원인을 찾는 게, 아울러 기대인플레이션에 의존한 대규모 숏세력...",
+          "pubDate": "Mon, 05 Oct 2026 09:44:00 +0900"
         },
         {
-          "title": "역대 최고서 30% 밀린 금값, 美 금리 인상에 묶여 4200달러 횡보",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202610040802382065fbbec65dfb_1",
-          "description": "채권 금리 상승 압력과 달러화 가치 변동이 맞물리면서 전통적인 금과 달러의 역관계가 새롭게 재편될 가능성도 제기된다. 원자재 시장에서는 1999년 이후 장기 하락 국면마다 분할 매수 대응이 유효했다는...",
-          "pubDate": "Sun, 04 Oct 2026 08:10:00 +0900"
+          "title": "10년물 7%까지 안전? … 국채금리 파고에 둑 높이는 월가, 수압에 누적되...",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/02/2026100200219.html",
+          "description": "월스트리트저널(WSJ) 등 주요 외신은 장기 국채금리 급등(채권 가격 폭락)이 기관 투자자들의 평가손실을 키워 마진콜과 환매 대응을 위한 추가 매도를 부르는 '채권판 뱅크런' 가능성을 제기했다. 투자자들이 국채...",
+          "pubDate": "Mon, 05 Oct 2026 09:40:00 +0900"
         },
         {
-          "title": "“지금은 기대수익 낮추고 분할매수 시점” 해외주식 40% 담으라는 전문...",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10892620?ref=naver",
-          "description": "채권과 금리형 상품에는 20%를 배정했다. 장기금리 불확실성이 남아 있는 만큼 장기채보다 단기채 중심 전략을 권했다. 최 이사는 “현재 경기와 물가 추세를 보면 보수적인 관점을 유지하는 게 맞다”며 “장기금리...",
-          "pubDate": "Sun, 04 Oct 2026 08:01:00 +0900"
+          "title": "美 고용 둔화에 아시아 증시 상승…브렌트유 103달러 돌파",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1726702",
+          "description": "미국의 물가 불안과 정부 지출 확대, 인공지능(AI) 투자에 필요한 기업 자금 조달 증가가 채권 금리를 밀어올리는 요인으로 꼽힌다. 미국 10년물 국채 금리는 지난주 2002년 이후 최고 수준까지 치솟았다. 이번 주 예정된...",
+          "pubDate": "Mon, 05 Oct 2026 09:20:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "10월 4일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dealsite.co.kr, kukinews.com, ekn.kr 등에서 보도되었으며, 애큐온, 한화생명, 부담 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 5일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dealsite.co.kr, kukinews.com, ekn.kr 등에서 보도되었으며, 애큐온, 한화생명, 부담 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "[애큐온캐피탈 M&A] 경영권만 챙기고 부담 나눴다…한화생명의 인수 셈...",
@@ -105,7 +105,7 @@
           "title": "한화생명 품에 안긴 애큐온…기업금융엔 시너지, 자회사 체력은 과제",
           "source": "ekn.kr",
           "url": "https://www.ekn.kr/web/view.php?key=20261002023151448",
-          "description": "정상화, 한화생명 자체 자본 관리 등이 새로운 과제로 떠오를 수 있을 것이란 시각이 나온다. 캐피탈 지분투자를 통해 킥스 변화가 나타날 가능성이나 향후 자회사 성장에 추가로 투입되는 부담도 따를 수 있다. 금융권...",
+          "description": "정상화, 한화생명 자체 자본 관리 등이 새로운 과제로 떠오를 수 있을 ��이란 시각이 나온다. 캐피탈 지분투자를 통해 킥스 변화가 나타날 가능성이나 향후 자회사 성장에 추가로 투입되는 부담도 따를 수 있다. 금융권...",
           "pubDate": "Fri, 02 Oct 2026 10:04:00 +0900"
         },
         {
@@ -119,49 +119,49 @@
           "title": "애큐온 '쪼개기 인수'의 덫…한화생명, 풋옵션에 자본비율 하락 '뇌관'",
           "source": "youthdaily.co.kr",
           "url": "https://www.youthdaily.co.kr/news/article.html?no=227837",
-          "description": "8천700억 원을 한 번에 출자하면 자본비율(K-ICS·킥스)이 하락하기 때문이다. 한화생명의 6월 말 K-ICS 비율은 168.0%지만, 순수 자본 체력을 보여주는 기본자본 K-ICS 비율은 3월 말 기준 59%다. 2027년 도입되는 금융당국의...",
+          "description": "8천700억 원을 한 번에 출자하면 자본비율(K-ICS·킥스)이 하락하기 때문이다. 한화생명의 6월 말 K-ICS 비율은 168.0%지만, 순수 자본 체력을 보여주는 기본자본 K-ICS 비율은 3월 말 기준 59%다. 2027�� 도입되는 금융당국의...",
           "pubDate": "Fri, 02 Oct 2026 08:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "10월 4일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. sentv.co.kr, moneystorm.kr, sisajournal-e.com 등에서 보도되었으며, 삼전, 2700, 삼성전자 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 5일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. biz.chosun.com, it.chosun.com, mediapen.com 등에서 보도되었으며, 반도체, 장비, 93 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전자, 용인 사이버 과학축제 참가…”국가산단 미래 소개“",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610040013",
-          "description": "삼성전자는 올해 전시 규모를 4개로 확대하고, 용인 첨단시스템반도체 국가산단 조감도와 함께 대규모 반도체 투자가 가져올 지역사회의 변화를 소개했다. 삼성전자는 용인 국가산단에 약 360조원을 투자할 계획이며...",
-          "pubDate": "Sun, 04 Oct 2026 11:22:00 +0900"
+          "title": "‘AI·반도체’ 열풍에… 4대 과기원 수시 지원자 수 ‘역대 최대’",
+          "source": "biz.chosun.com",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/05/NK2ZMX72UBFTZLGX6VYYDUAJ2E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+          "description": "삼성전자 반도체 계약학과 지원자는 GIST가 지난해보다 80.6%, DGIST가 53.9% 늘었다. 경쟁률도 GIST가 6.40대1에서 11.56대1로, DGIST는 9.89대1에서 15.22대1로 올랐다. KAIST 반도체시스템공학과 지원자는 지난해보다...",
+          "pubDate": "Mon, 05 Oct 2026 10:40:00 +0900"
         },
         {
-          "title": "[증시 프리즘] 삼전 실적 앞둔 코스피, '7천피' 안착 시험대…외인 돌아...",
-          "source": "moneystorm.kr",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7033",
-          "description": "삼성전자 실적이 반도체 업황 개선을 재확인하고 미국 장기금리까지 안정된다면 코스피의 7,000선 안착과 추가 상승 시도가 가능하다. 반대로 금리가 다시 뛰고 외국인 매도가 재개된다면 7,000선은 또다시 저항선으로...",
-          "pubDate": "Sun, 04 Oct 2026 11:11:00 +0900"
+          "title": "칩노믹스 \"TSMC를 넘어, 세계가 대만을 주목하는 이유\" [새책]",
+          "source": "it.chosun.com",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171417",
+          "description": "TSMC와 삼성이 걸어온 길을 비교하고, AI 시대 한국이 어떤 선택을 해야 하는지, 반도체를 둘러싼 경쟁 속에서 한국과 대만이 어떤 관계를 만들어가야 하는지도 다룬다. 저자는 \"대만이 변한 것이 아니라, 나 자신이...",
+          "pubDate": "Mon, 05 Oct 2026 10:36:00 +0900"
         },
         {
-          "title": "마이크론이 확인한 '메모리 호황'···삼전·하닉 합산 영업익 전년 比...",
-          "source": "sisajournal-e.com",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424124",
-          "description": "글로벌 메모리 반도체 시장의 '풍향계'�� 불리는 미국 마이크론이 역대 최대 분기 실적을 다시 갈아치우면서 삼성전자와 SK하이닉스의 올 3분기 실적에도 기대감이 커지고 있다. 인공지능(AI) 인프라 투자 확대에...",
-          "pubDate": "Sun, 04 Oct 2026 11:06:00 +0900"
+          "title": "반도체 투자부터 홈플러스 회생까지…국감 앞두고 기업인 줄소환",
+          "source": "mediapen.com",
+          "url": "https://www.mediapen.com/news/view/1127889",
+          "description": "반도체 투자 결��부터 홈플러스 회생과 먹거리 가격 담합까지 산업계 주요 현안이 올해 국정감사에 오른다. 국감 개막을 하루 앞두고 유통·식품업계 경영진의 증인 채택이 잇따른 가운데 이재용 삼성전자 회장과 최태원...",
+          "pubDate": "Mon, 05 Oct 2026 10:36:00 +0900"
         },
         {
-          "title": "퀄컴 2나노 몸값 폭등에 삼성 엑시노스 2700, 조기 양산 승부수 던졌다",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202610041055325394fbbec65dfb_1",
-          "description": "모바일 칩 원가율 방어와 파운드리 생태계 분수령 엑시노스 2700의 실전 배치는 삼성전자 모바일과 시스템 반도체 가치사슬 전반의 수익성을 가르는 분기점이다. 금융감독원 전자공시시스템에 공시된 사업보고서 기준...",
-          "pubDate": "Sun, 04 Oct 2026 11:06:00 +0900"
+          "title": "美 규제 뚫는 中 ‘장비 굴기’…CXMT, 7조 원 투자 중 93% 국산 장비 싹...",
+          "source": "megaeconomy.co.kr",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576029869686",
+          "description": "국내 반도체 업계와 소재·부품·장비(소부장) 기업들에도 직격탄이 될 가능성이 높다. 범용(레거시) 메모리 시장에서 CXMT와 YMTC(양쯔메모리)가 원가 경쟁력을 바탕으로 점유율을 끌어올릴 경우 삼성전자와...",
+          "pubDate": "Mon, 05 Oct 2026 10:34:00 +0900"
         },
         {
-          "title": "[여의도풍향계] 국정감사 증언대 서는 JYP…조희대 증인 충돌 되풀이",
-          "source": "yonhapnewstv.co.kr",
-          "url": "http://www.yonhapnewstv.co.kr/news/MYH202610031430478B7",
-          "description": "국민의힘은 산자위 등에서 호남 반도체 클러스터와 관련해 이재용 삼성전자 회장과 최태원 SK그룹 회장을 증인으로 요구했지만, 1차 명단에서는 빠졌습니다. 반면 개인정보 유출 사고에 휘말린 기업인들은 국회를 오가야...",
-          "pubDate": "Sun, 04 Oct 2026 11:01:00 +0900"
+          "title": "[주간증시전망] 7000선 안착 시험대…삼성전자 실적·美장기금리가 갈림...",
+          "source": "viva100.com",
+          "url": "https://www.viva100.com/article/20261003500073",
+          "description": "이경민 대신증권 연구원은 “삼성전자가 낮아진 컨센서스를 상회할 경우 반도체 업종의 주도력 회복과 함께 코스피의 추가 레벨업으로 이어질 가능성이 높다”며 “삼성전자 실적 발표 전까지 금리 변동성이...",
+          "pubDate": "Mon, 05 Oct 2026 10:34:00 +0900"
         }
       ]
     }

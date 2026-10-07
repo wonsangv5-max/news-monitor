@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-10-06T02:44:26.348Z",
+  "updatedAt": "2026-10-07T02:09:22.450Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "10월 6일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news1.kr, mt.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 외환, 거래, 10 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 7일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. biz.heraldcorp.com, businesskorea.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 헤럴드비즈, 글로벌, 통화로 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "금리 부담·메모리 약세에 '칠천피' 다시 내줘…코스닥 2.5%↑[장중시황...",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/general-stock/6311291",
-          "description": "90%), 인터넷과카탈로그소매(-2.23%), 도로와철도운송(-1.97%) 등은 약세를 보이고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 0.3원 내린 1343.7원에 거래 중이다.",
-          "pubDate": "Tue, 06 Oct 2026 11:40:00 +0900"
+          "title": "[헤럴드비즈] 글로벌 통화로 나아가는 원화, 새로운 길을 열다",
+          "source": "biz.heraldcorp.com",
+          "url": "https://biz.heraldcorp.com/article/10895415?ref=naver",
+          "description": "외환시장 개방에 따른 변동성 확대에 대한 우려도 있다. 과거 대외 충격 시 원·달러 환율이 다른 통화에 비해 큰 변동성을 보인 사례가 있다. 또한, 24시간 거래 환경에서는 유동성이 상대적으로 저조한 야간시간대를...",
+          "pubDate": "Wed, 07 Oct 2026 11:07:00 +0900"
         },
         {
-          "title": "'엔비디아發 훈풍' AI·반도체 강세…닛케이, 0.19%↑[Asia오전]",
-          "source": "mt.co.kr",
-          "url": "https://www.mt.co.kr/world/2026/10/06/2026100611272769983",
-          "description": "이날 오전 도쿄 외환시장에서 엔/달러 환율은 전일 대비 0.15% 오른 달러당 157.90엔대에서 거래되는 엔저 움직임을 보였다. 닛케이는 \"일본 공적연금(GPIF)의 자산 구성 재검토 전망이 후퇴하면서 엔 매도·달러 매수...",
-          "pubDate": "Tue, 06 Oct 2026 11:39:00 +0900"
+          "title": "[개장 시황] 코스피, 6,900선 안착 시도 속 공방… 외국인·기관 '쌍끌이...",
+          "source": "businesskorea.co.kr",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278348",
+          "description": "원/달러 환율, 전일 대비 3.1원 내린 1,340.5원 수준에서 출발 이날 서울 외환시장에서 원/달러 환율은 전 거래일 주간 거래 종가 대비 3.1원 내린 1,340.5원 수준에서 출발하여, 오전 10시 현재 1,340원~1,342원 선에서 등락을...",
+          "pubDate": "Wed, 07 Oct 2026 11:06:00 +0900"
         },
         {
-          "title": "[외환] 강달러에 1,340원 초·중반대 거래",
+          "title": "[외환] 9시 이전 마(MAR) '+0.05원' 거래…픽싱 스퀘어",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437873",
-          "description": "6일 서울외환시장에서 달러-원 환율은 오전 9시 12분 현재 전 거래일 서울장 종가 대비 0.60원 내린 1,343.40원에 거래되고 있다. 오전 6시 뉴욕장 종가 대비로는 1.00원 올랐다. 유로화와 엔화가 동반 약세를 보이며...",
-          "pubDate": "Tue, 06 Oct 2026 11:22:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438089",
+          "description": "서울외환시장에서 오전 9시 이전 마(MAR, 시장평균환율) 호가는 '+0.05원' 수준을 나타냈다. 7일 복수의 중개사에 따르면 서울외환시장의 달러-원 스팟 마 가격은 '플러스(+) 0.05원'에 거래됐다. 차액결제선물환(NDF)...",
+          "pubDate": "Wed, 07 Oct 2026 11:04:00 +0900"
         },
         {
-          "title": "[외환] 9시 이전 마(MAR) '파' 거래…픽싱 스퀘어",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437869",
-          "description": "서울외환시장에서 오전 9시 이전 마(MAR, 시장평균환율) 호가는 '파(0)' 수준을 나타냈다. 6일 복수의 중개사에 따르면 서울외환시장의 달러-원 스팟 마 가격은 '파'에 거래됐다. 차액결제선물환(NDF) 픽싱 포지션은...",
-          "pubDate": "Tue, 06 Oct 2026 11:10:00 +0900"
+          "title": "[마켓 뷰] 서학개미 다시 美주식 사들이는데…원·달러 환율은 왜 떨어...",
+          "source": "moneystorm.kr",
+          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=7093",
+          "description": "다른 조건이 같다면 원·달러 환율 상승 요인이다. 하지만 외환시장은 개인투자자만의 시장이 아니다. 최근에는 한국의 수출기업들이 벌어들이는 달러, 외국인 투자자금, 기관투자가의 환헤지 거래, 경상수지 흑자 등에...",
+          "pubDate": "Wed, 07 Oct 2026 10:59:00 +0900"
         },
         {
-          "title": "[단독] “달러 자동거래 3년새 20배↑”...비중 첫 10% 돌파",
-          "source": "sedaily.com",
-          "url": "https://www.sedaily.com/article/20098405?ref=naver",
-          "description": "단시간에 환율 변동성을 키울 수 있다는 분석도 있다. API주문이 늘어날 경우 ‘딜 미스(거래 실수’도 늘어날 수도 있다. 한 외환시장 관계자는 “자동화 거래 확대에 따른 오류 관리가 은행들의 새로운 과제로...",
-          "pubDate": "Tue, 06 Oct 2026 11:01:00 +0900"
+          "title": "하나의 무기① 외환은행 DNA는 살아있다…24시간 외환시대, 하나은행의...",
+          "source": "dailypop.kr",
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=103145",
+          "description": "이와 관련해 정부 역시 외환시장 24시간 개장을 통해 수출입기업이 해외시장 움직임에 맞춰 환율 변동 위험에 보다 실시간으로 대응할 수 있을 것으로 보고 있다. 은행 입장에서는 외환거래와 환헤지, 무역금융을...",
+          "pubDate": "Wed, 07 Oct 2026 10:56:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "10월 6일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. biz.heraldcorp.com, mdtoday.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 금리, 국채, 30년물 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 7일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. mt.co.kr, econovill.com, news.einfomax.co.kr 등에서 보도되었으며, 스페이스X, 추진, 엔비디아 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "美국채 30년물 금리 6% 코앞…복병은 선물發 ‘강제매도’ 위험",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10894127?ref=naver",
-          "description": "특히 장기채 선물은 현재 CTD가 2045년 2월 만기, 표면금리 2.5%짜리 채권이다. 블룸버그의 시나리오 분석에 따르면 30년물 금리가 6% 부근까지 오를 경우 CTD가 2050년 만기 채권으로 넘어갈 수 있다. 미국 30년물 금리는...",
-          "pubDate": "Tue, 06 Oct 2026 11:38:00 +0900"
+          "title": "\"스페이스X, 54조 추가 자금 조달 추진…엔비디아 칩 구매 목적\"",
+          "source": "mt.co.kr",
+          "url": "https://www.mt.co.kr/world/2026/10/07/2026100709410923381",
+          "description": "채권수익률(금리)은 미국 국채보다 약 2.27%포인트 높아 불량채권과 비슷한 수준이다. 채권 가격과 수익률은 반대로 움직인다. FT는 신사업의 구체적인 계획 등 머스크의 제한적인 재무 정보 공개로 스페이스X 채권...",
+          "pubDate": "Wed, 07 Oct 2026 10:50:00 +0900"
         },
         {
-          "title": "증권, 3분기 부진한 실적 이미 주가 반영...이익 체력에 '주목'",
-          "source": "mdtoday.co.kr",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617417",
-          "description": "또 국고채 금리 상승에 따른 채권 트레이딩 손익 부진과 주식 시장 변동성 확대, ETF LP 수익 감소로 순상품운용손익 및 기타손익도 42.9% 큰 폭으로 감소할 것으로 예상했다. 그러나 단기적으로 현 증권사들의...",
-          "pubDate": "Tue, 06 Oct 2026 11:36:00 +0900"
+          "title": "5년 연속 늪 빠진 건설시장…\"내년 GTX·가덕도신공항·반도체로 물꼬터...",
+          "source": "econovill.com",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=752915",
+          "description": "이란 전쟁 장기화로 국제유가와 원자재 가격 상승 압력이 지속되고 채권 금리(채권을 발행할 때 약속한 이자율)와 환율이 오르면서, 현장의 비용 부담이 급격히 증가했다. 올해 8월 기준 생산자물가지수 총지수...",
+          "pubDate": "Wed, 07 Oct 2026 10:46:00 +0900"
         },
         {
-          "title": "크레이머 \"美 증시 신고가보다 채권시장 봐라…금리 안정이 관건\"",
+          "title": "짐 비앙코 \"5%대 美 국채, 적정가치 도달…약세 포지션 정리 후 매수\"",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437875",
-          "description": "그는 \"채권을 계속 파는 것이 명백히 어리��다고 느껴질 수준까지 채권 금리가 도달하기 전까지는 반등하기 어려운 종목들이 너무 많다\"고 말했다. 이는 금리가 더 올라야 주식을 사라는 의미라기보다는 국채금리가...",
-          "pubDate": "Tue, 06 Oct 2026 11:30:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438081",
+          "description": "그 이유로 미국뿐 아니라 유럽과 일�� 등 주요국의 채권 금리도 오르고 있는데, 전 세계 채권시장이 서로 연결돼 있다는 점이 위험 요소로 작동하고 있기 때문이라고 했다. 그는 \"유럽의 금리가 오르고 일본의 금리가 30년...",
+          "pubDate": "Wed, 07 Oct 2026 10:46:00 +0900"
         },
         {
-          "title": "증권금융, 71년 만에 첫 글로벌본드 발행…\"24억달러 몰렸다\"",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/general-stock/6311232",
-          "description": "이번 채권은 만기 3년의 미 달러화 공모채권으로 발행금리는 미국 국채 3년물 금리에 0.47%포인트(p)를 더한 연 4.977%로 결정됐다. 국제신용평가사 무디스는 증권금융에 대한민국 국가신용등급과 같은 'Aa2' 등급을...",
-          "pubDate": "Tue, 06 Oct 2026 11:21:00 +0900"
-        },
-        {
-          "title": "금투협, 15일 '코리아 프리미엄 위크' 연계 채권포럼",
+          "title": "\"스페이스X, 엔비디아 칩 구매 위해 400억 달러 자금조달 추진\"",
           "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20261006_0003815288",
-          "description": "이어 임재균 KB증권 팀장과 권효성 블룸버그 박사는 각각 '2027년 금리 및 채권시장 전망'과 '2027년 글로벌 거시 경제 및 채권시장 전망'을 다룰 예정이다. 참가 신청은 금융투자협회 홈페이지 또는 채권정보센터 등에서 할...",
-          "pubDate": "Tue, 06 Oct 2026 11:20:00 +0900"
+          "url": "https://www.newsis.com/view/NISX20261007_0003816840",
+          "description": "채권 금리가 오르면 채권 가격은 떨어진다. 스페이스X의 제한적인 재무 정보 공개도 투자 부담을 키우고 있다. 한 투자자는 스페이스X로부터 자금 조달과 관련해 우주 사진 등 짧은 2페이지 메모만 받았다며 \"그런...",
+          "pubDate": "Wed, 07 Oct 2026 10:40:00 +0900"
+        },
+        {
+          "title": "국민연금, 고금리 파고 속 증권주 담고 보험주 매도…포트폴리오 재편 ...",
+          "source": "pointdaily.co.kr",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321504",
+          "description": "증권업의 경우 증시 거래대금 감소 우려와 프로젝트파이낸싱(PF) 관련 불확실성, 금리 상승에 따른 채권 평가손실 우려 등�� 복합적으로 작용해 단기 실적 가시성이 떨어진다는 평가를 받는다. 반면, 보험업권은 높은...",
+          "pubDate": "Wed, 07 Oct 2026 10:36:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "10월 6일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dealsite.co.kr, kukinews.com, ekn.kr 등에서 보도되었으며, 애큐온, 한화생명, 부담 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 7일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. srtimes.kr, dailian.co.kr, dnews.co.kr 등에서 보도되었으며, 130, 한화생명, 애큐온 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[애큐온캐피탈 M&A] 경영권만 챙기고 부담 나눴다…한화생명의 인수 셈...",
-          "source": "dealsite.co.kr",
-          "url": "https://dealsite.co.kr/articles/169976",
-          "description": "올해 6월 말 한화생명의 경과조치 전 기본자본 킥스비율은 56.8%다. 기본자본을 요구자본으로 나눈 수치로 내년부터 도입되는 기본자본 킥스 기준 50%를 6.8%포인트 웃도는 수준이다. 금융당국이 2035년까지 경과조치를...",
-          "pubDate": "Fri, 02 Oct 2026 13:02:00 +0900"
+          "title": "한화생명, 애큐온 인수 부담…킥스 하방압력·노조 위로금 변수",
+          "source": "srtimes.kr",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=214078",
+          "description": "◆킥스 회복세 속 애큐온 인수 변수 한화생명의 킥스 비율은 지난해 말 157.5%에서 올해 3월 말 162.1%, 6월 말 168.0%로 상승했다. 경과조치 적용 전후 비율이 같아 경과조치에 따른 상승 효과는 없었다. 9월 말 킥스 비율은...",
+          "pubDate": "Wed, 07 Oct 2026 08:20:00 +0900"
         },
         {
-          "title": "애큐온 품는 한화생명…신용등급 상향 기대·자본비율은 부담",
-          "source": "kukinews.com",
-          "url": "https://www.kukinews.com/article/view/kuk202610020058",
-          "description": "한기평은 인수 완료 시점에 한화생명 킥스 비율이 5%포인트 안팎 하락할 것으로 예상했다. 올해 6월 말 킥스 비율은 168.0%다. 나이스신평은 내년 기본자본 킥스 규제 도입을 앞두고 기본자본 비율도 점검할 필요가 있다고...",
-          "pubDate": "Fri, 02 Oct 2026 11:20:00 +0900"
+          "title": "'은행 없는' 보험 금융그룹…M&A에 수천억, 지속 배당은 과제",
+          "source": "dailian.co.kr",
+          "url": "https://www.dailian.co.kr/news/view/1698348/?sc=Naver",
+          "description": "한화생명과 교보생명이 M&A로 금융 영토를 넓히는 가운데 안정적인 주주환원 체계를 갖출 수 있을지가... 올해는 경과조치 적용 전 지급여력(K-ICS·킥스) 비율이 160% 이상인 보험사에 준비금을 기존 산출액의 80%만...",
+          "pubDate": "Wed, 07 Oct 2026 07:03:00 +0900"
         },
         {
-          "title": "한화생명 품에 안긴 애큐온…기업금융엔 시너지, 자회사 체력은 과제",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20261002023151448",
-          "description": "정상화, 한화생명 자체 자본 관리 등이 새로운 과제로 떠오를 수 있을 것이란 시각이 나온다. 캐피탈 지분투자를 통해 킥스 변화가 나타날 가능성이나 향후 자회사 성장에 추가로 투입되는 부담도 따를 수 있다. 금융권...",
-          "pubDate": "Fri, 02 Oct 2026 10:04:00 +0900"
+          "title": "[고금리 파도 덮친 2금융권] 보험사, 금리 1% 오르면 K-ICS 130% 밑으로 하...",
+          "source": "dnews.co.kr",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061458561970604",
+          "description": "보험사는 각종 규제 대응을 위해 킥스 비율 관리에 매진할 수밖에 없고, 이를 위해 각종 후순위채와... 이렇다보니 최근 나이스신용평가는 생보사 가운데 NH농협생명을 비롯 동양생명과 하나생명, 한화생명...",
+          "pubDate": "Wed, 07 Oct 2026 07:00:00 +0900"
         },
         {
-          "title": "신한라이프, 대형 생보사 중 킥스비율 가장 높아",
-          "source": "datanews.co.kr",
-          "url": "http://www.datanews.co.kr/news/article.html?no=146717",
-          "description": "올해 6월 말 기준 대형 생보사 중 킥스비율이 210%를 넘긴 곳은 신한라이프가 유일했다. 삼성생명 208.2%, 교보생명 200.8%(경과조치 적용 후), 한화생명 168.0% 순으로 뒤를 이었다. 신한라이프는 중장기적 관점의...",
-          "pubDate": "Fri, 02 Oct 2026 08:54:00 +0900"
+          "title": "‘보험만으론 안 된다’…한화·교보생명, 캐피털·저축은행 품고 종합...",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202610021638053281a6e8311f64_1",
+          "description": "한화생명은 애큐온저축은행 지분 100%를 보유한 애큐온캐피탈 지분을 인수하고 캐피털과 저축은행 사업을... 금융당국은 내년부터 기본자본 지급여력(킥스) 비율 규제를 시행하는데, M&A에 따라 요구자본이 증가하면 해당...",
+          "pubDate": "Tue, 06 Oct 2026 18:02:00 +0900"
         },
         {
-          "title": "애큐온 '쪼개기 인수'의 덫…한화생명, 풋옵션에 자본비율 하락 '뇌관'",
-          "source": "youthdaily.co.kr",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=227837",
-          "description": "8천700억 원을 한 번에 출자하면 자본비율(K-ICS·킥스)이 하락하기 때문이다. 한화생명의 6월 말 K-ICS 비율은 168.0%지만, 순수 자본 체력을 보여주는 기본자본 K-ICS 비율은 3월 말 기준 59%다. 2027년 도입되는 금융당국의...",
-          "pubDate": "Fri, 02 Oct 2026 08:02:00 +0900"
+          "title": "‘실적 턴어라운드 착시’ 부른 삼성생명 주가… 삼성 제하면 여전히 -...",
+          "source": "ceoscoredaily.com",
+          "url": "https://www.ceoscoredaily.com/page/view/2026100114144941860",
+          "description": "새로운 보험회계 기준(IFRS17) 아래에서 중요한 이유는 신지급여력(K-ICS, 킥스)비율과 직결되기 때문이다.... 회사별로는 한화생명이 -2조1529억원에서 242억원으로 2조1771억원 개선되며 플러스로 돌아섰다. 이어...",
+          "pubDate": "Tue, 06 Oct 2026 17:30:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "10월 6일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. segyebiz.com, biz.chosun.com, news1.kr 등에서 보도되었으며, 규모, 삼성전기, MLCC 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 7일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. businesspost.co.kr, fntoday.co.kr, edaily.co.kr 등에서 보도되었으며, 외신, 코스피, 9천 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "신보, 약 530억 원 규모 삼성전자 평택 P5 FAB 전기공사 수주",
-          "source": "segyebiz.com",
-          "url": "http://www.segyebiz.com/newsView/20261006508224?OutUrl=naver",
-          "description": "평택 P5 본 공사 참여…반도체 인프라 시공 경험 확대 이미지=신보 전기 인프라 전문 시공업체 신보(대표 유정섭·송병규·이원표)가 약 530억 원 규모의 삼성전자 평택캠퍼스 P5(5기) FAB 전기공사를 수주했다고 6일...",
-          "pubDate": "Tue, 06 Oct 2026 11:42:00 +0900"
+          "title": "외신 \"코스피 내년 초 9천 복귀 가능성\", 금리 상승 악재에도 삼성전자...",
+          "source": "businesspost.co.kr",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448792",
+          "description": "<연합뉴스> 삼성전자와 SK하이닉스가 인공지능(AI) 반도체 수요 강세로 성장세를 이어가고 있지만 연말까지 코스피 지수 상승은 어려울 것이라는 분석이 나왔다. 미국 국채금리 상승이 글로벌 증시 전반에 하방압력을...",
+          "pubDate": "Wed, 07 Oct 2026 11:08:00 +0900"
         },
         {
-          "title": "삼성전기, 글로벌 기업과 MLCC 공급계약… 1년간 2856억원 규모",
-          "source": "biz.chosun.com",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/06/MBZT3TF6RFDVVITGBC47GGESXI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "description": "삼성전기는 지난 5월부터 실리콘 캐패시터와 AI 서버용 MLCC, 인덕터 등을 대상으로 글로벌 기업들과 잇달아 장기공급계약을 체결했으며 누적 계약금액은 약 3조9000억원이다. MLCC는 전기를 저장했다가 반도체 등...",
-          "pubDate": "Tue, 06 Oct 2026 11:42:00 +0900"
+          "title": "테오도르의 시장분석 : 옵션 만기일 앞두고 약세 (10월 7일)",
+          "source": "fntoday.co.kr",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394755",
+          "description": "주요 종목별로는 삼성전자가 278,500원에 거래되며 단기적으로 280,000원 돌파에 실패했습니다. 외국인은... 코스닥 시장에서는 반도체 장비와 2차전지 소재 기업들이 강세를 이어가며 지수 상승을 견인하고 있습니다....",
+          "pubDate": "Wed, 07 Oct 2026 11:08:00 +0900"
         },
         {
-          "title": "[국감현장] 호남 반도체 제안 경위 공방…김정관 \"확인하겠다\"",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/economy/idustry-trade/6311302",
-          "description": "윤한홍 국민의힘 의원도 호남 반도체 투자 입지 선정 경위를 추궁했다. 윤 의원은 삼성과 SK하이닉스에 여러 차례 문의했다며 기업의 설명과 정부가 밝힌 결정 과정이 다르다는 취지로 지적했다. 특히 정부가 광주를...",
-          "pubDate": "Tue, 06 Oct 2026 11:41:00 +0900"
+          "title": "엔비디아는 신고가, 삼전·닉스는 뒷걸음…실적보다 수급이 문제?",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03427606645610624&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "description": "인공지능(AI) 반도체 대장주 엔비디아가 사상 최고가 행진을 이어가는 가운데 국내 반도체 대장주인 삼성전자(005930)와 SK하이닉스(000660)는 주춤하고 있다. 기록적인 실적이 예상되지만 업황 정점에 대한 우려와...",
+          "pubDate": "Wed, 07 Oct 2026 11:08:00 +0900"
         },
         {
-          "title": "삼성전기, AI 서버용 MLCC 2900억 수주…올해 장기계약 누적 3.9조",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20261006_0003815393",
-          "description": "삼성전기는 지난 5월부터 AI 서버용 MLCC와 실리콘 캐패시터, 인덕터 등을 대상으로 잇달아 장기공급계약을 체결했다. 공시 기준 누적 계약금액은 약 3조9000억원이다. MLCC는 전기를 저장했다가 반도체에...",
-          "pubDate": "Tue, 06 Oct 2026 11:40:00 +0900"
+          "title": "리사 수 AMD CEO 방한에 'AI 연대' 본궤도 기대감...\"엔비디아 아성 흔들...",
+          "source": "opinionnews.co.kr",
+          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145336",
+          "description": "사진= 연합뉴스  글로벌 AI 반도체 시��에서 독주 체제를 구축한 엔비디아의 아성에 맞서는 AMD의 사령탑 리사 수 CEO가 지난 3월에 이어 7개월 만에 다시 한국을 찾았다. 이번 방한은 삼성전자와 네이버 등 국내 주요...",
+          "pubDate": "Wed, 07 Oct 2026 11:04:00 +0900"
         },
         {
-          "title": "삼성전기, 2900억 규모 AI 서버용 MLCC 공급계약 체결",
-          "source": "biz.chosun.com",
-          "url": "https://biz.chosun.com/industry/company/2026/10/06/LUCUWQRA5FHNZDKEGZLN6KLC5Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "description": "삼성전기가 글로벌 대형기업과 약 2856억 원 규모의 인공지능(AI) 서버용 적층세라믹커패시터(MLCC) 공급계약을 체결했다고 6일 밝혔다. MLCC는 전기를 일시적으로 저장했다가 반도체 등 주요 부품에 안정적으로...",
-          "pubDate": "Tue, 06 Oct 2026 11:40:00 +0900"
+          "title": "제10대 평택시의회 개원 100일… 최재영 의장이 밝힌 성과와 과제",
+          "source": "news.ifm.kr",
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=481042",
+          "description": "특히 반도체 산업의 경기 변동에 대응하는 중장기 재정계획의 필요성을 피력했다. 삼성전자 지방소득세가 2024년 0원에서 2025년 550억 원대로 급증하는 등 세수 변동 폭이 큰 상황에서 당장의 세수 증가에 안주해서는 안...",
+          "pubDate": "Wed, 07 Oct 2026 11:02:00 +0900"
         }
       ]
     }

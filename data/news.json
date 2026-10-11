@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-10-10T02:09:36.636Z",
+  "updatedAt": "2026-10-11T01:37:41.399Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "10월 10일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. thescoop.co.kr, news.einfomax.co.kr, kihoilbo.co.kr 등에서 보도되었으며, 코스피, 환율, 삼전 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 11일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ajunews.com, breaknews.com, jibs.co.kr 등에서 보도되었으며, 증시, 한은, 외화자산 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼전 '107조원 영업이익'도 안 통했다…코스피 6600선 후퇴 [주간 증시해...",
-          "source": "thescoop.co.kr",
-          "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=311872",
-          "description": "#환율 = 오름세를 기록하던 원·달러 환율은 소폭 하락했다. 서울 외환시장에 따르면, 8일 원·달러 환율은 전 거래일 종가(1340.4원)보다 1.9원 내린 1338.5원으로 주간 거래를 마쳤다. 원·달러 환율이 주간 거래 종가...",
-          "pubDate": "Sat, 10 Oct 2026 10:27:00 +0900"
+          "title": "고환율·증시 상승 영향에 한은 외화자산 운용수익 '역대 최대'",
+          "source": "ajunews.com",
+          "url": "https://www.ajunews.com/view/20261011101346263",
+          "description": "이종욱 의원은 \"환율 상승에 따른 효과와 실질적인 운용 성과를 구분해 살펴볼 필요가 있다\"며 \"한은이 외환시장 관련 기밀을 보호하면서도 국회의 운용성과 검증에 필요한 자료를 충분히 제공해야 할 것\"이라고...",
+          "pubDate": "Sun, 11 Oct 2026 10:32:00 +0900"
         },
         {
-          "title": "유례없는 경상수지 흑자에 8월 준비자산 증가액 신기록",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438538",
-          "description": "김진욱 한국씨티은행 수석이코노미스트는 \"달러-원 환율이 1,250~1,300원 아래로 빠르게 하락할 경우 외환당국이 현물환시장에서 달러 매수에 나설 수 있다는 판단을 유지한다\"며 그 근거로 환율 변동성 완화, 과거 달러...",
-          "pubDate": "Sat, 10 Oct 2026 10:10:00 +0900"
+          "title": "트럼프·푸틴 경유 합의와 ‘깜짝실적’ 삼성전자...증시 투자 전략은?",
+          "source": "breaknews.com",
+          "url": "http://www.breaknews.com/1242069",
+          "description": "서울 외환시장에서 달러 대비 원화 환율은 1.9원 내린 1,338.5원을 기록했다. 아울러 반도체 상장지수펀드(ETF) 리밸런싱과 옵션 만기일 등 단기 수급 요인까지 겹치며...",
+          "pubDate": "Sun, 11 Oct 2026 10:32:00 +0900"
         },
         {
-          "title": "[10월 둘째 주 세계경제동향 브리핑] 코스피 5%대 하락…美 증시는 동반...",
-          "source": "kihoilbo.co.kr",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037067",
-          "description": "외환시장에서는 ��러 강세가 이어졌다. 달러지수는 10월 2일 101.93에서 10월 9일 102.23으로 올라 전주 대비 0.30포인트 상승했다. 달러 대비 엔화 환율은 157.86엔에서 158.25엔으로 상승하며 엔화 약세 흐름을...",
-          "pubDate": "Sat, 10 Oct 2026 10:04:00 +0900"
+          "title": "엔화 바겐세일에 일본으로 '우르르'…동남아 줄고 제주도 '긴장'",
+          "source": "jibs.co.kr",
+          "url": "https://www.jibs.co.kr/news/articles/articlesDetail/66378?feed=na",
+          "description": "서울외환시장에서 원.엔 재정환율은 지난 7일 장중 100엔당 842.19원까지 내려가, 지난 2008년 1월 2일 833.40원을 기록한 뒤 18년 9개월 만에 가장 낮은 수준을 보였습니다. 한국은행 경제통계시스템을 보면 100엔당...",
+          "pubDate": "Sun, 11 Oct 2026 09:53:00 +0900"
         },
         {
-          "title": "강달러 뚫고 1330원 안착한 환율…수급·성장률이 바꾼 외환 판도",
-          "source": "mediapen.com",
-          "url": "https://www.mediapen.com/news/view/1129005",
-          "description": "국내 외환시장의 수급 판도가 바뀌고 있다는 분석이다. 최근 글로벌 강달러 기조 속에서도 원·달러 환율이 1330원대에 안착하며 원화 강세 흐름이 뚜렷해지고 있다. /사진=미디어펜 김상문 기자 10일 한국투자증권에...",
-          "pubDate": "Sat, 10 Oct 2026 09:32:00 +0900"
+          "title": "환율 오르자 한은 외화자산 운용수익 ‘17조 육박’…역대 최대",
+          "source": "dt.co.kr",
+          "url": "https://www.dt.co.kr/article/12088282?ref=naver",
+          "description": "이를 공개하면 외국환평형기금의 운용 규모와 외환시장 개입 능력이 드러날 수 있다는 게 한은의 설명이다. 이 의원은 “외화자산 운용수익이 늘어난 것은 긍정적이지만, 환율 상승 효과와 실제 투자 성과를...",
+          "pubDate": "Sun, 11 Oct 2026 09:47:00 +0900"
         },
         {
-          "title": "무역흑자 사상 최대인데…원·달러 환율 1250원 vs 1400원 '엇갈린 전망...",
-          "source": "financialpost.co.kr",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=279442",
-          "description": "실제 원·달러 환율은 6월 말 1549.4원에서 이달 7일 1340.4원으로 209원 하락했다. 씨티는 지난달 외환시장에서 수출업체의 달러 매도 규모가 해외투자에 따른 자금 유출 압력을 웃돌았다고 분석했다. 반면...",
-          "pubDate": "Sat, 10 Oct 2026 09:00:00 +0900"
+          "title": "佛 국채 불안에 흔들리는 유로화 … 17개월 만에 '최저치'로",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/11/2026101100017.html",
+          "description": "시장에서는 채권시장 불안이 외환시장으로 번져 유로화가 추가 하락할 수 있다는 경고가 나온다. 10일(현지시간) 기준 유로·달러 환율은 1유로당 1.12달러 밑으로 떨어지며 17개월 만의 최저치를 기록했다. 올해...",
+          "pubDate": "Sun, 11 Oct 2026 09:42:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "10월 10일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. ekn.kr, bntnews.co.kr, hankyung.com 등에서 보도되었으며, 반도체, 36, 뉴욕증시 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 11일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. wikitree.co.kr, viva100.com, m-i.kr 등에서 보도되었으며, 자금, 금리, 27 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "뉴욕증시 반등에도 코스피 ‘제자리’…연휴 이후 반등할까",
-          "source": "ekn.kr",
-          "url": "https://www.ekn.kr/web/view.php?key=20261010027384380",
-          "description": "국채금리 상승은 채권 대비 주식의 투자 매력을 낮추고 기업의 자금조달 비용을 높이는 요인이다. 특히 미래 성장 가능성에 대한 기대가 주가에 크게 반영된 기술주와 성장주가 금리 변화에 민감하게 반응할 수...",
-          "pubDate": "Sat, 10 Oct 2026 09:50:00 +0900"
+          "title": "\"지금이 기회?\" 사상 최고가 찍더니 27% 급락…판매 3배나 뛴 '이것'",
+          "source": "wikitree.co.kr",
+          "url": "https://www.wikitree.co.kr/articles/1165271",
+          "description": "미국의 재정적자가 확대되는 가운데 국채금리까지 상승하면서 채권시장에 대한 경계심이 커지고 있다. 미국 정부의 재정적자는 국채 발행을 통한 자금 조달과 연결되며, 국채 공급과 수요의 변화는 시장금리에도...",
+          "pubDate": "Sun, 11 Oct 2026 10:14:00 +0900"
         },
         {
-          "title": "금시세(금값)",
-          "source": "bntnews.co.kr",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610100028",
-          "description": "미국 장기 국채 입찰 호조에 따른 채권금리 반락과 각국 중앙은행의 실물 금 매입세, 상장지수펀드로의 꾸준한 자금 유입은 하단을 지탱하는 상방 요인이다. 반면 12��� 기준금리 인상 가능성이 85%에 육박하는 점과 5.2...",
-          "pubDate": "Sat, 10 Oct 2026 09:20:00 +0900"
+          "title": "국채금리 상승에도 리츠 ETF에 개인 자금 유입 확대",
+          "source": "viva100.com",
+          "url": "https://www.viva100.com/article/20261011500334",
+          "description": "국채금리가 오르면 채권의 수익률이 높아지면서 리츠의 배당 매력이 줄어든다. 특히 리츠는 부동산 취득과 운영에 차입금을 활용하는 경우가 많아 금리 상승에 따른 이자 부담도 커질 수 있다. 반면 경기 회복에 따른...",
+          "pubDate": "Sun, 11 Oct 2026 10:02:00 +0900"
         },
         {
-          "title": "\"내 S&P500 팔긴 싫은데 불안해\"…서학개미 겨냥 ETF 나왔다",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/202610092663i",
-          "description": "미 10년물 국채 금리가 뛰면서 채권 가격이 떨어졌기 때문이다. 주식도 채권도 아닌 제3의 수익원을 찾는 수요가 커졌다. 추세추종 전략은 방향과 상관없이 추세만 뚜렷하면 돈을 버는 구조다. 모 스파크스...",
-          "pubDate": "Sat, 10 Oct 2026 09:01:00 +0900"
+          "title": "'예금 금리 4% 육박'…은행권, 증시 이탈 자금 잡기 수신경쟁 본격화",
+          "source": "m-i.kr",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2003853",
+          "description": "수신금리가 다시 오름세를 타는 배경에는 은행채 등 채권 시장금리의 상승이 자리 잡고 있다. 은행의 핵심 조달 창구 역할을 하는 1년 만기 은행채 금리는 지난달 말 연 4.009%를 돌파했다. 은행권에서 만기 1년...",
+          "pubDate": "Sun, 11 Oct 2026 10:00:00 +0900"
         },
         {
-          "title": "美 10년물 국채 5.36% 폭등, 빅테크 AI 빚더미에 한국 반도체 고객사 긴...",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202610100736151620fbbec65dfb_1",
-          "description": "빅테크 인공지능 부채와 단기물 방어 국가 부채뿐 아니라 민간 기업의 인공지능 인프라 차입도 채권 금리를 밀어 올리는 핵심 요인이다. 모건스탠리는 글로벌 빅테크 기업들이 올해 인공지능 관련 인프라 투자를 위해...",
-          "pubDate": "Sat, 10 Oct 2026 07:46:00 +0900"
+          "title": "[기획] 한투 '장기자금'·미래 '분산투자'·NH '단기형'... IMA 3사 승부수",
+          "source": "m-i.kr",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2004125",
+          "description": "미래에셋증권은 IMA 자금의 약 70~80%를 채권 등 고정금리 수취형 자산에 투자하고 나머지 20% 안팎을 메자닌과 비상장주식 등에 배분하고 있다. 정기적으로 이자를 받는 자산을 중심에 두면서 전환사채(CB)와 교환사채(EB)...",
+          "pubDate": "Sun, 11 Oct 2026 10:00:00 +0900"
         },
         {
-          "title": "[주간증시전망] 美 CPI∙PPI 물가…반도체 ASML∙TSMC 실적 주목",
-          "source": "segyebiz.com",
-          "url": "http://www.segyebiz.com/newsView/20261009505919?OutUrl=naver",
-          "description": "이경민 대신증권 연구원은 “9월 CPI에서 물가 둔화세가 재차 확인될 경우, 인플레이션 경계 완화와 함께 채권금리 하향 안정에 기여할 것으로 예상한다”고 말했다. 주요 반도체 기업들의 실적 발표도 예정돼 있다....",
-          "pubDate": "Sat, 10 Oct 2026 07:02:00 +0900"
+          "title": "'거래대금 감소·금리 상방 압력'…증권사, 3분기 실적 눈높이 낮아진다",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438551",
+          "description": "주식 거래액 감소에 브로커리지 수수료 축소할 듯 채권금리 상승으로 트레이딩 평가손도 가중 여의도 증권가[출처: 연합뉴스 자료 사진] (서울=연합인포맥스) 최정우 기자 = 올해 3분기 증시 거래대금 둔화와 시장금리...",
+          "pubDate": "Sun, 11 Oct 2026 09:32:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "10월 10일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, etoday.co.kr, investchosun.com 등에서 보도되었으며, 한화생명, 인수, 센트로이드인베 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 11일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. fnnews.com, etoday.co.kr, investchosun.com 등에서 보도되었으며, 한화생명, 인수, 센트로이드인베 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "한화생명·센트로이드인베, 애큐온그룹 인수 자금 조달 '마무리' [fn마켓...",
@@ -105,7 +105,7 @@
           "title": "[Invest]보험사 '58조 족쇄' 된 해약준비금…\"배당·건전성 규제 쪼개야...",
           "source": "investchosun.com",
           "url": "https://www.investchosun.com/site/data/html_dir/2026/10/07/2026100780151.html",
-          "description": "예컨대 한화생명의 올 상반기 기본자본 ���스 비율은 58%까지 떨어져 규제 마지노선(50%)에 근접했다.해외 주요국은 계약자 보호와 주주 배당 관련 규제를 하나의 법정준비금으로 묶지 않는다. 독일은 개별 재무제표에...",
+          "description": "예컨대 한화생명의 올 상반기 기본자본 킥스 비율은 58%까지 떨어져 규제 마지노선(50%)에 근접했다.해외 주요국은 계약자 보호와 주주 배당 관련 규제를 하나의 법정준비금으로 묶지 않는다. 독일은 개별 재무제표에...",
           "pubDate": "Thu, 08 Oct 2026 07:02:00 +0900"
         },
         {
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "10월 10일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. kjdaily.com, seoulfn.com, newstomato.com 등에서 보도되었으며, 삼성전자, SK하이닉스, 43조원 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 11일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. yonhapnewstv.co.kr, news2day.co.kr, edaily.co.kr 등에서 보도되었으며, 반도체, 삼성전자, 성과급 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전자·SK하이닉스 43조원 거래…누가 사고팔았나",
-          "source": "kjdaily.com",
-          "url": "http://www.kjdaily.com/article.php?aid=1791597980688663276",
-          "description": "증시의 반도체 대장주인 삼성전자와 SK하이닉스에 43조원이 넘는 거래대금이 몰렸다. 외국인이 두 종목에서 5조3천억원 넘게 순매도한 반면 기타법인은 이보다 많은 금액을 순매수하며 뚜렷한 대조를 보였다....",
-          "pubDate": "Sat, 10 Oct 2026 11:08:00 +0900"
+          "title": "반도체 성과급 늘어도 \"소비 효과 제한적\"…K-자형 양극화 우려",
+          "source": "yonhapnewstv.co.kr",
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20261011103515Ohy",
+          "description": "삼성전자와 SK하이닉스 등 반도체 기업의 성과급 증가가 민간소비를 끌어올리는 효과는 제한적일 수 있다는 분석이 나왔습니다. 국회예산정책처는 '2027년 NABO 경제전망' 보고서에서 내년 민간소비 증가율을 2.0%로...",
+          "pubDate": "Sun, 11 Oct 2026 10:36:00 +0900"
         },
         {
-          "title": "[전문가 기고] 차세대 산업 경쟁력, 금융산업에 달렸다",
-          "source": "seoulfn.com",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=639531",
-          "description": "삼성전자와 SK하이닉스의 메모리 반도체는 세계 AI 산업의 핵심 공급망을 이루고 있으며, 한국의 제조역량은 AI와 로봇으로 확장되고 있다. 젠슨 황의 방한은 세계 산업이 한국을 중요한 거점으로 주목하고 있음을...",
-          "pubDate": "Sat, 10 Oct 2026 11:00:00 +0900"
+          "title": "[재계 인사이드] 삼성전자 평택캠퍼스, 사진이 보여주는 ‘반도체 부족...",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20261011500002",
+          "description": "지난 8일 삼성전자가 발표한 3분기의 경이로운 실적, 매출 195조원에 영업이익 107조 4000억원은 세계적인 반도체 부족현상을 잘 보여주고 있다. 삼성전자의 3분기 실적은 국내 기업 사상 최초로 분기 영업익 100조원...",
+          "pubDate": "Sun, 11 Oct 2026 10:36:00 +0900"
         },
         {
-          "title": "‘호남 반도체 팹’ 부지 찾은 최태원 “용수·전력 늦어도 착공”",
-          "source": "newstomato.com",
-          "url": "http://www.newstomato.com/ReadNews.aspx?no=1316179&inflow=N",
-          "description": "한편 SK하이닉스와 삼성전자(005930)는 군 공항 일대에 총 800조원을 투자해 반도체 팹을 각각 2��씩 건설할 계획입니다. 정부와 통합시는 속도감 있는 착공을 위해 국가산단 예정지 820만㎡ 중 우선 개발이 가능한 208만...",
-          "pubDate": "Sat, 10 Oct 2026 10:54:00 +0900"
+          "title": "반도체 훈풍 비껴간 건설현장…일용직 30만명 일터 잃어",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01331686645611936&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "description": "반도체 산업이 전례 없는 호황을 누리는 반면, 건설 현장에서는 30만명이 넘는 노동자가 원치 않게... 서울 강남구 GTX-A 삼성역 공사현장에서 작업자들이 이동하고 있다.(사진=연합뉴스) 11일 국가데이터처...",
+          "pubDate": "Sun, 11 Oct 2026 10:32:00 +0900"
         },
         {
-          "title": "\"진지하게 서민 탈출한 듯\"...삼성전자 부부 성과급 30억? [지금이뉴스]",
-          "source": "ytn.co.kr",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610101048556057",
-          "description": "최소 30억 원이라는 파격적인 성과급 전망이 나오는 건 삼성전자 반도체 부문의 실적 덕분인데요. 삼성전자는 지난 7일 반도체 사업을 담당하는 DS부문 임직원들에게 특별경영성과급 지급 기준과 일정을 공지했습니다....",
-          "pubDate": "Sat, 10 Oct 2026 10:48:00 +0900"
+          "title": "‘107조’ 벌어도 안 오르는 삼성전자 주가…‘주주환원’에 쏠리는 눈",
+          "source": "segye.com",
+          "url": "https://www.segye.com/newsView/20261009505524?OutUrl=naver",
+          "description": "그럼에도 삼성전자의 주가는 오히려 뒷걸음질 쳤다. 이는 반도체 업황에 대한 시장의 기대감이 이미 주가에 선반영된 상태에서 재료 소멸 인식이 부각된 영향으로 분석된다. 외국인과 기관은 삼성전자 실적 발표를...",
+          "pubDate": "Sun, 11 Oct 2026 10:30:00 +0900"
         },
         {
-          "title": "107조 벌고도 '지지부진'…삼성전자 주가 왜 이러나",
-          "source": "newsian.co.kr",
-          "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96813",
-          "description": "반도체 생산을 외부에 맡기는 엔비디아와 달리 삼성전자는 국내외 공장에 직접 투자해야 한다. 파이낸셜타임스(FT)는 3분기 원화 가치가 달러 대비 14% 이상 오른 점이 해외 매출 비중이 높은 삼성전자의 실적에...",
-          "pubDate": "Sat, 10 Oct 2026 10:48:00 +0900"
+          "title": "삼전닉스 떠나는 외국인 지분율 '뚝'",
+          "source": "smedaily.co.kr",
+          "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=364433",
+          "description": "지난 8일 기준 외국인의 삼성전자 주식 보유율은 46.38%로 집계됐다. 사진/연합뉴스 국내 증시에서 외국인... 이들 반도체 '투 톱'에 대한 보유율이 떨어지면서 두 종목이 속한 코스피 전기·전자 업종의 외국인...",
+          "pubDate": "Sun, 11 Oct 2026 10:30:00 +0900"
         }
       ]
     }

@@ -1,92 +1,113 @@
 {
-  "updatedAt": "2026-10-20T01:37:38.429Z",
+  "updatedAt": "2026-10-21T01:22:29.951Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "10월 20일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, job-post.co.kr, newspim.com 등에서 보도되었으며, 환율, 코스피, 10월 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 21일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ytn.co.kr, news.einfomax.co.kr, thefairnews.co.kr 등에서 보도되었으며, 코스피, 강세, 1324 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "title": "급락 딛고 반등한 코스피...장 초반 5,700대 강세",
+          "source": "ytn.co.kr",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610211017214835",
+          "description": "이런 가운데 서울 외환시장에서 원·달러 환율은 오전 9시 50분 기준 1,325원을 기록했습니다. 지금까지 하나은행 딜링룸에서 YTN 윤태인입니다. 영상기자 : 박경태 영상편집 : 강은지",
+          "pubDate": "Wed, 21 Oct 2026 10:17:00 +0900"
+        },
+        {
+          "title": "[10월 금통위 D-1] 외환시장 시나리오는",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440101",
-          "description": "20일 서울외환시장의 외환딜러들은 달러-원 환율이 장중 연저점을 새로 쓸 가능성을 대체로 열어뒀다. 외국인의 국내주식 매도세가 완화한 가운데, 전일 국내 증시가 반등한 데 이어 수출업체들이 쏟아내는...",
-          "pubDate": "Tue, 20 Oct 2026 10:32:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440319",
+          "description": "서울 외환시장 참가자들은 한국은행이 오는 22일 열리는 금융통화위원회에서 기준 금리를 동결할 것으로 내다봤다. 금리 결정 여부보다는 한은의 정책 경로를 가늠할 단서와 신현송 한은 총재의 환율 발언을 주시하는...",
+          "pubDate": "Wed, 21 Oct 2026 10:16:00 +0900"
         },
         {
-          "title": "[오늘의 환율] 2026년 10월 20일 원·달러 환율 1328.20원…엔화·유로화...",
-          "source": "job-post.co.kr",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=233298",
-          "description": "이날 원·달러 환율 하락은 서울 외환시장에서도 확인됐다. 20일 오전 9시 20분 기준 원·달러 환율은 전 거래일 오후 3시 30분 종가보다 3.30원 내린 1327.00원에 거래됐으며, 장 초반에는 1325.80원까지 하락했다. 이는...",
-          "pubDate": "Tue, 20 Oct 2026 10:30:00 +0900"
+          "title": "오늘(21일) 금시세 보합…순금 1돈 금값 77만2000원",
+          "source": "thefairnews.co.kr",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91394",
+          "description": "국내 외환시장에서 원·달러 환율은 이날 오전 9시 57분 기준 1326.40원으로 전 거래일보다 0.05% 하락했다. 국내 금 가격은 국제 금시세와 환율 변동, 거래소별 매매가격 차이 등에 영향을 받는다. 미국 국채금리 상승도...",
+          "pubDate": "Wed, 21 Oct 2026 10:12:00 +0900"
         },
         {
-          "title": "코스피, 10월 주요국 증시 하락률 1위…연간 수익률 선두권서 밀려",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20261020000372",
-          "description": "서울외환시장에서 달러/원 환율은 오전 9시 기준 1329.00원에 주간거래를 기록중이다. 2026.10.20 yeawon2@newspim.com 연초 이후 누적 수익률에서도 국내 증시의 순위가 밀렸다. 대만 자취안(가권)지수는 연초 대비 62.66...",
-          "pubDate": "Tue, 20 Oct 2026 10:27:00 +0900"
+          "title": "코스피, 소폭 반등하며 5700선 회복...코스닥은 로봇주 강세",
+          "source": "wolyo.co.kr",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319353",
+          "description": "한편, 원·달러 환율은 서울 외환시장에서 전 거래일보다 0.04% 내린 1325.50원으로 출발했다. [주의] 본 기사는 투자판단의 참고용이며, 이를 근거로 한 투자손실에 대한 책임은 없습니다. / 월요신문=",
+          "pubDate": "Wed, 21 Oct 2026 10:10:00 +0900"
         },
         {
-          "title": "코스피, 다시 3%대 하락…5,500선으로 후퇴",
-          "source": "yonhapnewstv.co.kr",
-          "url": "http://www.yonhapnewstv.co.kr/news/MYH20261020102454ltM",
-          "description": "한편 서울 외환시장에서 원·달러 환율은 1,320원 후반대를 나타내고 있습니다. 지금까지 하나은행 딜링룸에서 연합뉴스TV 김채영입니다. [현장연결 신재민] #환율 #코스피 #코스닥 #삼성전자 #SK하이닉스 #코어위브",
-          "pubDate": "Tue, 20 Oct 2026 10:25:00 +0900"
-        },
-        {
-          "title": "코스피 장중 외국인·기관 매도에 3%대 내려 5560선, 코스닥도 800선 깨져",
-          "source": "businesspost.co.kr",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449755",
-          "description": "82%) 알테오젠(-3.77%) 이오테크닉스(-3.31%) 삼천당제약(-2.61%) 레인보우로보틱스(-2.25%) HLB(-2.10%) 리노공업(-2.02%) 순으로 집계됐다. 이 시각 서울 외환시장에서 원/달러 환율은 1325.69원에 거래되고 있다.",
-          "pubDate": "Tue, 20 Oct 2026 10:24:00 +0900"
+          "title": "수출업체 매도 우위 지속…달러·원 환율 3.9원 내린 1324.2원",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/finance/general-stock/6326818",
+          "description": "이날 오전 9시 38분 서울외환시장에서 달러·원 환율은 전 거래일 오후 3시 30분 주간 종가보다 3.9원 내린 1324.2원에 거래되고 있다. 달러·원 환율은 지난 15일 1344.6원을 기록한 뒤 주간종가 기준 3거래일 연속 하락했다....",
+          "pubDate": "Wed, 21 Oct 2026 09:55:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "10월 20일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. efnews.co.kr, newsprime.co.kr, businessplus.kr 등에서 보도되었으며, 93, 기준금리, 동결 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 21일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, tfmedia.co.kr, topstarnews.net 등에서 보도되었으며, 41, 배문성의, 다른시각 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "채권전문가 93% \"10월 금통위에서 기준금리 동결 예상\"",
-          "source": "efnews.co.kr",
-          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=133266",
-          "description": "금리전망 BMSI는 123.0으로 시장금리 관련 채권시장 심리는 전월(99.0) 대비 호전됐다. 프랑스 국채 금리 상승 등 대외 금리 상승에도 불구하고, 국내 증시 조정에 따른 위험회피 심리와 한·미 기준금리 동결 기대감...",
-          "pubDate": "Tue, 20 Oct 2026 10:32:00 +0900"
+          "title": "[배문성의 다른시각] 승자가 바뀌는 주식과 채권의 포커게임",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440317",
+          "description": "최근 주요국 채권금리가 오른 것도 여러 요인이 복합적으로 작용한 결과다. ① 재정적자와 정부부채, ② 중앙은행에 대한 신뢰, ③ 유가 상승과 인플레이션, ④ AI 관련 대규모 투자 등이 자주 거론된다. 어느 요인이 가장...",
+          "pubDate": "Wed, 21 Oct 2026 10:12:00 +0900"
         },
         {
-          "title": "채권 전문가 93% \"10월 금통위, 기준금리 동결 전망\"",
-          "source": "newsprime.co.kr",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=751604",
-          "description": "시장금리 관련 채권시장 심리도 호전됐다. 금리전망 BMSI는 123.0으로 전월(99.0)보다 24.0p 상승했다. 금리 하락을 전망한 응답자는 40%로 전월(21%) 대비 19%p 늘어난 반면, 금리 상승 응답자는 22%에서 17%로 5%p 줄었다....",
-          "pubDate": "Tue, 20 Oct 2026 10:30:00 +0900"
+          "title": "[이슈체크] 금리 동결 유력, 인상은 시간문제?…22일 한은 금통위 촉각",
+          "source": "tfmedia.co.kr",
+          "url": "https://www.tfmedia.co.kr/news/article.html?no=208206",
+          "description": "채권시장에서는 기준금리 동결에 대한 기대가 커지고 있지만, 향후 물가와 환율 흐름에 대한 경계심은 여전히 남아 있다. 금융투자협회 조사에서 11월 종합 채권시장지표(BMSI)는 99.1로 전월보다 9.4p 상승했다. 시장금리...",
+          "pubDate": "Wed, 21 Oct 2026 10:06:00 +0900"
         },
         {
-          "title": "채권전문가 93% '22일 기준금리 동결'…시장금리 하락 전망 40%",
-          "source": "businessplus.kr",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=118436",
-          "description": "채권가격과 시장금리는 일반적으로 반대 방향으로 움직인다. 금투협은 프랑스 국채 금리 상승 등 대외 금리 상승 요인에도 국내 증시 조정에 따른 위험회피 심리와 한국·미국의 기준금리 동결 기대가 맞물리면서...",
-          "pubDate": "Tue, 20 Oct 2026 10:30:00 +0900"
+          "title": "[오늘 금시세] 금 한돈 65만7천원…국제 금값도 하락, 이유는?",
+          "source": "topstarnews.net",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253190",
+          "description": "20일 미국 채권시장에서는 국채금리가 전��적으로 하락했다. 월스트리트저널에 따르면 미국 10년물 국채수익률은 5.116%로 전 거래일보다 0.019%포인트 내렸다. 미국의 주택 관련 경제지표가 부진하게 나온 점 등이...",
+          "pubDate": "Wed, 21 Oct 2026 09:42:00 +0900"
         },
         {
-          "title": "앤트로픽 IPO 전에 선점…\"오픈AI, 40조원 투자유치에 속도\"",
-          "source": "yna.co.kr",
-          "url": "https://www.yna.co.kr/view/AKR20261020055000009?input=1195m",
-          "description": "9월 이후 유가 변동과 채권 금리 상승, AI 안전 우려 등이 기술주 투자 심리를 짓누르는 불확실성 속에서 상장을 준비하던 일부 기업이 앤트로픽 IPO 이후로 일정을 미루기로 했다. 블랙스톤이 후원하는 에어트렁크...",
-          "pubDate": "Tue, 20 Oct 2026 10:26:00 +0900"
+          "title": "'고점서 41% 폭락' 왜 코스피만 공포에 질렸나…원화·국고채는 강세",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440301",
+          "description": "반도체 호황이 성장률과 물가 전망을 끌어올리는 동안 채권은 금리 상승 부담을 먼저 감당했다. 지난 7월과 8월 두 차례 기준금리 인상에 더해 추가 긴축 가능성까지 반영하면서, 한때 기준금리가 최대 4%까지 오르는...",
+          "pubDate": "Wed, 21 Oct 2026 09:34:00 +0900"
         },
         {
-          "title": "금시세(금값) 하락",
-          "source": "kjdaily.com",
-          "url": "http://www.kjdaily.com/article.php?aid=1792459157689693227",
-          "description": "연준이 물가 상승 압력을 강하게 경계하고 추가 인상 가능성을 열어두면 달러와 채권금리에 상승 압력이 이어질 수 있다. 반대로 긴축 강도가 예상보다 약하다는 신호가...",
-          "pubDate": "Tue, 20 Oct 2026 10:20:00 +0900"
+          "title": "[마켓+] 손보사 3분기 실적 기대치 낮추는 증권가, 왜?",
+          "source": "seoulfn.com",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640551",
+          "description": "iM증권은 금리 상승으로 구조화채권과 대체투자자산에서 평가손실이 발생하고, 상반기 가파르게 올랐던 주식시장의 조정도 투자손익을 끌어내릴 것으로 예상했다. 금리 상승은 신규 투자 수익률을 높이는...",
+          "pubDate": "Wed, 21 Oct 2026 09:17:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "10월 20일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news.dealsitetv.com, ceoscoredaily.com, kbanker.co.kr 등에서 보도되었으며, 삼성생명, 보험사, 기본자본시대 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 21일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. jasm.co.kr, fntimes.com, popcornnews.net 등에서 보도되었으며, 한화생명, iM증권, 3분기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "iM증권 \"한화생명 3분기 적자전환 전망…목표가 하향\"",
+          "source": "jasm.co.kr",
+          "url": "https://www.jasm.co.kr/news/view/322368/?sc=Naver",
+          "description": "iM증권은 21일 한화생명에 대해 평가처분손익 악화 및 특별계정 변액 헷지운용 손실 등 투자손익 부진... 자본적정성을 나타내는 지급여력비율(K-ICS·킥스)은 금리 상승 영향으로 전분기 대비 2.14%포인트 개선된 169.1...",
+          "pubDate": "Wed, 21 Oct 2026 09:06:00 +0900"
+        },
+        {
+          "title": "권혁웅·이경근 한화생명 대표, 대량해지 재보험 출재로 추가 금리 변동...",
+          "source": "fntimes.com",
+          "url": "https://www.fntimes.com/html/view.php?ud=202610201548241495ed56b8e1f8_18",
+          "description": "가용자본 증가로 킥스 개선…추가 상승 가정엔 하락 압력 한화생명 상반기 킥스비율이 개선된 건 금리 상승에 따른 가용자본이 증가한 영향이다. 위험에 대비해 확보해야 할 자본이 늘었지만 이를 감당할 수 있는...",
+          "pubDate": "Tue, 20 Oct 2026 18:12:00 +0900"
+        },
+        {
+          "title": "한화생명, 최대 8000억 후순위채 발행 추진…차환 부담에 선제 대응",
+          "source": "popcornnews.net",
+          "url": "http://www.popcornnews.net/news/articleView.html?idxno=136644",
+          "description": "한화생명의 올해 상반기 말 킥스���율은 168%다. 내년 상반기 후순위채 콜옵션이 도래하는 주요 보험사 가운데 상당수가 200%를 웃도는 것과 비교하면 자본 여력이 상대적으로 낮은 수준이다. 보험업계에서는 한화생명이...",
+          "pubDate": "Tue, 20 Oct 2026 17:38:00 +0900"
+        },
         {
           "title": "삼성생명, 금리상승기 해외조달 나선 이유",
           "source": "news.dealsitetv.com",
@@ -100,68 +121,47 @@
           "url": "https://www.ceoscoredaily.com/page/view/2026101419265501293",
           "description": "반면 이들을 제외한 나머지 상장 보험사인 삼성생명·한화생명·한화손해보험·롯데손해보험... 올해 6월 말 기준 신지급여력(K-ICS·킥스)비율이 155.3%로 업계 하위권인 미래에셋생명이 1조원대 자사주 소각에 나설...",
           "pubDate": "Tue, 20 Oct 2026 07:02:00 +0900"
-        },
-        {
-          "title": "[기본자본시대 개막] ②규제비율 지키려니 해약준비금 '암초'",
-          "source": "kbanker.co.kr",
-          "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226159",
-          "description": "지급여력(K-ICS·킥스)비율 산출 시 사용되는 건전성감독기준에서도 이익잉여금 내 ���약환급금준비금을... 실제 한화생명은 올해 8월 열린 상반기 실적발표회(IR)에서 해약환급금준비금이 이익잉여금을 일부...",
-          "pubDate": "Tue, 20 Oct 2026 06:00:00 +0900"
-        },
-        {
-          "title": "[기본자본시대 개막] ④CSM 쫓다 기본자본 놓친 보험사",
-          "source": "kbanker.co.kr",
-          "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226162",
-          "description": "신계약 확대가 지급여력제도(K-ICS, 킥스)상 보완자본만 늘리는 데 그치면서 내년 도입될... 한화생명도 내년 기본자본 규제 도입을 대비해 요구자본 축소 제고 방안을 추진 중이다. 구체적으로 보험금 예실차...",
-          "pubDate": "Tue, 20 Oct 2026 06:00:00 +0900"
-        },
-        {
-          "title": "삼성생명, 美 장기채 급락에 '복잡한 속내'",
-          "source": "sisajournal-e.com",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424418",
-          "description": "주요 보험사 가운데선 한화생명이 지난 2018년과 2025년에 각각 10억달러로 발행한 바 있다. 워낙 대규모로... 올해 6월 말 기준 삼성생명의 지급여력비율(K-ICS·킥스)은 208.17%를 기록했다. 최근 삼성전자 주가 흐름을...",
-          "pubDate": "Mon, 19 Oct 2026 17:10:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "10월 20일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. newsroad.co.kr, queen.co.kr, thefairnews.co.kr 등에서 보도되었으며, 미래에셋, ETF, 상장 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 21일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. joseilbo.com, dailian.co.kr, imaeil.com 등에서 보도되었으며, 삼성전자, 코스피, SK하이닉스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "미래에셋, TIGER 글로벌MLCC&기판 ETF 상장 \"AI서버 핵심 부품 투자\"",
-          "source": "newsroad.co.kr",
-          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=66073",
-          "description": "특히 대만의 MLCC·반도체 기판 기업을 함께 편입한 것이 특징이다. 포트폴리오의 핵심 축은 AI 서버용 고사양 MLCC 시장의 주요 기업인 무라타제작소와 삼성전기다. 이와 함께 FC-BGA 기판 시장의 주요...",
-          "pubDate": "Tue, 20 Oct 2026 10:36:00 +0900"
+          "title": "코스피, 급락 딛고 2%대 상승...삼성전자·하이닉스↑",
+          "source": "joseilbo.com",
+          "url": "http://www.joseilbo.com/news/news_read.php?uid=577833&class=53&grp=",
+          "description": "삼성전자와 SK하이닉스 등 반도체 대형주가 상승을 이끄는 가운데 코스닥도 800선을 되찾았다. 국제유가 하락과 중동 긴장 완화 기대가 투자심리 회복에 힘을 보탰다. 21일 오전 9시 20분 기준 코스피는 전...",
+          "pubDate": "Wed, 21 Oct 2026 10:21:00 +0900"
         },
         {
-          "title": "미래에셋자산운용, AI 인프라 핵심 부품 투자 ETF 상장",
-          "source": "queen.co.kr",
-          "url": "http://www.queen.co.kr/news/articleView.html?idxno=464955",
-          "description": "특히 대만의 MLCC·반도체 기판 기업을 함께 편입한 점이 특징이다. 포트폴리오의 중심에는 AI 서버용 고사양 MLCC 시장을 이끄는 무라타제작소와 삼성전기가 있으며, 대만의 유니마이크론·난야PCB·킨서스...",
-          "pubDate": "Tue, 20 Oct 2026 10:36:00 +0900"
+          "title": "\"삼전 67만·닉스 470만\" 전망 노무라가 꼽은 '변수'는",
+          "source": "dailian.co.kr",
+          "url": "https://www.dailian.co.kr/news/view/1704008/?sc=Naver",
+          "description": "일본 노무라증권이 삼성전자와 SK하이닉스의 업황을 긍정적으로 전망한 보고서를 공개했다. 2028년까지... 관�� 메모리 수요가 공급을 압도해 반도체 기업 입장에선 우호적 가격의 수혜를 누릴 수 있을 거란 관측이다....",
+          "pubDate": "Wed, 21 Oct 2026 10:17:00 +0900"
         },
         {
-          "title": "[증시 오늘(20일) 주요 특징주] 국내 증시 외풍에 휘청…주력 대형주 일...",
-          "source": "thefairnews.co.kr",
-          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91268",
-          "description": "지수 하락을 견인하는 핵심 특징주는 반도체 대장주인 삼성전자와 SK하이닉스다. 뉴욕증시��서 미국 주요 기술주가 반등세를 보였음에도 불구하고 국내 반도체 두 공룡 종목에는 외국인과 기관의 매도 물량이...",
-          "pubDate": "Tue, 20 Oct 2026 10:36:00 +0900"
+          "title": "코스피 5,700선 회복…삼성전자·SK하이닉스 4~6% 급반등",
+          "source": "imaeil.com",
+          "url": "https://www.imaeil.com/page/view/2026102109534887016",
+          "description": "반도체 대형주가 지수를 이끌었다. 삼성전자는 4.7%, SK하이닉스는 6.5% 안팎 상승 중이다. 반면 미국 증시에서 마이크론(-0.98%), SK하이닉스 ADR(-2.16%), 엔비디아(-0.29%), AMD(-0.62%) 등 반도체·AI 관련주는 전날...",
+          "pubDate": "Wed, 21 Oct 2026 10:16:00 +0900"
         },
         {
-          "title": "[오늘 상장했어요] 미래에셋·삼성·KB·한투·하나운용, AI 반도체·배당...",
-          "source": "weekly.hankooki.com",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189773",
-          "description": "'KEDI 반도체소부장 지수'를 비교지수로 삼고 업종별 실적·주가 흐름과 수주 등 주요 이벤트를 반영해 업종·종목 비중을 조정한다. 주요 편입 종목은 삼성전기(8.37%)·기가비스(8.01%)·심텍(7.83%)·테스(7.51...",
-          "pubDate": "Tue, 20 Oct 2026 10:34:00 +0900"
+          "title": "[현장] SK증권, AI 시대 투자 전략 조명…“경제적 해자·반도체 수요 주...",
+          "source": "thevaluenews.co.kr",
+          "url": "http://www.thevaluenews.co.kr/news/view.php?idx=202522",
+          "description": "특히 삼성전자와 SK하이닉스가 지속적인 경쟁 우위를 확보하고 있는지에 대해서는 추가적인 검토가 필요하다고 봤다. 그는 \"두 기업의 투자 판단과 관련해 경제적 해자만큼이나 반도체 공급 부족이 얼마나 심한지를...",
+          "pubDate": "Wed, 21 Oct 2026 10:14:00 +0900"
         },
         {
-          "title": "코스피 장 초반 급락…코스닥도 동반 하락",
-          "source": "news.kbs.co.kr",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689978&ref=A",
-          "description": "투자심리가 온전히 회복하지 못하는 것으로 풀이됩니다. '반도체 대형주' 삼성전자와 SK하이닉스는 모두 하락 중입니다. 코스닥 역시 전 거래일보다 3.52p, 0.44% 내린 805.37로 출발한 뒤 내림세를 보이고 있습니다.",
-          "pubDate": "Tue, 20 Oct 2026 10:34:00 +0900"
+          "title": "KB증권 \"마이크론 대만공장 파업 예고, 삼성전자·SK하이닉스 반사이익...",
+          "source": "businesspost.co.kr",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449868",
+          "description": "<삼성전자, SK하이닉스> 20일 로이터에 따르면 미국 메모리 반도체 기업 마이크론의 대만 타오위안 공장 노조는 10월22일부터 파업에 돌입하겠다고 예고했다. 타오위안 공장 노조는 10월 초 실시한 파업 찬반 투표에서 99...",
+          "pubDate": "Wed, 21 Oct 2026 10:14:00 +0900"
         }
       ]
     }

@@ -1,92 +1,99 @@
 {
-  "updatedAt": "2026-10-23T01:18:42.021Z",
+  "updatedAt": "2026-10-24T01:24:33.009Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "10월 23일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. kjdaily.com, news2day.co.kr, junggi.co.kr 등에서 보도되었으며, 급락, 코스피, 금시세 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 24일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. thescoop.co.kr, segyebiz.com, news.einfomax.co.kr 등에서 보도되었으며, 달러, 환율, 삼전닉스마저 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "금시세(금값) 급락",
-          "source": "kjdaily.com",
-          "url": "http://www.kjdaily.com/article.php?aid=1792717991690059227",
-          "description": "◇ 달러인덱스도 하락…금 약세를 환율만으로 설명하기 어려워 외환시장에서도 안전자산 선호가 뚜렷했다. 22일 뉴욕 오후 4시 기준 달러인덱스는 101.632로 전날보다 0.062...",
-          "pubDate": "Fri, 23 Oct 2026 10:14:00 +0900"
+          "title": "삼전닉스마저 4~5% 출렁, AI 수익성 우려에 흔들린 국장 [주간 증시해설...",
+          "source": "thescoop.co.kr",
+          "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=312043",
+          "description": "# 환율 = 하락세(원화 강세)를 이어가던 원·달러 환율을 소폭 상승했다. 서울 외환시장에 따르면 23일 원·달러 환율은 전 거래일 종가(1324.2원)보다 0.4원 오른 1324.6원으로 주간 거래를 마쳤다. 20일(1328.0원) 이후...",
+          "pubDate": "Sat, 24 Oct 2026 09:55:00 +0900"
         },
         {
-          "title": "코스피, 메타발 악재에 5,440선 '털썩'…삼전·하이닉스 동반 부진",
-          "source": "news2day.co.kr",
-          "url": "https://www.news2day.co.kr/article/20261023500064",
-          "description": "한편 서울 외환시장에서 원·달러 환율은 전 거래일보다 3.70원 내린 1,322.80원에 거래되고 있다. 간밤 뉴욕증시 3대 지수는 혼조세로 마감했다. 다우존스30산업평균지수는 전장보다 0.02% 상승한 반면...",
-          "pubDate": "Fri, 23 Oct 2026 10:14:00 +0900"
+          "title": "반도체 수출 달러에 힘받는 원화…환율 2년 만에 최저 수준",
+          "source": "segyebiz.com",
+          "url": "http://www.segyebiz.com/newsView/20261024502778?OutUrl=naver",
+          "description": "24일 서울 외환시장에 따르면 전날 원·달러 환율은 전 거래일보다 0.4원 오른 1324.6원에 마감했다. 소폭 반등했으나 주간 거래 종가 기준으로 2024년 10월 2일(1319.3원) 이후 가장 낮은 수준에 머물렀다. 최근...",
+          "pubDate": "Sat, 24 Oct 2026 09:06:00 +0900"
         },
         {
-          "title": "원달러 환율 연저점 경신…국제유가 급등, 원자재 혼조세",
-          "source": "junggi.co.kr",
-          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38204",
-          "description": "서울외환시장에서 원달러 환율이 한국은행의 기준금리 동결 속에서도 하락세를 이어가며 5거래일 연속 연저점을 경신했다. 뉴욕상품시장에서는 중동 지정학적 위기와 인공지능 투자 수익성 우��가 겹치면서 유가와...",
-          "pubDate": "Fri, 23 Oct 2026 10:12:00 +0900"
+          "title": "[뉴욕마켓워치] 주말에 설마 이란 때릴까…주식·채권↓달러↑",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440949",
+          "description": "◇외환시장 연합인포맥스(화면번호 6411)에 따르면 오후 4시 현재 뉴욕 외환시장에서 달러-엔 환율은 156.841엔으로, 전장 뉴욕장 마감가 156.869엔 대비 0.028엔(0.018%) 낮아졌다. 달러-엔은 뉴욕 오전 장 초반 156.3엔...",
+          "pubDate": "Sat, 24 Oct 2026 08:32:00 +0900"
         },
         {
-          "title": "엔화, 미일 증시 약세에 포지션 해소 매수로 1달러=156엔대 중반 상승 출...",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20261023_0003838162",
-          "description": "도쿄 외환시장에서 엔화 환율은 이날 오전 8시30분 시점에 1달러=156.59~156.61엔으로 전일 오후 5시 대비 0.63엔 상승했다. 22일 뉴욕 증시에선 참단 기술주 비중이 높은 나스닥 지수가 2.6% 크게 떨어진 채 마감했다....",
-          "pubDate": "Fri, 23 Oct 2026 10:11:00 +0900"
+          "title": "[외환] 중동 긴장·달러 반등에 1,320원대 중반 상승",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440948",
+          "description": "24일 외환시장에서 달러-원 환율은 오전 6시 현재 전일 서울장 종가(1,324.60원) 대비 1.60원 상승한 1,326.20원에 거래됐다. 달러-원은 런던과 뉴욕장에서 제한적인 움직임을 보이다가 장 후반부 상승폭을 소폭...",
+          "pubDate": "Sat, 24 Oct 2026 08:14:00 +0900"
         },
         {
-          "title": "코스피, AI 우려에 5400선도 깨졌다…장중 3% '급락'",
-          "source": "newsworks.co.kr",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=900484",
-          "description": "31을 기록하고 있다. 코스닥에서는 개인과 기관이 각각 115억원, 136억원씩 매도 우위인 반면 외국인이 홀로 284억원 매수 우위다. 이날 서울 외환시장에서 원·달러 환율은 현재 1324.4원을 기록하고 있다.",
-          "pubDate": "Fri, 23 Oct 2026 09:52:00 +0900"
+          "title": "서학개미 달러 수요 급증했는데…두터운 네고에 환율 요지부동",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440939",
+          "description": "전략 외환시장에 유입되는 것은 아니지만 규모로 보면 현재 환율 하락의 견인차는 급증한 무역 흑자\"라고 설명했다. 한 증권사 외환딜러는 \"해외 투자로 인한 개인들의 달러 매수가 있지만 네고물량이 워낙 많아...",
+          "pubDate": "Sat, 24 Oct 2026 07:42:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "10월 23일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news2day.co.kr, sentv.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 데스크, 칼럼, 고금리 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 24일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. mbn.mk.co.kr, kjdaily.com, econovill.com 등에서 보도되었으며, 우려에, 금값, 급락 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[데스크 칼럼] 고금리 회귀와 우리의 자세",
-          "source": "news2day.co.kr",
-          "url": "https://www.news2day.co.kr/article/20261023500010",
-          "description": "채권금리와 은행 대출금리가 오르면 투자 매력과 차입 여력이 달라지고, 기업은 자금 조달 비용 증가로 투자와 고용을 줄일 수 있다. 가계 역시 이자 부담이 커지면서 소비를 줄일 수밖에 없���. 인공지능(AI)·반도체 투자에...",
-          "pubDate": "Fri, 23 Oct 2026 10:04:00 +0900"
+          "title": "미·이란 확정 우려에 무너진 금값… 뉴욕증시 끌어내려",
+          "source": "mbn.mk.co.kr",
+          "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5226831",
+          "description": "글로벌 채권금리의 기준이 되는 미국 10년물 국채금리는 4.99% 안팎으로 올라섰습니다. 유가 급등으로 인플레이션 우려가 커지면서 미국 연방준비제도(Fed·연준)의 추가 금리 인상 가능성이 부각되자 국제 금값은...",
+          "pubDate": "Sat, 24 Oct 2026 10:21:00 +0900"
         },
         {
-          "title": "iM증권 “美국채·엔화 동반 초강세…안전자산 선호 지표 주시해야”",
-          "source": "sentv.co.kr",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610230029",
-          "description": "그는 “엔화가 추가 강세를 보이면 ‘엔 캐리 트레이드’(저금리 엔화 자금으로 달러 등 고금리 통화의 채권·주식에 투자하는 전략) 청산 우려가 크게 불거질 것”이라며 “과거에도 엔화 초강세 국면에서는 미국...",
-          "pubDate": "Fri, 23 Oct 2026 09:58:00 +0900"
+          "title": "금시세(금값) 또 급락",
+          "source": "kjdaily.com",
+          "url": "http://www.kjdaily.com/article.php?aid=1792804684690095227",
+          "description": "국채 수익률은 정책금리 전망뿐 아니라 채권 수급과 물가 기대, 국채 발행 규모 등 여러 요인의 영향을 받는다. 이날에는 유가 급등과 전날의 채권가격 상승에 따른 되돌림이...",
+          "pubDate": "Sat, 24 Oct 2026 10:20:00 +0900"
         },
         {
-          "title": "노르웨이 국부펀드, 3분기 채권시장 충격에 약 39조원 손실",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440782",
-          "description": "트론 그란데 NBIM 부최고경영자(Deputy CEO)는 성명에서 \"금리 상승으로 채권 투자 성과가 약화하면서 펀드 수익률은 소폭 마이너스를 기록했다\"고 밝혔다. 3분기 글로벌 채권시장에서는 주요국 국채금리가 급등했다....",
-          "pubDate": "Fri, 23 Oct 2026 09:56:00 +0900"
+          "title": "하나증권, 3분기 누적 순익 2834억원…전년비 67.1% 증가",
+          "source": "econovill.com",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=754697",
+          "description": "세일즈앤트레이딩(S&T)은 금리 상승으로 채권 운용손익에 영향을 받았으나 법인영업과 델타원 비즈니스 등에서 성장세를 나타냈다. 3분기 개별 실적은 전�� 동기보다 감소했다. 당기순이익은 101억원으로 83.9...",
+          "pubDate": "Sat, 24 Oct 2026 09:52:00 +0900"
         },
         {
-          "title": "Build finances that can withstand prolonged high interest rates (KOR)",
-          "source": "koreajoongangdaily.com",
-          "url": "https://www.koreajoongangdaily.com/bilingual-news/build-finances-that-can-withstand-prolonged-high-interest-rates-kor/12935106",
-          "description": "채권은 금리가 높아진 만큼 이자수익의 매력이 커졌지만, 장기채는 금리가 추가로 오를 경우 가격 손실이 클 수 있다. 금리 하락에 대한 베팅보다 만기를 나누고 투자기간에...",
-          "pubDate": "Fri, 23 Oct 2026 09:39:00 +0900"
+          "title": "국제유가 급등에 뉴욕 증시 출렁, 다우지수 652포인트 급락",
+          "source": "gokorea.kr",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=882579",
+          "description": "이는 글로벌 채권금리의 벤치마크로 작용하는 미 국채 금리의 움직임을 반영한다. 한편, 안전자산으로 여겨지던 금값은 인플레이션 우려로 인한 금리 인상 가능성 때문에 하락했다. 금 현물가격은 온스당 4천달러...",
+          "pubDate": "Sat, 24 Oct 2026 09:48:00 +0900"
         },
         {
-          "title": "“산 넘어 산” 코스피, AI 수익성 우려에 3.8% 급락 출발…반도체주 직...",
-          "source": "magazine.hankyung.com",
-          "url": "https://magazine.hankyung.com/business/article/202610230401b",
-          "description": "양현경 iM증권 애널리스트는 \"메타 실적 발표 이후 AI 선행투자를 감당할 수 있는 재무 여력에 대해 시장의 평가가 엄격해지고 있으며, 유가 상승 속 채권 매수세로 인한 금리 하락을 증시에 우호적으로 보기 어렵다...",
-          "pubDate": "Fri, 23 Oct 2026 09:38:00 +0900"
+          "title": "중동 확전 우려에 유가 6개월 만에 최고치...뉴욕 증시, 일제히 하락",
+          "source": "chosun.com",
+          "url": "https://www.chosun.com/economy/2026/10/24/ODT2TDXNYNGDDNEO2AYIIZYSEU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "description": "글로벌 채권 금리의 벤치마크인 미 국채 10년물 금리는 이날 4.99% 안팎으로 올라섰다. 안전 자산으로 꼽히는 국제 금값은 하락했다. 금 현물 가격은 이날 장중 온스당 4000달러 아래로 떨어지며 3개월여 만에 최저...",
+          "pubDate": "Sat, 24 Oct 2026 09:36:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "10월 23일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. jasm.co.kr, fntimes.com, popcornnews.net 등에서 보도되었으며, 한화생명, iM증권, 3분기 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 24일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. ftoday.co.kr, jasm.co.kr, fntimes.com 등에서 보도되었으며, 한화생명, 64조, 준비금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "64조 준비금 풀면 배당 늘까…보험사 '세금·자본' 복잡",
+          "source": "ftoday.co.kr",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367971",
+          "description": "기본자본 킥스 규제 시행 앞두고, 해약환급금준비금을 연계해 제도 개선 방안을 금융위원회와 찾도록... 올해 상반기 말 준비금의 이익잉여금 대비 비중은 한화생명이 97.3%, 삼성생명은 19.2%다. 준비금이 쌓아둔 이익...",
+          "pubDate": "Fri, 23 Oct 2026 16:02:00 +0900"
+        },
         {
           "title": "iM증권 \"한화생명 3분기 적자전환 전망…목표가 하향\"",
           "source": "jasm.co.kr",
@@ -114,54 +121,47 @@
           "url": "https://news.dealsitetv.com/articles/176879",
           "description": "삼성생명은 지급여력(K-ICS, 킥스)비율 제고를 이유로 내세운 가운데 현재 검토 중인 해외기업 인수·합병(M&A)과 무관치 않을 것이란 게 업계의 시각이다. 삼성생명 이사회는 지난 7일 15억달러(한화 약 2조151억원) 이내...",
           "pubDate": "Tue, 20 Oct 2026 09:02:00 +0900"
-        },
-        {
-          "title": "보험사 자사주 소각 3조4491억원…미래에셋생명 1조원으로 최다",
-          "source": "ceoscoredaily.com",
-          "url": "https://www.ceoscoredaily.com/page/view/2026101419265501293",
-          "description": "반면 이들을 제외한 나머지 상장 보험사인 삼성생명·한화생명·한화손해보험·롯데손해보험... 올해 6월 말 기준 신지급여력(K-ICS·킥스)비율이 155.3%로 업계 하위권인 미래에셋생명이 1조원대 자사주 소각에 나설...",
-          "pubDate": "Tue, 20 Oct 2026 07:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "10월 23일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. the-stock.kr, hidomin.com, pinpointnews.co.kr 등에서 보도되었으며, AI, 휘청, 자율제조 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 24일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. yonhapnewstv.co.kr, seoultimes.news, sisajournal.com 등에서 보도되었으며, 이건희, 6주기, 미래 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "자율제조 AI 기업 인터엑스, 증권신고서 제출",
-          "source": "the-stock.kr",
-          "url": "https://www.the-stock.kr/news/articleView.html?idxno=33625",
-          "description": "현재 인터엑스는 현대자동차와 삼성SDI, LG전자, 현대모비스 등 국내 제조사를 포함해 자동차·반도체·이차전지·전자·식품 등 여러 산업군에서 200건 이상의 제조 AI 구축 이력을 쌓았다. 회사 집계 기준 올해...",
-          "pubDate": "Fri, 23 Oct 2026 10:16:00 +0900"
+          "title": "한전, 내년 말 사채 한도 19조원 초과 위기…'전기료 인상' 재점화",
+          "source": "yonhapnewstv.co.kr",
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20261024100307qrk",
+          "description": "한전은 최근 삼성전자와 SK하이닉스에 5년 치 전기요금 25조원을 미리 내달라고 요청했으나 거절당하면서 추가 자금 조달도 난항을 겪고 있습니다. 이 같은 자금난이 반도체와 인공지능(AI) 데이터센터 등 첨단산업...",
+          "pubDate": "Sat, 24 Oct 2026 10:03:00 +0900"
         },
         {
-          "title": "美 반도체주 급락에 코스피 '휘청'…장중 4%대 급락 후 낙폭 축소",
-          "source": "hidomin.com",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=726178",
-          "description": "코스피가 미국 증시의 반도체주 급락과 인공지능(AI) 투자 수익성 우려에 23일 장 초반 약세를 보이고... 시가총액 상위 종목 중 삼성전자(-2.33%), 삼성전기(-2.97%), 현대차(-2.99%), KB금융(-3.48%), LG에너지솔루션(-1....",
-          "pubDate": "Fri, 23 Oct 2026 10:14:00 +0900"
+          "title": "[이건희 6주기] ②컴퓨터·소프트웨어·로봇에 주목한 이건희의 미래 구...",
+          "source": "seoultimes.news",
+          "url": "https://www.seoultimes.news/news/article.html?no=2000101312",
+          "description": "이건희 삼성그룹 선대회장은 반도체뿐 아니라 컴퓨터와 소프트웨어, 로봇에도 일찍부터 관심을 가졌다. 1987년 회장에 취임할 무렵에는 전자기술이 제조업과 결합하면서 산업의 모습이 달라질 것으로 내다봤다. 컴퓨터가...",
+          "pubDate": "Sat, 24 Oct 2026 10:02:00 +0900"
         },
         {
-          "title": "AI·라이다가 미래 성장축인데…자율주행주 단기 매물 부담",
-          "source": "pinpointnews.co.kr",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497872",
-          "description": "다만 메모리 반도체 사업 전반의 실적과 자율주행 관련 수요가 주가에 미치는 영향은 구분해 볼 필요가 있다.... 팸텍과 세코닉스, 엠씨넥스, 퓨런티어, 하이비젼시스템, LG이노텍, 삼성전기, 드림텍, 옵트론텍 등이 관련...",
-          "pubDate": "Fri, 23 Oct 2026 10:14:00 +0900"
+          "title": "[이건희 6주기] ③인재가 기업의 미래…해외로 직원 200명 보낸 이유",
+          "source": "seoultimes.news",
+          "url": "https://www.seoultimes.news/news/article.html?no=2000101313",
+          "description": "삼성은 반도체 사업을 확대하는 과정에서 연구개발 ��력과 생산기술 전문가를 확보하는 데 힘을 기울였다. 첨단제품 개발과 생산공정 개선에는 연구진뿐 아니라 현장 직원들의 역할도 필요했다. 이 선대회장이 기술...",
+          "pubDate": "Sat, 24 Oct 2026 10:02:00 +0900"
         },
         {
-          "title": "SK하이닉스, 솔리다임 IPO 접었다… \"주주 이익 높이는 방법 모색\"",
-          "source": "the-biz.co.kr",
-          "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729762",
-          "description": "최근 금융시장의 변동성과 반도체 업종의 주가 조정, 기존 주주들에게 미칠 영향 등을 종합적으로 고려한... 같은 기간 SK하이닉스와 솔리다임을 합산한 eSSD 매출은 86억3000만달러(약 11조4000억원)를 웃돌며 삼성전자에...",
-          "pubDate": "Fri, 23 Oct 2026 10:12:00 +0900"
+          "title": "실적은 최고인데 주가는 추락…시장은 무엇을 두려워하나 [김학균의 시...",
+          "source": "sisajournal.com",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=391263",
+          "description": "시총 49.3% '삼전닉스'의 그늘 최근 조정 국면에서 약세를 보인 것은 삼성전자와 SK하이닉스 등 한국의 반도체주만이 아니다. 글로벌 메모리 반도체 기업들의 주가도 일제히 큰 폭으로 하락했다. 9~10월 조정 국면에서...",
+          "pubDate": "Sat, 24 Oct 2026 10:00:00 +0900"
         },
         {
-          "title": "메타 너마저...빅테크로 번진 ‘AI 돈줄’ 공포에 韓 증시 또 '휘청'",
-          "source": "hankyung.com",
-          "url": "https://www.hankyung.com/article/202610230400i",
-          "description": "코어위브에서 시작된 신용 불안이 현금 창출력이 탄탄한 빅테크로 번지자 AI 반도체와 인프라 공급망에... 삼성전자는 2.5% 하락한 반면 SK하이닉스는 0.2% 상승했다. 장 초반 각각 3~4%가량 밀렸으나 바닥을 찾는...",
-          "pubDate": "Fri, 23 Oct 2026 10:12:00 +0900"
+          "title": "[이건희 6주기] ①1974년 반도체에 건 승부…20년 만에 세계 1위",
+          "source": "seoultimes.news",
+          "url": "https://www.seoultimes.news/news/article.html?no=2000101297",
+          "description": "생산능력과 기술 수준, 원가 경쟁력을 함께 높이는 방식이 삼성 반도체 사업에 자리 잡았다. 제공된 자료에 따르면 삼성전자는 2026년 2분기 글로벌 D램 시장에서 39.4%, 낸드 시장에서 29.3%의 점유율을 기록했다. 두 분야...",
+          "pubDate": "Sat, 24 Oct 2026 10:00:00 +0900"
         }
       ]
     }

@@ -1,92 +1,99 @@
 {
-  "updatedAt": "2026-10-27T01:51:38.494Z",
+  "updatedAt": "2026-10-28T02:02:51.099Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "10월 27일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. digitaltoday.co.kr, livebiz.today, ggilbo.com 등에서 보도되었으며, 코스피, 5700선, 회복 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 28일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. edaily.co.kr, newsfreezone.co.kr, ggilbo.com 등에서 보도되었으며, 환율, 10, 코스피 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피 4%대 급등 5700선 회복...매수 사이드카 발동",
-          "source": "digitaltoday.co.kr",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710190",
-          "description": "서울 외환시장에서 원·달러 환율은 전 거래일보다 1.90원 내린 1325.10원에 거래되고 있다. 전날 미국 증시에서 AI 기업 앤트로픽의 기업공개(IPO) 신청서 공개를 계기로 AI와 반도체주에 대한 투자심리가 개선된...",
-          "pubDate": "Tue, 27 Oct 2026 10:50:00 +0900"
+          "title": "코스피 급등에도…환율, 6거래일 만에 1330원대로 상승",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04037686645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "description": "사진=연합뉴스 28일 서울 외환시장에서 환율은 이날 오전 10시 56분 기준 전 거래일(오후 3시 30분 기준)보다 9.2원 오른 1336.2원에서 거래되고 있다. 1326.0원에서 출발한 환율은 우상향하며 오전 9시 반께 1330원선을...",
+          "pubDate": "Wed, 28 Oct 2026 11:01:00 +0900"
         },
         {
-          "title": "룰라 당선 반기지 않는 브라질 금융시장...증시 17%·헤알화 가치 10% 폭...",
-          "source": "livebiz.today",
-          "url": "https://www.livebiz.today/news/articleView.html?idxno=205954",
-          "description": "증시 폭락은 외환시장과 채권시장에도 직접적인 영향을 미쳤다. 이날 달러 대비 헤알화 환율은 전장보다 10.26% 급등(헤알화 가치 폭락)한 달러당 5.498헤알에 거래됐다. 장 중 한때 12.37% 치솟은 5.604헤알까지 상승하며...",
-          "pubDate": "Tue, 27 Oct 2026 10:50:00 +0900"
+          "title": "엔저 10% 약세에도 한국 수출은 0.07% 감소 불과",
+          "source": "newsfreezone.co.kr",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716315",
+          "description": "실제 엔/달러 환율은 지난 7월 163.9엔까지 올라 40년 만의 최고치를 기록한 뒤 미·일 외환시장 개입으로 반락했다. 원/100엔 환율은 10월 중 830원대로 내려가 2008년 이후 가장 낮은 수준을 기록했다. 엔저와 원화 강세가...",
+          "pubDate": "Wed, 28 Oct 2026 11:00:00 +0900"
         },
         {
-          "title": "[오늘 금시세] 10월 27일 순금 1돈 얼마?",
+          "title": "[오늘 금시세] 10월 28일 순금 1돈 얼마?",
           "source": "ggilbo.com",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189253",
-          "description": "한편 서울 외환시장에 따르면 현재 원·달러 환율은 오전 9시 기준 1326.0원에 거래되고 있다. 국제유가 하락으로 인플레이션 우려가 일부 완화되면서 금 매수세가 유입됐다. 다만 미국 연방준비제도(Fed)의 금리...",
-          "pubDate": "Tue, 27 Oct 2026 10:44:00 +0900"
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189537",
+          "description": "한편 서울 외환시장에 따르면 이날 오전 9시 49분 기준 원/달러 환율은 1331.1원에 거래됐다. 주요 6개국 통화 대비 달러 가치를 나타내는 달러인덱스(DXY)는 전장보다 0.295% 오른 102.299를 기록했다. 미국...",
+          "pubDate": "Wed, 28 Oct 2026 10:50:00 +0900"
         },
         {
-          "title": "룰라 재집권에 브라질 금융시장 ‘곤두박질’… 주가·통화·채권 ‘트...",
-          "source": "biz.chosun.com",
-          "url": "https://biz.chosun.com/international/international_economy/2026/10/27/XNSSNBLMLZDN7DKK37LIKLG72E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "description": "외환시장에서 브라질 통화인 헤알화 가치도 바닥을 쳤다. 이날 달러 대비 헤알화 가치는 장 초반 약 12... 이는 브라질이 고정환율제를 폐지하고 변동환율제를 도입하며 통화 가치가 폭락했던 1999년 초 이후 27년 만에...",
-          "pubDate": "Tue, 27 Oct 2026 10:43:00 +0900"
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441572",
+          "description": "28일 서울외환시장의 외환딜러들은 28일(현지시간) 연방공개시장위원회(FOMC)를 앞둔 경계감에 달러-원이... 이날 달러-원 환율 예상 레인지는 1,320.00~1,330.00원으로 전망됐다. ◇ A은행 딜러 FOMC 전까지는 별다른...",
+          "pubDate": "Wed, 28 Oct 2026 10:36:00 +0900"
         },
         {
-          "title": "외국인 7000억 순매수…코스피 '매수 사이드카' 5700선 회복",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20261027000458",
-          "description": "서울 외환시장에서 달러/원 환율은 오전 9시 기준 1324.5원에 주간거래를 기록 중인 가운데, 27일 오전 서울 중구 하나은행 본점 딜링룸에서 직원들이 업무를 보고 있다. 2026.10.27 starbean@newspim.com 수급은...",
-          "pubDate": "Tue, 27 Oct 2026 10:42:00 +0900"
+          "title": "원달러 환율 2년 래 최저치 기록…'고유가 타격' 항공업계 숨통 트이나",
+          "source": "widedaily.com",
+          "url": "https://www.widedaily.com/news/articleView.html?idxno=302377",
+          "description": "외환시장에 따르면 지난 26일 기준 원·달러 환율 종가는 1323.1원으로 2024년 10월 이후 최저치를 기록했다. 이는 지난 7월 연중 고점이었던 1555.8원과 비교하면 230원 이상 급락한 수치다. 달러 강세 기조가 한풀 꺾이면서...",
+          "pubDate": "Wed, 28 Oct 2026 10:30:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "10월 27일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, inthenews.co.kr, businesskorea.co.kr 등에서 보도되었으며, 17, 국채선물, 사나 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 28일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. sedaily.com, news.einfomax.co.kr, 4th.kr 등에서 보도되었으며, 금값, 폭락, 오히려 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "外人 국채선물 왜 사나…\"AI 트레이드 피로에 성장 둔화 헤지\"",
+          "title": "“폭락? 오히려 좋아” 기다렸다는 듯 ‘폭풍 매수’…금값 떨어지자 중...",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20107058?ref=naver",
+          "description": "금은 이자를 지급하지 않아 금리가 오르면 채권 등 이자 수익을 제공하는 자산보다 투자 매력이 낮아지는 경향이 있다. 실제로 국제 금값은 지난 23일 장중 온스당 4000달러 아래로 내려가며 3개월여 만의 최저 수준을...",
+          "pubDate": "Wed, 28 Oct 2026 10:29:00 +0900"
+        },
+        {
+          "title": "국고채 강세 못 따라가는 크레디트…퇴직연금 자금 수급 개선 이끌까",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441291",
-          "description": "이미 예상된 금리 인상은 채권 금리에 상당 부분 반영된 반면, 반도체 수요가 약해지면 추가 인상 폭은 당초 예상보다 줄어들 수 있다는 것이다. 올해 앞서 매도했던 국채선물 포지션을 되사는 움직임도 매수 배경으로...",
-          "pubDate": "Tue, 27 Oct 2026 10:46:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441565",
+          "description": "1년물 은행채와 통안채 간 금리 스프레드 최근 채권시장의 강세는 외국인의 강한 국채선물 순매수가 주도하면서, 국내 기관들이 적극적으로 따라붙기 어려운 데다 크레디트물 수급 개선 요인과도 맞물리지는 않았기...",
+          "pubDate": "Wed, 28 Oct 2026 10:22:00 +0900"
         },
         {
-          "title": "삼성액티브, ‘KoAct 코리아TOP5플러스채권혼합50액티브’ 신규상장",
-          "source": "inthenews.co.kr",
-          "url": "https://www.inthenews.co.kr/news/article.html?no=93569",
-          "description": "금리변화에 대한 채권가격의 민감도를 나타내는 평균 듀레이션을 약 1년 수준으로 짧게 관리해 장기채권 대비 금리변동에 따른 가격부담을 낮췄습니다. 연금 및 절세계좌 투자자들에게 유리한 구조라는...",
-          "pubDate": "Tue, 27 Oct 2026 10:42:00 +0900"
+          "title": "\"삼성카드, 금리 상승에 조달·대손비용 급증..목표가 9.1%↓\"",
+          "source": "4th.kr",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2120561",
+          "description": "최 연구원은 3분기에만 과거 저금리 채권의 만기가 1조원 가까이 도래해 총차입금리 상승폭이 예상을 웃돌았다고 설명했다. 4분기에도 8000억원이 넘는 채권의 만기가 돌아올 것으로 예상했다. 다만 4분기 만기분의...",
+          "pubDate": "Wed, 28 Oct 2026 10:12:00 +0900"
         },
         {
-          "title": "[개장 시황] 코스피, 5,600선 회복하며 반등 탄력…원/달러 환율, 1,323원...",
-          "source": "businesskorea.co.kr",
-          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279725",
-          "description": "채권시장의 경우, 전일 국고채 3년물이 3.789%, 10년물이 4.074%로 8월 이후 최저 수준으로 마감한 이후, 이날 주식시장이 강한 반등 흐름을 보이자 채권 금리는 소폭 숨 고르기 장세를 보이며 안정적인 커브를 유지하고...",
-          "pubDate": "Tue, 27 Oct 2026 10:40:00 +0900"
+          "title": "오늘(28일) 금시세 상승…순금 1돈 금값 76만4000원",
+          "source": "thefairnews.co.kr",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92148",
+          "description": "금은 이자 수익이 발생하지 않는 자산인 만큼 채권금리가 높아지면 상대적인 투자 매력이 낮아질 수 있기 때문이다. 반면 유가 하락으로 인플레이션 우려가 완화되고 연준의 긴축 가능성이 줄어들 경우 금값에는...",
+          "pubDate": "Wed, 28 Oct 2026 10:10:00 +0900"
         },
         {
-          "title": "룰라 당선에 브라질 증시 17%↓…코로나 후 첫 서킷브레이커",
-          "source": "ifs.or.kr",
-          "url": "http://www.ifs.or.kr/bbs/board.php?bo_table=news_board&wr_id=57543",
-          "description": "환율·선물금리도 급상승…브라질 정부 국채 발행 계획 취소 JP모건 브라질 국채 '비중확대'→'중립'…채권 금리 상승 예측↑ ​지난밤 루이스 이나시우 룰라 다시우바 대통령의 당선에 일부 시민들은 열광했지만...",
-          "pubDate": "Tue, 27 Oct 2026 10:36:00 +0900"
-        },
-        {
-          "title": "주금공, 첫 홍콩달러 채권 20억 발행…해외 조달 통화 확대",
-          "source": "newsworks.co.kr",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=900892",
-          "description": "주금공은 첫 홍콩달러 채권 발행에도 같은 만기의 미국 달러화 채권보다 경쟁력 있는 금리를 확보했다고 설명했다. 달러화 외에 다른 통화로 자금을 조달할 수 ��는 길을 넓히면서 조달 비용도 절감했다는 것이다....",
-          "pubDate": "Tue, 27 Oct 2026 10:34:00 +0900"
+          "title": "신한금융 최대 실적의 그늘…사옥팔아 채운 수익 비은행이 깎았다",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729451",
+          "description": "증권 수탁수수료가 1989억원, 펀드·방카슈랑스·신탁 수수료가 936억원 각각 감소한 데 이어 금리 상승에 따른 채권평가손실까지 겹쳤다. 유가증권 관련 손익은 전분기 대비 3498억��� 악화됐다. 신한투자증권의...",
+          "pubDate": "Wed, 28 Oct 2026 10:10:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "10월 27일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. sisaon.co.kr, news.einfomax.co.kr, biz.chosun.com 등에서 보도되었으며, 보험사, 증권, 생보사 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 28일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. datasom.co.kr, sisaon.co.kr, news.einfomax.co.kr 등에서 보도되었으며, 보험사, 증권, 이슈 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "[이슈] GA 운영위험 현실화 ··· 보험사 지급여력 직격탄",
+          "source": "datasom.co.kr",
+          "url": "https://www.datasom.co.kr/news/articleView.html?idxno=210538",
+          "description": "보험사가 위탁 판매채널에서 발생하는 위험을 통제하는지가 지급여력비율(K-ICS·킥스) 산정에 반영될... 한화생명은 위탁 조직의 위험 평가 기준을 마련했으며, 삼성생명은 대형 GA와 업무협약을 체결했다. 현대해상은...",
+          "pubDate": "Wed, 28 Oct 2026 09:46:00 +0900"
+        },
         {
           "title": "생보사 듀레이션갭 '온도차'…내년 규제 앞두고 새판짜기",
           "source": "sisaon.co.kr",
@@ -114,54 +121,47 @@
           "url": "https://biz.chosun.com/stock/finance/2026/10/26/67H2L5IS5FGGNNX4XIARS3OIE4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
           "description": "한화생명이 발행한 외화 후순위채 7억5000만달러(약 9932억원)와 교보생명의 외화 신종자본증권 5억달러(약... 보험사들은 2023년 새 국제회계기준(IFRS17)과 신지급여력제도(K-ICS·킥스) 도입을 앞두고 지급 여력 비율을...",
           "pubDate": "Mon, 26 Oct 2026 06:01:00 +0900"
-        },
-        {
-          "title": "64조 준비금 풀면 배당 늘까…보험사 '세금·자본' 복잡",
-          "source": "ftoday.co.kr",
-          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367971",
-          "description": "기본자본 킥스 규제 시행 앞두고, 해약환급금준비금을 연계해 제도 개선 방안을 금융위원회와 찾도록... 올해 상반기 말 준비금의 이익잉여금 대비 비중은 한화생명이 97.3%, 삼성생명은 19.2%다. 준비금이 쌓아둔 이익...",
-          "pubDate": "Fri, 23 Oct 2026 16:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "10월 27일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. sisacast.kr, newsmap.co.kr, junggi.co.kr 등에서 보도되었으며, 만에, 매수, 사이드카 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 28일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. view.asiae.co.kr, hankyung.com, wowtv.co.kr 등에서 보도되었으며, 반도체, 사설, 역대급 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[生기업TALK] 신한자산운용, 글로벌 네트워크 확대...수탁자책임 체계 고...",
-          "source": "sisacast.kr",
-          "url": "http://www.sisacast.kr/news/articleView.html?idxno=100819",
-          "description": "SOL 글로벌DRAM반도체플러스는 삼성전자와 SK하이닉스에 미국 마이크론을 더해 글로벌DRAM 반도체 핵심 기업에 집중 투자하는 상품이다. 올해 상반기 선보인 'SOL AI반도체TOP2플러스'의 국내 반도체 투자 전략을 글로벌...",
-          "pubDate": "Tue, 27 Oct 2026 10:50:00 +0900"
+          "title": "[사설]역대급 반도체 실적…시장은 지속가능성을 묻는다",
+          "source": "view.asiae.co.kr",
+          "url": "https://view.asiae.co.kr/article/2026102809401360434",
+          "description": "이는 삼성전자를 비롯한 한국 반도체 산업 전체에 던져진 질문이기도 하다. 불안 요인은 적지 않다. 지금의 호황은 미국 빅테크(대형 정보기술 기업)의 인공지능(AI) 투자에 크게 의존한다. 엔비디아 등 소수 대형 고객의...",
+          "pubDate": "Wed, 28 Oct 2026 11:00:00 +0900"
         },
         {
-          "title": "삼성·SK '주주와 나눌 결심'…호황의 몫 얼마나 풀까",
-          "source": "newsmap.co.kr",
-          "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4459",
-          "description": "삼성전자와 SK하이닉스가 반도체 호황으로 벌어들인 이익을 주주에�� 얼마나 돌려줄지 시험대에 오른다. SK하이닉스는 28일 추가 주주환원 방안을 공개하고, 삼성전자는 29일 실적 발표를 앞두고 30조원 규모 현금배당...",
-          "pubDate": "Tue, 27 Oct 2026 10:50:00 +0900"
+          "title": "?[시장의 맥]스테이블코인으로 수출대금 받을 길 막혀있다",
+          "source": "view.asiae.co.kr",
+          "url": "https://view.asiae.co.kr/article/2026102711233180834",
+          "description": "메모리 가격 급등과 반도체 호황이 만든 성과다. 벌써 호황 이후를 대비해 서비스 수출 등 수출 품목을... 삼성전자는 미국 갤럭시 이용자를 위한 USDC 송금 기능을 이달 말 출시한다고 발표했다. 현대차와 현대카드는 미국...",
+          "pubDate": "Wed, 28 Oct 2026 11:00:00 +0900"
         },
         {
-          "title": "美 SK하이닉스 레버리지 ETF 2종, 석 달 만에 청산",
-          "source": "junggi.co.kr",
-          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38246",
-          "description": "금융감독원이 국회 정무위원회에 제출한 자료에 따르면, 지난 5월 27일 출시된 삼성전자·SK하이닉스... AI 반도체처럼 하루 등락폭이 큰 종목일수록 이 효과는 커진다. 국내 개인투자자 손실 6조원대도 같은 구조...",
-          "pubDate": "Tue, 27 Oct 2026 10:48:00 +0900"
+          "title": "구마모토는 반도체로 어떻게 바뀌었나…30일 광주서 국제컨퍼런스",
+          "source": "hankyung.com",
+          "url": "https://www.hankyung.com/article/202610280210i",
+          "description": "정은승 전남광주통합특별시 반도체전략위원장(전 삼성전자 사장)은 반도체 산업 전망과 호남권 클러스터의 가능성을 발표한다. 주제발표는 해외 도시 사례와 지역 공간전략에 초점을 맞췄다. 일본 모리빌딩에서...",
+          "pubDate": "Wed, 28 Oct 2026 11:00:00 +0900"
         },
         {
-          "title": "외국인 반도체주 매집에 매수 사이드카 발동",
-          "source": "viewsnnews.com",
-          "url": "https://www.viewsnnews.com/article?q=239274",
-          "description": "美반도체주 반등에 외국인 적극 매수로 장중 5,700 회복 미국반도체주 반등에 따른 외국인의 적극적... 순매수중이며, 개인은 8천억원대 순매도중이다. 삼성전자는 5%대, SK하이닉스는 7%대 상승률을 보이고 있다.",
-          "pubDate": "Tue, 27 Oct 2026 10:48:00 +0900"
+          "title": "[속보] 앤트로픽 지핀 불씨, 하이닉스가 받았다…반도체 '불기둥'",
+          "source": "wowtv.co.kr",
+          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280061&t=NN",
+          "description": "개선되면서 반도체주를 중심으로 매수세가 유입되는 모양새다. 28일 유가증권시장에서 시가총액 1, 2위인 삼성전자와 SK하이닉스가 나란히 8%대 급등 시세다. 이날 오전 코스피가 급등하면서 유가증권시장에서 매수...",
+          "pubDate": "Wed, 28 Oct 2026 11:00:00 +0900"
         },
         {
-          "title": "반도체 강세에 코스피 4%대 급등…4거래일 만에 매수 사이드카",
-          "source": "sisajournal.com",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=391798",
-          "description": "삼성전자·SK하이닉스 5~7%대 ￪ 코스피가 반도체 투심 회복에 장 초반 4%대 급등하며 유가증권 시장에 프로그램매수호가 일시효력정지(매수 사이드카)가 발동했다. 코스피 매수 사이드카 발동은 지난 21일 이후...",
-          "pubDate": "Tue, 27 Oct 2026 10:47:00 +0900"
+          "title": "아산시, 16개 기업과 4조원 규모 투자상담…첨단기업 유치 총력",
+          "source": "pressian.com",
+          "url": "https://www.pressian.com/pages/articles/2026102810565966323?utm_source=naver&utm_medium=search",
+          "description": "반도체·디스플레이·미래차 등 투자 협의…맞춤형 행정지원으로 실제 투자 유도 충남 아산시가 16개 기업과... 아산시는 삼성의 113조원 규모 투자계획을 지역 산업 생태계 확대의 기회로 보고 관련 기업유치와 양질의...",
+          "pubDate": "Wed, 28 Oct 2026 10:58:00 +0900"
         }
       ]
     }

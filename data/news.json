@@ -1,97 +1,111 @@
 {
-  "updatedAt": "2026-10-29T02:12:16.338Z",
+  "updatedAt": "2026-10-30T02:26:09.680Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "10월 29일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. koreareport.co.kr, startuptoday.co.kr, ggilbo.com 등에서 보도되었으며, 금리, 삼성전자, 글로벌 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 30일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. news.einfomax.co.kr, businesskorea.co.kr, ggilbo.com 등에서 보도되었으며, 외환, 개장, 환율 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "삼성전자 \"글로벌 10곳 장기계약… 내년 HBM 솔드아웃\"",
-          "source": "koreareport.co.kr",
-          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54047",
-          "description": "최근 환율 하락에 대해선 수백억달러를 환헤지하면 국가 차원에서 외환시장에 변동성이 우려되기 때문에 환헤지를 최대한 억제하는 정책을 펴고 있다고 밝혔다. 환노출기간을 최소화하기 위해 달러를 조기에...",
-          "pubDate": "Thu, 29 Oct 2026 11:10:00 +0900"
-        },
-        {
-          "title": "[포커스] 美 금리 동결에도 긴축기조 불씨…'대외변수' 한은, 11월 선택...",
-          "source": "startuptoday.co.kr",
-          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=817473",
-          "description": "한국은행은 다음 달 금리 결정을 앞두고 환율과 물가 등 대내외 변수에 촉각을 곤두세우고 있다. 29일... 미국 FOMC 결과가 국제금융시장과 국내 금융·외환시장에 미칠 영향을 살피기 위해서다. 권 부총재는 중동 지역...",
-          "pubDate": "Thu, 29 Oct 2026 11:08:00 +0900"
-        },
-        {
-          "title": "[오늘 금시세] 10월 29일 순금 1돈 얼마?",
-          "source": "ggilbo.com",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189833",
-          "description": "한편 서울 외환시장에 따르면 이날 오전 9시 13분 기준 원/달러 환율은 1344.9원에 거래되고 있다. 간밤 뉴욕 증시는 미국 연방준비제도(Fed·연준)의 기준금리 동결 이후 반도체주를 중심으로 상승했다. 연준이 물가...",
-          "pubDate": "Thu, 29 Oct 2026 11:06:00 +0900"
-        },
-        {
-          "title": "[외환] 9시 이전 마(MAR) '파' 거래…픽싱 스퀘어",
+          "title": "[외환] AI 투심 악화 속 1,330원 후반대",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441870",
-          "description": "서울외환시장에서 오전 9시 이전 마(MAR, 시장평균환율) 호가는 '파(0)' 수준을 나타냈다. 29일 복수의 중개사에 따르면 서울외환시장의 달러-원 스팟 마 가격은 '파'에 거래됐다. 차액결제선물환(NDF) 픽싱 포지션은...",
-          "pubDate": "Thu, 29 Oct 2026 11:04:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442175",
+          "description": "30일 서울 외환시장에서 달러-원 환율은 오전 9시 13분 현재 전장 대비 2.30원 오른 1,339.10원에 거래됐다. 달러-원은 1,338.50원으로 출발한 뒤 1,337.00원에서 저점을, 1,340.00원에서 고점을 확인했다. 인공지능(AI) 투자...",
+          "pubDate": "Fri, 30 Oct 2026 11:22:00 +0900"
         },
         {
-          "title": "[사설]美 금리 동결했지만…고물가·고금리 대비해야",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026102909422993836",
-          "description": "우리 외환시장에서도 미국 통화정책에 대한 경계감이 나타났다. 전날인 28일 원·달러 환율은 장중 1342.3원까지 올랐고, 오후 3시30분 기준 전 거래일보다 14.0원 오른 1337.7원을 기록했다. 최근 수출업체의 달러 매��...",
-          "pubDate": "Thu, 29 Oct 2026 11:00:00 +0900"
+          "title": "[외환] 9시 이전 마(MAR) '+0.05원' 거래…픽싱 스퀘어",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442173",
+          "description": "서울외환시장에서 오전 9시 이전 마(MAR, 시장평균환율) 호가는 '+0.05원' 수준을 나타냈다. 30일 A중개사에 따르면 서울외환시장의 달러-원 스팟 마 가격은 '플러스(+) 0.05원'에 거래됐다. B중개사는 '파(0)'에...",
+          "pubDate": "Fri, 30 Oct 2026 11:12:00 +0900"
+        },
+        {
+          "title": "[개장 시황] 코스피, 2.99% 하락한 5,760.35로 개장…원/달러 환율, 전날...",
+          "source": "businesskorea.co.kr",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280063",
+          "description": "서울 외환시장에서 원·달러 환율은 국내 증시의 급격한 하락 출발과 글로벌 달러화 강세 압력에 지지받으며 1,330원대 중반에서 상승 압력 속에서도 견조한 흐름을 보이고 있다. 증시 내 외국인 자금 이탈 우려와...",
+          "pubDate": "Fri, 30 Oct 2026 11:04:00 +0900"
+        },
+        {
+          "title": "[오늘 금시세] 10월 30일 순금 1돈 얼마?",
+          "source": "ggilbo.com",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190106",
+          "description": "한편 서울 외환시장에 따르면 이날 오전 9시 14분 원/달러 환율은 전일 주간 종가(오후 3시 30분 기준)보다 1.8원 오른 1338.6원에 거래되고 있다. 간밤 달러는 미국 기술주 하락에 따른 국채금리 하락 영향으로...",
+          "pubDate": "Fri, 30 Oct 2026 11:02:00 +0900"
+        },
+        {
+          "title": "원달러 환율 하락 전환…국제유가와 금값 동반 약세",
+          "source": "junggi.co.kr",
+          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38299",
+          "description": "서울 외환시장에서 원달러 환율이 미국 연방공개시장위원회 결과를 소화하며, 하루 만에 하락 전환해 1330원대 중반에서 마감됐다. 29일 서울 외환시장에서 오후 3시 30분 주간 거래 종가 기준 원달러 환율은 전...",
+          "pubDate": "Fri, 30 Oct 2026 10:38:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "10월 29일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. metroseoul.co.kr, industrynews.co.kr, ddaily.co.kr 등에서 보도되었으며, 우리투자증권, 채권, 연금 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 30일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. newsworks.co.kr, newsis.com, news.einfomax.co.kr 등에서 보도되었으며, 34, 5대, 은행 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "우리투자증권, 채권·연금 활용법 웨비나 개최",
-          "source": "metroseoul.co.kr",
-          "url": "http://www.metroseoul.co.kr/article/20261029500248",
-          "description": "이번 웨비나는 금리 변동성이 커지면서 채권 투자에 대한 관심이 높아지고, 연금 개시와 수령 방법에 대한 고객 문의가 늘어난 데 따라 마련됐다. 강연은 최민호 채권상품부 과장과 이강희 IRP상품부 과장이 맡는다....",
-          "pubDate": "Thu, 29 Oct 2026 11:10:00 +0900"
+          "title": "5대 은행 이자이익 34.7조…대출 63조 늘렸지만 부실 부담 커졌다",
+          "source": "newsworks.co.kr",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901387",
+          "description": "그러나 조달비용 상승에 따른 마진 압박과 부실채권 증가, 대출금리 산정의 투명성 문제까지 동시에 마주하게 됐다. 대출을 얼마나 늘리느냐보다 늘어난 대출에서 수익성과 건전성을 함께 확보할 수 있느냐가...",
+          "pubDate": "Fri, 30 Oct 2026 10:48:00 +0900"
         },
         {
-          "title": "우리투자증권, \"채권 투자전략부터 연금 수령 Tip까지\"...고객맞춤형 웨...",
-          "source": "industrynews.co.kr",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88476",
-          "description": "이번 웨비나는 최근 금리 변동성이 커지면서 채권 투자에 대한 관심과 연금 수령 방법에 관한 문의가 늘어난 데 따라 마련됐다. 우리투자증권 채권상품부 최민호 과장과 IRP상품부 이강희 과장이 강사로 나서...",
-          "pubDate": "Thu, 29 Oct 2026 10:54:00 +0900"
+          "title": "증시 꺾이니 실적도 와르르…은행계 증권사 순이익 '반토막'",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848083",
+          "description": "하나증권 역시 \"자산관리(WM) 부분에서는 시장 거래대금 감소에 따른 수수료 수익 감소가 나타났다\"며 \"금리 상승으로 채권운용 손익에 영향이 있었다\"고 설명했다. 다만 올해 누적 실적은 양호한 흐름을 보였다....",
+          "pubDate": "Fri, 30 Oct 2026 10:47:00 +0900"
         },
         {
-          "title": "우리투자증권, 채권 투자·퇴직연금 절세 전략 무료 교육",
-          "source": "ddaily.co.kr",
-          "url": "https://www.ddaily.co.kr/page/view/2026102910081033434",
-          "description": "1부에서는 최민호 채권상품부 과장이 최근 채권시장 동향과 ��리·채권가격의 관계, 시장 상황에 따른 투자 전략을 설명한다. 2부에서는 이강희 IRP상품부 과장이 연금 수령 방법과 적용 세율, 연금 외 인출 시 발생하는...",
-          "pubDate": "Thu, 29 Oct 2026 10:50:00 +0900"
+          "title": "ING \"ECB 12월 금리 인상 유력…긴축 사이클 마지막 될 수도\"",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442161",
+          "description": "중동 전쟁에 따른 에너지 가격 상승과 인플레이션 상방 위험이 추�� 인상 압력으로 작용하는 반면, 채권금리 상승에 따른 금융 여건 긴축은 성장과 물가를 억제할 수 있기 때문이다. 30일 네덜란드계 ING은행의...",
+          "pubDate": "Fri, 30 Oct 2026 10:44:00 +0900"
         },
         {
-          "title": "우리투자증권, 채권 투자·연금 수령 전략 웨비나 개최",
-          "source": "weekly.hankooki.com",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191235",
-          "description": "금리 등락이 커지면서 채권에 관심을 두는 고객이 늘고 연금 개시·수령 관련 질문도 많아진 점을 반영했다. 강사로는 최민호 우리투자증권 채권상품부 과장과 이강희 IRP상품부 과장이 나선다. 1부는 채권시장 최근...",
-          "pubDate": "Thu, 29 Oct 2026 10:44:00 +0900"
+          "title": "금시세(금값) 하락",
+          "source": "kjdaily.com",
+          "url": "http://www.kjdaily.com/article.php?aid=1793324410690712227",
+          "description": "시장에서는 당일 채권금리 움직임보다 물가와 향후 통화정책에 대한 경계가 금에 부담을 준 것으로 해석할 여지가 있다. 국제유가도 내렸다. 12월 인도분...",
+          "pubDate": "Fri, 30 Oct 2026 10:42:00 +0900"
         },
         {
-          "title": "美 연준 '덜 매파적' 금리동결 평가…12월 인상 확률 90.7→84.8%",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/economy/trend/6335929",
-          "description": "채권시장에서는 단기금리가 내리고 장기금리가 오르면서 장단기 금리차가 벌어졌다. 미 달러화는 약세를 보였고, 주가는 반도체 부문 강세 등에 힘입어 상승했다. 한은은 시장이 연준의 정책 신뢰 약화에 주로...",
-          "pubDate": "Thu, 29 Oct 2026 10:30:00 +0900"
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442159",
+          "description": "최근 채권과 주식 간 자금이 활발히 이동하며 위험선호 위축이 채권금리와 달러인덱스 하락으로 이어지고 있다. 수출업체 네고 물량도 환율 낙폭을 확대할 것이다. 다만 거주자의 해외주식 순매수와 수입업체...",
+          "pubDate": "Fri, 30 Oct 2026 10:36:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "10월 29일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. fins.co.kr, datasom.co.kr, sisaon.co.kr 등에서 보도되었으며, 보험사, 삼성생명도, 자본조달 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 30일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dealsite.co.kr, greened.kr, fins.co.kr 등에서 보도되었으며, 2년, 만에, 후순위채 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "2년 만에 후순위채 발행하는 한화생명…증권도 지원사격",
+          "source": "dealsite.co.kr",
+          "url": "https://dealsite.co.kr/articles/171367",
+          "description": "한화생명의 올해 상반기 말 킥스 비율은 168%로 집계됐다. 가용자본은 25조2000억원으로 금융당국 권고치인 130%를 웃도는 수준이다. 다만 기존 해외 후순위채의 조기상환 시점이 다가온 만큼, 한화생명은 현재...",
+          "pubDate": "Thu, 29 Oct 2026 18:22:00 +0900"
+        },
+        {
+          "title": "NH농협생명, 신계약 CSM 역대 최대 1조원 '정조준'...탄탄한 장기 이익창...",
+          "source": "greened.kr",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353416",
+          "description": "이어 삼성생명이 94만2636건, 한화생명 72만6807건 순으로 집계됐다. 이같은 성과에 힘입어 9월 말 기준... 하지만 3분기 말 경과조치 적용 후 지급여력(K-ICS, 킥스) 비율은 잠정 368.8%로 업계 최고 수준을 유지했다....",
+          "pubDate": "Thu, 29 Oct 2026 14:50:00 +0900"
+        },
         {
           "title": "삼성생명도 6%대 자본조달…중소사 부담 커질까",
           "source": "fins.co.kr",
           "url": "http://www.fins.co.kr/news/articleView.html?idxno=110348",
-          "description": "최고 수준의 신용등급과 양호한 지급여력(K-ICS·킥스)비율을 보유한 삼성생명마저 6% 후반대 금리로 대규모... ◇ 삼성생명도 6.875%…한화생명도 발행 추진 28일 보험업계에 따르면 삼성생명은 전날 15억달러(약 2조원)...",
+          "description": "최고 수준의 신용등급과 양호한 지급여력(K-ICS·킥스)비율을 보유한 삼성생명마저 6% 후반대 금리로 대규모... ◇ ���성생명도 6.875%…한화생명도 발행 추진 28일 보험업계에 따르면 삼성생명은 전날 15억달러(약 2조원)...",
           "pubDate": "Thu, 29 Oct 2026 06:56:00 +0900"
         },
         {
@@ -105,63 +119,49 @@
           "title": "생보사 듀레이션갭 '온도차'…내년 규제 앞두고 새판짜기",
           "source": "sisaon.co.kr",
           "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205473",
-          "description": "교보생명과 한화생명은 격차가 확대된 반면 삼성생명은 축소됐다. ��리 변동이 자본 건전성에 미치는... 금융당국은 지난 2023년 새 국제회계기준(IFRS17)과 신지급여력제도(K-ICS·킥스) 도입 이후 보험사의 자산...",
+          "description": "교보생명과 한화생명은 격차가 확대된 반면 삼성생명은 축소됐다. 금리 변동이 자본 건전성에 미치는... 금융당국은 지난 2023년 새 국제회계기준(IFRS17)과 신지급여력제도(K-ICS·킥스) 도입 이후 보험사의 자산...",
           "pubDate": "Mon, 26 Oct 2026 16:02:00 +0900"
-        },
-        {
-          "title": "[이윤구의 프리킥스] '700종신' 막힌 생보사의 생존 방정식",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441048",
-          "description": "한화생명이 최근 선보인 '필요할 때 쓰는 종신보험'이나 교보생명의 '교보모두지킴종신보험'이 대표적이다.... 판매 환경 변화와 함께 보험업계는 내년 기본자본 지급여력(K-ICS·킥스)비율 규제 도입이라는 도전을...",
-          "pubDate": "Mon, 26 Oct 2026 09:32:00 +0900"
-        },
-        {
-          "title": "내년 보험사 자본성 증권 콜옵션만 5.5조…고금리 압박 이겨낼까",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441023",
-          "description": "금리 충격 시나리오에 따라 보험사의 킥스가 권고치 이하로 하락할 경우 후순위채를 발행할 수 있다. 최근 한화생명은 4천억원에서 최대 8천억원까지 후순위채를 발행하도록 이사회 의결을 거쳤다. 내년 콜옵션에...",
-          "pubDate": "Mon, 26 Oct 2026 08:48:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "10월 29일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. investchosun.com, g-enews.com, newsinside.kr 등에서 보도되었으며, 삼성전자, 영업익, 106 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "10월 30일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. kyeonggi.com, segye.com, mbn.co.kr 등에서 보도되었으며, 대학생, 호감, 정치인 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "[Invest]퓨리오사AI, 시리즈D 8200억 투자유치 마무리…기업가치 3.8조",
-          "source": "investchosun.com",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980062.html",
-          "description": "인공지능(AI) 반도체 기업 퓨리오사AI가 8200억원 규모의 시리즈D 투자유치를 마무리했다. 이는 연초... 삼성SDS는 RNGD 기반 NPU 서비스(NPUaaS)를 출시했고, LG그룹 계열사들은 온프레미스 하이브리드 클라우드 환경에...",
-          "pubDate": "Thu, 29 Oct 2026 11:10:00 +0900"
+          "title": "대학생 호감 정치인 1위 '이재명'…스포츠 선호 1위는 '페이커'",
+          "source": "kyeonggi.com",
+          "url": "https://www.kyeonggi.com/article/20261030580058",
+          "description": "기업인 특강에 가장 초청하고 싶은 인물로는 이재용 삼성전자 회장이 43.0%로 1위에 올랐다. 2위는 AI 반도체 시장을 이끄는 젠슨 황 엔비디아 CEO(25.2%)였다. 북토크에 가장 초청하고 싶은 한국 문학작가로는 한강이 51....",
+          "pubDate": "Fri, 30 Oct 2026 11:25:00 +0900"
         },
         {
-          "title": "구글이 2주 만에 쏘아 올린 초격차 AI… 머스크도 놀라 찬사 보냈다",
-          "source": "g-enews.com",
-          "url": "https://www.g-enews.com/view.php?ud=202610291107344401fbbec65dfb_1",
-          "description": "구성하는 반도체 생태계에도 새로운 과제를 안긴다. 모델의 토큰 처리 효율이 개선되더라도 광범위한... 삼성전자와 SK하이닉스가 공급하는 차세대 고대역폭 메모리 HBM4와 저전력 LPDDR5X 계열 제품군은 복잡한...",
-          "pubDate": "Thu, 29 Oct 2026 11:10:00 +0900"
+          "title": "알파벳 시총 669조 증발…6000피 안착 시도하던 코스피도 급락",
+          "source": "segye.com",
+          "url": "https://www.segye.com/newsView/20261030507249?OutUrl=naver",
+          "description": "이날 나스닥은 1.4% 하락했고 필라델피아 반도체지수(SOX)는 1.4% 내렸다. 전날 미 증시의 부정적 영향을 받은... 삼성전자도 전일 대비 6.47% 하락한 21만7000원을 기록 중이며 SK하이닉스도 전일 대비 8.52% 내려간...",
+          "pubDate": "Fri, 30 Oct 2026 11:25:00 +0900"
         },
         {
-          "title": "반도체가 106조 벌었다…삼성전자, 분기 영업익 107조 돌파",
-          "source": "newsinside.kr",
-          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5035871",
-          "description": "삼성전자가 올해 3분기(7∼9월) 반도체 사업에서만 106조5000억원의 영업이익을 거뒀다. 전체 영업이익은 107조원을 돌파하며 분기 기준 역대 최대 기록을 경신했다. 반면 스마트폰과 가전 등 완제품 사업은...",
-          "pubDate": "Thu, 29 Oct 2026 11:10:00 +0900"
+          "title": "2026년 10월 30일 매일경제 1면…삼성전자, 설비투자 84조 승부수 [아침...",
+          "source": "mbn.co.kr",
+          "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5228013",
+          "description": "윤영걸 전 매경AX 대표 최창렬 용인대 특임교수 차재원 부산가톨릭대학교 특임교수 문종형 국민의힘 미디어대변인 #MBN #MBN아침앤매일경제 #민지숙앵커 #삼성전자 #설비투자 #84조 #승부수 #메모리 #공급부족 #반도체...",
+          "pubDate": "Fri, 30 Oct 2026 11:25:00 +0900"
         },
         {
-          "title": "삼성전자,영업익 100조 시대...주주환원 110조까지 확대",
-          "source": "seouleconews.com",
-          "url": "http://www.seouleconews.com/news/articleView.html?idxno=94657",
-          "description": "업계에서는 이번 실적이 AI 반도체 호황의 수혜가 삼성전자 내부에서도 엇갈리고 있음을 보여준다고 평가한다. 메모리 가격상승이 DS부문에는 이익확대 요인으로 작용하지만, 메모리를 구매하는 DX부문에는...",
-          "pubDate": "Thu, 29 Oct 2026 11:10:00 +0900"
+          "title": "AWS 고성장한 아마존, 현금흐름 적자에 시간외 7% 하락… SK하닉 8%대, 삼...",
+          "source": "weekly.donga.com",
+          "url": "https://weekly.donga.com/3/all/11/6439576/1",
+          "description": "필라델피아 반도체지수도 1.42% 내린 1만1518.20을 기록했다. 마이크론은 4.98%, 마벨은 13.24% 하락했다. 간밤 뉴욕 증시 영향으로 10월 30일 오전 코스피는 5%대 하락을 기록했다. 삼성전자는 5~6%대, SK하이닉스는 8...",
+          "pubDate": "Fri, 30 Oct 2026 11:24:00 +0900"
         },
         {
-          "title": "삼성전자 3분기 영업익 107조4000억원...반도체서만 106.5조",
-          "source": "newskr.kr",
-          "url": "http://www.newskr.kr/news/articleView.html?idxno=107550",
-          "description": "삼성전자는 4분기에도 반도체 호조로 전사 실적이 늘어날 것으로 내다봤다. 에이전틱 AI 확산으로 반도체 수요가 강할 것이란 판단이다. 2027년에도 AI 투자가 길어지고 공급이 빠듯해 메모리 수요가 공급을 크게...",
-          "pubDate": "Thu, 29 Oct 2026 11:10:00 +0900"
+          "title": "[N2 증시 풍향계] 美 빅테크 쇼크에 반도체주 '휘청'·보안주는 '들썩'…...",
+          "source": "news2day.co.kr",
+          "url": "https://www.news2day.co.kr/article/20261030500160",
+          "description": "■ 알파벳발 한파에 삼전·하이닉스 동반 급락 미국 빅테크발 충격에 삼성전자와 SK하이닉스가 동반 급락하고 있다. 삼성전자는 전일 주주환원 방안의 구체성이 부족하다는 실망 매물까지 이어지며 이틀 연속...",
+          "pubDate": "Fri, 30 Oct 2026 11:24:00 +0900"
         }
       ]
     }

@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-11-01T01:57:21.306Z",
+  "updatedAt": "2026-11-02T02:09:33.851Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "11월 1일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. newsis.com, mydaily.co.kr, opinionnews.co.kr 등에서 보도되었으며, AI부터, 달러, 금까지 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 2일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. mk.co.kr, news.einfomax.co.kr, businesspost.co.kr 등에서 보도되었으며, 코스피, 이제, 국장 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "\"AI부터 달러·금까지\"…거대한 부의 갈림길 속 전문가가 짚은 투자 전략",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849524",
-          "description": "환율과 관련해서 오 단장은 \"단기적으로는 외환시장에서 심리가 환율에 영향을 준다\"며 \"중기적으로는 경상수지 흑자와 금리 차가 영향을 주고, 장기적으로는 각국의 잠재성장률이 핵심\"이라고 말했다. 특히 오 단장은...",
-          "pubDate": "Sun, 01 Nov 2026 10:14:00 +0900"
+          "title": "“이제 국장 떠납니다”...코스피 약세에 ‘서학개미’ 순매수 최대",
+          "source": "mk.co.kr",
+          "url": "https://www.mk.co.kr/article/12193302",
+          "description": "같은 금액으로 더 많은 달러를 살 수 있게 된 것이다. 외환시장에서는 반도체 기업 수출대금 환전 등에 따른 달러 공급 우위가 이어지면서 2027년 상반기 원·달러 환율이 1200원대에 진입할 수 있다는 전망도 나온다.",
+          "pubDate": "Mon, 02 Nov 2026 11:05:00 +0900"
         },
         {
-          "title": "3분기 나란히 웃은 조선 3사…노사 리스크 털고 중장기 성장 시동",
-          "source": "mydaily.co.kr",
-          "url": "https://www.mydaily.co.kr/page/view/2026103009384428123",
-          "description": "지난30일 서울외환시장에서 원·달러 환율은 오후 3시 30분 기준 1334.3원으로 전 거래일보다 2.5원 하락했다. 최근 1320원대에서 움직이던 환율이 1330원대 중반으로 올라섰으며, 지난 28일에는 장중 1344원까지 치솟는 등...",
-          "pubDate": "Sun, 01 Nov 2026 10:00:00 +0900"
-        },
-        {
-          "title": "[이번주 환율] 1320원대 연중 최저 찍고 반등…美 고용지표에 방향성 탐...",
-          "source": "opinionnews.co.kr",
-          "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=146489",
-          "description": "지난주 환율, 연중 최저 경신 후 1330원대 반등 지난 26일 서울 외환시장에서 달러·원 환율의 오후 3시 30분 기준가는 전 거래일보다 1.5원 내린 1323.1원을 기록했다. 장중에는 1320.6원까지 하락하며 2024년 10월 2일 이후...",
-          "pubDate": "Sun, 01 Nov 2026 09:00:00 +0900"
-        },
-        {
-          "title": "美 중간선거 끝나면 환율도 아래 볼까…\"1,320원 지지력 강해\"",
+          "title": "[외환] 9시 이전 마(MAR) '파' 거래…픽싱 스퀘어",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442344",
-          "description": "달러-원 환율에 하방 압력을 가할 수 있다는 전망이 나온다. 다만 인공지능(AI) 규제 우려와 중동 불안 등... 1일 서울외환시장에 따르면 오는 3일(현지시간) 미국 중간선거를 앞두고 시장에서는 선거 이후 위험선호 회복...",
-          "pubDate": "Sun, 01 Nov 2026 07:32:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442498",
+          "description": "서울외환시장에서 오전 9시 이전 마(MAR, 시장평균환율) 호가는 '파(0)' 수준을 나타냈다. 2일 복수의 중개사에 따르면 서울외환시장의 달러-원 스팟 마 가격은 '파'에 거래됐다. 차액결제선물환(NDF) 픽싱 포지션은...",
+          "pubDate": "Mon, 02 Nov 2026 11:04:00 +0900"
         },
         {
-          "title": "[정성춘 칼럼] 엔화 약세는 일본 실물경제의 거울",
-          "source": "ajunews.com",
-          "url": "https://www.ajunews.com/view/20261027155908633",
-          "description": "환율은 한 나라 경제의 실력을 외환시장이 가격으로 매긴 것이다. 엔저는 혁신이 멈추고 새 산업을 키우지 못한 일본경제의 실물적 실태를 화폐적으로 표현한 것에 불과하다. 그런 점에서 외환시장 개입이나 금리...",
-          "pubDate": "Sun, 01 Nov 2026 06:42:00 +0900"
+          "title": "코스피 장중 상승 전환 5750선 위로, '인텔 충격'에도 저가 매수세 유입",
+          "source": "businesspost.co.kr",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450878",
+          "description": "24%) 에코프로비엠(-0.99%) 에코프로(-0.14%) 등 3개 종목은 내리고 있다. 알테오젠은 직��� 거래일과 같은 가격에 거래되고 있다. 이 시각 서울 외환시장에서 원/달러 환율은 1338.90원에 거래되고 있다.",
+          "pubDate": "Mon, 02 Nov 2026 10:58:00 +0900"
+        },
+        {
+          "title": "[올댓차이나] 위안화 기준치 1달러=6.7146위안…0.012% 절하",
+          "source": "newsis.com",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850668",
+          "description": "상하이 외환시장에서 오전 9시34분(한국시간 10시34분) 시점에 위안화는 달러에 대해 1달러=6.6556~6.6559위안, 엔화에 대해선 100엔=4.2172~4.2179위안으로 거래됐다. 앞서 위안화 환율은 31일 새벽 달러에 대해...",
+          "pubDate": "Mon, 02 Nov 2026 10:40:00 +0900"
+        },
+        {
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442485",
+          "description": "2일 서울외환시장의 외환딜러들은 달러-원 환율이 1,330원대에서 무거운 흐름을 지속할 것으로 봤다. 지난주 뉴욕증시 기술주 약세로 인해 이날 국내증시도 하방 압력이 예상되는 가운데, 최근 주가와 환율이 함께...",
+          "pubDate": "Mon, 02 Nov 2026 10:36:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "11월 1일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. chosun.com, newsis.com, hankookilbo.com 등에서 보도되었으며, 이달, 채권시장, 코스피 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 2일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. e-science.co.kr, sateconomy.co.kr, businessplus.kr 등에서 보도되었으며, 국채, 삼성자산운용, ETF 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피, 지난달 하락률 역대 일곱번째",
-          "source": "chosun.com",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/11/01/ASDXQX4JNZD5VKACS6PCY54FQ4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "description": "동시에 안정되는지가 기술주 반등의 지속성을 판단하는 중요한 기준이 될 전망”이라고 말했다. AI 기업들이 자금 조달 과정에서 국채보다 크게 높지 않은 금리로 채권을 찍는 환경이 만들어져야 한다는 것이다.",
-          "pubDate": "Sun, 01 Nov 2026 10:55:00 +0900"
+          "title": "삼성자산운용, 미국 10년 국채 ETF 순자산 2041억 원…고금리 속 투자 수...",
+          "source": "e-science.co.kr",
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=138671",
+          "description": "금리 혜택을 선점하려는 투자자들의 자금이 꾸준히 유입되고 있다\"고 말했다. 미국 국채 투자에 나서는 개인투자자는 분배금뿐 아니라 향후 금리 방향과 채권 가격 변동, 환헤지 비용 등을 함께 고려할 필요가 있다.",
+          "pubDate": "Mon, 02 Nov 2026 11:08:00 +0900"
         },
         {
-          "title": "\"현금 없으면 기회 와도 못 산다\"…고금리 시대, 살아남는 투자 생존 전...",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849604",
-          "description": "박 작가는 최근 주식시장의 변동성이 커진 배경으로 채권 금리 상승과 인공지능(AI) 산업으로의 자금 쏠림을 꼽았다. AI 생태계에 투자가 집중되면서 다른 산업에 투입될 자금이 줄고, 기업들의 자금 조달 여건도...",
-          "pubDate": "Sun, 01 Nov 2026 10:43:00 +0900"
+          "title": "삼성자산운용 美국채 ETF 2000억원 돌파…금리 0.5%p 변동에 채권가격 약...",
+          "source": "sateconomy.co.kr",
+          "url": "https://sateconomy.co.kr/news/view/1065577544372226",
+          "description": "높은 금리 수준은 채권 투자에 유리한 진입 조건이 될 수 있지만 향후 금리 방향에 따라 자본차익과 평가손실이 모두 발생할 수 있다는 점에서 투자 성과를 가를 핵심 변수는 장기금리의 추가 움직임이다.",
+          "pubDate": "Mon, 02 Nov 2026 10:56:00 +0900"
         },
         {
-          "title": "금리 오를 때 내 돈 어디에 둘까… '초단기채 펀드' 활용법",
-          "source": "hankookilbo.com",
-          "url": "https://www.hankookilbo.com/news/article/A2026103010590004768?did=NA",
-          "description": "일반적으로 장기채 금���가 단기채 금리보다 높은 상황에서는 시간이 지나 채권의 잔존만기가 짧아질수록 더 낮은 금리를 적용받아 채권 가격이 상승하는 효과를 기대할 수 있습니다. 이른바 '롤다운' 효과입니다. 원화...",
-          "pubDate": "Sun, 01 Nov 2026 10:30:00 +0900"
+          "title": "[금융권 이모저모]삼성자산운용, 美국채 ETF 순자산 2000억원 돌파 外",
+          "source": "businessplus.kr",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119110",
+          "description": "금리가 내려가면 가격 상승에 따른 수익을 기대할 수 있지만, 반대로 금리가 오르면 채권 가격이 하락할 수 있다. 해당 ETF는 초장기 국채에 투자하는 상품보다 듀레이션이 짧아 금리 변동에 따른 가격 민감도가...",
+          "pubDate": "Mon, 02 Nov 2026 10:46:00 +0900"
         },
         {
-          "title": "이달 채권시장 전망은…수급 부담에도 위험회피발 강세 전망도",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824855&plink=ORI&cooper=NAVER",
-          "description": "그는 최근에는 채권시장 고유의 수급보다 주식시장이 방향을 주도하고 있으며, 주가 흐름이 채권 금리에 파급되고 있다고 진단했습니다. 전문가들은 최근 AI 설비투자 우려가 위험회피 심리를 자극하는 상황에서는...",
-          "pubDate": "Sun, 01 Nov 2026 10:06:00 +0900"
+          "title": "NH증권 \"2027년 코스피 상고하저..하반기 자본비용 상승\"",
+          "source": "4th.kr",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2120913",
+          "description": "상반기에는 물가상승률 둔화에 힘입어 발행 물량이 원활히 소화될 수 있지만 하반기에는 미국 장기금리 변동성과 채권 공급 부담이 맞물릴 수 있다고 분석했다. 빅테크의 설비투자 증가율과 한국 반도체 수출...",
+          "pubDate": "Mon, 02 Nov 2026 10:38:00 +0900"
         },
         {
-          "title": "이달 국고채 경쟁입찰 12조원…'주가가 채권시장 방향 주도'",
-          "source": "biz.sbs.co.kr",
-          "url": "https://biz.sbs.co.kr/article_hub/20000343454?division=NAVER",
-          "description": "조용구 신영증권 연구원도 \"발행 축소 자체는 시장 기대에 부합하는 정도\"라며 최근엔 채권시장 고유의 수급보다 주식시장이 방향을 주도하고 있고, 주가 흐름이 채권 금리에 파급되고 있다고 분석했습니다....",
-          "pubDate": "Sun, 01 Nov 2026 09:46:00 +0900"
+          "title": "美중간선거 앞두고 월가 큰손들 '관망'…공화당 압승은 국채 악재",
+          "source": "news1.kr",
+          "url": "https://www.news1.kr/world/international-economy/6339520",
+          "description": "최근 국채금리 급등으로 채권 가격이 낮아지면서 투자자들은 높은 수익률을 확보하기 위해 매수에 나섰지만 추가적인 가격 상승 여력은 제한적이라는 평���도 나온다. 피터스는 \"가격 상승에 따른 추가 수익의 여지는...",
+          "pubDate": "Mon, 02 Nov 2026 10:34:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "11월 1일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dealsite.co.kr, greened.kr, fins.co.kr 등에서 보도되었으며, 2년, 만에, 후순위채 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 2일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. dealsite.co.kr, greened.kr, fins.co.kr 등에서 보도되었으며, 2년, 만에, 후순위채 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "2년 만에 후순위채 발행하는 한화생명…증권도 지원사격",
@@ -126,42 +126,42 @@
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "11월 1일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. biz.heraldcorp.com, mediapen.com, economist.co.kr 등에서 보도되었으며, 수출, 1조달러, 800조 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 2일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. news.tf.co.kr, wowtv.co.kr, electimes.com 등에서 보도되었으며, 현장, 뛰며, 미래 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "800조 호남반도체 동서남북 연결 교통망 구축한다",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10921599?ref=naver",
-          "description": "삼성전자와 SK하이닉스 등 반도체 투자 기업은 산단에서 주변 고속도로와 광역도로에 직접 접근할 수 있는 진입도로 확보를 요구하고 있다. 우선 산단 동측으로 산단과 광주∼강진고속도로를 연결하는 진입도로 신설을...",
-          "pubDate": "Sun, 01 Nov 2026 10:55:00 +0900"
+          "title": "현장 뛰며 미래 경쟁력 점검…삼성 이재용, 글로벌 광폭 행보",
+          "source": "news.tf.co.kr",
+          "url": "https://news.tf.co.kr/read/economy/2383577.htm",
+          "description": "삼성전자는 창립 57주년 기념사를 통해 반도체 호황에 안주하지 않고 기술 경쟁력을 지속적으로 강화해야 한다고 강조했다. 최근 이 회장은 '미래'에 초점을 맞춘 현장 경영에 적극 나서고 있다. 취임 4주년이었던...",
+          "pubDate": "Mon, 02 Nov 2026 11:08:00 +0900"
         },
         {
-          "title": "반도체가 끌고 AI가 밀었다…'수출 1조달러' 시대 성큼",
-          "source": "mediapen.com",
-          "url": "https://www.mediapen.com/news/view/1134167",
-          "description": "사진은 삼성전자 반도체 클린룸./사진=삼성전자 1일 산업통상부가 발표한 ‘2026년 10월 수출입 동향’에 따르면, 지난달 수출액은 1152억8000만 달러로 지난해 전년 동기 대비 93.7% 증가했다. 지난 9월에 이어 두 달...",
-          "pubDate": "Sun, 01 Nov 2026 10:54:00 +0900"
+          "title": "평택시-삼성전자, 반도체 방류수 수질 관리 '맞손'",
+          "source": "wowtv.co.kr",
+          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020065&t=NN",
+          "description": "평택시(시장 최원용)가 최근 언론 및 사회적 이슈로 떠오른 반도체 방류수 내 미량오염물질(과불화화합물 등)에 대응하기 위해 삼성전자와 머리를 맞대고 선제적 관리 체계 구축에 나섰다. 평택시는 지난 29일 평택시청...",
+          "pubDate": "Mon, 02 Nov 2026 11:07:00 +0900"
         },
         {
-          "title": "역대급 실적에도 코스피 급락…미국發 'AI 투자 쇼크'에 삼전·닉스 '휘...",
-          "source": "economist.co.kr",
-          "url": "https://economist.co.kr/article/view/ecn202611010009",
-          "description": "미국 빅테크의 인공지능(AI) 투자 부담이 부각되면서 역대 최대 실적을 기록한 국내 반도체주가 동반 급락했다. 삼성전자와 SK하이닉스가 메모리 반도체 호황을 바탕으로 호실적을 발표했지만, AI 투자가 실제...",
-          "pubDate": "Sun, 01 Nov 2026 10:51:00 +0900"
+          "title": "첨단산업 전력 대책부터 거버넌스 개편까지…산적한 에너지 과제 확인",
+          "source": "electimes.com",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374216",
+          "description": "제11차 전력수급기본계획에 따른 2038년까지의 송·배전망 투자금은 총 113조원에 달하지만, 한전이 용인 반도체 클러스터 전력망 구축을 위해 삼성전자와 SK하이닉스 등 수요기업에 타진했던 25조원 규모의 전기요금 선납...",
+          "pubDate": "Mon, 02 Nov 2026 11:06:00 +0900"
         },
         {
-          "title": "10월까지 누적 수출 9300억달러…\"다음달 1조달러 달성\"(종합)",
-          "source": "view.asiae.co.kr",
-          "url": "https://view.asiae.co.kr/article/2026110110503359622",
-          "description": "수출 증가세를 견인한 것은 역시 반도체다. 10월 한 달에만 564억달러를 수출하며 전체 수출의 절반... 7%) 수출도 애플의 신제품 출시 및 삼성의 스마트폰 판매 호조 등의 영향으로 12개월 연속 플러스를...",
-          "pubDate": "Sun, 01 Nov 2026 10:50:00 +0900"
+          "title": "11월은 재계 ‘추모의 달’… 창업주의 기업가 정신 되짚는다",
+          "source": "thebigdata.co.kr",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=20261102104432209570d99e4c8_23",
+          "description": "깊어졌고, 반도체가 상식을 뛰어넘는 실적을 거두면서 그 혜택을 함께 얻기는커녕 오히려 그늘에 있는... 19일은 이병철 삼성그룹 창업 회장의 39주기 추모식이 열린다. 범삼성가 일원이 모두 함께 모이지는 않고...",
+          "pubDate": "Mon, 02 Nov 2026 11:06:00 +0900"
         },
         {
-          "title": "용인특례시 이상일 시장, 이탈리아 피렌체와 자매결연·청년교류 추진 ...",
-          "source": "metroseoul.co.kr",
-          "url": "http://www.metroseoul.co.kr/article/20261101500083",
-          "description": "이에 이 시장은 용인에 삼성전자 반도체 생산시설 6기와 SK하이닉스 생산시설 4기를 건설하는 대규모 계획이 추진되고 있으며, 지역 대학들이 반도체 인재를 양성하고 내년 봄에는 반도체 특성화고가 개교한다고...",
-          "pubDate": "Sun, 01 Nov 2026 10:50:00 +0900"
+          "title": "엔비디아, 서울서 'AI데이' 연다…에이전틱·피지컬AI 사례 공유",
+          "source": "fnnews.com",
+          "url": "https://www.fnnews.com/news/202611021006534020",
+          "description": "SK하이닉스와 삼성전자는 엔비디아 피직스네모 기반으로 반도체 공정·소자 시뮬레이션과 물리 해석을 가속하는 방안을 소개한다. 로보틱스 분야에서는 LG전자가 엔비디아 아이작 GR00T를 활용한 로봇 학습·검증...",
+          "pubDate": "Mon, 02 Nov 2026 11:05:00 +0900"
         }
       ]
     }

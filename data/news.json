@@ -1,167 +1,167 @@
 {
-  "updatedAt": "2026-11-18T04:03:03.546Z",
+  "updatedAt": "2026-11-19T03:59:52.446Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "11월 18일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ytn.co.kr, mstoday.co.kr, newspim.com 등에서 보도되었으며, 코스피, 다시, 엔비디아 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 19일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. newskr.kr, news.einfomax.co.kr, businesskorea.co.kr 등에서 보도되었으며, 개장, 증시, 11 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피, 다시 장중 4천 선...반도체주 상승 폭 둔화",
-          "source": "ytn.co.kr",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611181214007808",
-          "description": "이런 가운데 서울외환시장에서 원·달러 환율은 9시 기준 1,334원을 기록했는데요. 최근 강달러 추세에도 환율은 오전 사이 1,320원 후반까지 진입하며 내림세를 나타내고 있습니다. 지금까지 하나은행 딜링룸에서 YTN...",
-          "pubDate": "Wed, 18 Nov 2026 12:14:00 +0900"
+          "title": "코스피 5000선 위협…반도체·이차전지 줄하락",
+          "source": "newskr.kr",
+          "url": "http://www.newskr.kr/news/articleView.html?idxno=108137",
+          "description": "86%), 알테오젠(-2.28%), HLB(-1.66%), 에이엘로봇(-0.98%), 레인보우로보틱스(-0.25%) 등은 하락하고 있다. 서울 외환시장에서 원·달러 환율은 전 거래일 대비 3.30원(0.25%) 내린 1330.70원에 거래되고 있다.",
+          "pubDate": "Thu, 19 Nov 2026 11:44:00 +0900"
         },
         {
-          "title": "엔비디아 깜짝 실적에도 코스피 5000선 재이탈…왜?",
-          "source": "mstoday.co.kr",
-          "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200507",
-          "description": "서울 외환시장에서 원·달러 환율은 오전 11시45분 기준 1329.50원으로 전일 주간 거래 종가보다 8.70원 하락했다. 서부텍사스산원유(WTI)는 배럴당 85.10달러를 나타냈다. 향후 시장의 관심은 엔비디아의 실적 개선이...",
-          "pubDate": "Wed, 18 Nov 2026 12:04:00 +0900"
-        },
-        {
-          "title": "엔비디아 중국 매출 불확실성…코스피 5000선 다시 밑으로",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20261118000575",
-          "description": "서울 외환시장에서 달러/원 환율은 전일 오후 3시 30분 주간종가 대비 6.5원 내린 1331.7원을 기록했다. 이날 오전 서울 중구 하나은행 딜링룸에서 딜러들이 업무를 보고 있다. 2026.11.18 kunjoo@newspim.com 코스피는 이날...",
-          "pubDate": "Wed, 18 Nov 2026 11:31:00 +0900"
-        },
-        {
-          "title": "한국 성장률 3.9% 본 IMF…\"물가 목표 웃돌아 통화 긴축 더\"",
-          "source": "dailypop.kr",
-          "url": "http://www.dailypop.kr/news/articleView.html?idxno=104698",
-          "description": "환율은 대외 충격을 흡수하도록 유연하게 둬야 한다고 봤다. 외환시장 개입은 시장이 무질서해지는 상황을 막는 데 그쳐야 한다는 입장이다. 일자리·임금 격차·사회안전망 정책 주문 구조개혁 권고에는 일하는 사람의...",
-          "pubDate": "Wed, 18 Nov 2026 11:30:00 +0900"
-        },
-        {
-          "title": "[외환] 코스피 반등에 1,330원 초반대로 하락…6.20원↓",
+          "title": "[외환] 매파 FOMC에도 강한 원화…1,320원대 후반으로 하락",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445341",
-          "description": "18일 서울 외환시장에서 달러-원 환율은 오전 9시 19분 현재 전장 대비 6.20원 낮은 1,332.00원에 거래됐다. 달러-원은 1,335.80원으로 출발한 뒤 낙폭을 확대해 1,331.10원까지 내려왔다. 냉각됐던 반도체 투자 심리가...",
-          "pubDate": "Wed, 18 Nov 2026 11:28:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445513",
+          "description": "19일 서울 외환시장에서 달러-원 환율은 오전 9시 18분 현재 전날 서울장 종가(1,333.00원) 대비 3.50원 내린 1,329.50원에 거래됐다. 이날 뉴욕장 종가(1,333.70원) 대비로는 4.20원 내린 수준이다. 달러-원 환율은 간밤...",
+          "pubDate": "Thu, 19 Nov 2026 11:26:00 +0900"
+        },
+        {
+          "title": "[개장 시황] 수능일 지연 개장 국내 증시, 연준 긴축 경계감·뉴욕 혼조...",
+          "source": "businesskorea.co.kr",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281672",
+          "description": "원·달러 환율, 1,330원대 안착 시도 서울 외환시장에서 원·달러 환율은 전일 종가 부근인 1,330원��� 초중반에서 등락을 거듭하고 있다. 이날 오전 9시 기준 원/달러 환율은 전 거래일 종가 기준 0.9원 내린 1332.1원을...",
+          "pubDate": "Thu, 19 Nov 2026 11:22:00 +0900"
+        },
+        {
+          "title": "한한령 해제 기대에 엔터·여행주 급등...CJ ENM 28%·에스엠 11%↑",
+          "source": "wolyo.co.kr",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320737",
+          "description": "한편, 이날 코스닥지수는 0.83% 오른 668.31로 출발했으며, 서울 외환시장에서 원·달러 환율은 전 거래일보다 0.01% 내린 1333.5원으로 거래를 시작했다. [주의] 본 기사는 투자판단의 참고용이며, 이를 근거로 한...",
+          "pubDate": "Thu, 19 Nov 2026 11:14:00 +0900"
+        },
+        {
+          "title": "증시 달러 수요에 ‘1300원 중반’서 멈춘 환율",
+          "source": "biz.heraldcorp.com",
+          "url": "https://biz.heraldcorp.com/article/10942520?ref=naver",
+          "description": "최근 반도체를 중심으로 수출을 통해 벌어들인 달러 뭉치가 외환시장에 풀리고 있지만 국내외 투자자들의 달러 수요가 큰 폭으로 늘면서 환율의 상·하방 압력이 팽팽하게 작용하고 있는 흐름이다. 올해 1~9월 누적...",
+          "pubDate": "Thu, 19 Nov 2026 11:12:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "11월 18일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. catchnews.kr, mediaus.co.kr, tokenpost.kr 등에서 보도되었으며, KODEX, 삼성운용, 미국머니마켓액티브 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 19일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. newspim.com, straightnews.co.kr, biz.newdaily.co.kr 등에서 보도되었으며, 956, 일본, 특징주 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "\"채권 이자수익에 달러가치 변동분까지\" 삼성운용 'KODEX 미국머니마켓...",
-          "source": "catchnews.kr",
-          "url": "https://www.catchnews.kr/news/articleView.html?idxno=130669",
-          "description": "평균 듀레이션(잔존만기)은 0.14년 내외로 짧아 금리가 오르더라도 채권 가격 하락 위험이 작으며, 만기가 도래한 채권을 높아진 금리로 재투자할 수 있는 구조를 갖췄다. 아울러 매월 말 이자 수익을 재원으로...",
-          "pubDate": "Wed, 18 Nov 2026 12:58:00 +0900"
+          "title": "[일본 특징주] 라쿠텐, 고객정보 유출 파문에 채권 가산금리 급등",
+          "source": "newspim.com",
+          "url": "https://www.newspim.com/news/view/20261119000787",
+          "description": "일본 라쿠텐 그룹(4755)의 엔화 채권 가산금리(스프레드)가 확대되고 있다. 계열 증권사에서 대규모 고객정보 유출 가능성이 불거진 가운데, 회사가 이달 또 한 차례 대규모 채권 발행을 앞두고 있어서다. 라쿠텐...",
+          "pubDate": "Thu, 19 Nov 2026 12:33:00 +0900"
         },
         {
-          "title": "증권사 '캡티브 영업' 내년부터 금지…회사채 금리 왜곡 차단",
-          "source": "mediaus.co.kr",
-          "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=319061",
-          "description": "신용도가 상대적으로 낮은 기업은 투자자 확보를 위해 더 높은 금리를 제시해야 할 가능성이 있지만, 실제 조달금리는 채권시장 상황과 투자 수요 등에 따라 달라질 것으로 보인다. 금융감독원은 기업공시서식을 개정해...",
-          "pubDate": "Wed, 18 Nov 2026 12:24:00 +0900"
+          "title": "국고채 금리 장중 하락…10년물 연 3.956%로 내려",
+          "source": "straightnews.co.kr",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315744",
+          "description": "채권 금리와 가격은 반대로 움직이므로, 금리 하락은 기존 발행 채권의 가격 상승을 의미한다. [이미지=생성형 AI로 제작] 해외 채권시장에서도 장기금리가 내려갔다. 다만 미국의 장기금리 하락을 기준금리 인하...",
+          "pubDate": "Thu, 19 Nov 2026 12:26:00 +0900"
         },
         {
-          "title": "225억달러라던 헤이즈 계산, 세부 항목은 250억달러",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/440214",
-          "description": "미 재무부 자료에 따르면 수익률은 경매에서 결정되므로, 기존 채권 전체에 새 금리가 즉시 같은 폭으로 적용되지는 않는다. 금리 인상분을 기존 단기 국채 잔액 전체의 연간 이자 증가액으로 환산하려면 만기와...",
-          "pubDate": "Wed, 18 Nov 2026 12:24:00 +0900"
+          "title": "카드사 7곳 순익 8.7% 감소 … 본업 수익성 한계에 새 먹거리 고심",
+          "source": "biz.newdaily.co.kr",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950134.html",
+          "description": "만기가 돌아온 채권을 더 높은 금리로 차환하면 이자비용이 늘어나는 구조다. 금융투자협회 채권정보센터에 따르면, AA+등급 3년물 여전채 평균금리는 올해 첫 거래일인 1월 2일 연 3.337%에서 9월 28일 연 4.680%까지...",
+          "pubDate": "Thu, 19 Nov 2026 11:44:00 +0900"
         },
         {
-          "title": "삼성운용 'KODEX 미국머니마켓액티브' 순자산 1조원 돌파",
-          "source": "4th.kr",
-          "url": "http://www.4th.kr/news/articleView.html?idxno=2122127",
-          "description": "만기가 짧은 채권을 주로 담아 금리가 추가로 올라도 장기채에 비해 가격 하락폭이 작고 만기가 돌아온 자금은 더 높은 금리의 채권에 재투자할 수 있다는 설명이다. 원화로 거래하지만 환헤지를 하지 않아 달러...",
-          "pubDate": "Wed, 18 Nov 2026 12:00:00 +0900"
+          "title": "3분기 순익급감 증권사 나란히 '브로커리지 악화에 운용 부진 겹악재'",
+          "source": "ebn.co.kr",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732244",
+          "description": "시장금리 상승으로 보유 채권의 평가손익이 악화됐고 원·달러 환율 하락에 따른 외화자산 평가손실도 발생했다. 발행어음 사업의 경쟁 심화에 따른 순이자마진 축소까지 겹치면서 수익성에 부담을 줬다....",
+          "pubDate": "Thu, 19 Nov 2026 11:26:00 +0900"
         },
         {
-          "title": "삼성자산운용 'KODEX 미국머니마켓액티브', 상장 1년반만에 순자산 1조 ...",
-          "source": "updownnews.co.kr",
-          "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=319632",
-          "description": "국채보다 금리가 높은 채권을 함께 담는 구조로, 삼성자산운용이 제시한 만기기대수익률(YTM)은 연 4.28%다. 이는 편입 채권을 만기까지 보유한다는 가정 아래 산출한 연 환산 수익률로, 투자자의 실제 수익률이나...",
-          "pubDate": "Wed, 18 Nov 2026 11:58:00 +0900"
+          "title": "기업 1년 내 갚을 빚 반년 새 69조 증가…내년 상반기 차환 부담",
+          "source": "raonnews.com",
+          "url": "https://www.raonnews.com/news/article.html?no=62901",
+          "description": "기준금리 상단에 대한 불확실성이 줄면서 채권 금리는 하락 전환했고 AA-급 회사채 3년물 금리는 은행 대기업대출 금리를 다시 밑돌기 시작했다. A+급 이하 회사채 금리는 아직 대출 금리보다 높다. 은행들은 반도체...",
+          "pubDate": "Thu, 19 Nov 2026 11:00:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "11월 18일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. asiatime.co.kr, news1.kr, newspim.com 등에서 보도되었으며, KDB생명, 매각, 원점 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 19일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. biz.heraldcorp.com, news.dealsitetv.com, dealsite.co.kr 등에서 보도되었으며, KDB생명, 매각, 60 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "KDB생명 매각 '7전 7패'…원점 회귀에 난항 빠진 M&A",
-          "source": "asiatime.co.kr",
-          "url": "https://www.asiatime.co.kr/article/20261118500182",
-          "description": "한투지주와 협상 결렬…석 달 만에 우협 종료 킥스 78.7%…1조원 자본확충 부담 놓고 이견 \"경영정상화 지속... 한투지주는 본입찰에서 인수후 최대 1조원가량을 증자하겠다는 계획을 내걸어 한화생명과 흥국생명을...",
-          "pubDate": "Wed, 18 Nov 2026 12:56:00 +0900"
+          "title": "한투, 카디프생명 인수 검토…금투업계 “추가 M&A 가능성”",
+          "source": "biz.heraldcorp.com",
+          "url": "https://biz.heraldcorp.com/article/10942471?ref=naver",
+          "description": "카디프생명은 올해 6월 말 기준 총자산이 3조1399억원 규모인 중소형사로, 지급여력비율(K-ICS·킥스)이 196.5%에... 이 때문에 당시 본입찰에 참여했던 한화생명이나 흥국생명 등과 곧바로 후속 협상 테이블을 차리기는...",
+          "pubDate": "Thu, 19 Nov 2026 10:54:00 +0900"
         },
         {
-          "title": "KDB생명 새 주인 찾기 또 실패…자본건전성 부담에 매각 '원점'",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/insurance-card/6357831",
-          "description": "특히 내년 도입 예정인 기본자본 킥스비율이 문제다. KDB생명의 올해 상반기 기본자본비율은 -26.1%에... 산업은행의 자본확충 이후 지난 6월 예비입찰에 삼성생명·한화생명·교보생명·흥국생명·한국투자금융지주 등...",
-          "pubDate": "Wed, 18 Nov 2026 11:27:00 +0900"
+          "title": "[핀포인트] [DB손보] 포테그라 효과…자회사 순적자로 반감",
+          "source": "news.dealsitetv.com",
+          "url": "https://news.dealsitetv.com/articles/178739",
+          "description": "9월 말 지급여력(K-ICS·킥스)비율도 285.9%로, 지난해 9월 말(227.2%)보다 58.7%포인트 상승했다. DB생명 관계자는... 한편 포테그라의 3분기 순이익은 전년 동기 대비 7.6% 증가한 3936만달러(한화 약 527억원)다. 아울러 손해율...",
+          "pubDate": "Thu, 19 Nov 2026 07:02:00 +0900"
         },
         {
-          "title": "KDB생명, 7번째 매각도 무산…새 주인 찾기 막은 '자본확충 부담'",
-          "source": "newspim.com",
-          "url": "https://www.newspim.com/news/view/20261118000542",
-          "description": "이번 본입찰에는 한국금융지주 외에 한화생명과 흥국생명도 참여했���만 이들이 다시 인수에 나설지는... 올해 6월 말 KDB생명의 지급여력(K-ICS·킥스)비율은 경과조치 적용 후 182.4%지만 적용 전에는 78.7%에 그쳤다....",
-          "pubDate": "Wed, 18 Nov 2026 11:05:00 +0900"
+          "title": "연말 60% 내걸었던 한화생명…기본자본비율 '뒷걸음'",
+          "source": "dealsite.co.kr",
+          "url": "https://dealsite.co.kr/articles/172989",
+          "description": "한화생명의 3분기 말 전체 킥스비율은 171%로 전분기보다 3%포인트 상승했다. 반면 기본자본비율은 오히려 하락할 것으로 예상된다. 전체 지급여력은 개선됐지만 손실흡수력이 높은 기본자본의 상대적 여력은 약화된...",
+          "pubDate": "Thu, 19 Nov 2026 07:02:00 +0900"
         },
         {
-          "title": "KDB생명 매각 또 결렬…'1조 자본확충' 누가 부담하나 '쟁점'(종합)",
-          "source": "fins.co.kr",
-          "url": "http://www.fins.co.kr/news/articleView.html?idxno=110607",
-          "description": "협상의 최대 쟁점은 KDB생명의 취약한 자본건전성이었다. KDB생명의 올해 6월 말 지급여력비율(K-ICS·킥스)은... 올해 매각에는 한국투자금융지주와 한화생명, 흥국생명 등 3개사가 본입찰에 참여해 기대감이 높아졌지만...",
-          "pubDate": "Wed, 18 Nov 2026 11:04:00 +0900"
+          "title": "[KDB생명 매각 불발] 새 주인 찾기 '7전 7패'...산은 악전고투",
+          "source": "00news.co.kr",
+          "url": "http://www.00news.co.kr/news/articleView.html?idxno=108194",
+          "description": "앞서 8월 7일 마감된 본입찰에는 한투와 한화생명, 흥국생명이 최종 인수제안서를 냈다. 6월 예비입찰에... 올해 상반기 말 기준 KDB생명의 지급여력비율(K-ICS·킥스)은 78.7%로 집계됐다. 금융당국 권고치인 130%를 크게...",
+          "pubDate": "Wed, 18 Nov 2026 16:32:00 +0900"
         },
         {
-          "title": "한투 인수 포기…‘매각 7수생’ KDB생명, 다시 매물로",
-          "source": "dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12095883?ref=naver",
-          "description": "앞서 산은은 지난 8월 한화생명·흥국생명을 제치고 한국금융지주를 우선협상대상자로 선정하고, KDB생명... 1조원을 출자할 경우 킥스 비율은 140% 안팎이 된다. 하지만 산은이 이를 수용하지 못하면서 결국 협상이...",
-          "pubDate": "Wed, 18 Nov 2026 10:59:00 +0900"
+          "title": "“1조 자본확충 이견 못 좁혔다”…KDB생명 매각 일곱번째 무산",
+          "source": "viva100.com",
+          "url": "https://www.viva100.com/article/20261118500830",
+          "description": "KDB생명의 경과조치 적용 전 신지급여력제도(K-ICS·킥스) 비율은 올해 상반기 말 기준 78.7%로, 원칙적 유지... 이번 매각은 예비입찰에 삼성생명·한화생명·교보생명 등 5곳이 참여하며 기대를 모았지만 끝내 본계약...",
+          "pubDate": "Wed, 18 Nov 2026 15:30:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "11월 18일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. dealsite.co.kr, epnc.co.kr, kjdaily.com 등에서 보도되었으며, 23, 28, SKC 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 19일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. newdaily.co.kr, the-today.com, betanews.net 등에서 보도되었으며, AI, 경기도, 내란 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "SKC, 동박 생산거점 재편 마무리…내년 흑자 전환 기대",
-          "source": "dealsite.co.kr",
-          "url": "https://dealsite.co.kr/articles/172908",
-          "description": "삼성증권은 SKC의 연간 영업이익이 올해 1080억원 적자에서 내년 530억원 흑자로 돌아설 것으로 추정했다. 반도체 테스트 소켓 자회사 ISC가 이끄는 반도체 소재 사업도 3분기 영업이익 218억원을 내며 실적을 받치고 있다....",
-          "pubDate": "Wed, 18 Nov 2026 13:02:00 +0900"
+          "title": "내란 재판? 인민재판? 정치재판? …《굿판》 거둘 때 됐다 [배진영 칼럼...",
+          "source": "newdaily.co.kr",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/19/2026111950175.html",
+          "description": "“윤석열 내란을 끝내는 길은 용인 반도체 삼성전자의 전북 이전”이라는 식으로 오만가지 일에 다《내란 척결》을 갖다 붙이는 집권당 정치인들의 행태에 역겨움을 느끼는 국민이 하나둘이 아니다. 지난 2년 가까이...",
+          "pubDate": "Thu, 19 Nov 2026 12:54:00 +0900"
         },
         {
-          "title": "삼성전기, 엔비디아와 AI 부품 동맹…패키지기판·MLCC 공급 확대",
-          "source": "epnc.co.kr",
-          "url": "https://www.epnc.co.kr/news/articleView.html?idxno=409928",
-          "description": "이번 협력 확대는 삼성전기가 반도체 패키지기판과 MLCC를 함께 공급하는 AI 부품 토탈 솔루션 기업으로 사업 영역을 확장하는 계기가 될 것으로 보인다. 개별 부품 공급을 넘어 AI 플랫폼에 필요한 핵심 부품을 아우르는...",
-          "pubDate": "Wed, 18 Nov 2026 13:00:00 +0900"
+          "title": "[핫이슈] 앤스로픽 공모가 83달러…기본 공모 813억달러, 기업가치 1조5...",
+          "source": "the-today.com",
+          "url": "https://www.the-today.com/news/articleView.html?idxno=93818",
+          "description": "구글과 엔비디아, AMD, 브로드컴, 마이크론, 마이크로소프트, TSMC파트너스 등 7개 빅테크·반도체 기업이... 곳뿐이고 삼성전자와 SK하이닉스는 포함되지 않았다. 증권가에서는 글로벌 기관투자자들이 역대 최대...",
+          "pubDate": "Thu, 19 Nov 2026 12:52:00 +0900"
         },
         {
-          "title": "아리바이오랩 28%·빅웨이브로보틱스 23% 상승…로봇·보안주 강세",
-          "source": "kjdaily.com",
-          "url": "http://www.kjdaily.com/article.php?aid=1794974363692735276",
-          "description": "증권가에서는 삼성전자의 로봇 사업 확대와 내년 초 열리는 세계 최대 전자·IT 전시회 CES에 대한... 이에 ��내 증시에서도 장 초반 반도체 대형주를 중심으로 반등세가 나타났다. 그러나 시간이 지나면서 상승...",
-          "pubDate": "Wed, 18 Nov 2026 13:00:00 +0900"
+          "title": "챗GPT와 클로드가 싸우는데 아마존은 양쪽 주주…AI 전쟁의 진짜 승자는...",
+          "source": "betanews.net",
+          "url": "https://www.betanews.net/article/view/beta202611190079",
+          "description": "■ 엔비디아는 반도체 공급과 지분투자…삼성전자는 미스트랄에 베팅 AI 산업의 투자 구조는 모델 개발사에만 국한되지 않는다. 엔비디아는 AI 학습과 추론에 필요한 반도체 및 시스템을 공급하면서 주요 AI 기업에...",
+          "pubDate": "Thu, 19 Nov 2026 12:52:00 +0900"
         },
         {
-          "title": "이재명식 증시 정책을 바라보는 우려의 시선[박경보의 마켓플로우]",
-          "source": "newsway.co.kr",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026111810145541339",
-          "description": "반면 우리나라는 반도체와 자동차 등 기존 주력 산업의 경쟁력을 지키는 데도 적지 않은 어려움을 겪고 있는데요. 앞으로 10년 뒤 삼성전자와 SK하이닉스의 뒤를 이을 기업이 어디인지 쉽게 떠올리기 어렵다는 점도...",
-          "pubDate": "Wed, 18 Nov 2026 12:58:00 +0900"
+          "title": "수원 등 경기도 8개 시, '경기도 반도체클러스터' 공동지정 추진",
+          "source": "newsfreezone.co.kr",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719818",
+          "description": "이재준 시장은 \"삼성전자를 비롯한 수많은 첨단기업, 우수한 대학, 연구 인프라, 인적자원이 집적된 수원시는 연구·개발의 최적지\"라며 \"수원의 강력한 연구·개발 역량이 '케이(K)-반도체 초격차를 이끄는 핵심이 될 수...",
+          "pubDate": "Thu, 19 Nov 2026 12:50:00 +0900"
         },
         {
-          "title": "반도체 호황에도 하도급사 대금은 80일 뒤…국회서 지급기한 단축 협약",
-          "source": "kmecnews.co.kr",
-          "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52802",
-          "description": "대한기계설비건설협회(회장 허용주)는 18일 국회 원내대표 회의실에서 더불어민주당 품격민생위원회·을지로위원회, 삼성전자·SK하이닉스, 삼성물산·SK에코플랜트, 대한전문건설협회와 이 같은 내용의 반도체 산업...",
-          "pubDate": "Wed, 18 Nov 2026 12:58:00 +0900"
+          "title": "삼성전자 \"네오클라우드 비중 8% 불과\"…AI 거품·부채 우려 진화",
+          "source": "g-enews.com",
+          "url": "https://www.g-enews.com/view.php?ud=202611191245578971e7e8286d56_1",
+          "description": "이어 현재 이어지는 반도체 부족 현상 역시 \"당분간 계속된다\"고 말했다. 파운드리 원스톱 전략과 주주환원 삼성전자는 파운드리 경쟁력 강화 방안과 주주환원 계획도 함께 제시했다. 대만 TSMC와 경쟁하는 파운드리 사업에...",
+          "pubDate": "Thu, 19 Nov 2026 12:50:00 +0900"
         }
       ]
     }

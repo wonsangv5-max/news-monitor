@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-11-20T03:53:21.361Z",
+  "updatedAt": "2026-11-21T03:49:12.031Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "11월 20일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. ytn.co.kr, munhwa.com, news1.kr 등에서 보도되었으며, 코스피, 장중, 900 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 21일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. kihoilbo.co.kr, thescoop.co.kr, seoulfn.com 등에서 보도되었으며, 10, 345, 20 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "미국발 삭풍에 증시 약세...한때 4,900 내준 코스피",
-          "source": "ytn.co.kr",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611201153495293",
-          "description": "이런 가운데 서울 외환시장에서 원·달러 환율은 오전 11시 기준 1,338원을 기록했습니다. 지금까지 하나은행 딜링룸에서 YTN 윤태인입니다. 영상기자 : 권석재 영상편집 : 박정란",
-          "pubDate": "Fri, 20 Nov 2026 11:53:00 +0900"
+          "title": "[11월 셋째 주 세계경제동향 브리핑] 코스피 4,800선 추락…나스닥 10% 폭...",
+          "source": "kihoilbo.co.kr",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041600",
+          "description": "원·달러 환율은 전주 대비 11.33원 상승한 1,346.65원에서 거래됐다. 증시 급락과 함께 원화 약세가 나타나며 외환시장에도 부담이 이어졌다. 반면 국고채 3년물 금리는 11월 13일 3.756%에서 20일 3.649%로 내려 전주...",
+          "pubDate": "Sat, 21 Nov 2026 10:38:00 +0900"
         },
         {
-          "title": "Fed 추가 긴축 공포에 ‘Everything Falling’… 위험자산·안전자산 동반...",
-          "source": "munhwa.com",
-          "url": "https://www.munhwa.com/article/11632845?ref=naver",
-          "description": "다만 글로벌 달러 강세에도 원·달러 환율은 1330원대에서 비교적 안정적인 흐름을 유지하고 있다. 수출기업이 벌어들인 달러를 원화로 환전하는 물량이 꾸준히 유입되면서 외환시장의 달러 강세 압력을 상쇄하고...",
-          "pubDate": "Fri, 20 Nov 2026 11:44:00 +0900"
+          "title": "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까...",
+          "source": "thescoop.co.kr",
+          "url": "https://www.thescoop.co.kr/news/articleView.html?idxno=312383",
+          "description": "서울 외환시장에 따르면, 20일 원·달러 환율은 전 거래일 종가(1330.0원) 대비 6.2원 오른 1336.2원에 주간 거래를 마쳤다. 외국인 투자자의 매도세가 계속되고 있다는 걸 감안하면 원·달러 환율은 당분간 오름세를...",
+          "pubDate": "Sat, 21 Nov 2026 10:04:00 +0900"
         },
         {
-          "title": "코스피 장중 4900선 하회…'美 반도체 급락' 외인·기관 1.2조 매도 [장중...",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/finance/general-stock/6360759",
-          "description": "21%) 등이 약세다. 기타금융(5.76%), 항공사(5.29%), 전기유틸리티(1.99%), 은행(1.33%) 등은 오르고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 8.1원 오른 1338.1원에 거래 중이다.",
-          "pubDate": "Fri, 20 Nov 2026 11:25:00 +0900"
+          "title": "'D-6' 올해 마지막 금통위···숨 고르기 끝내고 인상 나서나",
+          "source": "seoulfn.com",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=643510",
+          "description": "원·달러 환율 하락도 인상 필요성을 완전히 해소하지는 못한다��� 평가다. 원화 강세는 수입물가를 낮추는 요인이지만, 국내 경기 확장에 따른 물가 압력까지 줄여주는 것은 아니기 때문이다. 박 연구원은 \"외환시장...",
+          "pubDate": "Sat, 21 Nov 2026 10:00:00 +0900"
         },
         {
-          "title": "[외환] 앤트로픽發 위험회피…1,330원대 중반서 오름폭 유지",
+          "title": "NDF, 1,345.20/ 1,345.60원…10.10원↑",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445737",
-          "description": "20일 서울 외환시장에서 달러-원 환율은 오전 9시13분 현재 전일 서울장 종가 대비 6.00원 오른 1,336.00원에 거래됐다. 이날 달러-원은 1,335.00원에 출발했다. 오전 9시11분께 1,336.50원까지 고점을 높인 달러-원은 오름...",
-          "pubDate": "Fri, 20 Nov 2026 11:24:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445856",
+          "description": "최근 1개월물 스와프포인트(-0.90원)를 고려하면 전날 서울외환시장 현물환 종가(1,336.20원) 대비 10.10원... 달러-엔 환율은 158.527엔, 유로-달러 환율은 1.109676달러를 나타냈다. 역외 달러-위안(CNH) 환율은 6....",
+          "pubDate": "Sat, 21 Nov 2026 09:52:00 +0900"
         },
         {
-          "title": "[올댓차이나] 위안화 기준치 1달러=6.7131위안…0.0044% 절하",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876566",
-          "description": "상하이 외환시장에서 오전 10시19분(한국시간 11시53분) 시점에 위안화는 달러에 대해 1달러=6.6715~6.6717위안, 엔화에 대해선 100엔=4.1891~4.1892위안으로 거래됐다. 앞서 위안화 환율은 20일 새벽 달러에 대해...",
-          "pubDate": "Fri, 20 Nov 2026 11:21:00 +0900"
+          "title": "[외환] 美 기술주 투매에 1,340원대로 급등",
+          "source": "news.einfomax.co.kr",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445854",
+          "description": "21일 외환시장에서 달러-원 환율은 오전 7시 기준으로 전날 서울장 종가(1,336.20원) 대비 9.80원 오른 1,346.00원을 기록했다. 전날 오전 7시 종가(1,334.10원) 대비로는 11.90원 상승했다. 달러-원은 전날 1,335.00원으로...",
+          "pubDate": "Sat, 21 Nov 2026 09:46:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "11월 20일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. coinreaders.com, tokenpost.kr, biz.heraldcorp.com 등에서 보도되었으며, 금값, 11월, 50 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 21일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. gametoc.co.kr, news.sbs.co.kr, news.bizwatch.co.kr 등에서 보도되었으며, 금시세, 10, 14 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "금값, 사상 최고가서 3분의 1 급락...\"저점 신호 없다\"",
-          "source": "coinreaders.com",
-          "url": "http://coinreaders.com/271921",
-          "description": "달러 약세와 채권 금리 하락, 글로벌 부채 우려가 올해 신고가의 토대를 깔았다고 쿠퍼는 짚었다. 1월 이후 흐름은 달라졌다. 상승 속도에 불안을 느낀 투자자가 늘었고 연준의 긴축 가능성이 거론됐다. 중동...",
-          "pubDate": "Fri, 20 Nov 2026 12:42:00 +0900"
+          "title": "[금시세] 순금 18k 등 얼마?",
+          "source": "gametoc.co.kr",
+          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=113295",
+          "description": "금은 이자나 배당을 발생시키지 않기 때문에 기준금리와 국채금리가 상승할수록 채권 등 금리 자산과 비교한 상대적인 매력이 떨어질 수 있다. 최근 시장에서는 12월 25bp 금리 인상 가능성이 거의 확실한 수준으로...",
+          "pubDate": "Sat, 21 Nov 2026 11:20:00 +0900"
         },
         {
-          "title": "비트코인(BTC) 6.04% 하락(11월 14일 일봉)…젤렌스키 '돈바스·NATO' 질문",
-          "source": "tokenpost.kr",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/441286",
-          "description": "AP통신은 당시 약세 배경으로 인공지능 관련주 조정과 금리·채권금리 상승을 전했다. 비트코인과 같은 위험자산은 금리 상승 전망이 강해지면 자금 조달 부담이 커져 가격 변동성이 확대될 수 있다. 파생상품...",
-          "pubDate": "Fri, 20 Nov 2026 12:22:00 +0900"
+          "title": "필라델피아 10%↓·엔비디아 14%↓…뉴욕증시도 '검은 금요일'",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856835&plink=ORI&cooper=NAVER",
+          "description": "글로벌 채권 금리 벤치마크인 미 10년물 국채 금리는 미 동부시간 오후 3시 기준으로 전장보다 14bp(1bp=0.01%포인트) 내린 4.909%를 나타냈습니다. 비트코인도 5.1% 하락해 5만 8천 달러 선에서 거래됐습니다. 국제...",
+          "pubDate": "Sat, 21 Nov 2026 11:09:00 +0900"
         },
         {
-          "title": "증시 급락에 은행채로 눈 돌리는 개미들…11월 7526억 순매수",
-          "source": "biz.heraldcorp.com",
-          "url": "https://biz.heraldcorp.com/article/10943945?ref=naver",
-          "description": "지난달 19일 두 채권의 금리 차이는 28.9bp로, 한 달 사이 23.9bp 확대됐다. 은행채는 국채보다 신용위험이 높지만, 우량 은행이 발행한 채권이라는 점에서 상대적으로 높은 금리가 투자 매력으로 꼽힌다. 국채와...",
-          "pubDate": "Fri, 20 Nov 2026 11:35:00 +0900"
+          "title": "연내 반등 어렵나? 코인시장 비관론 확산",
+          "source": "news.bizwatch.co.kr",
+          "url": "https://news.bizwatch.co.kr/article/mobile/2026/11/20/0006",
+          "description": "현재 장세를 단기 조정이 아닌 약세장의 연장 국면으로 보고, 금리 상승으로 채권·금·코인이 동시에 약세를 나타냈던 2022년과 유사하다고 진단했다. 윈터뮤트는 보고서에서 \"자금 흐름이 마이너스를 기록 중인 데다...",
+          "pubDate": "Sat, 21 Nov 2026 11:00:00 +0900"
         },
         {
-          "title": "달러 강세 속 금값 매력 '뚝'…14개월 만에 최저",
-          "source": "dailian.co.kr",
-          "url": "https://www.dailian.co.kr/news/view/1717705/?sc=Naver",
-          "description": "금은 이자 수익이 발생하지 않는 자산이기 때문에 시장금리가 오를수록 채권 등 이자 지급 자산과 비교한 투자 매력이 낮아질 수 있다. 달러 강세도 이어진다. 주요 6개 통화 대비 달러 가치를 나타내는...",
-          "pubDate": "Fri, 20 Nov 2026 11:22:00 +0900"
+          "title": "나스닥, 기술주 매도에 5.3% 폭락…연간 상승분 모두 반납",
+          "source": "mbnmoney.mbn.co.kr",
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963836",
+          "description": "글로벌 채권 금리 벤치마크인 미 10년물 국채 금리는 미 동부시간 오후 3시 기준 전장보다 14bp(1bp=0.01%포인트) 내린 4.909%를 나타냈습니다. 비트코인도 5.1% 하락해 5만8천달러 선에서 거래됐습니다. 국제유가는...",
+          "pubDate": "Sat, 21 Nov 2026 10:56:00 +0900"
         },
         {
-          "title": "박경미 하나은행 PB부장 \"로또 13억, 2030은 주식 50%·60대는 연금 중심...",
-          "source": "fntimes.com",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026111815322518691b5a221379_18",
-          "description": "미국 장기채권은 이자수익을 확보하면서 향후 금리 하락 시 채권가격 상승에 따른 자본차익까지 추구하는 수단이다. 다만 시장금리 상승에 따른 채권가격 하락과 환율 변동 위험도 고려해야 한다. 변액연금보험은...",
-          "pubDate": "Fri, 20 Nov 2026 11:00:00 +0900"
+          "title": "금시세(금값) 약세",
+          "source": "kjdaily.com",
+          "url": "http://www.kjdaily.com/article.php?aid=1795223351693018227",
+          "description": "채권가격과 금리는 반대로 움직인다. 이날 국채금리 하락은 증시 급락 속에 국채 매수 수요가 늘어난 결과로 해석된다. 달러도 하루 전체로는 강세를 보이지 않았다. 뉴욕...",
+          "pubDate": "Sat, 21 Nov 2026 10:10:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "11월 20일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. bloter.net, seoulfn.com, biz.heraldcorp.com 등에서 보도되었으며, KDB생명, 매각, 한투 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 21일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. bloter.net, seoulfn.com, biz.heraldcorp.com 등에서 보도되었으며, KDB생명, 매각, 한투 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
           "title": "[디깅노트]5000억 증자에도 KDB생명 매각 실패…산은은 뭘 계산했나",
@@ -109,59 +109,59 @@
           "pubDate": "Thu, 19 Nov 2026 10:54:00 +0900"
         },
         {
-          "title": "[핀포인트] [DB손보] 포테그라 효과…자회사 순적자로 반감",
-          "source": "news.dealsitetv.com",
-          "url": "https://news.dealsitetv.com/articles/178739",
-          "description": "9월 말 지급여력(K-ICS·킥스)비율도 285.9%로, 지난해 9월 말(227.2%)보다 58.7%포인트 상승했다. DB생명 관계자는... 한편 포테그라의 3분기 순이익은 전년 동기 대비 7.6% 증가한 3936만달러(한화 약 527억원)다. 아울러 손해율...",
-          "pubDate": "Thu, 19 Nov 2026 07:02:00 +0900"
-        },
-        {
           "title": "연말 60% 내걸었던 한화생명…기본자본비율 '뒷걸음'",
           "source": "dealsite.co.kr",
           "url": "https://dealsite.co.kr/articles/172989",
           "description": "한화생명의 3분기 말 전체 킥스비율은 171%로 전분기보다 3%포인트 상승했다. 반면 기본자본비율은 오히려 하락할 것으로 예상된다. 전체 지급여력은 개선됐지만 손실흡수력이 높은 기본자본의 상대적 여력은 약화된...",
+          "pubDate": "Thu, 19 Nov 2026 07:02:00 +0900"
+        },
+        {
+          "title": "[핀포인트] [DB손보] 포테그라 효과…자회사 순적자로 반감",
+          "source": "news.dealsitetv.com",
+          "url": "https://news.dealsitetv.com/articles/178739",
+          "description": "9월 말 지급여력(K-ICS·킥스)비율도 285.9%로, 지난해 9월 말(227.2%)보다 58.7%포인트 상승했다. DB생명 관계자는... 한편 포테그라의 3분기 순이익은 전년 동기 대비 7.6% 증가한 3936만달러(한화 약 527억원)다. 아울러 손해율...",
           "pubDate": "Thu, 19 Nov 2026 07:02:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "11월 20일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. newsprime.co.kr, christiantoday.co.kr, moneystorm.kr 등에서 보도되었으며, 코스피, 붕괴, 삼전닉스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 21일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. pennmike.com, kjdaily.com, sedaily.com 등에서 보도되었으며, 트럼프, 주가, SK하이닉스 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "코스피, 반도체株 급락에 '4900선 붕괴'…올해 31번째 매도 사이드카 발...",
-          "source": "newsprime.co.kr",
-          "url": "http://www.newsprime.co.kr/news/article.html?no=755839",
-          "description": "삼성전자와 SK하이닉스 등 반도체 대형주가 일제히 하락한 가운데 코스피200 선물도 5% 넘게 떨어지면서 매도 사이드카가 발동됐다. 20일 한국거래소에 따르면 이날 오전 11시54분 유가증권시장에서 프로그램매매...",
-          "pubDate": "Fri, 20 Nov 2026 12:52:00 +0900"
+          "title": "트럼프 \"해외에 데이터센터 짓는 美 기업에 막대한 세금\"…한국 투자 계...",
+          "source": "pennmike.com",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=132406",
+          "description": "트럼프 대통령은 과거 반도체 등 핵심 산업의 해외 이전을 내버려 둔 탓에 미국이 뒤처지기 시작했다고... 오픈AI는 삼성, SK와 협력해 경북 포항과 전남 지역에 데이터센터를 구축하는 구상을 갖고 있고, 앤스로픽은...",
+          "pubDate": "Sat, 21 Nov 2026 12:40:00 +0900"
         },
         {
-          "title": "코스피 5000선 붕괴...삼전닉스 주각 급락, 무슨 일?",
-          "source": "christiantoday.co.kr",
-          "url": "https://www.christiantoday.co.kr/news/378768",
-          "description": "증시의 변동성이 당분간 커질 수 있다는 전망이 나온다. 투자자들의 관심은 코스피가 다시 5000선을 회복할 수 있을지, 삼성전자와 SK하이닉스 등 반도체 대형주의 주가가 장중 낙폭을 얼마나 줄일지에 쏠리고 있다.",
-          "pubDate": "Fri, 20 Nov 2026 12:52:00 +0900"
-        },
-        {
-          "title": "[증시 긴급진단] 앤트로픽 IPO도 못 막은 AI 투매…코스피 4%대 급락, 490...",
-          "source": "moneystorm.kr",
-          "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8649",
-          "description": "SK하이닉스는 111만1000원으로 6.09% 하락했고, 삼성전자는 18만4600원으로 6.25% 떨어졌다. 반도체 장비·소재와 AI 인프라 관련주로 매도세가 확산됐다. 삼성전기는 11.41% 급락했고 SK스퀘어는 7.31%, SK텔레콤은 11.22...",
-          "pubDate": "Fri, 20 Nov 2026 12:52:00 +0900"
-        },
-        {
-          "title": "하나에어로 60.70% 급등…화장품·관광주도 강세",
+          "title": "지슨 주가 72.83% 급등…스튜디오드래곤·에스엠·한국화장품 강세",
           "source": "kjdaily.com",
-          "url": "http://www.kjdaily.com/article.php?aid=1795146003692972276",
-          "description": "삼성전자와 SK하이닉스도 각각 6.55%, 6.59% 하락했다. 낮 12시 무렵 유가증권시장에서는 외국인과 기관이... 코스피가 4,900선 아래로 밀리고 반도체 대형주가 급락한 가운데 신규 상장주와 일부 화장품·관광...",
-          "pubDate": "Fri, 20 Nov 2026 12:50:00 +0900"
+          "url": "http://www.kjdaily.com/article.php?aid=1795231404693022276",
+          "description": "젠슨 황 전 엔비디아 최고경영자(CEO)의 퇴진 파장과 AI 투자 축소 우려, 미국의 대중국 반도체 수출 규제 강화 가능성 등이 국내 증시에 부담으로 작용했다. 삼성전자와 SK하이닉스도 한 주간 각각 11.12%, 8.47...",
+          "pubDate": "Sat, 21 Nov 2026 12:26:00 +0900"
         },
         {
-          "title": "\"삼전닉스, 1년내 50% 떨어질 수도... 본격 폭락 아직 시작 안 했다\"",
-          "source": "hidomin.com",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=730279",
-          "description": "\" 삼성전자와 SK하이닉스의 적정 주가를 각각 7만 원과 20만 원으로 제시해 화제가 됐던 애널리스트가 메모리 반도체 가격이 꺾일 경우 주가가 다시 한번 추락할 수 있다고 경고했다. 지난 20일 한국거래소에 따르면...",
-          "pubDate": "Fri, 20 Nov 2026 12:48:00 +0900"
+          "title": "손정의, SK하이닉스 ‘1조 달러 인수’ 저울질…“현재는 검토 중단”",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20117215?ref=naver",
+          "description": "SK하이닉스는 삼성전자, 미국 마이크론과 함께 AI 가속기용 고대역폭��모리(HBM)를 공급하는 3대 업체다. AI 가속기는 로직칩과 HBM을 결합해 대규모 연산을 처리하는 AI 전용 반도체로, 엔비디아가 시장을 사실상...",
+          "pubDate": "Sat, 21 Nov 2026 12:16:00 +0900"
+        },
+        {
+          "title": "트럼프 \"중국엔 구형 칩만\"…삼성전자·SK하이닉스 주가 급락, 추가 악재...",
+          "source": "topstarnews.net",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282127",
+          "description": "삼성전자 전체 반도체 매출 가운데 이번 조치에 직접 노출된 금액은 아직 확인되지 않았다. ○ SK하이닉스, 중국 공장 장비 승인과 HBM 수요가 변수 SK하이닉스가 직면한 문제는 중국 현지 생산기지의 설비투자다....",
+          "pubDate": "Sat, 21 Nov 2026 12:12:00 +0900"
+        },
+        {
+          "title": "[인사] 삼성전자 사장단",
+          "source": "econonews.co.kr",
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=447494",
+          "description": "◇사장 승진 ▲황상준 디바이스솔루션(DS)부문 메모리사업부장 사장 겸 D램개발실장 ▲조상연 DS부문 시스템LSI사업부장 사장 ▲이종명 DS부문 최고기술책임자(CTO) 사장 겸 반도체연구소장 ◇위촉업무 변경...",
+          "pubDate": "Sat, 21 Nov 2026 12:06:00 +0900"
         }
       ]
     }

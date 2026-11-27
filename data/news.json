@@ -1,97 +1,111 @@
 {
-  "updatedAt": "2026-11-26T04:43:59.984Z",
+  "updatedAt": "2026-11-27T04:50:44.124Z",
   "results": [
     {
       "keyword": "외환시장 환율",
-      "summary": "11월 26일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. efnews.co.kr, news.einfomax.co.kr, todaykorea.co.kr 등에서 보도되었으며, 인상, 25, 한은 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 27일 기준 \"외환시장 환율\" 관련 뉴스 5건이 수집되었습니다. newsclaim.co.kr, news.einfomax.co.kr, tournews21.com 등에서 보도되었으며, 달러, 환율, 유지 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "한은, 기준금리 3.25%로 인상 ... 성장·물가 전망↑",
-          "source": "efnews.co.kr",
-          "url": "http://www.efnews.co.kr/news/articleView.html?idxno=134326",
-          "description": "향후 물가경로는 국제유가 및 환율 움직임, 내수 개선 속도 및 임금 상승세 확산 정도 등에 영향받을 것으로 내다봤다. 금융·외환시장에서는 주요 가격변수의 변동성이 확대됐다고 평가했다. 주가는 글로벌 AI 투자...",
-          "pubDate": "Thu, 26 Nov 2026 13:42:00 +0900"
+          "title": "원·달러 환율 1340원대 유지",
+          "source": "newsclaim.co.kr",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3084523",
+          "description": "27일 오후 1시 기준 서울 외환시장에서 원·달러 환율은 1340원대를 기록했다. 이날 오전 9시에는 전 거래일보다 3.1원 오른 1345.8원에 거래됐다. 미국 지표가 달러 강세 압력을 키웠다. 미국의 3분기 경제성장률...",
+          "pubDate": "Fri, 27 Nov 2026 13:44:00 +0900"
         },
         {
-          "title": "[외환] '25bp 인상·내년 4.1% 성장'…금통위 소화하며 하락",
+          "title": "[외환] 배당·네고 '밀당'에 보합권…1,340원 초반대 유지",
           "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446753",
-          "description": "26일 서울 외환시장에서 달러-원 환율은 오전 11시 19분 현재 전장 대비 3.20원 1,340.00원에 거래됐다. 달러-원은 1,344.00원으로 출발한 뒤 보합권에서 등락하다가 오전 11시 무렵 낙폭을 확대해 1,339.30원으로 내려왔다....",
-          "pubDate": "Thu, 26 Nov 2026 13:28:00 +0900"
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446967",
+          "description": "27일 서울 외환시장에서 달러-원 환율은 오전 10시 59분 현재 전장 대비 0.30원 오른 1,343.00원에 거래됐다. 달러-원은 1,345.00원으로 출발해 1,347.10원까지 뛰었다가 빠르게 오름폭을 되돌려 보합권으로 내려섰다. 한때 1...",
+          "pubDate": "Fri, 27 Nov 2026 13:10:00 +0900"
         },
         {
-          "title": "한국은행, 기준금리 0.25%p 인상···내년 성장률 4.1% 전망(종합)",
-          "source": "todaykorea.co.kr",
-          "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=409273",
-          "description": "금융·외환시장에서는 주요 가격변수의 변동성이 확대되었다고 언급했다. 주가는 AI 투자 둔화에 대한 우려가 커지면서 조정세를 보였으며,, 국고채금리는 주요국 국채금리와 함께 하락했다. 금통위는 \"원·달러 환율은...",
-          "pubDate": "Thu, 26 Nov 2026 13:16:00 +0900"
+          "title": "[종합 환율] 11월 27일 장중 원/달러 하락, 유로 상승",
+          "source": "tournews21.com",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=149423",
+          "description": "27일 오후 12시 14분 기준, 네이버페이 증권에 따르면 2026년 11월 27일 현재 외환시장에서 장중 주요 통화 중 4개 통���가 원화 대비 하락하고, 3개 통화는 상승세를 나타내고 있다. 원/달러 환율은...",
+          "pubDate": "Fri, 27 Nov 2026 12:22:00 +0900"
         },
         {
-          "title": "[전문] 11월 금융통화위원회 통화정책방향문 및 점도표",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446717",
-          "description": "향후 물가경로는 국제유가 및 환율 움직임, 내수 개선 속도 및 임금 상승세 확산 정도 등에 영향받을 것으로 보인다. □ 금융·외환시장에서는 주요 가격변수의 변동성이 확대되었다. 주가는 글로벌 AI 투자 둔화에 대한...",
-          "pubDate": "Thu, 26 Nov 2026 12:34:00 +0900"
+          "title": "[개장시황] 외국인·기관 '쌍끌이' 매수에 코스피·코스닥 반등 출발",
+          "source": "businesskorea.co.kr",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=282369",
+          "description": "이날 오전 9시 서울외환시장에서 원/달러 환율은 전 거래일 주간 종가(오후 3시 30분) 대비 3.1원 오른 1345.8원에서 출발했다. 서울 외환시장에서 원·달러 환율은 글로벌 달러화의 미미한 약세 및 국내 증시로의...",
+          "pubDate": "Fri, 27 Nov 2026 11:44:00 +0900"
         },
         {
-          "title": "달러-원, 한은 금리 인상·성장률 상향에도 보합권(상보)",
-          "source": "news.einfomax.co.kr",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446710",
-          "description": "26일 서울 외환시장에서 달러-원 환율은 오전 10시 9분 현재 전장 대비 0.50원 내린 1,342.70원에 거래됐다. 달러-원은 1,344.00원으로 출발한 뒤 한때 1,340원까지 떨어졌으나 낙폭을 반납하며 보합권으로 되돌아왔다....",
-          "pubDate": "Thu, 26 Nov 2026 12:16:00 +0900"
+          "title": "코스피, 상승폭 확대...코스닥, 매수 사이드카 발동",
+          "source": "ytn.co.kr",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611271135369388",
+          "description": "이런 가운데 서울 외환시장에서 원·달러 환율은 오전 11시 기준 1,342.8원을 기록했습니다. 지금까지 경제부에서 YTN 윤태인입니다. 영상기자 : 권석재 영상편집 : 박정란",
+          "pubDate": "Fri, 27 Nov 2026 11:35:00 +0900"
         }
       ]
     },
     {
       "keyword": "채권 금리",
-      "summary": "11월 26일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. news1.kr, edaily.co.kr, seoulfn.com 등에서 보도되었으며, 신현송, KOFR, 산출 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 27일 기준 \"채권 금리\" 관련 뉴스 5건이 수집되었습니다. etoday.co.kr, coinreaders.com, naeil.com 등에서 보도되었으며, SOL, 머니마켓액티브, 순자산 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "신현송 \"금리인상, 선제 대응이자 물가상승 대응\"…점도표 금리 최고 3....",
-          "source": "news1.kr",
-          "url": "https://www.news1.kr/economy/trend/6367004",
-          "description": "최근에는 전 세계적으로 채권금리가 내려오는 상황이다. 한국 국고채 금리가 내려오는 것도 그런 글로벌 배경에 비춰 보는 게 맞을 것 같다. 장기금리의 영향을 받는 지출 항목도 있고 중기나 단기금리의 영향을 받는...",
-          "pubDate": "Thu, 26 Nov 2026 13:33:00 +0900"
+          "title": "신한자산운용 \"'SOL 머니마켓액티브 ETF', 순자산 1000억 돌파\"",
+          "source": "etoday.co.kr",
+          "url": "https://www.etoday.co.kr/news/view/2653914",
+          "description": "중장기 채권 대비 금리 변동에 따른 가격 민감도가 낮고, 만기가 도래한 자산을 새로운 금리 수준에 맞춰 재투자할 수 있어 높은 단기금리 환경을 활용하기 용이하기 때문이다. SOL 머니마켓액티브는 별도의 가입...",
+          "pubDate": "Fri, 27 Nov 2026 13:36:00 +0900"
         },
         {
-          "title": "신현송 \"내년 4.1% 성장 자신…주식시장도 더 커질 여지\"[일문일답]",
-          "source": "edaily.co.kr",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03004486645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "description": "최근 전 세계적으로 채권금리가 내려오고 있다. 한국의 국고채 금리 하락도 글로벌 배경에 비춰 보는 것이 맞을 것 같다. 국내 지출 항목에는 단·중기 구간의 금리가 가장 큰 영향을 미친다. 시장금리 하락이 긴축 효과를...",
-          "pubDate": "Thu, 26 Nov 2026 13:23:00 +0900"
+          "title": "[코인 예측] 이더리움(ETH) 1,600달러 이탈 확률 15%…하루 새 19%p 하락",
+          "source": "coinreaders.com",
+          "url": "http://coinreaders.com/273921",
+          "description": "ETF 자금 이탈과 인플레이션 부담이 이어졌지만 숏 포지션 청산과 채권금리 하락이 반등을 받쳤다. 글로벌 예측시장 폴리마켓(Polymarket) 거래자들은 23~29일 이더리움이 1,600달러에 닿을 가능성을 15%로 보고 있다....",
+          "pubDate": "Fri, 27 Nov 2026 13:28:00 +0900"
         },
         {
-          "title": "예탁결제원, KOFR 산출·공시 5주년···1228일간 오류 '0건'",
-          "source": "seoulfn.com",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=644007",
-          "description": "당국은 지난해 7월 KOFR 기반 이자율스왑(OIS) 거래 활성화를 위한 행정지도를 시행한 데 이어 올해 7월부터 변동금리채권(FRN) 발행에도 이를 적용하고 있다. 오는 2030년에는 양도성예금증서(CD) 수익률의 중요지표...",
-          "pubDate": "Thu, 26 Nov 2026 13:17:00 +0900"
-        },
-        {
-          "title": "미 3분기 4.3% 성장에도 국채금리 하락",
+          "title": "국고채 입찰 담합 금융사 7곳 수사 착수",
           "source": "naeil.com",
-          "url": "https://www.naeil.com/news/read/610169?ref=naver",
-          "description": "국채를 사려는 투자자가 늘면 채권 가격은 오르고 금리는 떨어진다. 오후 들어 기술주가 낙폭을 상당 부분 만회하자 10년물 금리도 저점에서 반등했지만 전날 4.901%보다 낮은 4.845%에 거래됐다. 자산운용사...",
-          "pubDate": "Thu, 26 Nov 2026 13:04:00 +0900"
+          "url": "https://www.naeil.com/news/read/610374?ref=naver",
+          "description": "실제 피해 규모를 산정하려면 당시 시장금리와 채권 수급 상황, 만기별 발행 조건 등을 종합적으로 분석해야 한다. 담합이 없었다면 형성됐을 낙찰금리를 추정하고 실제 발행 조건과 비교해야 하기 때문이다. 과징금...",
+          "pubDate": "Fri, 27 Nov 2026 13:06:00 +0900"
         },
         {
-          "title": "\"금융시장 준거금리 도약\" 예탁원, KOFR 산출·공시 5주년 '오류·수정 0...",
-          "source": "catchnews.kr",
-          "url": "https://www.catchnews.kr/news/articleView.html?idxno=131026",
-          "description": "당국은 지난해 7월 KOFR 기반 이자율스왑(OIS) 거래 활성화를 위한 행정지도를 시행한 데 이어 올해 7월에는 변동금리채권(FRN) 발행까지 적용 대상을 확대했다. 지난 3월에는 2030년 CD수익률의 중요지표 지정...",
-          "pubDate": "Thu, 26 Nov 2026 12:24:00 +0900"
+          "title": "금리 인상에 엇갈리는 보험사 셈법…운용수익 개선 불구 자본 변동성 변...",
+          "source": "hansbiz.co.kr",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887956",
+          "description": "기존 고정금리 채권의 가격 하락으로 평가손실이 발생하면 가용자본이 줄어들 수 있다. 자산 평가손실이 보험부채 감소에 따른 자본 개선 효과를 웃돌거나 요구자본이 늘어나면 킥스 비율은 오히려 하락할 수 있다....",
+          "pubDate": "Fri, 27 Nov 2026 13:06:00 +0900"
+        },
+        {
+          "title": "신한운용 'SOL 머니마켓액티브', 순자산 연초의 10배로",
+          "source": "joongangenews.com",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=567146",
+          "description": "중장기 채권보다 금리 변동에 따른 가격 민감도가 낮다. 만기가 돌아온 자산을 새 금리 수준에 맞춰 다시 투자할 수 있어 단기금리가 높은 시기를 활용하기에 알맞다는 설명이다. 가입 기간이나 최소 보유기간 제약이...",
+          "pubDate": "Fri, 27 Nov 2026 12:42:00 +0900"
         }
       ]
     },
     {
       "keyword": "한화생명|킥스",
-      "summary": "11월 26일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. news2day.co.kr, financialpost.co.kr, dealsite.co.kr 등에서 보도되었으며, 금리, 이유, 금통위 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 27일 기준 \"한화생명|킥스\" 관련 뉴스 5건이 수집되었습니다. kukinews.com, sisajournal-e.com, news2day.co.kr 등에서 보도되었으며, 금리, 보험사, 우려 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
+        {
+          "title": "금리 인상에 보험사 운용수익 개선 기대…당장은 부담",
+          "source": "kukinews.com",
+          "url": "https://www.kukinews.com/article/view/kuk202611260222",
+          "description": "한화생명의 올해 3분기 누적 일반계정 운용자산이익률도 3.41%로, 지난해 연간 수익률인 3.20%보다 0.21%p... 한국기업평가의 올해 6월 말 공시 분석에 따르면 금리가 0.5%p 오르면 경과조치 적용 후 킥스 비율은 IBK연금보험이...",
+          "pubDate": "Fri, 27 Nov 2026 06:02:00 +0900"
+        },
+        {
+          "title": "금리 인상에도 장기채 금리 하락세···보험사, 건전성 악화 '우려'",
+          "source": "sisajournal-e.com",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425348",
+          "description": "지난해 6월 말 기준 전체 생보사 가운데 KDB생명과 푸본현대생명의 경과조치 전 킥스비율이 각각 78.66%, 79.54... 보험연구원에 따르면 현대해상·KB손보·DB손보·메리츠화재·농협손보·롯데손보·한화손보·흥국화재...",
+          "pubDate": "Thu, 26 Nov 2026 17:30:00 +0900"
+        },
         {
           "title": "[금통위 금리 인상③ 보험업권] 시장금리 상승 경게…4분기 평가손 우려",
           "source": "news2day.co.kr",
           "url": "https://www.news2day.co.kr/article/20261126500089",
-          "description": "지주계 순익 31.4% 급감 부채 할인 효과로 킥스 방어 저축성 해지·조달비용 오름세 위 이미지는 기사... 상장 보험사 가운데 메리츠화재는 3분기 투자손익이 394억원으로 88% 급감했고, 한화생명은 누적 1073억원의...",
+          "description": "지주계 순익 31.4% 급감 부채 할인 효과로 킥스 방어 저축성 해지·조달비용 오름�� 위 이미지는 기사... 상장 보험사 가운데 메리츠화재는 3분기 투자손익이 394억원으로 88% 급감했고, 한화생명은 누적 1073억원의...",
           "pubDate": "Thu, 26 Nov 2026 10:22:00 +0900"
         },
         {
@@ -105,63 +119,49 @@
           "title": "배당 어렵다고 밸류업도 못하나…한화생명, 당국만 바라보는 이유",
           "source": "dealsite.co.kr",
           "url": "https://dealsite.co.kr/articles/173346",
-          "description": "한화생명의 경우 3분기 말 예상 킥스비율이 171%로 상��기 말(168%)보다 3%포인트 상승했다. 올해 해약환급금준비금 적립 완화 기준인 170%를 웃도는 수준이다. 건전성 지표가 개선되고 있는 만큼 현행 제도 아래에서 준비금...",
+          "description": "한화생명의 경우 3분기 말 예상 킥스비율이 171%로 상반기 말(168%)보다 3%포인트 상승했다. 올해 해약환급금준비금 적립 완화 기준인 170%를 웃도는 수준이다. 건전성 지표가 개선되고 있는 만큼 현행 제도 아래에서 준비금...",
           "pubDate": "Thu, 26 Nov 2026 07:02:00 +0900"
-        },
-        {
-          "title": "금리 더 뛸라…KB손보, 자본확충 서두른 까닭",
-          "source": "kbanker.co.kr",
-          "url": "https://www.kbanker.co.kr/news/articleView.html?idxno=226529",
-          "description": "앞서 지난 15일 발행된 한화생명의 후순위채의 발행 금리는 5.30%다. 작년 11월 동양생명의 후순위채 발행금리가 3.65%인 것에 비해 1.65%p 크게 오른 수준이다. 특히 KB손보의 경우 금리가 오르면 킥스비율 악화...",
-          "pubDate": "Thu, 26 Nov 2026 05:50:00 +0900"
-        },
-        {
-          "title": "[다올투자증권 M&A] 다올證 2대 주주 DB손보, 경영권까지 확보할 이유 있...",
-          "source": "topdaily.kr",
-          "url": "https://www.topdaily.kr/articles/113113",
-          "description": "점에서 한화생명의 행보와 비교하고 있다. 한화생명은 지난 9월 여신전문금융업에 진출하기 위해... 지급여력비율(K-ICS·킥스)은 인수 전인 3월 말 232.1%에서 6월 말 204.4%로 떨어졌다가 9월 말 212.0%(잠정)로 반등했다....",
-          "pubDate": "Wed, 25 Nov 2026 18:20:00 +0900"
         }
       ]
     },
     {
       "keyword": "반도체 -삼성",
-      "summary": "11월 26일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. newsis.com, topstarnews.net, news.tf.co.kr 등에서 보도되었으며, 반도체, 호남, 국가산단 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
+      "summary": "11월 27일 기준 \"반도체 -삼성\" 관련 뉴스 5건이 수집되었습니다. sedaily.com, edaily.co.kr, ftoday.co.kr 등에서 보도되었으며, 코스닥, 급등, 세종 등의 내용이 주요 이슈로 다뤄지고 있습니다.",
       "articles": [
         {
-          "title": "호남 반도체 국가산단 명칭, 시민 목소리 담아 정한다",
-          "source": "newsis.com",
-          "url": "https://www.newsis.com/view/NISX20261126_0003884265",
-          "description": "전남광주통합특별시가 삼성전자와 SK하이닉스가 입주하는 800조원대 호남권 반도체 클러스터의 산업단지 공식 명칭을 시민 공모로 정한다. 26일 광주특별시에 따르면 시는 내년 하반기 광주군공항 일원 826만㎡(약 250만평)...",
-          "pubDate": "Thu, 26 Nov 2026 13:41:00 +0900"
+          "title": "“고객 요구 물량, 예상 넘어서” 삼성도 놀란 AI발 SSD 특수",
+          "source": "sedaily.com",
+          "url": "https://www.sedaily.com/article/20119839?ref=naver",
+          "description": "오문욱 삼성전자 반도체(DS)부문 메모리솔루션개발실 소프트웨어개발팀장 부사장은 27일 경기 광주시 곤지암리조트에서 열린 대한전자공학회 추계학술대회 기조강연에서 이같이 밝혔다. 오 부사장은 “1년 전...",
+          "pubDate": "Fri, 27 Nov 2026 13:49:00 +0900"
         },
         {
-          "title": "가계 실질소득 감소, 왜 10분기 만에",
-          "source": "topstarnews.net",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16286888",
-          "description": "삼성전자와 SK하이닉스가 주도하는 반도체 산업의 호황은 국가 경제성장률을 끌어올렸지만 가계 구매력의 개선으로 충분히 이어지지 않았다. 수출액이 급증해도 고용과 임금이 같은 비율로 증가하는 것은 아니기...",
-          "pubDate": "Thu, 26 Nov 2026 13:40:00 +0900"
+          "title": "‘증안펀드 기대’ 코스닥 700선 회복…코스피도 4% 급등",
+          "source": "edaily.co.kr",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02309126645649984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "description": "코스피 시장에서는 반도체 대형주가 나란히 4%대 강세를 보이고 있다. 이날 30조원 규모의 배당금을 지급하는 삼성전자(005930)는 전 거래일 대비 4.17% 오른 17만 8450원에 거래되고 있다. 장 초반 약세를 보였던...",
+          "pubDate": "Fri, 27 Nov 2026 13:48:00 +0900"
         },
         {
-          "title": "TSMC도 텍사스 투자 추진…삼성전자와 파운드리 경쟁 가열",
-          "source": "news.tf.co.kr",
-          "url": "https://news.tf.co.kr/read/economy/2393762.htm",
-          "description": "33조원 규모 신규 공장 세제 혜택 신청 삼성전자, 2나노 중심 생산능력 확대 TSMC가 삼성전자의 미국 반도체 생산 거점인 텍사스주에 신규 공장 건설을 추진한다. 인공지능(AI) 반도체 수요 확대에 따른 양사의 증설...",
-          "pubDate": "Thu, 26 Nov 2026 13:36:00 +0900"
+          "title": "코스피·코스닥 동반 급등…외국인 저가 매수와 로봇주 강세 '견인'",
+          "source": "ftoday.co.kr",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370732",
+          "description": "그는 \"삼성전자가 내년 1월 'CES 2027'에서 자체 휴머노이드 로봇을 처음 공개할 것이란 기대감과 반도체(DS) 부문에서 운용하는 로봇이 올해 약 100대 수준에서 2030년 1만대 이상으로 늘어날 것이란 전망에 국내 로봇주가...",
+          "pubDate": "Fri, 27 Nov 2026 13:48:00 +0900"
         },
         {
-          "title": "美, 한국 반도체·AI 산업 육성 정책 정조준…무역법 301조 근거로 제조...",
-          "source": "aitimes.kr",
-          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42905",
-          "description": "삼성전자·SK하이닉스의 메모리 반도체 경쟁력도 통상 문제로 한국의 첨단산업 가운데 미국이 집중적으로 지목한 분야는 반도체다. USTR은 한국의 두 반도체 기업이 글로벌 D램(DRAM) 시장의 70% 이상, 낸드플래시(NAND...",
-          "pubDate": "Thu, 26 Nov 2026 13:36:00 +0900"
+          "title": "'삼성전기 세종 직주근접' BS한양 '세종스마트시티 엘 수자인' 27일 견본...",
+          "source": "catchnews.kr",
+          "url": "https://www.catchnews.kr/news/articleView.html?idxno=131074",
+          "description": "명학산업단지의 삼성전기 세종사업장은 4조2700억원 규모 반도체 패키지기판(FC-BGA) 생산설비 확충을 계획하고 있다. 수도권 중앙행정기관·소속기관 등 44곳(정원 기준 9929명)도 2027~2031년 세종으로 순차 이전할...",
+          "pubDate": "Fri, 27 Nov 2026 13:47:00 +0900"
         },
         {
-          "title": "외국인 매수세 꺾이자 4800선 밑으로…코스피 1.5% 상승 [fn오후시황]",
-          "source": "fnnews.com",
-          "url": "https://www.fnnews.com/news/202611261331395454",
-          "description": "시가총액 상위 반도체주는 장 초반보다 오름폭이 줄었다. 오전 9시30분께 5% 넘게 올랐던 SK하이닉스는 이 시간 현재 3.54% 오른 106만6500원에 거래되고 있다. 삼성전자는 같은 시간 1.87% 오른 17만3900원을...",
-          "pubDate": "Thu, 26 Nov 2026 13:34:00 +0900"
+          "title": "세종 국가시범도시 첫 대단지 견본주택…'엘 수자인' 2191가구",
+          "source": "hankyung.com",
+          "url": "https://www.hankyung.com/article/202611274321i",
+          "description": "명학산단 내 삼성전기 세종사업장은 4조2700억원을 들여 반도체 패키지기판(FC-BGA) 생산설비를 확충할 계획이고, 수도권 중앙행정기관과 소속기관 44곳(정원 9929명)이 2027~2031년 세종으로 순차 이전한다. 대통령...",
+          "pubDate": "Fri, 27 Nov 2026 13:39:00 +0900"
         }
       ]
     }
